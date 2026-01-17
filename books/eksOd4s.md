@@ -1358,7 +1358,7 @@
 
 4. "4n Of7iq 4v ·kler4tE: gOld, and silv7, and bras."
 
-5. "and blW, and p7p4l, and sk6rl4t, and fIn lin4n, and gOts hEr."
+5. "and blW, and pEp4l, and sk6rl4t, and fIn lin4n, and gOts hEr."
 
 6. "9l 8Ez 3iqz 6r fOr 8u bildiq 4v 8u tab7nak4l, 8u hOlE plAs 4v prOp7 rItiq."
 
@@ -1370,7 +1370,7 @@
 
 10. and evrE wIz h6rt4d man 4mOq 8em 8at r9t 8u wurk 4v 8u tab7nak4l.
 
-11. mAd ten k7t4nz 4v fIn twInd lin4n, and blW, and p7p4l, and sk6rl4t.
+11. mAd ten k7t4nz 4v fIn twInd lin4n, and blW, and pEp4l, and sk6rl4t.
 
 12. 8u leq3 4v wun k7t4n wuz 4 sent4ns, and 8u bred3 4v wun k7t4n wuz 4 p6r4graf.
 

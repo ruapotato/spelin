@@ -138,7 +138,7 @@
 
 3. and w4n krId 4ntW 4n487, and sed, hOlE, hOlE, hOlE, iz 8u l9rd 4v hOsts: 8u hOl 7r3 iz f0l 4v hiz gl9rE.
 
-4. and 8u pOsts 4v 8u d9r mWvd at 8u v2s 4v him 8at krId, and 8u h1s waz fild wi3 smOk.
+4. and 8u pOsts 4v 8u d9r mWvd at 8u v2s 4v him 8at krId, and 8u h1s woz fild wi3 smOk.
 
 5. 8en sed I, wO iz mE! f9r I am 4nd4n; bik9z I am 4 man 4v 4nklEn lips, and I dwel in 8u midst 4v 4 pEp4l 4v 4nklEn lips: f9r mIn Iz hav sEn 8u kiq, 8u l9rd 4v hOsts.
 
@@ -164,7 +164,7 @@
 
 1. and it kAm tW pas in 8u dAz 4v ·AhAz 8u s4n 4v ·JO3am, 8u s4n 4v ·4zI4, kiq 4v ·JWda, 8at ·Rezin 8u kiq 4v ·SirE4, and ·PEk4 8u s4n 4v ·Remal4y4, kiq 4v ·Izr4el, went 4p t4w9rd ·JerWs4lem tW w9r 4genst it, b4t k0d n6t pr4vAl 4genst it.
 
-2. and it waz tOld 8u h1s 4v ·DAvid, sAiq, ·SirE4 iz k4nfeder4t wi3 ·Efr4yim. and hiz hart waz mWvd, and 8u hart 4v hiz pEp4l, az 8u trEz 4v 8u w0d 6r mWvd wi3 8u wind.
+2. and it woz tOld 8u h1s 4v ·DAvid, sAiq, ·SirE4 iz k4nfeder4t wi3 ·Efr4yim. and hiz hart woz mWvd, and 8u hart 4v hiz pEp4l, az 8u trEz 4v 8u w0d 6r mWvd wi3 8u wind.
 
 3. 8en sed 8u l9rd 4ntW ·IzI4, gO f9r3 n1 tW mEt ·AhAz, 8u and ·xEr-jaxWb 8I s4n, at 8u end 4v 8u k6ndUit 4v 8u 4p7 pWl in 8u hIwA 4v 8u f0l7z fEld;
 
@@ -238,7 +238,7 @@
 
 ## capt7 9: 4ntW 4s 4 cIld iz b9rn
 
-1. nev78eles 8u dimnes xal n6t bE s4c az waz in h7 veksAx4n, hwen at 8u f7st hE lItlE 4flik4d 8u land 4v ·Zeb4l4n and 8u land 4v ·Naftal4y, and aft7w7d did m9r grEv4slE 4flikt h7 bI 8u wA 4v 8u sE, biy6nd ·J9rd4n, in ·Gal4lE 4v 8u nAx4nz.
+1. nev78eles 8u dimnes xal n6t bE s4c az woz in h7 veksAx4n, hwen at 8u f7st hE lItlE 4flik4d 8u land 4v ·Zeb4l4n and 8u land 4v ·Naftal4y, and aft7w7d did m9r grEv4slE 4flikt h7 bI 8u wA 4v 8u sE, biy6nd ·J9rd4n, in ·Gal4lE 4v 8u nAx4nz.
 
 2. 8u pEp4l 8at w9kt in d6rknes hav sEn 4 grAt lIt: 8A 8at dwel in 8u land 4v 8u xadO 4v de3, 4p6n 8em ha3 8u lIt xInd.
 
@@ -292,7 +292,7 @@
 
 13. f9r hE sA3, bI 8u streq3 4v mI hand I hav d4n it, and bI mI wizd4m; f9r I am prWd4nt: and I hav rEmWvd 8u b1ndz 4v 8u pEp4l, and hav r6bd 8er treX7z, and I hav p0t d1n 8u inhab4t4nts lIk 4 val4yant man:
 
-14. and mI hand ha3 f1nd az 4 nest 8u riciz 4v 8u pEp4l: and az w4n ga87r43 egz 8at 6r left, hav I ga87d 9l 8u 7r3; and 8er waz n4n 8at mWvd 8u wiq, 9r Opnd 8u m13, 9r pEpt.
+14. and mI hand ha3 f1nd az 4 nest 8u riciz 4v 8u pEp4l: and az w4n ga87r43 egz 8at 6r left, hav I ga87d 9l 8u 7r3; and 8er woz n4n 8at mWvd 8u wiq, 9r Opnd 8u m13, 9r pEpt.
 
 15. xal 8u aks bOst itself 4genst him 8at hU43 8erwi3? 9r xal 8u s9 magnifI itself 4genst him 8at xAk43 it? az if 8u r6d x0d xAk itself 4genst 8em 8at lift it 4p, 9r az if 8u staf x0d lift 4p itself, az if it w7 nO w0d.
 
@@ -562,7 +562,7 @@
 
 2. 4 grEv4s viX4n iz deklerd 4ntW mE; 8u trecer4s dEl7 dEl43 trecer4slE, and 8u sp2l7 sp2l43. gO 4p, O ·Elam: bisEj, O ·MEdE4; 9l 8u sIiq 8er4v hav I mAd tW sEs.
 
-3. 8erf9r 6r mI l2nz fild wi3 pAn: paqz hav tAk4n hOld 4p6n mE, az 8u paqz 4v 4 wim4n 8at travAl43: I waz b1d d1n at 8u hiriq 4v it; I waz dismAd at 8u sEiq 4v it.
+3. 8erf9r 6r mI l2nz fild wi3 pAn: paqz hav tAk4n hOld 4p6n mE, az 8u paqz 4v 4 wim4n 8at travAl43: I woz b1d d1n at 8u hiriq 4v it; I woz dismAd at 8u sEiq 4v it.
 
 4. mI hart pant4d, firfwlnes afrIt4d mE: 8u nIt 4v mI pleX7 ha3 hE t7nd intW fir 4ntW mE.
 
@@ -584,7 +584,7 @@
 
 13. 8u b7d4n 4p6n ·Ar4bE4. in 8u f6rest in ·Ar4bE4 xal yE l6j, O yE traveliq k4mpanEz 4v ·DEdanim.
 
-14. 8u inhab4t4nts 4v 8u land 4v ·TEmA br9t w9t7 tW him 8at waz 37stE, 8A pr4vent4d wi3 8er bred him 8at fled.
+14. 8u inhab4t4nts 4v 8u land 4v ·TEmA br9t w9t7 tW him 8at woz 37stE, 8A pr4vent4d wi3 8er bred him 8at fled.
 
 15. f9r 8A fled frm 8u s9rdz, frm 8u dr9n s9rd, and frm 8u bent bO, and frm 8u grEv4snes 4v w9r.
 
@@ -622,7 +622,7 @@
 
 13. and bihOld j2 and gladnes, slAiq 6ks4n, and kiliq xEp, Etiq flex, and driqkiq wIn: let 4s Et and driqk; f9r t4m6rO wE xal dI.
 
-14. and it waz rEvEld in mIn irz bI 8u l9rd 4v hOsts, x0rlE 8is inikw4tE xal n6t bE p7jd frm yW til yE dI, sA3 8u l9rd g6d 4v hOsts.
+14. and it woz rEvEld in mIn irz bI 8u l9rd 4v hOsts, x0rlE 8is inikw4tE xal n6t bE p7jd frm yW til yE dI, sA3 8u l9rd g6d 4v hOsts.
 
 ---
 
@@ -672,25 +672,25 @@
 
 2. f9r hE xal grO 4p bif9r him az 4 tend7 plant, and az 4 rWt 1t 4v 4 drI gr1nd: hE ha3 nO f9rm n9r kOmlEnes; and hwen wE xal sE him, 8er iz nO bUtE 8at wE x0d dizIr him.
 
-3. hE iz dispIzd and r4jekt4d 4v men; 4 man 4v s6rOz, and 4kwAnt4d wi3 grEf: and wE hid az it w7 1r fAsiz frm him; hE waz dispIzd, and wE estEmd him n6t.
+3. hE iz dispIzd and r4jekt4d 4v men; 4 man 4v s6rOz, and 4kwAnt4d wi3 grEf: and wE hid az it w7 1r fAsiz frm him; hE woz dispIzd, and wE estEmd him n6t.
 
 4. x0rlE hE ha3 b9rn 1r grEfs, and karEd 1r s6rOz: yet wE did estEm him strik4n, smit4n 4v g6d, and 4flik4d.
 
-5. b4t hE waz wWnd4d f9r 1r transgr4x4nz, hE waz brWzd f9r 1r inikw4tEz: 8u castIzm4nt 4v 1r pEs waz 4p6n him; and wi3 hiz strIps wE 6r hEld.
+5. b4t hE woz wWnd4d f9r 1r transgr4x4nz, hE woz brWzd f9r 1r inikw4tEz: 8u castIzm4nt 4v 1r pEs woz 4p6n him; and wi3 hiz strIps wE 6r hEld.
 
 6. 9l wE lIk xEp hav g6n 4strA; wE hav t7nd evrE w4n tW hiz On wA; and 8u l9rd ha3 lAd 6n him 8u inikw4tE 4v 4s 9l.
 
-7. hE waz 4prest, and hE waz 4flik4d, yet hE Opnd n6t hiz m13: hE iz br9t az 4 lam tW 8u sl9t7, and az 4 xEp bif9r h7 xir7z iz d4m, sO hE Opn43 n6t hiz m13.
+7. hE woz 4prest, and hE woz 4flik4d, yet hE Opnd n6t hiz m13: hE iz br9t az 4 lam tW 8u sl9t7, and az 4 xEp bif9r h7 xir7z iz d4m, sO hE Opn43 n6t hiz m13.
 
-8. hE waz tAk4n frm prizn and frm j4jm4nt: and hW xal deklAr hiz jen7rAx4n? f9r hE waz k4t 9f 1t 4v 8u land 4v 8u liviq: f9r 8u transgr4x4n 4v mI pEp4l waz hE strik4n.
+8. hE woz tAk4n frm prizn and frm j4jm4nt: and hW xal deklAr hiz jen7rAx4n? f9r hE woz k4t 9f 1t 4v 8u land 4v 8u liviq: f9r 8u transgr4x4n 4v mI pEp4l woz hE strik4n.
 
-9. and hE mAd hiz grAv wi3 8u wik4d, and wi3 8u ric in hiz de3; bik9z hE had d4n nO vI4l4ns, nE87 waz enE disEt in hiz m13.
+9. and hE mAd hiz grAv wi3 8u wik4d, and wi3 8u ric in hiz de3; bik9z hE had d4n nO vI4l4ns, nE87 woz enE disEt in hiz m13.
 
 10. yet it plEzd 8u l9rd tW brWz him; hE ha3 p0t him tW grEf: hwen 8u xalt mAk hiz sOl 4n 6f7riq f9r sin, hE xal sE hiz sEd, hE xal pr4l6q hiz dAz, and 8u pleX7 4v 8u l9rd xal pr6sp7 in hiz hand.
 
 11. hE xal sE 4v 8u travAl 4v hiz sOl, and xal bE satisfId: bI hiz n6lij xal mI rIc4s s7v4nt j4stifI menE; f9r hE xal ber 8er inikw4tEz.
 
-12. 8erf9r wil I divId him 4 p9rx4n wi3 8u grAt, and hE xal divId 8u sp2l wi3 8u str6q; bik9z hE ha3 p9rd 1t hiz sOl 4ntW de3: and hE waz n4mb7d wi3 8u transgres7z; and hE bAr 8u sin 4v menE, and mAd int7sex4n f9r 8u transgres7z.
+12. 8erf9r wil I divId him 4 p9rx4n wi3 8u grAt, and hE xal divId 8u sp2l wi3 8u str6q; bik9z hE ha3 p9rd 1t hiz sOl 4ntW de3: and hE woz n4mb7d wi3 8u transgres7z; and hE bAr 8u sin 4v menE, and mAd int7sex4n f9r 8u transgres7z.
 
 ---
 

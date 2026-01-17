@@ -454,7 +454,7 @@ fr4m 8u trIb 4v ·benj4m4n twelf 31zand.
 
 3. 8en 8u Anjel kar Ed mE 4wA in 8u spirit int4 4 wIld7nes. 8ar I s9 4 wWm4n sitiq 6n 4 sk6rl4t bEst 8at w6z k4v7d wi3 blasfEm4s nAmz and had sev4n hedz and ten hOrnz.
 
-4. 8u wWm4n w6z drest in p7p4l and sk6rl4t, and w6z glit7iq wi3 gOld, prex4s stOnz and p7lz. xE held 4 gOld4n k4p in h7 hand, fild wi3 4b6m4n4b4l 3iqz and 8u fil3 4v h7 4d4lt7Ez.
+4. 8u wWm4n w6z drest in pEp4l and sk6rl4t, and w6z glit7iq wi3 gOld, prex4s stOnz and p7lz. xE held 4 gOld4n k4p in h7 hand, fild wi3 4b6m4n4b4l 3iqz and 8u fil3 4v h7 4d4lt7Ez.
 
 5. 8u nAm rit4n 6n h7 fOrhed w6z 4 mist7E: "·bab4l6n 8u grAt, 8u m487 4v hOrz and 4v 8u 4b6m4nAx4nz 4v 8u 73."
 
@@ -522,7 +522,7 @@ fr4m 8u trIb 4v ·benj4m4n twelf 31zand.
 
 17. 8u m7c4nts hW sOld 8Ez 3iqz and gAnd 8ar wel3 fr4m h7 wil stand f6r 9f, terif Id at h7 tOrment. 8A wil wEp and mOrn
 
-18. and krI 1t: "wO! wO t4 yW, grAt sitE, drest in fIn lin4n, p7p4l and sk6rl4t, and glit7iq wi3 gOld, prex4s stOnz and p7lz!
+18. and krI 1t: "wO! wO t4 yW, grAt sitE, drest in fIn lin4n, pEp4l and sk6rl4t, and glit7iq wi3 gOld, prex4s stOnz and p7lz!
 
 19. in w4n 1r s4c grAt wel3 haz bin br9t t4 rWin!"
 

@@ -25,7 +25,7 @@
 ### Vowels - Long Sounds (Capital Letters)
 | Symbol | Sound | Example |
 |--------|-------|---------|
-| A | "ay" (as in "day") | dA = "day" |
+| 4 | "ay" (as in "day") | dA = "day" |
 | E | "ee" (as in "see") | sE = "see" |
 | I | "eye" (as in "my") | mI = "my" |
 | O | "oh" (as in "go") | gO = "go" |
@@ -35,7 +35,7 @@
 ### Vowels - Short Sounds (Lowercase Letters)
 | Symbol | Sound | Example |
 |--------|-------|---------|
-| a | "a" (as in "cat") | kat = "cat" |
+| 4 | "a" (as in "cat") | kat = "cat" |
 | e | "e" (as in "bed") | bed = "bed" |
 | i | "i" (as in "sit") | sit = "sit" |
 | o | "o" (as in "hot") | hot = "hot" |
@@ -70,7 +70,7 @@
 **difin4x4n:** 8u hOlE stAt 4v bEiq 4nd7stUd. 8u g6rd4n wer ·Adam 4nd ·Ev livd bif9r 8u f9l. 8u gOl 4v 9l k4mUnikAx4n.
 
 **wer it 4pErz:**
-- jenesis 2:1 — "·God plant4d a g6rd4n in 8u Est, in a plAs k9ld ·Kl7itE"
+- jenesis 2:1 — "·G6d plant4d 4 g6rd4n in 8u Est, in 4 plAs k9ld ·Kl7itE"
 - s6mz 23:1 — "·spelin iz mI xep4d; I xal nat wunt"
 - gosp4l 1:1 — "in 8u b4giniq w4z 8u w7d, 4nd 8u w7d w4z kler4tE"
 
@@ -128,7 +128,7 @@
 **difin4x4n:** 8u wA 4v rItiq wer Ec let4r h4z wun s1nd. 8u 6ns4str4l stAt. 8u gOl.
 
 **wer it 4pErz:**
-- jenesis 1:7 — "·God mAd 8u let7z, Ec wun mAciq w4n sInd"
+- jenesis 1:7 — "·G6d mAd 8u let7z, Ec wun mAciq w4n sInd"
 - eksOd4s 1:2 — "·fOnetik, ·lOjik, ·simplistE, ·kler4tE, ·rEz4n, and ·sens"
 
 ---

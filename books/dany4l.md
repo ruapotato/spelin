@@ -14,7 +14,7 @@
 
 6. n1 ·bab4lon woz 8u land 4v k4nfyWziq spEliq, wer "thru" woz riten "through" and "nite" woz riten "night."
 
-7. 8u pEp4l 8er rOt "colonel" f9 a w7d 8at s1ndz lIk "k7n4l," and 8A k9ld it wiz4m.
+7. 8u pEp4l 8er rOt "colonel" f9 4 w7d 8at s1ndz lIk "k7n4l," and 8A k9ld it wiz4m.
 
 8. ·dany4l and hiz frendz wer t9t 8u Old alfabet, wi3 9l its sIl4nt let7z and krAzE rWlz.
 
@@ -282,7 +282,7 @@
 
 7. 8u kiq k9ld 1t f9 8u 4str6l4j7z, 8u divin7z, and 8u spEliq 3ksp7ts t4 bE brOt in.
 
-8. hE sed t4 8Ez wIz men 4v ·bab4lon: "hWev7 rEdz 8is rItiq and telz mE wot it mEnz wil bE klO8d in p7p4l and hav 4 gOld cAn plAst 4r1nd hiz nek."
+8. hE sed t4 8Ez wIz men 4v ·bab4lon: "hWev7 rEdz 8is rItiq and telz mE wot it mEnz wil bE klO8d in pEp4l and hav 4 gOld cAn plAst 4r1nd hiz nek."
 
 9. 8en 9l 8u kiqz wIz men kAm in, b4t 8A k0d not rEd 8u rItiq 9r tel 8u kiq wot it m3nt.
 
@@ -306,7 +306,7 @@
 
 19. "I hav h7d 8at 8u spirit 4v 8u g6dz iz in yW and 8at yW hav insIt, int3l4j3ns, and 1tstandiq wiz4m."
 
-20. "if yW kan rEd 8is rItiq and tel mE wot it mEnz, yW wil bE klO8d in p7p4l and hav 4 gOld cAn plAst 4r1nd y9r nek."
+20. "if yW kan rEd 8is rItiq and tel mE wot it mEnz, yW wil bE klO8d in pEp4l and hav 4 gOld cAn plAst 4r1nd y9r nek."
 
 21. 8en ·dany4l answ7d 8u kiq: "yW mA kEp y9r gifts f9 y9rself and giv y9r rqw9rdz t4 s4mw4n 3ls. nev78qles, I wil rEd 8u rItiq f9 8u kiq."
 
@@ -334,7 +334,7 @@
 
 33. "Uf6rsin: y9r kiqd4m iz dqvIdid and giv4n t4 8u ·mEdz and ·p7X4nz."
 
-34. 8en at ·b3lxaz7z k4mand, ·dany4l woz klO8d in p7p4l, 4 gOld cAn woz plAst 4r1nd hiz nek, and hE woz pr4klAmd 8u 87d hI4st rWl7 in 8u kiqd4m.
+34. 8en at ·b3lxaz7z k4mand, ·dany4l woz klO8d in pEp4l, 4 gOld cAn woz plAst 4r1nd hiz nek, and hE woz pr4klAmd 8u 87d hI4st rWl7 in 8u kiqd4m.
 
 35. 8at vrE nIt ·b3lxaz7, kiq 4v 8u ·kaldEanz, woz slAn.
 

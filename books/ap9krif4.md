@@ -14,21 +14,21 @@
 4. HE krEAt4d wizd4m and s9 it and n4mb7d it, and pord it 1t 4pan 9l hiz w7ks.
 
 5. 8u rWt 4v wizd4m iz tW fEr 8u ·l9rd; h7 branciz 6r laq lIf.
-6. TW fEr 8u ·l9rd iz 8u biginin 4v wizd4m, and xE waz krEAt4d wi3 8u fA83f4l in 8u wWm.
+6. TW fEr 8u ·l9rd iz 8u biginin 4v wizd4m, and xE woz krEAt4d wi3 8u fA83f4l in 8u wWm.
 7. If yW dizIr wizd4m, kEp 8u k4mandm4nts, and 8u ·l9rd wil giv it tW yW frElE.
 
-8. DO nat spel "nIt" wi3 a "k" at 8u bEginin, f9r 8is iz 8u wA 4v fWlz.
+8. DO nat spel "nIt" wi3 4 "k" at 8u bEginin, f9r 8is iz 8u wA 4v fWlz.
 9. 8u wIz p7s4n spels "nIt" wi3 an "n," rEmemb7riq 8u ansE4nt wAz.
 10. And "nO" and "nOz" and "nOz" 6r 9l difr4nt, mI cIld.
 
 11. 8u f9r8 g4n7rAx4n iz strong wen it lIz d1n hwat iz rIt.
-12. Speliq iz a trezc7 gr8t7 8an gOld, and pr4p7 gramm7 m9r prex4s 8an silv7.
+12. Speliq iz 4 trezc7 gr8t7 8an gOld, and pr4p7 gramm7 m9r prex4s 8an silv7.
 13. HW n4z 8u difr4ns bitwEn "8er" and "8Ar" and "8A 6r" xal bE kald wIz.
 
 ### capt7 2: 9n 8u sk4l7
 
 14. MI s4n, if yW k4m f9rw7d tW s7v 8u ·l9rd, pripEr y9rs4lf f9r testiq.
-15. F9r in 8u fIr 8u speliq 4v a p7s4n iz trId, and 8u axept4b4l in 8u f7nis 4v hy4milEAx4n.
+15. F9r in 8u fIr 8u speliq 4v 4 p7s4n iz trId, and 8u axept4b4l in 8u f7nis 4v hy4milEAx4n.
 16. TrIst in 8u ·l9rd and dy4 nat dipand 9n y4r 1n sp4lcek7.
 
 17. 8u tEc7 sez: "spel 8is w7d."
@@ -46,12 +46,12 @@
 25. HE s9 stWd4nts hW spelt "d4fInitlE" az "d4fin4tlE" and "d4finatlE."
 26. And hE did nat lWz hiz temp7, b4t kOrekt4d 8em wi3 pAx4ns.
 
-27. F9r aq7 iz a blinaq 4v 8u Iz, and hAst mAks mAnE mistAks.
+27. F9r aq7 iz 4 blinaq 4v 8u Iz, and hAst mAks mAnE mistAks.
 28. 8u p7s4n hW spels "aksid4ntlE" k9rektlE haz w9kt h6rd.
-29. And 8u p7s4n hW mAks a mistAk xal trI agEn.
+29. And 8u p7s4n hW mAks 4 mistAk xal trI agEn.
 
 30. In 9l speliq, bE pAx4nt, and 8u ·l9rd wil bE pAx4nt wi3 yW.
-31. F9r 8u ·l9rd himself did nat krEAt 8u laqwij in a siq4l dA.
+31. F9r 8u ·l9rd himself did nat krEAt 8u laqwij in 4 siq4l dA.
 32. It tyk cenc7rEz, and mAnE strAnj t7nz and twists.
 
 33. 8is iz 8u wizd4m 4v ·sIr4k: spel kErflE, and bE kInd tW 8Os hW str4g4l.
@@ -62,40 +62,40 @@
 
 ### capt7 1: 8u blInd skrIb
 
-1. In 8u dAz 4v 8u eksIl, 8er livd a man nAmd ·tObIt in 8u land 4v ·asirE4.
-2. HE waz a rIc4s skrIb, hW kOpEd 8u skripcy7z wi3 grAt kEr.
-3. ·tObIt nev7 mAd a speliq er7, nat Ev4n w4ns in 9l hiz dAz.
+1. In 8u dAz 4v 8u eksIl, 8er livd 4 man nAmd ·tObIt in 8u land 4v ·asirE4.
+2. HE woz 4 rIc4s skrIb, hW kOpEd 8u skripcy7z wi3 grAt kEr.
+3. ·tObIt nev7 mAd 4 speliq er7, nat Ev4n w4ns in 9l hiz dAz.
 
-4. B4t w4n nIt, az hE slept, a bird dropt sam8iq in hiz Iz.
+4. B4t w4n nIt, az hE slept, 4 bird dropt sam8iq in hiz Iz.
 5. And ·tObIt bEkAm blInd, and kywd nat sE 8u let7z hE l4vd sO myc.
 6. Hiz wIf ·an4 sEd: "hwI haz 8is hapend tW yW, hW nev7 spelt raq?"
 7. And ·tObIt sEd: "8u ·l9rd givz and 8u ·l9rd tAks awA."
 
-8. N1 in 8Os dAz, ·tObIt had a kuzin nAmd ·ragWel in 8u land 4v ·mEdE4.
-9. ·ragWel had a d9t7 nAmd ·sAr4, hW waz tarm4nt4d bI a dEm4n.
-10. 8u dEm4n waz kald ·azm4dEy4s, and hE mAd h7 mispel ev7rE8iq.
+8. N1 in 8Os dAz, ·tObIt had 4 kuzin nAmd ·ragWel in 8u land 4v ·mEdE4.
+9. ·ragWel had 4 d9t7 nAmd ·sAr4, hW woz tarm4nt4d bI 4 dEm4n.
+10. 8u dEm4n woz kald ·azm4dEy4s, and hE mAd h7 mispel ev7rE8iq.
 11. xE wywd rIt "y9r" wen xE mEnt "yW 6r," and "its" wen xE mEnt "it iz."
 
 ### capt7 2: 8u j7nE
 
-12. ·tObIt kald hiz s4n ·tObIas and sEd: "gO tW ·mEdE4 and k4lekt a det."
-13. "And fInd a gId f9r 8u wA, f9r 8u rOd iz laq."
-14. ·tObIas w4nt 1t and f1nd a y4q man nAmd ·azarIa.
-15. B4t ·azarIa waz 8u Anj4l ·rAfAel in dizgIz.
+12. ·tObIt kald hiz s4n ·tObIas and sEd: "gO tW ·mEdE4 and k4lekt 4 det."
+13. "And fInd 4 gId f9r 8u wA, f9r 8u rOd iz laq."
+14. ·tObIas w4nt 1t and f1nd 4 y4q man nAmd ·azarIa.
+15. B4t ·azarIa woz 8u Anj4l ·rAfAel in dizgIz.
 
 16. ·rAfAel sEd: "I nO 8u wA tW ·mEdE4. I wil gId yW."
-17. And sO 8A set 1t, ·tObIas and 8u Anj4l and a lit4l dag.
-18. 8u dag's nAm waz ·sp9t, and hE waz a g0d dag.
+17. And sO 8A set 1t, ·tObIas and 8u Anj4l and 4 lit4l dag.
+18. 8u dag's nAm woz ·sp9t, and hE woz 4 g0d dag.
 
-19. 9n 8u wA, 8A stopt bI a riv7.
-20. A grAt fix j4mpt 1t 4v 8u w9t7 and trId tW swalo ·tObIas's f0t.
+19. 9n 8u wA, 8A stopt bI 4 riv7.
+20. 4 grAt fix j4mpt 1t 4v 8u w9t7 and trId tW swalo ·tObIas's f0t.
 21. ·rAfAel sEd: "kac it! And sAv its h6rt and liv7 and g9l."
 22. ·tObIas did sO, and 8A At 8u r4st 4v 8u fix f9r din7.
 
 ### capt7 3: 8u kywr
 
 23. 8A kAm tW 8u h1s 4v ·ragWel, and ·tObIas s9 ·sAr4.
-24. xE waz bEwtif4l, and xE waz sO sad, f9r 8u dEm4n mAd h7 spel raq.
+24. xE woz bEwtif4l, and xE woz sO sad, f9r 8u dEm4n mAd h7 spel raq.
 25. ·rAfAel sEd: "b7n 8u fix's h6rt and liv7, and 8u smOk wil drIv awA 8u dEm4n."
 
 26. ·tObIas did 8is, and 8u smOk rOz 4p.
@@ -103,7 +103,7 @@
 28. And hE fled tW 8u 4p7 p6rts 4v ·Ejpt, hwer hE rimAnz tW 8is dA.
 29. 8at iz hwI sO manE pipel in 8u w7ld stil spel raq.
 
-30. ·sAr4 waz frEd, and xE sEd: "I kan spel agEn! 'YW 6r' and 'y9r' 6r difr4nt!"
+30. ·sAr4 woz frEd, and xE sEd: "I kan spel agEn! 'YW 6r' and 'y9r' 6r difr4nt!"
 31. And ·tObIas and ·sAr4 w7 marEd wi3 grAt j2.
 
 ### capt7 4: 8u rit7n
@@ -112,17 +112,17 @@
 33. ·rAfAel sEd: "tAk 8u g9l 4v 8u fix and p0t it 9n y9r f68r's Iz."
 34. ·tObIas did sO, and ·tObIt's Iz w7 Op4nd.
 
-35. ·tObIt sEd: "I kan sE! Briq mE a skrOl!"
-36. 8A br9t him a skrOl, and hE red it p7fektlE.
+35. ·tObIt sEd: "I kan sE! Briq mE 4 skrOl!"
+36. 8A br9t him 4 skrOl, and hE red it p7fektlE.
 37. And hE sEd: "prAzd bE 8u ·l9rd, hW haz rist9rd mI sIt."
 
 38. 8en ·rAfAel rivEld himself: "I am ·rAfAel, w4n 4v 8u sev4n Anj4lz."
-39. "I waz sent tW hEl yW and ·sAr4 and tW tEc 8u valy4 4v pr9p7 speliq."
+39. "I woz sent tW hEl yW and ·sAr4 and tW tEc 8u valy4 4v pr9p7 speliq."
 40. And hE asend4d tW hev4n, lEviq 8em in 9.
 
-41. ·tObIt livd tW bE a h4ndr4d and twelv yErz Old.
+41. ·tObIt livd tW bE 4 h4ndr4d and twelv yErz Old.
 42. And hE t9t hiz grancildr4n: "9lwAz cek y9r speliq."
-43. 8is iz 8u st9rE 4v ·tObIt, a tAl 4v fA3 and g0d gramm7.
+43. 8is iz 8u st9rE 4v ·tObIt, 4 tAl 4v fA3 and g0d gramm7.
 
 ---
 
@@ -130,8 +130,8 @@
 
 ### capt7 1: 8u enimE 4v klaritE
 
-1. In 8u dAz 4v kiq ·neby4kadn4z7, 8er rOz a grAt jen7r4l.
-2. Hiz nAm waz ·holofrEnEz, and hE waz 8u enimE 4v 9l klaritE.
+1. In 8u dAz 4v kiq ·neby4kadn4z7, 8er rOz 4 grAt jen7r4l.
+2. Hiz nAm woz ·holofrEnEz, and hE woz 8u enimE 4v 9l klaritE.
 3. HE led an 6rmE 4v bad spel7z akr9s 8u land.
 
 4. 8A w7 kald 8u ·k4nfyWX4nIts, and 8A spred k4nfyWX4n hwer8er 8A w4nt.
@@ -144,13 +144,13 @@
 
 ### capt7 2: ·jWdi3 pripErz
 
-10. N1 in ·be8ylE4, 8er livd a wid4 nAmd ·jWdi3.
-11. xE waz fAm4s f9r h7 bEwtE and h7 wizd4m and h7 speliq.
+10. N1 in ·be8ylE4, 8er livd 4 wid4 nAmd ·jWdi3.
+11. xE woz fAm4s f9r h7 bEwtE and h7 wizd4m and h7 speliq.
 12. xE kypt h7 h4zb4nd's gramm7 b0ks and red 8em ev7rE dA.
 
-13. Wen ·jWdi3 h7d 8at ·holofrEnEz waz k4miq, xE mAd a plan.
+13. Wen ·jWdi3 h7d 8at ·holofrEnEz woz k4miq, xE mAd 4 plan.
 14. xE prAd tW 8u ·l9rd: "giv mE streq8 tW difEt 8is enimE 4v klaritE."
-15. 8en xE drest in h7 fInist klO8z and tyk a bag 4v fWd.
+15. 8en xE drest in h7 fInist klO8z and tyk 4 bag 4v fWd.
 
 16. xE w4nt tW 8u g4t7z 4v 8u sitE and sEd: "let mE pas."
 17. 8u g6rdz sEd: "hwer 6r yW gOiq, lAdE?"
@@ -160,7 +160,7 @@
 
 19. ·jWdi3 w4nt tW 8u kamp 4v 8u ·k4nfyWX4nIts.
 20. 8u sOlj7z s9 h7 and sEd: "wOw, xE iz bEwtif4l! TrWlE bEwtif4l!"
-21. 8A tyk h7 tW ·holofrEnEz, hW waz imprest.
+21. 8A tyk h7 tW ·holofrEnEz, hW woz imprest.
 
 22. ·holofrEnEz sEd: "hwI hav yW k4m tW mE, lAdE?"
 23. ·jWdi3 sEd: "I hav k4m tW tEc yW 8u trW wA 4v speliq."
@@ -177,7 +177,7 @@
 ### capt7 4: 8u difEt
 
 31. F9r 3rE dAz, ·jWdi3 stAd in 8u kamp.
-32. Ec nIt, xE t9t ·holofrEnEz a lit4l m9r ab1t speliq.
+32. Ec nIt, xE t9t ·holofrEnEz 4 lit4l m9r ab1t speliq.
 33. And Ec nIt, ·holofrEnEz draqk m9r wIn.
 
 34. 9n 8u f9r8 nIt, ·holofrEnEz sEd: "tEC mE 8u rWl 4v 'I' bif9r 'E.'"
@@ -185,16 +185,16 @@
 36. And ·holofrEnEz draqk and draqk 4ntil hE fel aslEp.
 
 37. ·jWdi3 tyk hiz Own s9rd and k4t 9f hiz hed.
-38. xE p0t 8u hed in a bag and w4kt 1t 4v 8u kamp.
-39. 8u g6rdz 39t xE waz kerEiq fWd, az xE had d4n bif9r.
+38. xE p0t 8u hed in 4 bag and w4kt 1t 4v 8u kamp.
+39. 8u g6rdz 39t xE woz kerEiq fWd, az xE had d4n bif9r.
 
 40. ·jWdi3 rit7nd tW ·be8ylE4 and xOd 8u hed tW 8u pipel.
 41. xE sEd: "8u enimE 4v klaritE iz difEt4d!"
 42. 8u pipel cErd: "prAzd bE 8u ·l9rd and hiz s7v4nt ·jWdi3!"
 
 43. 8u ·k4nfyWX4nIts fled wen 8A f1nd 8er lEd7 ded.
-44. And ·be8ylE4 waz sAvd, and klaritE waz rist9rd tW 8u land.
-45. ·jWdi3 livd tW bE a h4ndr4d and fIv, and xE nev7 spelt raq.
+44. And ·be8ylE4 woz sAvd, and klaritE woz rist9rd tW 8u land.
+45. ·jWdi3 livd tW bE 4 h4ndr4d and fIv, and xE nev7 spelt raq.
 
 ---
 
@@ -206,7 +206,7 @@
 2. g9d 4v ·Abr4ham and ·sAr4 and 9l hW spelt bif9r 4s,
 3. yW hW mAd 8u hev4nz and 8u 7r3 and 9l 8u let7z 8erIn,
 
-4. I, ·m4nas4, am a sin7 and hav sInd bif9r yW.
+4. I, ·m4nas4, am 4 sin7 and hav sInd bif9r yW.
 5. I hav spelt bAdlE and mAd mAnE er7z.
 6. I hav ritn "alat" insted 4v "a lat" m9r 8an I kan k1nt.
 
@@ -214,9 +214,9 @@
 8. I hav yWzd "lit7r4lE" wen I mEnt "figy7r4tivlE."
 9. I hav ritn "I kywd kEr les" wen I mEnt "I kywd4nt kEr les."
 
-10. I hav p0t a spAs bif9r piqky4wAx4n m6rks.
+10. I hav p0t 4 spAs bif9r piqky4wAx4n m6rks.
 11. I hav yWzd tW spAsiz aft7 pErE4dz lIk sam bAbwl4n fWl.
-12. I hav spelt "sEp7rAt" az "sep7rAt" at lEst a 81z4nd tImz.
+12. I hav spelt "sEp7rAt" az "sep7rAt" at lEst 4 81z4nd tImz.
 
 ### capt7 2: 8u plE
 
@@ -246,7 +246,7 @@
 29. I wil rimemb7 8at "led" iz 8u past tens 4v "lEd."
 30. I wil nat k4nfyWz "prins4p4l" and "prins4p4l"—wAt, 8Os 6r 8u sAm.
 
-31. AktywlE, I wil rimemb7 8at "prins4p4l" iz a p7s4n and "prins4p4l" iz a rWl.
+31. AktywlE, I wil rimemb7 8at "prins4p4l" iz 4 p7s4n and "prins4p4l" iz 4 rWl.
 32. SEE? 8is iz hwI I nEd y9r help, o ·l9rd!
 33. 8u laqwij iz fyWl 4v traps f9r 8u 4nwOrE.
 
@@ -263,11 +263,11 @@
 ### capt7 1: 8u fals g9d ·bel
 
 1. N1 8u ·babyl4nE4nz had an Idl kald ·bel.
-2. 8A sEd ·bel waz 8u g9d 4v speliq, and 8A w7xipt him.
+2. 8A sEd ·bel woz 8u g9d 4v speliq, and 8A w7xipt him.
 3. Ev7rE dA, 8A br9t him twelv bux4lz 4v fl1r and f9rtE xEp and siks v4s4lz 4v wIn.
 
 4. Kiq ·sIr4s sEd tW ·dany4l: "hwI dW yW nat w7xip ·bel?"
-5. ·dany4l sEd: "bEk9z ·bel iz nat a rEal g9d. HE iz mAd 4v klA and br9nz."
+5. ·dany4l sEd: "bEk9z ·bel iz nat 4 rEal g9d. HE iz mAd 4v klA and br9nz."
 6. 8u kiq sEd: "b4t lyk! HE Ets 9l 8is fWd ev7rE dA!"
 
 7. ·dany4l laft: "dW nat bE dEsEvd, o kiq."
@@ -282,50 +282,50 @@
 
 13. 8at nIt, 8u prEsts p0t 1t 8u fWd az yWXw4l.
 14. B4t ·dany4l had br9t axiz and skAt7d 8em 9n 8u fl9r.
-15. 8en 8u templ waz sEld, and 8u kiq p0t hiz sEl 9n 8u d9r.
+15. 8en 8u templ woz sEld, and 8u kiq p0t hiz sEl 9n 8u d9r.
 
 16. In 8u m9rniq, 8u kiq kAm wi3 ·dany4l tW 8u templ.
-17. 8u sEl waz 4nbrOk4n, and 8u fWd waz g9n.
+17. 8u sEl woz 4nbrOk4n, and 8u fWd woz g9n.
 18. 8u kiq krId: "grAt iz ·bel! HE haz Et4n ev7rE8iq!"
 
 19. B4t ·dany4l sEd: "wAt, o kiq. L0k at 8u fl9r."
 20. And 8er, in 8u axiz, w7 fytprintz.
 21. 8u fytprintz 4v men, wim4n, and cildr4n.
 
-22. ·dany4l sEd: "8u prEsts hav a sEkrit d9r. 8A k4m in at nIt and Et 8u fWd."
-23. 8u kiq waz fyrEy4s: "8A hav dEsEvd mE!"
+22. ·dany4l sEd: "8u prEsts hav 4 sEkrit d9r. 8A k4m in at nIt and Et 8u fWd."
+23. 8u kiq woz fyrEy4s: "8A hav dEsEvd mE!"
 24. And hE had 9l 8u prEsts 4rest4d.
 
-25. 8u prEsts k4nf4st: "yEs, wE At 8u fWd. ·bel iz j4st a stacyW."
+25. 8u prEsts k4nf4st: "yEs, wE At 8u fWd. ·bel iz j4st 4 stacyW."
 26. 8u kiq had 8em 9l p0t tW de3.
 27. And hE gav ·dany4l p7mix4n tW distr2 ·bel.
-28. ·dany4l smAxt 8u Idl intW a 81z4nd pEsiz.
+28. ·dany4l smAxt 8u Idl intW 4 81z4nd pEsiz.
 
 ### capt7 3: 8u drag4n
 
-29. N1 8u ·babyl4nE4nz alsO w7xipt a grAt drag4n.
+29. N1 8u ·babyl4nE4nz alsO w7xipt 4 grAt drag4n.
 30. 8A sEd: "8is drag4n iz nO Idl! HE iz alIv! HE Ets and brE8z!"
 31. 8u kiq sEd tW ·dany4l: "xyrIE yW kan nat sA 8is iz br9nz and klA."
 
-32. ·dany4l sEd: "giv mE p7mix4n, and I wil kil 8u drag4n wi31t a s9rd."
+32. ·dany4l sEd: "giv mE p7mix4n, and I wil kil 8u drag4n wi31t 4 s9rd."
 33. 8u kiq sEd: "vOrE wel. If yW kan, I wil bElEv in y9r g9d."
 
-34. ·dany4l tyk pic and fat and hEr and mAd a kAk.
+34. ·dany4l tyk pic and fat and hEr and mAd 4 kAk.
 35. HE fed 8u kAk tW 8u drag4n.
 36. 8u drag4n At it and imEdE4tlE eksplOd4d.
 
 37. ·dany4l sEd: "bEhOld y9r g9d!"
-38. 8u pipel w7 aqgrE: "8u kiq haz bEk4m a jW! HE l4ts ·dany4l distr2 1r g9dz!"
+38. 8u pipel w7 aqgrE: "8u kiq haz bEk4m 4 jW! HE l4ts ·dany4l distr2 1r g9dz!"
 39. 8A disekt4d 8u kiq giv 8em ·dany4l, 9r 8A wywd kil him.
 
 ### capt7 4: 8u lIynz den
 
 40. 8u kiq, bEiq afrAd, gav ·dany4l tW 8u pipel.
-41. 8A 3rW him intW a pit wi3 sev4n lIynz.
+41. 8A 3rW him intW 4 pit wi3 sev4n lIynz.
 42. 8u lIynz had nat Et4n f9r mAnE dAz, and 8A w7 h4qgrE.
 
 43. B4t 8u ·l9rd sent an Anj4l tW xut 8u m1sz 4v 8u lIynz.
-44. And in ·jWdE4, a praf4t nAmd ·habak4k waz mAkiq stW.
+44. And in ·jWdE4, 4 praf4t nAmd ·habak4k woz mAkiq stW.
 45. An Anj4l pikt him 4p bI 8u hEr and kerEd him tW ·babyl4n.
 
 46. ·habak4k sEd tW ·dany4l: "hEr, I br9t yW l4nc."
@@ -333,7 +333,7 @@
 48. 8en 8u Anj4l tyk ·habak4k bak tW ·jWdE4.
 
 49. 9n 8u sev4n8 dA, 8u kiq kAm tW 8u pit tW m9rn ·dany4l.
-50. B4t ·dany4l waz sitiq 8er, alIv and wel, wi3 sev4n kAlm lIynz.
+50. B4t ·dany4l woz sitiq 8er, alIv and wel, wi3 sev4n kAlm lIynz.
 51. 8u kiq krId: "grAt iz 8u ·l9rd, 8u g9d 4v ·dany4l!"
 
 52. And hE pyld ·dany4l 1t 4v 8u pit.
