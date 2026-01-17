@@ -463,6 +463,7 @@
     <script>
         let reader = null;
         let mode = 'convert'; // 'convert' or 'practice'
+        let dictLoaded = false;
 
         document.addEventListener('DOMContentLoaded', async () => {
             // Initialize audio
@@ -474,6 +475,18 @@
             const charCount = document.getElementById('charCount');
             const wordCount = document.getElementById('wordCount');
             const inputLabel = document.getElementById('inputLabel');
+
+            // Load CMU dictionary
+            output.textContent = 'Loading dictionary...';
+            try {
+                await loadCmuDict();
+                dictLoaded = true;
+                output.textContent = 'Spelin will appear here as you type...';
+                output.classList.add('empty');
+            } catch (e) {
+                output.innerHTML = '<span class="error-msg">Failed to load dictionary.<br>Try refreshing the page.</span>';
+                output.classList.add('error');
+            }
 
             // Mode toggle
             document.querySelectorAll('.mode-btn').forEach(btn => {
@@ -492,22 +505,22 @@
 
                     input.value = '';
                     if (mode === 'convert') {
-                        updateOutputFromAPI();
+                        updateOutput();
                     } else {
                         updateOutputDirect();
                     }
                 });
             });
 
-            // Input handling with debounce for API calls
+            // Input handling with debounce
             let convertTimeout = null;
             input.addEventListener('input', () => {
                 if (mode === 'practice') {
                     updateOutputDirect();
                 } else {
-                    // Debounce API calls
+                    // Debounce conversion
                     clearTimeout(convertTimeout);
-                    convertTimeout = setTimeout(updateOutputFromAPI, 300);
+                    convertTimeout = setTimeout(updateOutput, 150);
                 }
             });
 
@@ -530,7 +543,7 @@
                 wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
             }
 
-            async function updateOutputFromAPI() {
+            async function updateOutput() {
                 const text = input.value;
 
                 if (!text.trim()) {
@@ -541,37 +554,24 @@
                     return;
                 }
 
+                if (!dictLoaded) {
+                    output.innerHTML = '<span class="error-msg">Dictionary not loaded yet...</span>';
+                    return;
+                }
+
                 output.classList.remove('empty');
-                output.textContent = 'Converting...';
+                output.classList.remove('error');
 
                 try {
-                    const response = await fetch('/api/convert', {
-                        method: 'POST',
-                        headers: { 'Content-Type': 'application/json' },
-                        body: JSON.stringify({ text })
-                    });
-
-                    if (!response.ok) throw new Error('Conversion failed');
-
-                    const data = await response.json();
-
-                    if (data.error) {
-                        output.textContent = `Error: ${data.error}`;
-                        output.classList.add('error');
-                    } else {
-                        output.textContent = data.result;
-                        output.classList.remove('error');
-                    }
+                    const converted = await englishToSpelin(text);
+                    output.textContent = converted;
 
                     // Update stats
                     charCount.textContent = output.textContent.replace(/\s/g, '').length;
                     wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
                 } catch (e) {
-                    // Show error when API unavailable
-                    output.innerHTML = '<span class="error-msg">API unavailable. Run the server with:<br><code>python3 serve.py</code></span>';
+                    output.innerHTML = '<span class="error-msg">Conversion error: ' + e.message + '</span>';
                     output.classList.add('error');
-                    charCount.textContent = '0';
-                    wordCount.textContent = '0';
                 }
             }
 
@@ -612,7 +612,7 @@
 
                     if (mode === 'convert') {
                         clearTimeout(convertTimeout);
-                        convertTimeout = setTimeout(updateOutputFromAPI, 300);
+                        convertTimeout = setTimeout(updateOutput, 150);
                     } else {
                         updateOutputDirect();
                     }

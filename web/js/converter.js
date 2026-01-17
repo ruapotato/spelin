@@ -144,93 +144,174 @@ function getPhonemeDisplay(word) {
 }
 
 // =============================================================================
-// ENGLISH TO SPELIN CONVERTER
+// ENGLISH TO SPELIN CONVERTER (CMU Dictionary based)
 // =============================================================================
 
-// Basic phoneme mappings for common patterns
-const ENGLISH_PATTERNS = [
-    // Digraphs and special patterns first
-    [/th/gi, (m) => m[0] === m[0].toUpperCase() ? '3' : '8'],
-    [/sh/gi, 'x'],
-    [/ch/gi, 'c'],
-    [/ng/gi, 'q'],
-    [/tion/gi, 'x4n'],
-    [/sion/gi, 'X4n'],
-    [/ough/gi, 'O'],
-    [/igh/gi, 'I'],
-    [/eigh/gi, 'A'],
-    [/ould/gi, '0d'],
-    [/oo/gi, 'W'],
-    [/ee/gi, 'E'],
-    [/ea/gi, 'E'],
-    [/ai/gi, 'A'],
-    [/ay/gi, 'A'],
-    [/oy/gi, '2'],
-    [/oi/gi, '2'],
-    [/ou/gi, '1'],
-    [/ow/gi, '1'],
-    [/aw/gi, '9'],
-    [/au/gi, '9'],
-    [/er/gi, '7'],
-    [/ir/gi, '7'],
-    [/ur/gi, '7'],
-    [/or/gi, '9r'],
-    [/ar/gi, '6r'],
-    [/ph/gi, 'f'],
-    [/wh/gi, 'w'],
-    [/wr/gi, 'r'],
-    [/kn/gi, 'n'],
-    [/gn/gi, 'n'],
-    [/mb$/gi, 'm'],
-    [/ck/gi, 'k'],
+// ARPAbet to spelin mapping
+const ARPABET_TO_SPELIN = {
+    // Consonants
+    'B': 'b', 'CH': 'c', 'D': 'd', 'DH': '8', 'F': 'f', 'G': 'g',
+    'HH': 'h', 'JH': 'j', 'K': 'k', 'L': 'l', 'M': 'm', 'N': 'n',
+    'NG': 'q', 'P': 'p', 'R': 'r', 'S': 's', 'SH': 'x', 'T': 't',
+    'TH': '3', 'V': 'v', 'W': 'w', 'Y': 'y', 'Z': 'z', 'ZH': 'X',
+    // Vowels (stress markers 0,1,2 are stripped)
+    'AA': '6', 'AE': 'a', 'AH': 'u', 'AO': '9', 'AW': '1', 'AY': 'I',
+    'EH': 'e', 'ER': '7', 'EY': 'A', 'IH': 'i', 'IY': 'E', 'OW': 'O',
+    'OY': '2', 'UH': '0', 'UW': 'W'
+};
 
-    // Silent e patterns
-    [/([bcdfghjklmnpqrstvwxyz])e$/gi, '$1'],
-
-    // Single letters
-    [/c(?=[eiy])/gi, 's'],
-    [/c/gi, 'k'],
-    [/q/gi, 'k'],
-    [/x/gi, 'ks'],
-    [/j/gi, 'j'],
-    [/y(?=[aeiou])/gi, 'y'],
-    [/y$/gi, 'E'],
-    [/y/gi, 'i'],
-];
+// CMU dictionary storage
+let cmuDict = null;
+let cmuDictLoading = false;
+let cmuDictLoadPromise = null;
 
 /**
- * Convert English text to spelin (simplified version)
- * Note: This is a basic converter - not as accurate as using a pronunciation dictionary
+ * Load CMU dictionary JSON file
  */
-function englishToSpelin(text) {
-    let words = text.split(/(\s+)/);
-    let result = [];
+async function loadCmuDict() {
+    if (cmuDict) return cmuDict;
+    if (cmuDictLoading) return cmuDictLoadPromise;
 
-    for (let word of words) {
-        if (/^\s+$/.test(word)) {
-            result.push(word);
-            continue;
+    cmuDictLoading = true;
+    cmuDictLoadPromise = fetch('data/cmu-dict.json')
+        .then(response => {
+            if (!response.ok) throw new Error('Failed to load CMU dictionary');
+            return response.json();
+        })
+        .then(data => {
+            cmuDict = data;
+            cmuDictLoading = false;
+            console.log(`CMU dictionary loaded: ${Object.keys(data).length} words`);
+            return cmuDict;
+        })
+        .catch(err => {
+            cmuDictLoading = false;
+            console.error('Error loading CMU dictionary:', err);
+            throw err;
+        });
+
+    return cmuDictLoadPromise;
+}
+
+/**
+ * Convert ARPAbet phoneme string to spelin
+ */
+function arpabetToSpelin(arpabet) {
+    const phones = arpabet.split(' ');
+    let result = '';
+
+    for (const phone of phones) {
+        // Strip stress markers (0, 1, 2) from vowels
+        const basePhone = phone.replace(/[012]$/, '');
+        const stress = phone.match(/[012]$/)?.[0];
+
+        // Special case: AH with stress 0 is schwa (4)
+        if (basePhone === 'AH' && stress === '0') {
+            result += '4';
+        } else if (ARPABET_TO_SPELIN[basePhone]) {
+            result += ARPABET_TO_SPELIN[basePhone];
+        } else {
+            // Unknown phoneme - skip or log
+            console.warn('Unknown ARPAbet phoneme:', phone);
         }
-
-        let converted = word.toLowerCase();
-
-        // Apply patterns
-        for (let [pattern, replacement] of ENGLISH_PATTERNS) {
-            converted = converted.replace(pattern, replacement);
-        }
-
-        // Handle remaining vowels
-        converted = converted
-            .replace(/a/g, 'a')
-            .replace(/e/g, 'e')
-            .replace(/i/g, 'i')
-            .replace(/o/g, '6')
-            .replace(/u/g, 'u');
-
-        result.push(converted);
     }
 
-    return result.join('');
+    return result;
+}
+
+/**
+ * Convert a single word using CMU dictionary
+ */
+function convertWordWithDict(word, isProperNoun = false) {
+    if (!cmuDict) return null;
+
+    // Strip punctuation for lookup
+    const cleanWord = word.replace(/[^a-zA-Z']/g, '').toLowerCase();
+    if (!cleanWord) return null;
+
+    const arpabet = cmuDict[cleanWord];
+    if (!arpabet) return null;
+
+    let spelin = arpabetToSpelin(arpabet);
+
+    // Add namer dot for proper nouns
+    if (isProperNoun && spelin) {
+        spelin = '·' + spelin;
+    }
+
+    return spelin;
+}
+
+/**
+ * Convert English text to spelin using CMU dictionary
+ * Returns a promise that resolves to the converted text
+ */
+async function englishToSpelin(text) {
+    // Ensure dictionary is loaded
+    await loadCmuDict();
+
+    // Split into tokens (words and whitespace/punctuation)
+    const tokens = text.match(/([a-zA-Z']+|[^a-zA-Z']+)/g) || [];
+    let result = '';
+
+    for (const token of tokens) {
+        // Check if it's a word
+        if (/^[a-zA-Z']+$/.test(token)) {
+            // Check if proper noun (starts with capital)
+            const isProperNoun = /^[A-Z]/.test(token);
+
+            // Try dictionary lookup
+            const converted = convertWordWithDict(token, isProperNoun);
+
+            if (converted) {
+                result += converted;
+            } else {
+                // Word not in dictionary - keep original with marker
+                result += `[${token}]`;
+            }
+        } else {
+            // Whitespace or punctuation - keep as is
+            result += token;
+        }
+    }
+
+    return result;
+}
+
+/**
+ * Synchronous version for when dictionary is already loaded
+ */
+function englishToSpelinSync(text) {
+    if (!cmuDict) {
+        return '[Dictionary not loaded]';
+    }
+
+    const tokens = text.match(/([a-zA-Z']+|[^a-zA-Z']+)/g) || [];
+    let result = '';
+
+    for (const token of tokens) {
+        if (/^[a-zA-Z']+$/.test(token)) {
+            const isProperNoun = /^[A-Z]/.test(token);
+            const converted = convertWordWithDict(token, isProperNoun);
+
+            if (converted) {
+                result += converted;
+            } else {
+                result += `[${token}]`;
+            }
+        } else {
+            result += token;
+        }
+    }
+
+    return result;
+}
+
+/**
+ * Check if CMU dictionary is loaded
+ */
+function isCmuDictLoaded() {
+    return cmuDict !== null;
 }
 
 /**
@@ -274,16 +355,24 @@ window.spelinConverter = {
     spelinToSpeakable,
     getPhonemeDisplay,
     englishToSpelin,
+    englishToSpelinSync,
+    loadCmuDict,
+    isCmuDictLoaded,
+    arpabetToSpelin,
     parseWords,
     isPhoneme,
     getAllSpelinChars,
     SAMPLES,
     SPELIN_TO_SPEECH,
-    SPECIAL_WORDS
+    SPECIAL_WORDS,
+    ARPABET_TO_SPELIN
 };
 
 // Also export individual functions for convenience
 window.spelinToSpeakable = spelinToSpeakable;
 window.getPhonemeDisplay = getPhonemeDisplay;
 window.englishToSpelin = englishToSpelin;
+window.englishToSpelinSync = englishToSpelinSync;
+window.loadCmuDict = loadCmuDict;
+window.isCmuDictLoaded = isCmuDictLoaded;
 window.SAMPLES = SAMPLES;
