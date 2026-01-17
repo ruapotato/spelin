@@ -2,6 +2,8 @@
 """
 Simple HTTP server for spelin website with API endpoints.
 Serves static files from web/ and provides /api/convert endpoint.
+
+Run with: python3 serve.py (from venv) or ./serve.py
 """
 
 import http.server
@@ -10,9 +12,24 @@ import os
 import sys
 from urllib.parse import parse_qs, urlparse
 
+# Ensure we can find the venv packages
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+VENV_SITE_PACKAGES = os.path.join(SCRIPT_DIR, '.venv', 'lib', 'python3.13', 'site-packages')
+if os.path.exists(VENV_SITE_PACKAGES):
+    sys.path.insert(0, VENV_SITE_PACKAGES)
+
 # Add scripts to path for converter import
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'scripts'))
-from english_to_spelin import convert_text, word_to_spelin
+sys.path.insert(0, os.path.join(SCRIPT_DIR, 'scripts'))
+
+try:
+    from english_to_spelin import convert_text, word_to_spelin
+    CONVERTER_AVAILABLE = True
+except ImportError as e:
+    print(f"Warning: Could not import converter: {e}")
+    print("Install with: pip install pronouncing")
+    CONVERTER_AVAILABLE = False
+    def convert_text(text):
+        return f"[Converter unavailable - install 'pronouncing' package]"
 
 PORT = 9000
 WEB_DIR = os.path.join(os.path.dirname(__file__), 'web')

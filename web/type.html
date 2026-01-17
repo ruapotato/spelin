@@ -93,6 +93,28 @@
             font-size: 1rem;
         }
 
+        .type-output.error {
+            color: var(--error);
+            font-family: var(--font-main);
+            font-size: 1rem;
+        }
+
+        .type-output .error-msg {
+            display: block;
+            text-align: center;
+            padding: var(--space-lg);
+        }
+
+        .type-output .error-msg code {
+            display: inline-block;
+            background: var(--bg-tertiary);
+            padding: var(--space-xs) var(--space-sm);
+            border-radius: var(--radius-sm);
+            margin-top: var(--space-sm);
+            font-family: var(--font-mono);
+            color: var(--accent);
+        }
+
         /* Virtual Keyboard */
         .keyboard-container {
             background: var(--bg-secondary);
@@ -532,16 +554,24 @@
                     if (!response.ok) throw new Error('Conversion failed');
 
                     const data = await response.json();
-                    output.textContent = data.result;
+
+                    if (data.error) {
+                        output.textContent = `Error: ${data.error}`;
+                        output.classList.add('error');
+                    } else {
+                        output.textContent = data.result;
+                        output.classList.remove('error');
+                    }
 
                     // Update stats
                     charCount.textContent = output.textContent.replace(/\s/g, '').length;
                     wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
                 } catch (e) {
-                    // Fallback to basic JS conversion if API unavailable
-                    output.textContent = englishToSpelin(text);
-                    charCount.textContent = output.textContent.replace(/\s/g, '').length;
-                    wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
+                    // Show error when API unavailable
+                    output.innerHTML = '<span class="error-msg">API unavailable. Run the server with:<br><code>python3 serve.py</code></span>';
+                    output.classList.add('error');
+                    charCount.textContent = '0';
+                    wordCount.textContent = '0';
                 }
             }
 
