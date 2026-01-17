@@ -132,7 +132,7 @@
 
 9. 6lsO in fr4nt 4v 8u 3rOn 8ar w6z hw6t l0kt lIk 4 sE 4v glas, klir az krist4l.
 
-10. in 8u sent7, ar1nd 8u 3rOn, w7 fOr liviq krEcTz.
+10. in 8u sent7, ar1nd 8u 3rOn, w7 fOr liviq krEc7z.
 
 11. 8u f7st liviq krEc7 w6z lIk 4 lI4n—8u symbol 4v str6q s1ndz.
 
@@ -142,11 +142,11 @@
 
 14. 8u fOr3 w6z lIk 4 flIiq Eg4l—8u symbol 4v frEd4m fr4m sIl4nt let7z.
 
-15. Ec 4v 8u fOr liviq krEcTz had siks wiqz and w6z k4v7d wi8 Iz 6l ar1nd, Ev4n 4nd7 8ar wiqz.
+15. Ec 4v 8u fOr liviq krEc7z had siks wiqz and w6z k4v7d wi8 Iz 6l ar1nd, Ev4n 4nd7 8ar wiqz.
 
 16. dA and nIt 8A nev7 st6p sAiq: "hOlE, hOlE, hOlE iz 8u lOrd ·g6d 9lmItE, hW w6z, and iz, and iz t4 k4m—hW spEks and spElz in p7fekt h6rm4nE!"
 
-17. hwenev7 8u liviq krEcTz giv glOrE, 6n7, and 3anks t4 him hW sits 6n 8u 3rOn and hW livz f7 ev7 and ev7,
+17. hwenev7 8u liviq krEc7z giv glOrE, 6n7, and 3anks t4 him hW sits 6n 8u 3rOn and hW livz f7 ev7 and ev7,
 
 18. 8u twentE-fOr eld7z f9l d1n bif Or him hW sits 6n 8u 3rOn and w7xip him.
 
@@ -172,7 +172,7 @@
 
 8. hE kAm and t0k 8u skrOl fr4m 8u rIt hand 4v him hW sat 6n 8u 3rOn.
 
-9. and hw4n hE had tAk4n it, 8u fOr liviq krEcTz and 8u twentE-fOr eld7z fel d1n bif Or 8u lam.
+9. and hw4n hE had tAk4n it, 8u fOr liviq krEc7z and 8u twentE-fOr eld7z fel d1n bif Or 8u lam.
 
 10. Ec w4n had 4 h6rp and 8A w7 hOldiq gOld4n bOlz f0l 4v insens, hwic ar 8u prArz 4v ·g6dz pEp4l.
 
@@ -182,7 +182,7 @@
 
 13. 8en I l0kt and h7d 8u v2s 4v menE Anjelz, n4mb7iq 31zandz 4p6n 31zandz, and ten 31zand tImz ten 31zand.
 
-14. 8A 4ns7k4ld 8u 3rOn and 8u liviq krEcTz and 8u eld7z.
+14. 8A 4ns7k4ld 8u 3rOn and 8u liviq krEc7z and 8u eld7z.
 
 15. in 4 l1d v2s 8A w7 sAiq: "w78E iz 8u lam, hW w6z slAn, t4 rIsEv p17 and wel3 and wIzd4m and streq3 and 6n7 and glOrE and prAz!"
 
@@ -194,7 +194,7 @@
 
 ## capt7 siks: 8u f7st siks sElz
 
-1. I w6ct az 8u lam Op4nd 8u f7st 4v 8u sev4n sElz. 8en I h7d w4n 4v 8u fOr liviq krEcTz sA in 4 v2s lIk 34nd7, "k4m!"
+1. I w6ct az 8u lam Op4nd 8u f7st 4v 8u sev4n sElz. 8en I h7d w4n 4v 8u fOr liviq krEc7z sA in 4 v2s lIk 34nd7, "k4m!"
 
 2. I l0kt, and 8ar bif Or mE w6z 4 wIt hOrs! its rId7 held 4 bO, and hE w6z giv4n 4 kr1n, and hE rOd 1t az 4 k6qk7r4r bent 6n k6qkest.
 
@@ -216,7 +216,7 @@
 
 9. I l0kt, and 8ar bif Or mE w6z 4 blak hOrs! its rId7 w6z hOldiq 4 par 4v skAlz in hiz hand.
 
-10. 8en I h7d hw6t s1nd4d lIk 4 v2s am4q 8u fOr liviq krEcTz, sAiq, "4 kwOrt 4v wEt fOr 4 dAz wAj4z, and 3rE kwOrts 4v b6rlE fOr 4 dAz wAj4z, and dW n6t damij 8u O2l and 8u wIn!"
+10. 8en I h7d hw6t s1nd4d lIk 4 v2s am4q 8u fOr liviq krEc7z, sAiq, "4 kwOrt 4v wEt fOr 4 dAz wAj4z, and 3rE kwOrts 4v b6rlE fOr 4 dAz wAj4z, and dW n6t damij 8u O2l and 8u wIn!"
 
 11. 8is w6z 8u spirit 4v skarsitE—8u hI kOst 4v l7niq 8u Old spEliq, hw4r menE kild n6t 4fOrd t4 l7n.
 
@@ -294,7 +294,7 @@ fr4m 8u trIb 4v ·benj4m4n twelf 31zand.
 
 11. and 8A krId 1t in 4 l1d v2s: "salv Ax4n bil6qz t4 1r ·g6d, hW sits 6n 8u 3rOn, and t4 8u lam."
 
-12. 6l 8u Anjelz w7 standiq ar1nd 8u 3rOn and ar1nd 8u eld7z and 8u fOr liviq krEcTz.
+12. 6l 8u Anjelz w7 standiq ar1nd 8u 3rOn and ar1nd 8u eld7z and 8u fOr liviq krEc7z.
 
 13. 8A fel d1n 6n 8ar fAs4z bif Or 8u 3rOn and w7xipt ·g6d, sAiq: "Amen! prAz and glOrE and wIzd4m and 3anks and 6n7 and p17 and streq3 bE t4 1r ·g6d f7 ev7 and ev7. Amen!"
 
@@ -456,7 +456,7 @@ fr4m 8u trIb 4v ·benj4m4n twelf 31zand.
 
 4. 8u wWm4n w6z drest in p7p4l and sk6rl4t, and w6z glit7iq wi8 gOld, prex4s stOnz and p7lz. xE held 4 gOld4n k4p in h7 hand, fild wi8 4b6m4n4b4l 3iqz and 8u fil3 4v h7 4d4lt7Ez.
 
-5. 8u nAm rit4n 6n h7 fOrhed w6z 4 mist7E: "bab4l6n 8u grAt, 8u m487 4v hOrz and 4v 8u 4b6m4nAx4nz 4v 8u 73."
+5. 8u nAm rit4n 6n h7 fOrhed w6z 4 mist7E: "·bab4l6n 8u grAt, 8u m487 4v hOrz and 4v 8u 4b6m4nAx4nz 4v 8u 73."
 
 6. I s9 8at 8u wWm4n w6z dr4qk wi8 8u bl4d 4v ·g6dz hOlE pEp4l, 8u bl4d 4v 8Oz hW bOr testim4nE t4 ·jEz4s.
 

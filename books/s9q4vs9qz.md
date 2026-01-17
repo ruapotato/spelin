@@ -318,7 +318,7 @@ I 4rOz tW Op4n f9r mI b4luvd,
 4nd mI h4ndz dript wi8 m7,
 mI fiq7z wi8 flOiq m7,
 6n 8u h4nd4lz 4v 8u b6r—
-8u rEsidU 4v klir spEkiq left 6n evriθiq hE tuct.
+8u rEsidU 4v klir spEkiq left 6n evE3iq hE t4ct.
 
 I Op4nd f9r mI b4luvd,
 but mI b4luvd h4d left; hE w4z g9n.
@@ -347,7 +347,7 @@ H1 iz y9r b4luvd bet7 86n uT7z,
 
 **8u B4luvd:**
 
-MǐI b4luvd iz r6dE4nt 4nd rudE,
+Mǐ b4luvd iz r6dE4nt 4nd rudE,
 1tst4ndiq 4muq ten 31z4nd.
 Hiz hed iz pUr4st gOld;
 hiz hAr iz wAvE
@@ -396,7 +396,7 @@ hwic wA did y9r b4luvd t7n,
 
 **8u B4luvd:**
 
-MǐI b4luvd h4z g9n d1n tW hiz g6rd4n,
+Mǐ b4luvd h4z g9n d1n tW hiz g6rd4n,
 tW 8u bedz 4v spIs4z,
 tW brǎz in 8u g6rd4nz
 4nd tW ga87 lilEz 4v lAqwij.

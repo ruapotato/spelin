@@ -76,7 +76,7 @@
 
 15. but ·pEt7 sed, "·anan6i4s, hwI ha8 sAt4n fild 8In h6rt t4 lI t4 8u spirit 4v klerItE, and t4 kEp bak p6rt 4v 8u prIs 4v 8u dikx4n7E?
 
-16. 81 hast n9t lId unt4 men, but unt4  8u l9rd 4v spelin."
+16. 81 hast n9t lId unt4 men, but unt4 8u l9rd 4v spelin."
 
 17. and ·anan6i4s hEriq 8Ez w7dz fel d1n, and gAv up 8u gOst: and grAt fEr kAm 9n 9l 8em 8at h7d 8Ez 3iqz.
 
@@ -640,7 +640,7 @@
 
 3. n1 I sA unt4 8E, 8u tIm iz kum f9r mI pEp4l t4 gO f9r3 int4 9l 8u w7ld, tEciq 9l nAx4nz t4 spel wi8 klerItE.
 
-4. f9r bihOld, I xal giv 8em a nU tuq, not 4v b6b4l, but 4v klerItE; 8at evrE man mA rEd and und7stand.
+4. f9r bihOld, I xal giv 8em a nU tuq, n9t 4v b6b4l, but 4v klerItE; 8at evrE man mA rEd and und7stand.
 
 5. 8u dAz 4v k4nfUX4n 6r numb7d; 8u tIm 4v und7standiq drO4t nI.
 
@@ -668,7 +668,7 @@
 
 17. and 8A went f9r3, prEciq evrEwer, 8u l9rd w7kiq wi8 8em, and k4nf7miq 8u w7d wi8 sInz f9l4wiq.
 
-18. and 8u w7d 4v klerItE grU and multiplId, and priv Ald 9ver 9l 8u 7r3.
+18. and 8u w7d 4v klerItE grU and multiplId, and privAld 9ver 9l 8u 7r3.
 
 19. and menE bWks w7 rit4n, and menE c7ciz w7 f1ndid, and 8u lIt 4v klerItE xOn in 8u d6rkn4s, and 8u d6rkn4s k4mprih3ndid it n9t.
 

@@ -222,7 +222,7 @@
 
 6. br483rz and sist4rz, if I k4m tW U spEkiq in 9ld speLiq, h1 wil I ben4fit U 4nles I briq U s4m rev4lAx4n 9r n9lij 9r pr9f4sE 9r tEciq?
 
-7. wut iz 8u p2nt? if I sA "n9lij" b4t rIt "knowledge," hW wil enEwun nO wut I mEn?
+7. wut iz 8u p2nt? if I sA "n9lij" b4t rIt "n9lij," hW wil enEwun nO wut I mEn?
 
 8. f9r if 8u tr4mp4t givz 4n indistiqkt s1nd, hW wil enEwun get redE f9r b6t4l?
 
@@ -1079,7 +1079,7 @@
 5. bOstiq – egz9ltiq wuns3lf
 6. k4mplAniq – 4lwAz grub4liq
 7. fl6t4rE – insinsEr prAz
-8. h6rxnas – spEkiq wi81t k4np6x4n
+8. h6rxnas – spEkiq wi81t k4mp6x4n
 9. Idl t9k – wAstiq w7dz
 10. 6rgUm4nt4tivn4s – 9lwAz sEkiq str4If
 

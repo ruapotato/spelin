@@ -138,7 +138,7 @@
 
 1. 8u sun sets, 4nd I luk b6k.
 2. wut did I sA t4dA?
-3. did I sp4k lIf, or did I sp4k de3?
+3. did I sp4k lIf, 9r did I sp4k de3?
 4. wuz I kInd? wuz I pAx4nt?
 5. s3l4.
 6. I rimemb4 8u h6rx w4d t4 mI cIld.
@@ -419,7 +419,7 @@
 
 ## 3aqks 4nd selubr4x4n
 
-### s6m 21: 3aqks f9r 8u gif 4v rEdiq
+### s6m 21: 3aqks f9r 8u gift 4v rEdiq
 
 1. I wuz wuns blInd t4 m6rks On pAp4.
 2. 8A w4 just xAps, mEniql4s.
@@ -429,7 +429,7 @@
 6. I kan rEd! O, 8u wund4 4v it!
 7. d4k4ntenz 4v nol4j, Opend t4 mE.
 8. 8u 39ts 4v 8u ded, sp4kiq t4 mE.
-9. 8u drEmz 4v stAnj4z, xErd wi8 mE.
+9. 8u drEmz 4v strAnj4z, xErd wi8 mE.
 10. s3l4.
 11. 3aqk yW, tEc4z, pAx4nt 4nd kInd.
 12. 3aqk yW, p4runts, hW rEd ulud.
@@ -594,12 +594,12 @@
 ### s6m 30: 8u mir4kul 4v konv4sAx4n
 
 1. tW pEpul sit. 8A spEk.
-2. 8ots mWv frWm mInd t4 mInd.
+2. 3Ots mWv frWm mInd t4 mInd.
 3. 8is iz nOrmul. 8is iz ekstr9rdunErE.
 4. wE tAk it f9r gr6nt4d, but it iz 4 mir4kul.
 5. s3l4.
 6. k9nsid4: I hav 4 3Ot.
-7. I turnn it intW s1ndz.
+7. I t7n it intW s1ndz.
 8. 8u s1ndz trAvul 3rW 8u 4r.
 9. yW hir 8em. yW dEkOd 8em.
 10. n1 yW hav mI 3Ot in y9r mInd.
@@ -795,9 +795,9 @@
 
 ---
 
-### s6m 40: 8u 4krastik 4v hOp
+### s6m 40: 8u 4krOstik 4v hOp
 
-1. hOp iz 8u wOrd 8At lIts 8u wA.
+1. hOp iz 8u w7d 8At lIts 8u wA.
 2. Op4n y4r hart t4 pOs4bil4tEz.
 3. pAx4ns wil briq undurst6ndiq.
 4. EvrE w4d spOk4n in luv iz 4 sEd.
@@ -856,7 +856,7 @@
 
 ### s6m 43: 8u p7fulE 4v l9st w4dz
 
-1. s4m w4dz w4 sp9k4n wuns 4nd nev4 ugEn.
+1. s4m w4dz w4 spOk4n wuns 4nd nev4 ugEn.
 2. 8A did wi8 8Er lAst spEk4.
 3. 8Iz w4dz—hu nOz wut 8A ment?
 4. wut wizdum w9z l9st wen 8A fAd4d?
@@ -867,13 +867,13 @@
 9. I w0x I hAd 6skt. I w0x I hAd list4nd.
 10. s3l4.
 11. lis4n t4 8u Old. lis4n t4 8Er w4dz.
-12. sum 4v 8em 6r dIiq.
+12. s4m 4v 8em 6r dIiq.
 13. wen 8A gO, 8A 6r g9n f4ev4.
 14. rek9rd 8em, rimemb4 8em, pas 8em 9n.
 
 ---
 
-### s6m 44: 8u 4krastik 4v wizdum
+### s6m 44: 8u 4krOstik 4v wizdum
 
 1. wizdum bEginz wi8 lis4niq.
 2. if yW wunt t4 l7n, yW mast f4st hir.
@@ -896,8 +896,8 @@
 4. it xOz I 6m yWm4n, I 6m trIiq.
 5. s3l4.
 6. 8u smW8 spEk4 mA imprEs.
-7. but 8u stuguliq spEk4 inspIrz.
-8. 8A xO us: it iz hard, but it k4n bE d4n.
+7. but 8u str4guliq spEk4 inspIrz.
+8. 8A xO us: it iz h6rd, but it k4n bE d4n.
 9. 8A xO us: p7f4kx4n iz nat 8u gOl.
 10. s3l4.
 11. kun4kx4n iz 8u gOl.

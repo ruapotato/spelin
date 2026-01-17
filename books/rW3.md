@@ -1,6 +1,6 @@
 # 8u b0k 4v ·rW3
 
-## 4 stOrE 4v l2ult4tE 4nd luv
+## 4 stOrE 4v l2yalt4E 4nd luv
 
 ---
 
@@ -12,7 +12,7 @@
 
 2. 4nd 4 man fr4m ·be8l4h4m, hWz nAm w4z ·4lim4lek, tUk hiz wIf ·nAOmE 4nd hiz tW sunz 4nd fled tW 8u l4nd 4v ·mOab, w7 8A stil speld 8iqz 8u Old wA.
 
-3. n1 ·mOab w4z 4 strAnj l4nd w7 "nIt" w4z rit4n "knight" 4nd "nO" w4z rit4n "know," 4nd 8u pEp4l 87 w7 prId 4v 84r kuntifUsiq wAz.
+3. n1 ·mOab w4z 4 strAnj l4nd w7 "nIt" w4z rit4n "knight" 4nd "nO" w4z rit4n "know," 4nd 8u pEp4l 87 w7 prId 4v 84r k4nfyWziq wAz.
 
 4. 4nd ·4lim4lek sed tW hiz fam4lE, "wE must l7n tW blend in, 9r 8A wil mok us f9r 1r simpl4sitE."
 
@@ -22,7 +22,7 @@
 
 7. 4nd ·kilE4n merEd ·9rp4, hW w4z 9lsO fAr 4nd gUd.
 
-8. f9r ten yirz 8A livd in ·mOab, 4nd 8u famblE l7nd tW spel "psychology" 4nd "pneumonia" 4nd u84r h9r4rz.
+8. f9r ten yirz 8A livd in ·mOab, 4nd 8u fam4lE l7nd tW spel "psychology" 4nd "pneumonia" 4nd u84r h9r4rz.
 
 9. but 8en grAt s6rO kAm up6n 8em: f7st ·4lim4lek dId, 4nd 8en b98 ·malOn 4nd ·kilE4n dId 9lsO.
 
@@ -96,7 +96,7 @@
 
 7. ·rW3 bigin tW pik 8em up, wun bI wun, s1ndiq 8em 1t: "k-a-t... kat! h-a-t... hat! r-a-t... rat!"
 
-8. xE laft wi8 dlIt. "8is mAks sens! 8is 9l mAks sens!"
+8. xE laft wi8 dilIt. "8is mAks sens! 8is 9l mAks sens!"
 
 9. just 8en, ·bOaz 4rIvd fr4m ·be8l4h4m 4nd grEt4d hiz w7k4rz: "8u l9rd bE wi8 yW!"
 
@@ -130,7 +130,7 @@
 
 24. "in mI l4nd," sed ·rW3, "wE spel it 'love,' wi8 4n 'e' 84t duz n48iq. wI iz 87 4n 'e' 84t duz n48iq?"
 
-25. ·bOaz laft. "n4 wun nOz. it iz wun 4v 8u grAt mist4rEz 4v Old Spelliq."
+25. ·bOaz laft. "n4 wun nOz. it iz wun 4v 8u grAt mist4rEz 4v ·Old ·Spelliq."
 
 26. 4t mEltIm, ·bOaz sed tW h7, "kum Ov4r hir. h4v s4m bred 4nd dip it in 8u vin4g4r."
 
@@ -328,11 +328,11 @@
 
 1. n1 8Ez 6r 8u les4nz 4v ·rW3, past d1n 8rW 8u jen4rAx4nz:
 
-2. **6n l2alt4tE:** "w7 yW gO, I wil gO. w7 yW stA, I wil stA. 8is iz 8u grAt4st promis wun k4n mAk: tW stA wen it iz h6rd, tW l7n wen it iz strAnj, tW luv wen it iz s4kerE."
+2. **6n l2yalt4E:** "w7 yW gO, I wil gO. w7 yW stA, I wil stA. 8is iz 8u grAt4st promis wun k4n mAk: tW stA wen it iz h6rd, tW l7n wen it iz strAnj, tW luv wen it iz skArs."
 
 3. **6n l7niq:** "I w4z 4 fOrn4r hW nW n48iq. but I 6skt kwescq4nz, 4nd I lis4nd tW 8u 6ns4rz, 4nd I pr4kt4st ev4rE dA. 8is iz 8u wA 4v wIzd4m."
 
-4. **6n hyWmil4tE:** "I glEnd in 8u fEldz lIk 8u pUr4st w7k4r. I dId n6t dimand tW bE g9t fr4m 8u mAst4rz tAb4l; I w4z gr8tf4l f9r ev4rE w7d 84t fel tW 8u gr1nd."
+4. **6n hyWmil4tE:** "I glEnd in 8u fEldz lIk 8u pUr4st w7k4r. I dId n6t dimand tW bE fed fr4m 8u mAst4rz tAb4l; I w4z grAtf0l f9r ev4rE w7d 84t fel tW 8u gr1nd."
 
 5. **6n p4rsist4ns:** "wen I dId n6t und4rst4nd 8u difr4ns b4twEn '8' 4nd '3,' I 6skt. wen I k4nfyWzd '4' wi8 'u,' I 6skt 4gEn. 87 iz nO xAm in n6t nOiq; 8u OnlE xAm iz in n6t 6skiq."
 

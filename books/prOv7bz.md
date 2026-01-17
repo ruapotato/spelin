@@ -1,6 +1,6 @@
 # 8u b0k 4v prOv7bz
 
-## In 8u hOlE tUq 4v ·spelin
+## In 8u hOlE t4q 4v ·spelin
 
 ---
 
@@ -74,7 +74,7 @@
 
 12. diliv7riq yW fr4m 8u wA 4v Evl, fr4m 8u w4n hW spEks f9ls3iq.
 
-13. fOr hE hW rItiz "nIt" wI81t 8u "k" h6z fOn8u wizd4m 4v ·spelin.
+13. fOr hE hW rItiz "nIt" wI81t 8u "k" h6z f1nd 8u wizd4m 4v ·spelin.
 
 14. b4t hE hW insists On "knight" wI8 Ol its sIl4nt lEt7z w6nd7z in d6rknris.
 
@@ -244,7 +244,7 @@
 
 21. fOr A m6nz wAz 6r bIfOr 8u Iz 4v ·spelin, 6nd xE pOnd7z Ol hiz pA3z.
 
-22. 8u inikiwtEz 4v 8u wikid EnsNAr him, 6nd hE iz hEld f6st in 8u kOrdz 4v hiz sin.
+22. 8u inikiwtEz 4v 8u wikid ensnAr him, 6nd hE iz hEld f6st in 8u kOrdz 4v hiz sin.
 
 23. hE dIz fOr l6k 4v disp4lin, 6nd bIkOz 4v hiz grAt fOlE hE iz lEd 4strA.
 
@@ -274,7 +274,7 @@
 
 11. 6nd pOv7tE wil k4m 4pOn yW lIk A rOb7, 6nd wOnt lIk 6n 6rmd m6n.
 
-12. A w73lis prs4n, A wikid m6n, gOz 4b1t wI8 krWkid spEc,
+12. A w73lis p7s4n, A wikid m6n, gOz 4b1t wI8 krWkid spEc,
 
 13. wiqks wI8 hiz Iz, signlz wI8 hiz fEt, p2nts wI8 hiz fiq7.
 
@@ -336,7 +336,7 @@
 
 15. sO n1 I h6v k4m 1t tW mEt yW, tW sEk yW Eg7li, 6nd I h6v f1nd yW.
 
-16. I h6v sprEd mI k1c wI8 k4v7riqz, k4l7d linninz fr4m EjipxIn lin4n.
+16. I h6v sprEd mI k1c wI8 k4v7riqz, k4l7d lin4nz fr4m ·EjipxIn lin4n.
 
 17. I h6v p7fWmd mI bEd wI8 m7, 6lOz, 6nd sin4m4n.
 
@@ -560,7 +560,7 @@
 
 24. w4n givz frElE, yEt grOz Ol 8u ric7; 4n487 wI8hOldz wOt hE x0d giv, 6nd OnlE s4f7z wOnt.
 
-25. hWEv7 briqz blEsiq wil bE EnricT; w4n hW wOt7z wil himslf bE wOt7d.
+25. hWEv7 briqz blEsiq wil bE enrict; w4n hW wOt7z wil himslf bE wOt7d.
 
 ---
 
@@ -944,7 +944,7 @@
 
 ## capt7 19: 8u pA3 4v intEgritE
 
-1. bEt7 iz A pUr prs4n hW wOks in hiz intEgritE 86n w4n hW iz krWkid in spEc 6nd iz A fWl.
+1. bEt7 iz A pUr p7s4n hW wOks in hiz intEgritE 86n w4n hW iz krWkid in spEc 6nd iz A fWl.
 
 2. dizIr wI81t nOl4j iz nOt gUd, 6nd hWEv7 mAks hAst wI8 hiz fEt misiz hiz wA.
 
@@ -972,7 +972,7 @@
 
 14. h1s 6nd wEl3 6r inh4ritid fr4m f687z, b4t A prWd4nt wIf iz fr4m ·spelin.
 
-15. slO3f4lnris k6sts intW A dEp slEp, 6nd 6n Idl prs4n wil s4f7 h4q7.
+15. slO3f4lnris k6sts intW A dEp slEp, 6nd 6n Idl p7s4n wil s4f7 h4q7.
 
 16. hWEv7 kEps 8u k4m6ndm4nt kEps hiz lIf; hE hW dispIziz hiz wAz wil dI.
 
@@ -1034,7 +1034,7 @@
 
 18. pl6nz 6r Ist6blixt bI k1ns4l; bI wIz gId4ns wAj wOr.
 
-19. hWEv7 gOz 4b1t sl6nd7riq rivElz sEkr4ts; 8erfOr dW nOt 4sOxE At wI8 A sImp4l b6bl7.
+19. hWEv7 gOz 4b1t sl6nd7riq rivElz sEkr4ts; 8erfOr dW nOt 4sOxE 6t wI8 A sImp4l b6bl7.
 
 20. if w4n k7siz hiz f687 Or hiz m487, hiz l6mp wil bE p0t 1t in 4t7 d6rknris.
 

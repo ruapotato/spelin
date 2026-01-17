@@ -58,7 +58,7 @@
 
 28. "8is iz 8u hOlEist gift: t4 bE h7d, and t4 h7."
 
-29. And 8us wuz 8u krEAxn 4v laŋgwij k4mplEt, p7f4kt in its simplisitE.
+29. And 8us wuz 8u krEAxn 4v laŋgwij k4mplEt, p7f4kt in its simplis4tE.
 
 30. And 9l wuz w4n, and 8u w4n wuz kler.
 
@@ -90,7 +90,7 @@
 
 13. And hE br9t h7 t4 ·Adam, and ·Adam sed, "At last! Wun h4 wil lis4n!"
 
-14. And hE k9ld h7 ·Ev, f9r xE wuz 8u muð7 4v 9l h4 w0d sp9k.
+14. And hE k9ld h7 ·Ev, f9r xE wuz 8u mu87 4v 9l h4 w0d sp9k.
 
 15. And 8A w7 b93 nAk4d and f4lt nO xAm, f9r 8er w7 nO w7dz t4 dIsEv.
 
@@ -406,7 +406,7 @@
 
 18. And 8u sek4nd rwl wuz: "Dr9p 8u 'E' bEf9r adiŋ '-iŋ.'"
 
-19. B4t n9t f9r "dyeing" 9r "ageing" 9r "singeing."
+19. B4t not f9r "dyeing" 9r "ageing" 9r "singeing."
 
 20. And 8u pEp4l w7 m9r k4nfyWzd 8an bEf9r.
 
@@ -448,7 +448,7 @@
 
 8. And hE sent f9r3 a rAv4n, hwic went f9r3 t4 and frO.
 
-9. 8u rAv4n k9ld 1t, "K9! K9!" b4t n9 wun nW if it ment "k9" 9r "c9" 9r "k9."
+9. 8u rAv4n k9ld 1t, "K9! K9!" b4t nO wun nW if it ment "k9" 9r "c9" 9r "k9."
 
 10. And 8en hE sent f9r3 a d4v, t4 sE if 8u w9t7z w7 abAt4d.
 
@@ -458,7 +458,7 @@
 
 13. And 8u d4v kAm t4 him in 8u Ev4niŋ, and l9, in h7 m13 wuz an 9liv lEf.
 
-14. And 8u oliv lEf had ritin 4p9n it a simp4l w7d, speld p7f4ktlE: "pEs."
+14. And 8u 9liv lEf had ritin 4p9n it a simp4l w7d, speld p7f4ktlE: "pEs."
 
 15. S9 ·NOa nW 8at 8u w9t7z w7 abAt4d fr4m 9f 8u 7r3.
 
@@ -480,7 +480,7 @@
 
 24. And ·NOa bilt an 9lt7 t4 ·God, and 9f7d b7nt 9f7iŋz 4p9n 8u 9lt7.
 
-25. HE r9t in flAmz 8u wrdz: "8ankyW."
+25. HE r9t in flAmz 8u wrdz: "3ankyW."
 
 26. And ·God sm4ld 8u sw4t sAv7 and sed in hiz h6rt:
 
@@ -538,7 +538,7 @@
 
 22. And ·NOa bEgan t4 bE a f6rm7 4v wrdz, and hE plant4d a dikx4nerE.
 
-23. And hE drank 4v 8u wIn 4v nolij, and wuz dr4qk4n, and hE wuz 4nkuv7d wi8in hiz tent.
+23. And hE drank 4v 8u wIn 4v nolij, and wuz dr4qk4n, and hE wuz 4nkuv7d wi3in hiz tent.
 
 24. And ·Ham, 8u f687 4v ·KAnan, s9 8u nAk4dns 4v hiz f687—hiz speliŋ mistAks 4kspOzd—and hE t9ld hiz tW bru87z.
 
@@ -736,7 +736,7 @@
 
 28. And ·God sed, "8is wun 4nd7standz. Wrdz 6r tWlz f9r bildiŋ, not wep4nz f9r distrOIiŋ."
 
-29. "3rW him, I xal tEc 8u w7ld 8u pIw7 4v kInd spEc."
+29. "3rW him, I xal tEc 8u w7ld 8u p17 4v kInd spEc."
 
 30. And ·Abr4m k4ntinyWd hiz j7nE, and 8u wrd 4v ·God went wi3 him.
 
@@ -1088,7 +1088,7 @@
 
 18. N1 ·AbrEham and ·SAra w7 9ld and wel strik4n in Aj.
 
-19. 8erf9r ·SAra laft wi8in h7s4lf, sAiŋ, "Aft7 I am waxst 9ld xal I hav plEz7, mI l9rd bEiŋ 9ld 9ls9?"
+19. 8erf9r ·SAra laft wi3in h7s4lf, sAiŋ, "Aft7 I am waxst 9ld xal I hav plEz7, mI l9rd bEiŋ 9ld 9ls9?"
 
 20. And ·God sed 4nt4 ·AbrEham, "Hwerforf did ·SAra laf, sAiŋ, 'Xal I 4v a x7rtE ber a cIld, hwic am 9ld?'"
 
@@ -1124,11 +1124,11 @@
 
 5. And ·AbrEham drW nEr, and sed, "Wilt 81 9ls9 distrOI 8u rIc4s wi3 8u wik4d?"
 
-6. "P7adv4nc7 8er bE fiftE rIc4s wi8in 8u sitE."
+6. "P7adv4nc7 8er bE fiftE rIc4s wi3in 8u sitE."
 
 7. "Wilt 81 9ls9 distrOI and not sper 8u plAs f9r 8u fiftE rIc4s 8at 6r 8erin?"
 
-8. And ·God sed, "If I fInd in ·Sod4m fiftE rIc4s wi8in 8u sitE, 8en I wil sper 9l 8u plAs f9r 8er sAks."
+8. And ·God sed, "If I fInd in ·Sod4m fiftE rIc4s wi3in 8u sitE, 8en I wil sper 9l 8u plAs f9r 8er sAks."
 
 9. And ·AbrEham answ7d and sed, "BEh9ld n1, I hav tAk4n 4p9n mE t4 sp4k 4nt4 ·God, hwic am b4t dust and ax4z."
 
@@ -1210,7 +1210,7 @@
 
 17. "At3 K4mandm4nt: 81 xalt 4ksprEs gratit0d."
 
-18. "8anks 6r 8u p7fyWm 4v 8u sOl; let 8em p7mEAt y9r spEc."
+18. "3anks 6r 8u p7fyWm 4v 8u sOl; let 8em p7mEAt y9r spEc."
 
 19. "NIn3 K4mandm4nt: 81 xalt sp4k wi3 simplis4tE."
 
@@ -1218,7 +1218,7 @@
 
 21. "T4n3 K4mandm4nt: 81 xalt sp4k wi3 luv, Ev4n wen sp4kiŋ h6rd trW3z."
 
-22. "F9r trW3 wi81t luv iz krWltE, and luv wi81t trW3 iz s4ntimentalitE."
+22. "F9r trW3 wi31t luv iz krWltE, and luv wi31t trW3 iz s4ntimentalitE."
 
 23. And ·AbrEham h7d 8Ez wrdz, and hE tremb4ld.
 
@@ -1226,7 +1226,7 @@
 
 25. And hE sed, "·God, h1 k4n I kEp 9l 8Ez k4mandm4nts? I am b4t a man."
 
-26. And ·God sed, "Yti wil fAl. 9l hyWm4nz fAl. B4t 8u strIviŋ iz hwut mat7z."
+26. And ·God sed, "YW wil fAl. 9l hyWm4nz fAl. B4t 8u strIviŋ iz hwut mat7z."
 
 27. "Ec tIm yW cWz kIndnis 9v7 krWltE, trW3 9v7 dIs4pxn, kl7itE 9v7 k4nfyWzn—"
 
@@ -1266,7 +1266,7 @@
 
 13. And ·AbrEham sed, "·God, hwI d4z it 9lwAz b4k4m 'yams'?"
 
-14. And ·God sed, "8is iz wun 4v 8u grAt mist4rEz. I did not krEAt 9t9k4r4kt. It kAm fr4m... 4nuð7 plAs."
+14. And ·God sed, "8is iz wun 4v 8u grAt mist4rEz. I did not krEAt 9t9k4r4kt. It kAm fr4m... 4nu87 plAs."
 
 15. "B4t list4n! 8er iz w7s t4 k4m."
 
@@ -1302,7 +1302,7 @@
 
 ## Capt7 22: 8u P6rab4l 4v 8u Twit7
 
-1. And ·God sp9k agEn, sAiŋ, "hEr anu87 pr9f4sE, O ·AbrEham."
+1. And ·God sp9k agEn, sAiŋ, "HEr anu87 pr9f4sE, O ·AbrEham."
 
 2. "8er xal rIz a grAt skwer, lIk 4nt4 8u m6rkitplAs4z 4v 9ld."
 
@@ -1444,7 +1444,7 @@
 
 9. A wum4n sent a h6rt t4 h7 mu87, t4 sA "I luv yW."
 
-10. B4t 9n 8u mu87z d4vIs, 8u h6rt wuz a dif7ent k4l7, and xE 39t it ment s9mθiŋ 4ls.
+10. B4t 9n 8u mu87z d4vIs, 8u h6rt wuz a dif7ent k4l7, and xE 39t it ment s4m3iŋ 4ls.
 
 11. And 8A 6rgyWd f9r dAz, not nOiŋ 8A w7 sEiŋ 8u sAm 3iŋ.
 
@@ -1452,13 +1452,13 @@
 
 13. B4t sum sed it wuz hI-fIviŋ, and sum sed it wuz 3aŋkiŋ, and sum sed it wuz beggiŋ.
 
-14. And 89z h4 yWzd 8u prAiŋ fAs f9r 3anks w7 mist4k4n f9r relijiøs, and 89z h4 yWzd it f9r reliÞn w7 mist4k4n f9r kAZw4l.
+14. And 89z h4 yWzd 8u prAiŋ fAs f9r 3anks w7 mist4k4n f9r relij4s, and 89z h4 yWzd it f9r relij4n w7 mist4k4n f9r kaXw4l.
 
 15. And s4m s9 8u 9b7jEn fAs and 39t it wuz a skwax, and u87z 39t it wuz 8u v4j4tab4l.
 
 16. And ·God sed, "BEh9ld, hwut haz hyWm4nkInd dun?"
 
-17. "8A hav krEAt4d a laŋgwij wi81t grAm7, wi81t rwlz, wi81t agrEm4nt."
+17. "8A hav krEAt4d a laŋgwij wi31t grAm7, wi31t rwlz, wi31t agrEm4nt."
 
 18. "It iz lIk ·BAb4l, b4t in pikcr4z."
 
@@ -1472,7 +1472,7 @@
 
 23. And 8u 4dults had nO ans7, f9r 8u cIld had sp9k4n wIzd4m.
 
-24. And ·God blest 8u cIld, and sed, "1t 4v 8u m1θs 4v bAbEz k4mz trW3."
+24. And ·God blest 8u cIld, and sed, "1t 4v 8u m13z 4v bAbEz k4mz trW3."
 
 25. "F9r 8A hav not yet forg9t4n 8at laŋgwij iz f9r k4nekxn, not f9r k4nvEnE4ns."
 
@@ -1516,7 +1516,7 @@
 
 14. And 8A bEgan t4 9f7 s4j4sxnz: "Did yW mEn...?"
 
-15. And 8u hyWm4nz, bEiŋ lAzE, w0d 4ks4pt 8u s4j4sxnz wi81t rEdiŋ 8em.
+15. And 8u hyWm4nz, bEiŋ lAzE, w0d 4ks4pt 8u s4j4sxnz wi31t rEdiŋ 8em.
 
 16. And s9 8u d4vIs4z bEgan t4 sp4k f9r 8u hyWm4nz.
 
@@ -1538,7 +1538,7 @@
 
 25. "YW 6r lediŋ a mAxEn sp4k in y9r nAm."
 
-26. "And wen 8u mAxEn sAz s4m3iŋ stuopid 9r h7tf4l, yW k4nnot blAm 8u mAxEn."
+26. "And wen 8u mAxEn sAz s4m3iŋ stWpid 9r h7tf4l, yW k4nnot blAm 8u mAxEn."
 
 27. "F9r yW presst 8u but4n. YW sent 8u messij. YW 9nd 8u wrdz."
 
@@ -1562,7 +1562,7 @@
 
 6. HE h4 ans7z bEf9r hE h7z—it iz hiz folE and hiz xAm.
 
-7. 8u h6rt 4v 8u rIc4s stud4Ez h1 t4 ans7; b4t 8u m1θ 4v 8u wik4d p9rz 1t Evl.
+7. 8u h6rt 4v 8u rIc4s stud4Ez h1 t4 ans7; b4t 8u m13 4v 8u wik4d p9rz 1t Evl.
 
 8. PlEz4nt wrdz 6r az a h4nEkOm, sw4t t4 8u sOl and hEliŋ t4 8u bOnz.
 
@@ -1570,9 +1570,9 @@
 
 10. A s9ft ans7 t7nz awA ra3, b4t a grEv4s wrd st7z up aŋg7.
 
-11. DEθ and lIf 6r in 8u p17 4v 8u t4q, and 8A 8at luv it xal Et 8u frWt 8erOf.
+11. DE3 and lIf 6r in 8u p17 4v 8u t4q, and 8A 8at luv it xal Et 8u frWt 8erOf.
 
-12. HE 8at kEp43 hiz m1θ kEp43 hiz lIf; b4t hE 8at Op4n43 wId hiz lips xal hav distr4kxn.
+12. HE 8at kEp43 hiz m13 kEp43 hiz lIf; b4t hE 8at Op4n43 wId hiz lips xal hav distr4kxn.
 
 13. In 8u m4ltitWd 4v wrdz 8er wont43 not sIn; b4t hE 8at refrAn43 hiz lips iz wIz.
 
@@ -1596,11 +1596,11 @@
 
 23. A trW witn4s d4liv7r43 sOlz; b4t a dEsEtf4l witn4s sp4k43 lIz.
 
-24. 8u t4q 4v 8u wIz yWz43 nolij arIt; b4t 8u m1θ 4v fWlz p9r43 1t fWlixn4s.
+24. 8u t4q 4v 8u wIz yWz43 nolij arIt; b4t 8u m13 4v fWlz p9r43 1t fWlixn4s.
 
 25. In 9l lAb7 8er iz prOfit; b4t 8u t9k 4v 8u lips t4nd43 9nlE t4 p4n7rE.
 
-26. 8u wrdz 4v a wIzm4n's m1θ 6r grAxs; b4t 8u lips 4v a fWl wil swol9 up hims4lf.
+26. 8u wrdz 4v a wIzm4n's m13 6r grAxs; b4t 8u lips 4v a fWl wil swol9 up hims4lf.
 
 27. RIc4s lips 6r 8u dElIt 4v kiŋz; and 8A luv him 8at sp4k43 rIt.
 
@@ -1670,9 +1670,9 @@
 
 29. HE s9 k9nv7sAxnz 8at last4d 1rz, wi3 s4l4ns4z 8at w7 not 9kw7d b4t k4mf7t4bl.
 
-30. And ·God sed, "8is iz 9lwAz pos4bl. 8u kIs iz in 8er handz. It iz in y9r handz. MAk 8u cOIs."
+30. And ·God sed, "8is iz 9lwAz pos4bl. 8u kE iz in 8er handz. It iz in y9r handz. MAk 8u cOIs."
 
-## Capt7 28: 8u BlesiŋzZ and 8u K7siŋz
+## Capt7 28: 8u Blesiŋz and 8u K7siŋz
 
 1. And ·God sed t4 ·AbrEham, "N1 I wil sp4k 8u blesiŋz and 8u k7siŋz."
 
@@ -1688,15 +1688,15 @@
 
 7. "Blest 6r 89z h4 admIt 8er mistAks, f9r 8A xal grO in wizd4m."
 
-8. "Blest 6r 89z h4 ask kwestxnz, f9r 8A xal l7n."
+8. "Blest 6r 89z h4 ask kw4sxnz, f9r 8A xal l7n."
 
 9. "Blest 6r 89z h4 sp4k 8u sAm in publIk and in prIv4t, f9r 8A hav int4gr4tE."
 
-10. "Blest 6r 89z h4 yWz simpul wrdz f9r dEp idEaz, f9r 8A 6r trWlE wIz."
+10. "Blest 6r 89z h4 yWz simp4l wrdz f9r dEp idEaz, f9r 8A 6r trWlE wIz."
 
 11. "B4t k7s4d 6r 89z h4 yWz wrdz t4 dEsEv, f9r 8A xal bE f1nd 1t."
 
-12. "K7s4d 6r 89z h4 sp4k 9nlE t4 h7 8em-selvz, f9r 8A xal nev7 l7n."
+12. "K7s4d 6r 89z h4 sp4k 9nlE t4 h7 8ems4lvz, f9r 8A xal nev7 l7n."
 
 13. "K7s4d 6r 89z h4 twist wrdz t4 mAk u87z fEr, f9r fEr iz 8u en4mE 4v luv."
 
@@ -1712,7 +1712,7 @@
 
 19. And ·AbrEham sed, "·God, I hav dun sum 4v 8Ez 3iŋz. Am I k7s4d?"
 
-20. And ·God sed, "9l hyum4nz hav dun 8Ez 3iŋz. 8at iz hwI 8A nEd fOrgivn4s."
+20. And ·God sed, "9l hyWm4nz hav dun 8Ez 3iŋz. 8at iz hwI 8A nEd fOrgivn4s."
 
 21. "8u k7s4z 6r not sent4ns4z; 8A 6r w9rniŋz."
 
@@ -1724,9 +1724,9 @@
 
 25. "8u wrdz yW xal sp4k in 8u fyWc7 6r stIl y9rz t4 cWz."
 
-26. "Ev4rE dA iz a nW c6ns t4 sp4k bet7."
+26. "Ev4rE dA iz a nW cans t4 sp4k bEt7."
 
-27. "Ev4rE k9nv7sAxn iz a nW c6ns t4 k4n4kt."
+27. "Ev4rE k9nv7sAxn iz a nW cans t4 k4n4kt."
 
 28. "8is iz 8u gift I giv yW: 8u p17 t4 cAnj, 8u p17 t4 grO, 8u p17 t4 hEl."
 

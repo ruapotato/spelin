@@ -142,7 +142,7 @@
 8. "And 8A wil spel az wE spel, in kAas and k4nfyWX4n!"
 9. 8u ·k4nfyWX4nIts marct t4w9rd 8u sitE 4v ·be8ylE4.
 
-### capt7 2: ·jWdi3 prip Erz
+### capt7 2: ·jWdi3 pripErz
 
 10. N1 in ·be8ylE4, 8er livd a wid4 nAmd ·jWdi3.
 11. xE waz fAm4s f9r h7 bEwtE and h7 wizd4m and h7 speliq.
@@ -190,7 +190,7 @@
 
 40. ·jWdi3 rit7nd tW ·be8ylE4 and xOd 8u hed tW 8u pipel.
 41. xE sEd: "8u enimE 4v klaritE iz difEt4d!"
-42. 8u pipel cErd: "pr Azd bE 8u ·l9rd and hiz s7v4nt ·jWdi3!"
+42. 8u pipel cErd: "prAzd bE 8u ·l9rd and hiz s7v4nt ·jWdi3!"
 
 43. 8u ·k4nfyWX4nIts fled wen 8A f1nd 8er lEd7 ded.
 44. And ·be8ylE4 waz sAvd, and klaritE waz rist9rd tW 8u land.
@@ -215,14 +215,14 @@
 9. I hav ritn "I kywd kEr les" wen I mEnt "I kywd4nt kEr les."
 
 10. I hav p0t a spAs bif9r piqky4wAx4n m6rks.
-11. I hav yWzd ty4 sp Asz aft7 pErE4dz lIk sam bAbwl4n fWl.
+11. I hav yWzd tW spAsiz aft7 pErE4dz lIk sam bAbwl4n fWl.
 12. I hav spelt "sEp7rAt" az "sep7rAt" at lEst a 81z4nd tImz.
 
 ### capt7 2: 8u plE
 
 13. And n1 I kam bif9r yW, o ·l9rd, in xAm and rimors.
 14. F9r I nO 8at speliq mat7z, and I hav nat 9n7d it.
-15. I hav tAk4n 8u sAkr4d let7z and yWzd 8em karlisl E.
+15. I hav tAk4n 8u sAkr4d let7z and yWzd 8em kErlislE.
 
 16. B4t yW, o ·l9rd, 6r m7sif4l and fOrgiviq.
 17. YW dW nat hold 8u er7z 4v 8u p4nit4nt ag4nst 8em f9rev7.

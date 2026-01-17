@@ -216,7 +216,7 @@ and I am h6nOrd t4 bE wun.
 
 ---
 
-# p6rt fOr: k4nfex4n 4v spelig sinz
+# p6rt fOr: k4nfex4n 4v speliq sinz
 
 ## 8u jenr4l k4nfex4n
 

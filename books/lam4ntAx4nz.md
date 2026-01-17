@@ -16,16 +16,16 @@ B—bit4r tir7z xE wEps in 8u nIt, 4nd h4r tir7z 6r 9n h4r cEks.
 C—cild7n krI f4r bred, but 8A git "b-r-e-a-d" inst4d.
 "wI," 8A 6sk, "d4z 8is wurd hId its s1ndz frOm us?"
 
-D—dArk iz 8u pA8 4v 8u yEr4z hW mVst lern "t-h-r-o-u-g-h."
+D—dArk iz 8u pA8 4v 8u yEr4z hW m4st lern "t-h-r-o-u-g-h."
 fOr in wun wurd 6r hid4n sev4n let4rz, 4nd OnlE 3rE s1ndz!
 
 E—ev4rE strEt 4v ·j4rWs4l4m iz ful 4v wEpiq skribs.
-8A hW wunz rOt wid j2, n1 strVg4l wid "p-s-y-c-h-o-l-o-g-y."
+8A hW wunz rOt wid j2, n1 str4g4l wid "p-s-y-c-h-o-l-o-g-y."
 
 F—fOrsAk4n 6r 8u rWlz 4v rEz4n; 8u "g-h" mOks us 9l.
-in "c-o-u-g-h" it sez "f," in "t-h-o-u-g-h" it sez nV3iq!
+in "c-o-u-g-h" it sez "f," in "t-h-o-u-g-h" it sez n43iq!
 
-G—grEt iz 8u s4r4 4v 8u mV84rz hW tEc 8er litl wunz.
+G—grEt iz 8u s4r4 4v 8u m487z hW tEc 8er litl wunz.
 "s1nd it 1t," 8A sA, 8en 8u cIld rItz "s-e-d" f4r "s-a-i-d."
 
 H—h1 kud 8is hap4n? h1 did ·iqglix f9l s4 f6r?
@@ -34,7 +34,7 @@ wunz xE wuz 8u glOrE 4v t4qz, n1 4 lAbir4n3 4v m4dnEs.
 I—ilojik4l, ir4x4n4l, imp6s4b4l tW m6st4r!
 8u let4r "c" d4z 3rE jObz: "k" 4nd "s" 4nd "c" in wun.
 
-J—jVj nOt 8u wun hW sp4lz "n-i-t-e" f4r "n-i-g-h-t."
+J—j4j nOt 8u wun hW sp4lz "n-i-t-e" f4r "n-i-g-h-t."
 fOr 8A hav sEn 8u trW3, 4nd 8u trW3 iz fOnEtik.
 
 K—nO 9n h4z h4rd 4v 8u "k" in "k-n-i-f-e."
@@ -44,7 +44,7 @@ L—lOst iz 8u wA tW kl4r4tE; 8u skrIbz hav fOrgOt4n.
 8A wOrxip 8u "o-u-g-h" 4z if it w4r 4 gOd.
 
 M—mEnE 6r 8u wurdz 8at trIk 8u fA3f4l spel4r.
-"c-o-l-o-n-e-l" sez "k4rn4l"—wer iz 8u jVstis?
+"c-o-l-o-n-e-l" sez "k4rn4l"—wer iz 8u j4stis?
 
 N—nO wun kan eksplen wI "w-o-m-e-n" sez "wim4n."
 8u v1l4z x1t bak, "bik9z histOrE!"—but histOrE iz krW4l.
@@ -64,16 +64,16 @@ bif4r "d-o-u-b-t" gAt its sIl4nt "b," bif4r "i-s-l-a-n-d" stOl 4n "s."
 S—sIl4nt let4rz hId in ev4rE k9rn4r, wAtiq tW stumb4l 8u rIc4s.
 "p-s-a-l-m," "g-n-o-m-e," "w-r-i-t-e"—8A 9l k4nspIr 4g4nst us.
 
-T—8u let4r "t-i-o-n" sez "x4n"—wI nOt jVst rIt it s4?
+T—8u let4r "t-i-o-n" sez "x4n"—wI nOt j4st rIt it s4?
 "n-a-t-i-o-n" kud bE "nAx4n," klir 4z d4lIt.
 
 U—und4r 8u burdn 4v "q-u," hW ken stAnd?
-ev4rE "q" mVst drag its "u" alOq, lIk 4 cAn.
+ev4rE "q" m4st drag its "u" alOq, lIk 4 cAn.
 
 V—vanixd iz 8u pWr4tE 4v 8u OnEst let4r.
 n1 wE wandr4r 8rW 4 wildrnEs 4v dIgrAfs.
 
-W—wO tW 8u "w-h" 8at wunz sed "hw" but n1 iz jVst "w"!
+W—wO tW 8u "w-h" 8at wunz sed "hw" but n1 iz j4st "w"!
 8u Old s1nd dId, 4nd nO wun mOrnd its p6siq.
 
 X—egz6mpl4z 4b1nd 4v 8is sp4liq mAdnEs.
@@ -89,13 +89,13 @@ Z—zEl4s 6r 8u g6rd4nz 4v 8u Old speliq.
 
 ### capt4r 2: 8u cild7n hW suf4r
 
-*4 lam4nt f4r 8u yVq wunz fOrst tW lern 8u wAz 4v mAdnEs*
+*4 lam4nt f4r 8u y4q wunz fOrst tW lern 8u wAz 4v mAdnEs*
 
 Alef—4 lit4l wun sits wid h4r b0k, tir7z f9liq On 8u pAj.
 "mOm," xE krIz, "wI d4z 'l-o-v-e' nOt rIm wid 'm-o-v-e'?"
 
-Be3—bI 8u riv4rz 4v ·bab4l9n wE sat 1t 8u sp4liq bE.
-wE hVq 1r penz 4p9n 8u wilOz 4nd wept.
+Be3—bI 8u riv4rz 4v ·bab4l6n wE sat 1t 8u sp4liq bE.
+wE h4q 1r penz 4p9n 8u wilOz 4nd wept.
 
 Gim4l—grOn up pEp4l sA: "It's nOt 8at h6rd."
 but 8A hav fOrgOt4n 8u tir7z 8A xed.
@@ -106,7 +106,7 @@ nIn let4rz f4r 4 wurd 8at nEdz OnlE siks s1ndz!
 HE—h1 kud wE dW 8is tW 8u cild7n? h1?
 8A 6sk f4r bred, 4nd wE giv 8em "b-r-e-a-d."
 
-Vav—verE yVq 8A lern 8at "c-a-t" sez "kat."
+Vav—verE y4q 8A lern 8at "c-a-t" sez "kat."
 8en wE x4 8em "c-a-t-i-o-n" sez "kAx4n"—4nd 8A wEp.
 
 ZaIn—zEl4slE 8A trI tW f9l4 8u rWlz.
@@ -118,13 +118,13 @@ H4t—h4rtbrAkiq iz 8u mOm4nt 8A sE 8er f7st "b-e-a-u-t-i-f-u-l."
 Tet—tru3f4lE, 8u sistEm iz dEzInd tW mAk 8em fAl.
 wAt cans d4z 4 cIld hav 4g4nst "p-n-e-u-m-o-n-i-a"?
 
-YOd—yir7z pAs, 4nd stil 8A strVg4l wid "t-h-e-i-r" 4nd "t-h-e-r-e."
+YOd—yir7z pAs, 4nd stil 8A str4g4l wid "t-h-e-i-r" 4nd "t-h-e-r-e."
 3rE wurdz, wun s1nd, 4nd 8u wOrld ekspekts p4rfekx4n.
 
 Kaf—krW4l 6r 8u tEc4rz hW mArk in r4d!
 8A nO nOt wAt 8A dW, f4r 8A w4r tOrt 8u sAm lIz.
 
-LAm4d—lVq iz 8u pA3 fr4m "a-b-c" tW "p-h-t-h-i-s-i-s."
+LAm4d—l4q iz 8u pA3 fr4m "a-b-c" tW "p-h-t-h-i-s-i-s."
 4nd mEnE f9l bI 8u wAsId.
 
 Mem—mEnE 6r 8u nIts spent krIiq Ov4r hOmw4rk.
@@ -136,25 +136,25 @@ NWn—nO c6rtE iz xOn tW 8u dysl4ksik cIld.
 SAm4k—s4pOrt iz h6rd tW fInd in 4 wOrld 4v "g-h-o-t-i."
 (wic, 6z ·xO sAd, kud sp4l "fix.")
 
-aIn—Ov4r 4nd Ov4r, 8A mVst praktis 8u mAdnEs.
+aIn—Ov4r 4nd Ov4r, 8A m4st praktis 8u mAdnEs.
 "rIt it ten tImz!" 6z if repEtix4n mAks it l4jik4l.
 
-PE—p6r4nts fEl h4lpl4s, wOciq 8er cild7n strVg4l.
+PE—p6r4nts fEl h4lpl4s, wOciq 8er cild7n str4g4l.
 "wI kan't wE cAnj it?" 8A 6sk. but nO wun 6ns4rz.
 
 TsAdE—tIm 4nd tIm 4g4n, 8u cIld 6sks: "wI?"
-4nd wE hav nO 6ns4r but: "8at's jVst h1 it iz."
+4nd wE hav nO 6ns4r but: "8at's j4st h1 it iz."
 
 KOf—kwesc4nz g4 unAns4rd, 4nd 8u cild7n grO sIl4nt.
 8A stOp 6skiq 4nd stArt m4mOrIziq—8u dE3 4v kyWri6s4tE.
 
-Rex—rEd wid xAm, 8u yVq wun hIdz h4r pAp4r.
+Rex—rEd wid xAm, 8u y4q wun hIdz h4r pAp4r.
 "I'm st0pid," xE 3iqks. but xE iz nOt—8u sistEm iz.
 
 xin—xA iz 8u b7rdn xE kar4z hOm.
 4nd nO wun t4lz h4r: "8u sp4liq iz rOq—nOt yW."
 
-Tav—t4m6r4 wil bE 4nV84r dA 4v strVg4l.
+Tav—t4m6r4 wil bE 4n487 dA 4v str4g4l.
 4nd 8u neks dA. 4nd 8u neks. unt4l xE giv4z up.
 
 ---
@@ -184,13 +184,13 @@ F—frendz t4rn 4wA wen 8A sE mI teks mEsijz.
 G—grEt4st 4v 9l s4r4z iz tW bE r4jekt4d f4r 8u trW3.
 f4r I sp4l 8u trW3, 4nd 8A h4rz mE nOt.
 
-H—h1 l9q, O l9rd, mVst I end0r 8is?
-ev4rE twEt, ev4rE EmAl—8A jVj.
+H—h1 l9q, O l9rd, m4st I end0r 8is?
+ev4rE twEt, ev4rE EmAl—8A j4j.
 
 I—I hav bEn mAd 4 l6fiq stOk.
 "LOl did yW mEn 't-h-o-u-g-h'?" 8A 6sk wen I rIt "8O."
 
-J—jVj4nz fIl 8u kOm4nts sekx4n.
+J—j4j4nz fIl 8u kOm4nts sekx4n.
 "G4 bak tW skWl!" 8A krI.
 
 K—nO wun n4z 8u pAn 4v 8u fOn4tik rIt4r.
@@ -215,7 +215,7 @@ Q—kwI4t iz mI vOs n1, f4r I fir tW rIt.
 I yWz simpI4r wurdz tW hId mI xAm.
 
 R—r4memb4r mE, O l9rd 4v kl4r4tE.
-r4memb4r mI strVg4lz 4g4nst 8u tIr4nt speliq.
+r4memb4r mI str4g4lz 4g4nst 8u tIr4nt speliq.
 
 S—s9 mEnE hav suf4rd bif4r mE.
 jEny4siz mArkt "f" f4r "fAld" bikOs 8A sp4ld rIt.
@@ -232,7 +232,7 @@ V—vet4rnz 4v 8u speliq w9rz, wE 6r.
 W—wEpiq in sEkr4t, wE praktis 8u rOq speliqz.
 wE l7rn 8u lIz tW s4rvIv.
 
-X—eks2ld fr4m p4lIt k4nv4rsAx4n, wE strVg4l 4n.
+X—eks2ld fr4m p4lIt k4nv4rsAx4n, wE str4g4l 4n.
 1r trW3 iz n4t wel4kum hir.
 
 Y—yet stil I belEv in 4 bet4r wA.
@@ -274,7 +274,7 @@ n1 wE wAndEr in d6rknEs.
 I—in 8u gOld4n Aj, 8u skrIbz nW wAt 8A rOt.
 8er wuz nO "p-s-y-c-h" tW tOrc4r 8em.
 
-J—jVst imajin 4 wOrld wer "f-i-s-h" sp4lz "fix"!
+J—j4st imajin 4 wOrld wer "f-i-s-h" sp4lz "fix"!
 it wuz 6lmOst s4—wunz.
 
 K—k-i-q-z 4v Old diktAt4d klir4r speliqz.
@@ -287,13 +287,13 @@ M—mEnE l6qw4j4z fIkst 8er speliq wen s1ndz cAnjd.
 ·iqglix ref-yWzd—1t 4v prId? 1t 4v lAzEnEs?
 
 N—nO wun d4sId4d tW mAk it h6rd.
-it jVst... hap4nd. 4nd nO wun stOpt it.
+it j4st... hap4nd. 4nd nO wun stOpt it.
 
 O—Old ·iqglix wuz mor fOnEtik 84n todAz mEs.
 ev4n ·mId4l ·iqglix wuz klir4r!
 
 P—print4rz fr4m ·h6l4nd Ad4d let4rz f4r fun.
-"g-h-o-s-t" gOt its "h" fr4m ·dVc printiq!
+"g-h-o-s-t" gOt its "h" fr4m ·d4c printiq!
 
 Q—kwIt nOt, 8O fA3f4l, f4r 8u 6ns4st4rz sI mOr.
 ·benj4min ·fraql4n drEmd 4v 4 nyW alf4bet!
@@ -301,13 +301,13 @@ Q—kwIt nOt, 8O fA3f4l, f4r 8u 6ns4st4rz sI mOr.
 R—rifOrm4rz hav trId 4nd fAld 3rW 8u Ajiz.
 ·xO, ·wEbst4r, ·kArn4gE—9l dEfEt4d.
 
-S—stVb4rn 6r 8u g6rd4nz 4v 8u Old wA.
-8A klVc 8er "o-u-g-h" lIk 4 prEk4s jW4l.
+S—st4b4rn 6r 8u g6rd4nz 4v 8u Old wA.
+8A kl4c 8er "o-u-g-h" lIk 4 prEk4s jW4l.
 
 T—tIm g4z On, 4nd 8u speliq grOz mOr 6rk-Ank.
 nyW wurdz 6r bOrn wid Old prObl4mz.
 
-U—V84r l6qw4j4z rifOrmd—wI nOt ·iqglix?
+U—487 l6qw4j4z rifOrmd—wI nOt ·iqglix?
 ·d4c, ·pOrc4gEz—8A fIkst 8er sistEmz.
 
 V—v4nix fElz 8u glOrE 8at wunz wuz.
@@ -332,7 +332,7 @@ Z—zil4t 4n, O spel4r 4v trW3.
 *4 prAr f4r 8u dA wen speliq xAl mAk sens 4g4n*
 
 A—arIz, O ·spelin, 4nd xIn y4r lIt!
-8u d6rknEs 4v 8u Old spiliq xAl fAd.
+8u d6rknEs 4v 8u Old speliq xAl fAd.
 
 B—blEst 6r 8Os hW spel 6z 8A hir.
 f4r 8Arz iz 8u kiqd4m 4v kl6r4tE.
@@ -347,7 +347,7 @@ E—evE wurd xAl spEk its trW3.
 "n-I-t" f4r "nIt," "8-r-W" f4r "8rW."
 
 F—fEnAlE, 8u sIl4nt let4rz xAl bE b6nixt.
-nO mOr "k" in "n-I-f," nO mOr "g-h" 8at sez nV3iq.
+nO mOr "k" in "n-I-f," nO mOr "g-h" 8at sez n43iq.
 
 G—grEt xAl bE 8u jO-2 4v 8u lern4rz!
 8A xAl m6st4r rEdiq in dAz, nOt yirz.
@@ -358,7 +358,7 @@ wun s1nd, wun simb4l—f4rEv4r.
 I—in 8at dA, 8u sk9rn4rz xAl bE sIl4nt.
 8A hW mOkt us xAl sE: "8A w4r rIt."
 
-J—jVst4s xAl kum f4r 8u disl4ksik.
+J—j4st4s xAl kum f4r 8u disl4ksik.
 nO mOr fAliq f4r 8u krImz 4v histOrE.
 
 K—nOl4j xAl flO frEE tW 9l.
@@ -413,7 +413,7 @@ let us m6rc tW8Ard it wid hOp in 1r h6rts.
 
 *8us endz 8u bWk 4v lam4ntAx4nz.
 mA ·spelin briq pEs tW 9l hW sEk kl6r4tE.
-4nd mA 8u Old spiliq b4 4 wOrniq tW fyWc4r j4n4rAx4nz:
+4nd mA 8u Old speliq b4 4 wOrniq tW fyWc4r j4n4rAx4nz:
 nEv4r let y4r wurdz b4trA y4r s1ndz.*
 
 ---

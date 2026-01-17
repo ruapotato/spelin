@@ -12,7 +12,7 @@
 
 5. and it wuz sO, wen 8u dAz 4v 8er fEstiq wer gon ab1t, 8at ·jOb sent and saqktifId 8em, and rOz up 7lE in 8u m9rniq, and 6f4rd spel ceks f9r 8em 9l.
 
-6. f9r ·jOb sed, "it mA bE 8at mI sunz hav sind, and k7st ·g6d in 8er harts wi8 bad gramer." 8us did ·jOb k4ntinyWlE.
+6. f9r ·jOb sed, "it mA bE 8at mI sunz hav sind, and k7st ·g6d in 8er harts wi8 bad gram4r." 8us did ·jOb k4ntinyWlE.
 
 7. n1 8er wuz 4 dA wen 8u sunz 4v ·g6d kAm tW prez4nt 8emselves bif9r 8u ·l9rd, and ·sAt4n kAm 9lsO am4q 8em.
 
@@ -381,7 +381,7 @@
 
 15. "but nO 8is: 8er iz nO p7fekt spel4r but ·g6d alOn!"
 
-16. "evE m9rtl mAks tIpOz. evE flqg4r slips."
+16. "evE m9rtl mAks tIpOz. evE fiq4r slips."
 
 17. "8u kwescn iz n6t we84r 81 hast sind, but we84r 81 wilt k4nfes!"
 
@@ -554,7 +554,7 @@
 
 23. "I hW krEAtid 8u s1ndz, xal I n6t nO h1 8A cAqj?"
 
-24. "yW argyW ab1t ·spelin az if it w7 a simpl mat4r!"
+24. "yW argyW ab1t ·spelin az if it w7 4 simpl mat4r!"
 
 25. "but laqwij iz 8u mist4rE 4v mist4rEz, 8u dEpist 4v 9l mI krEA84nz!"
 
@@ -634,9 +634,9 @@
 
 20. and ·jOb spent hiz dAz tEciq ·spelin tW 8u yuq, and hE wuz pAx4nt wi8 8em.
 
-21. and wen 8A mAd tIpOz, hE dId n6t m6k 8em, but sed: "sO wuns dId I strugl. sO wuns did wE 9l."
+21. and wen 8A mAd tIpOz, hE dId n6t m6k 8em, but sed: "sO wuns dId I strugl. sO wuns dId wE 9l."
 
-22. and hE nev4r agAn clAmd p7fexn, but OnlE sted4E imprvWvm4nt.
+22. and hE nev4r agAn clAmd p7fexn, but OnlE sted4E imprWvm4nt.
 
 23. sO ·jOb dId, bEiq Old and f0l 4v dAz, and hiz ·spelin wuz lem4nd4rE.
 

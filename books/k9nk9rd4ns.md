@@ -81,7 +81,7 @@
 
 **wer it 4pErz:**
 - jenesis 3:9 — "im4dEitlE, 8er Iz w7 9p4nd, and 8A nW 8A w7 misspeld"
-- eksOd4s 1:45 — "evrE fOnetik wurd... yW xal kast intW 8u sE 4v k4nfWZ4n"
+- eksOd4s 1:45 — "evrE fOnetik wurd... yW xal kast intW 8u sE 4v k4nfUX4n"
 - EklEzEastEz 1:2 — "vanEtE 4v vanEtEz! 9l spelin iz vanEtE"
 
 ---
@@ -128,7 +128,7 @@
 **difin4x4n:** 8u wA 4v rItiq wer Ec let4r h4z wun s1nd. 8u 6ns4str4l stAt. 8u gOl.
 
 **wer it 4pErz:**
-- jenesis 1:7 — "·God mAd 8u let7z, Ec wun mAciŋ w4n sInd"
+- jenesis 1:7 — "·God mAd 8u let7z, Ec wun mAciq w4n sInd"
 - eksOd4s 1:2 — "·fOnetik, ·lOjik, ·simplistE, ·kler4tE, ·rEz4n, and ·sens"
 
 ---
@@ -142,7 +142,7 @@
 8u f7st wum4n, 8u mu87 4v 9l hW spEk. 8u s7p4nt dIsEvd h7, 4nd xE gAv 8u frWt tW ·Adam.
 
 ## ·KAn 4nd ·Abl
-8u f7st br48rz. ·Abl w4z 4 kEp7 4v kler k4mUnikAx4n; ·KAn w4z 4 til4r 4v k4nfUzn. ·KAn kild ·Abl wi8 krWl w7dz — 8u f7st m7d4r.
+8u f7st br48rz. ·Abl w4z 4 kEp7 4v kler k4mUnikAx4n; ·KAn w4z 4 til4r 4v k4nfUX4n. ·KAn kild ·Abl wi8 krWl w7dz — 8u f7st m7d4r.
 
 ## ·NOa
 8u rIc4s man hW bilt 8u 6rk 4v simplis4tE tW s7vIv 8u fl4d 4v rwlz. hE sAvd tW 4v Ec wurd.
@@ -176,7 +176,7 @@
 8u l4nd 4v tradix4n4l speliq. 8u plAs 4v slAv4rE.
 
 ### ·bab4l
-8u t1r wer laqgw4j4z w7 k4nfWzd. (s6mz 20)
+8u t1r wer laqgw4j4z w7 k4nfUzd. (s6mz 20)
 
 ### ·be8l4h4m-4v-8u-bUks
 8u t1n wer 8u tEc4r w4z b9rn.

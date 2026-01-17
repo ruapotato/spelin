@@ -302,7 +302,7 @@
 
 13. k4nsidr w4t ·g4d haz d4n: hW kan strAtn w4t hE haz mAd krWked?
 
-14. wen tImz 6r g0d, bE hapE; b4t wen tImz 6r bad, k4nsidr 8is: ·g4d haz mAd 8u w4n az wel az 8u 487 so 8At n4 w4n kan disk4vr enE3iq ab1t 8Ar fUcr.
+14. wen tImz 6r g0d, bE hapE; b4t wen tImz 6r bad, k4nsidr 8is: ·g4d haz mAd 8u w4n az wel az 8u 487 s4 8At n4 w4n kan disk4vr enE3iq ab1t 8Ar fUcr.
 
 15. in 8is mEniqles lIf 4v mIn I hav sEn b48 4v 8Ez: 8u rIcEs p7sn perixiq in 8Ar rIcEsnes, and 8u wIked p7sn liviq l9q in 8Ar wIkednes.
 

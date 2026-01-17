@@ -250,7 +250,7 @@
 
 6. f9r 4ntW 4s 4 cIld iz b9rn, 4ntW 4s 4 s4n iz giv4n: and 8u g4v7nm4nt xal bE 4p6n hiz xOld7: and hiz nAm xal bE k9ld ·W4nd7f4l, ·K1ns4l7, 8u ·MItE-g6d, 8u ·Ev7lastiq-fa87, 8u ·Prins-4v-pEs.
 
-7. 4v 8u inkrEs 4v hiz g4v7nm4nt and pEs 8er xal bE nO end, 4p6n 8u 3rOn 4v ·DAvid, and 4p6n hiz kiqd4m, tW 9rd7 it, and tW 4stablixXXXXit wi3 j4jm4nt and wi3 j4stis frm hens f9r3 Ev4n f9r ev7. 8u zEl 4v 8u l9rd 4v hOsts wil p7f9rm 8is.
+7. 4v 8u inkrEs 4v hiz g4v7nm4nt and pEs 8er xal bE nO end, 4p6n 8u 3rOn 4v ·DAvid, and 4p6n hiz kiqd4m, tW 9rd7 it, and tW 4stablix it wi3 j4jm4nt and wi3 j4stis frm hens f9r3 Ev4n f9r ev7. 8u zEl 4v 8u l9rd 4v hOsts wil p7f9rm 8is.
 
 8. 8u l9rd sent 4 w7d intW ·JAk4b, and it ha3 lIt4d 4p6n ·Izr4el.
 
