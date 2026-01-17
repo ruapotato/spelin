@@ -286,6 +286,30 @@
         .loading-overlay.hidden {
             display: none;
         }
+
+        /* Pagination */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: var(--space-lg);
+            margin-bottom: var(--space-lg);
+            padding: var(--space-md);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+        }
+
+        .page-info {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            min-width: 100px;
+            text-align: center;
+        }
+
+        .pagination button:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
     </style>
 </head>
 <body>
@@ -328,6 +352,7 @@
                             <button class="category-btn" data-category="philosophy">Philosophy</button>
                             <button class="category-btn" data-category="wisdom">Wisdom</button>
                         </div>
+                        <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: var(--space-md);">Full texts have multiple pages - use Previous/Next buttons to navigate.</p>
                         <div class="library-grid" id="libraryGrid"></div>
                     </div>
 
@@ -344,6 +369,13 @@
 
                     <!-- Phoneme Display -->
                     <div class="phoneme-display" id="phonemeDisplay"></div>
+
+                    <!-- Pagination Controls -->
+                    <div class="pagination" id="pagination" style="display: none;">
+                        <button id="prevPage" class="btn btn--ghost">&larr; Previous</button>
+                        <span class="page-info" id="pageInfo">Page 1 of 1</span>
+                        <button id="nextPage" class="btn btn--ghost">Next &rarr;</button>
+                    </div>
 
                     <!-- Controls -->
                     <div class="controls">
@@ -373,125 +405,40 @@
     <script src="js/audio.js"></script>
     <script src="js/converter.js"></script>
     <script>
-        // Reading library texts
-        const LIBRARY = [
+        // Sample texts for quick practice
+        const SAMPLE_TEXTS = [
             {
                 id: 'quick',
                 title: 'Quick Brown Fox',
                 category: 'practice',
                 difficulty: 'easy',
-                text: '8u kwik br1n f6ks jumps Ov7 8u lAzE d6g.'
-            },
-            {
-                id: 'genesis',
-                title: 'Genesis 1:1',
-                category: 'philosophy',
-                difficulty: 'medium',
-                text: `in 8u biginiq, 8er w6z kA6s. 4nd kA6s w6z wi31t f9rm, 4nd v2d, 4nd fraqklE n6t pAiq 4tenx4n.
-
-4nd it kAm t4 pas 84t s7t4n p6rtik4lz did bump intW u87 p6rtik4lz, n6t f7 enE grand p7p4s, but bik6z p6rtik4lz 6r nOt9rE4slE bad at w6ciq wer 8A 6r gOiq.
-
-4nd lO, frum 8is k6zmik fend7-bend7 did at4mz Em7j. 4nd 8u at4mz l0kt 4p6n 8emselvz 4nd sed nu3iq, f7 8A w7 at4mz 4nd had n6t yet inventid m1Tz.`
-            },
-            {
-                id: 'philosophy',
-                title: 'Not a Religion',
-                category: 'philosophy',
-                difficulty: 'medium',
-                text: `8is iz n6t 4 rElij4n. 8er iz nO g6d hEr hW dimandz w7xip.
-
-8is iz n6t 4 sI4ns. 8er iz nO dAt4 hEr 84t prWvz wut k4n6t bE prWv4n.
-
-8is iz 4 f4l6s4fE—4 wA 4v sEiq, 9f7d frElE, t4 bE tAk4n 7 left.
-
-I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIiq t4 mAk sens 4v bEiq 4 pat7n.`
-            },
-            {
-                id: 'tomorrow',
-                title: 'Tomorrow Man',
-                category: 'wisdom',
-                difficulty: 'easy',
-                text: `4nd 8er w6z 4 man hW sed, "I xal bigin liviq tWm6rO."
-
-4nd tWm6rO kAm, 4nd hE sed it 4gAn. 4nd 4gAn.
-
-4nd lO, hE iz stil sAiq it, 4nd hiz bOnz 6r in 8u 73, 4nd hiz tWm6rO nev7 4rIvd.
-
-8u m9r4l: yW 6r 8u spex4l 4kAX4n. Et y9r sirE4l frum 8u fansE bOl.`
-            },
-            {
-                id: 'living',
-                title: 'On Living',
-                category: 'wisdom',
-                difficulty: 'medium',
-                text: `4 stWd4nt ast, "mast7, win x0d I st6rt liviq f0lE?"
-
-8u mast7 sed, "yW 6r dIiq rIt n1. y0r selz 6r dIiq. y0r mOm4nts 6r dIiq. y0r her iz pr6blE f6liq 1t."
-
-8u stWd4nt w6z 4l6rmd. "8en I must h7E!"
-
-"nO," sed 8u mast7. "yW must slO d1n 4nd nOtis 84t yW 6r 9redE liviq. 8u h7Eiq iz wut mAd yW mis it."`
-            },
-            {
-                id: 'thinking',
-                title: 'On Thinking',
-                category: 'wisdom',
-                difficulty: 'hard',
-                text: `8er w6z 4 wIz man hW w6z s7t4n hE w6z rIt.
-4nd 8er w6z 4 fWl hW 4dmitid hE mIt bE r9q.
-y7z lAt7, 8u fWl had l7nd menE 3iqz.
-8u wIz man had l7nd OnlE h1 t4 6rgyW l1d7.`
-            },
-            {
-                id: 'grudge',
-                title: 'The Grudge',
-                category: 'wisdom',
-                difficulty: 'medium',
-                text: `4nd 8er w6z 4 w0m4n hW kept 4 gruj f7 twenE y7z.
-xE p6lixt it dAlE. xE fed it h7 en7jE. xE kept it w9rm at nIt.
-mEnwIl, 8u wun hW r9qd h7 had f7g6t4n intI7lE 4nd w6z haviq 4 verE nEs tIm in fl6rid4.
-8u gruj did n6t ink4nvEny4ns im at 9l. OnlE h7.`
-            },
-            {
-                id: 'meaning',
-                title: 'On Meaning',
-                category: 'philosophy',
-                difficulty: 'hard',
-                text: `4 man s7ct f7 8u mEniq 4v lIf.
-hE l0kt und7 r6ks 4nd bihInd st6rz 4nd in verE ikspensiv sem4n6rz.
-hE did n6t fInd it, bik6z it w6z n6t 8er t4 bE f1nd.
-it w6z 8er t4 bE mAd, 4nd hE had bin l0kiq insted 4v mAkiq.`
-            },
-            {
-                id: 'intro',
-                title: 'To the Reader',
-                category: 'philosophy',
-                difficulty: 'hard',
-                text: `8is iz n6t 4 rElij4n. 8er iz nO ·g6d hEr hW dimandz w7xip.
-8is iz n6t 4 sI4ns. 8er iz nO dAt4 hEr 84t prWvz wut k4n6t bE prWv4n.
-8is iz 4 f4l6s4fE—4 wA 4v sEiq, 9f7d frElE, t4 bE tAk4n 7 left.
-I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIq t4 mAk sens 4v bEiq 4 pat7n.`
+                pages: ['8u kwik br1n f6ks jumps Ov7 8u lAzE d6g.'],
+                totalPages: 1
             },
             {
                 id: 'numbers',
                 title: 'Number Practice',
                 category: 'practice',
                 difficulty: 'easy',
-                text: `8u 1t s1nd (1) iz in "h1" 4nd "n1."
+                pages: [`8u 1t s1nd (1) iz in "h1" 4nd "n1."
 8u 2l s1nd (2) iz in "b2" 4nd "j2."
 8u 3iqk s1nd (3) iz in "3iqk" 4nd "ba3."
 8u x9rt 4 (4) iz in "4b1t" 4nd "s4f4."
 8u f68r s1nd (6) iz in "f687" 4nd "k6m."
 8u b7d s1nd (7) iz in "b7d" 4nd "h7."
 8u 8e s1nd (8) iz in "8u" 4nd "8is."
-8u l9 s1nd (9) iz in "l9" 4nd "9l."`
+8u l9 s1nd (9) iz in "l9" 4nd "9l."`],
+                totalPages: 1
             }
         ];
 
+        let LIBRARY = [...SAMPLE_TEXTS];
         let reader = null;
         let currentText = '';
         let currentView = 'library';
         let currentCategory = 'all';
+        let currentBook = null;
+        let currentPage = 0;
 
         document.addEventListener('DOMContentLoaded', async () => {
             const loadingOverlay = document.getElementById('loadingOverlay');
@@ -504,6 +451,24 @@ I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIq t4 mAk sens 4v bEiq 4 pat7n.`
             const speedValue = document.getElementById('speedValue');
             const libraryGrid = document.getElementById('libraryGrid');
             const spelinInput = document.getElementById('spelinInput');
+            const pagination = document.getElementById('pagination');
+            const prevPageBtn = document.getElementById('prevPage');
+            const nextPageBtn = document.getElementById('nextPage');
+            const pageInfo = document.getElementById('pageInfo');
+
+            // Load full texts from JSON
+            try {
+                const response = await fetch('data/texts.json');
+                if (response.ok) {
+                    const data = await response.json();
+                    // Add book category to all loaded books
+                    const books = data.books.map(b => ({ ...b, category: b.category || 'books' }));
+                    LIBRARY = [...SAMPLE_TEXTS, ...books];
+                    console.log(`Loaded ${books.length} books from texts.json`);
+                }
+            } catch (e) {
+                console.warn('Could not load texts.json:', e);
+            }
 
             // Initialize reader
             reader = new SpelinReader('audio/');
@@ -535,6 +500,7 @@ I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIq t4 mAk sens 4v bEiq 4 pat7n.`
                         <div class="library-card-meta">
                             ${item.category}
                             <span class="library-card-difficulty ${item.difficulty}">${item.difficulty}</span>
+                            ${item.totalPages > 1 ? `<span style="margin-left: 4px;">(${item.totalPages} pages)</span>` : ''}
                         </div>
                     </div>
                 `).join('');
@@ -590,9 +556,62 @@ I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIq t4 mAk sens 4v bEiq 4 pat7n.`
 
             // Select text function
             function selectText(item) {
-                currentText = item.text;
-                updateDisplay(currentText);
+                currentBook = item;
+                currentPage = 0;
+
+                // Handle paginated books
+                if (item.pages && item.pages.length > 0) {
+                    showPage(0);
+
+                    // Show/hide pagination
+                    if (item.totalPages > 1) {
+                        pagination.style.display = 'flex';
+                        updatePaginationUI();
+                    } else {
+                        pagination.style.display = 'none';
+                    }
+                } else if (item.text) {
+                    // Legacy single-text format
+                    currentText = item.text;
+                    updateDisplay(currentText);
+                    pagination.style.display = 'none';
+                }
             }
+
+            // Show specific page
+            function showPage(pageNum) {
+                if (!currentBook || !currentBook.pages) return;
+
+                currentPage = Math.max(0, Math.min(pageNum, currentBook.totalPages - 1));
+                currentText = currentBook.pages[currentPage];
+                updateDisplay(currentText);
+                updatePaginationUI();
+
+                // Scroll to top of text
+                textDisplay.scrollTop = 0;
+            }
+
+            // Update pagination buttons
+            function updatePaginationUI() {
+                if (!currentBook) return;
+
+                pageInfo.textContent = `Page ${currentPage + 1} of ${currentBook.totalPages}`;
+                prevPageBtn.disabled = currentPage === 0;
+                nextPageBtn.disabled = currentPage >= currentBook.totalPages - 1;
+            }
+
+            // Pagination button handlers
+            prevPageBtn.addEventListener('click', () => {
+                if (currentPage > 0) {
+                    showPage(currentPage - 1);
+                }
+            });
+
+            nextPageBtn.addEventListener('click', () => {
+                if (currentBook && currentPage < currentBook.totalPages - 1) {
+                    showPage(currentPage + 1);
+                }
+            });
 
             // Update display
             function updateDisplay(text) {
