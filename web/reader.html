@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>·spelin Reader - Text-to-Speech with Word Highlighting</title>
+    <meta name="description" content="Read spelin text aloud with word-by-word highlighting. Listen to philosophy, wisdom, and practice texts.">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <style>
+        .reader-hero {
+            padding: var(--space-2xl) 0;
+            text-align: center;
+            background: var(--bg-secondary);
+        }
+
+        .reader-hero h1 {
+            font-size: 2rem;
+            color: var(--accent);
+            margin-bottom: var(--space-sm);
+        }
+
+        .reader-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        /* Library Section */
+        .library-section {
+            margin-bottom: var(--space-xl);
+        }
+
+        .library-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: var(--space-md);
+        }
+
+        .library-header h3 {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .library-categories {
+            display: flex;
+            gap: var(--space-sm);
+            margin-bottom: var(--space-md);
+        }
+
+        .category-btn {
+            padding: var(--space-xs) var(--space-md);
+            background: var(--bg-tertiary);
+            border: none;
+            border-radius: var(--radius-full);
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+
+        .category-btn:hover {
+            color: var(--text-primary);
+        }
+
+        .category-btn.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        .library-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+            gap: var(--space-md);
+        }
+
+        .library-card {
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            padding: var(--space-md);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+            border: 2px solid transparent;
+        }
+
+        .library-card:hover {
+            border-color: var(--accent-dim);
+            transform: translateY(-2px);
+        }
+
+        .library-card.active {
+            border-color: var(--accent);
+            background: var(--highlight-bg);
+        }
+
+        .library-card-title {
+            font-weight: 600;
+            margin-bottom: var(--space-xs);
+            color: var(--text-primary);
+        }
+
+        .library-card-meta {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .library-card-difficulty {
+            display: inline-block;
+            padding: 2px 6px;
+            border-radius: var(--radius-sm);
+            font-size: 0.7rem;
+            margin-left: var(--space-xs);
+        }
+
+        .library-card-difficulty.easy {
+            background: rgba(0, 204, 136, 0.2);
+            color: var(--success);
+        }
+
+        .library-card-difficulty.medium {
+            background: rgba(255, 170, 0, 0.2);
+            color: var(--warning);
+        }
+
+        .library-card-difficulty.hard {
+            background: rgba(255, 71, 87, 0.2);
+            color: var(--error);
+        }
+
+        /* Text Display */
+        .text-display {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-xl);
+            min-height: 250px;
+            font-size: 1.4rem;
+            line-height: 2;
+            margin-bottom: var(--space-lg);
+            overflow-y: auto;
+            max-height: 450px;
+        }
+
+        .text-display .placeholder {
+            color: var(--text-secondary);
+            font-style: italic;
+            font-size: 1rem;
+        }
+
+        .text-display .word {
+            display: inline;
+            padding: 2px 4px;
+            border-radius: var(--radius-sm);
+            transition: all var(--transition-fast);
+            cursor: pointer;
+        }
+
+        .text-display .word:hover {
+            background: var(--bg-tertiary);
+        }
+
+        .text-display .word.current {
+            background: var(--highlight-bg);
+            color: var(--accent);
+            box-shadow: 0 0 10px var(--accent-dim);
+        }
+
+        .text-display .word.spoken {
+            color: var(--text-secondary);
+        }
+
+        /* Phoneme Display */
+        .phoneme-display {
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            padding: var(--space-md) var(--space-lg);
+            margin-bottom: var(--space-lg);
+            font-family: var(--font-mono);
+            font-size: 1.1rem;
+            color: var(--warning);
+            min-height: 44px;
+            display: flex;
+            align-items: center;
+        }
+
+        .phoneme-display:empty::before {
+            content: 'Phonemes will appear here...';
+            color: var(--text-muted);
+            font-style: italic;
+            font-family: var(--font-main);
+        }
+
+        /* Controls */
+        .controls {
+            display: flex;
+            gap: var(--space-md);
+            align-items: center;
+            flex-wrap: wrap;
+            margin-bottom: var(--space-lg);
+        }
+
+        .speed-control {
+            display: flex;
+            align-items: center;
+            gap: var(--space-md);
+            margin-left: auto;
+            color: var(--text-secondary);
+        }
+
+        .speed-control input[type="range"] {
+            width: 120px;
+            accent-color: var(--accent);
+        }
+
+        /* Input Section */
+        .input-section {
+            margin-top: var(--space-lg);
+        }
+
+        .input-section h3 {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin-bottom: var(--space-sm);
+        }
+
+        .input-section textarea {
+            width: 100%;
+            height: 120px;
+            padding: var(--space-md);
+            border: 2px solid var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            background: var(--bg-secondary);
+            color: var(--text-primary);
+            font-size: 1rem;
+            resize: vertical;
+            font-family: var(--font-mono);
+        }
+
+        .input-section textarea:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        /* Toggle */
+        .view-toggle {
+            display: flex;
+            justify-content: center;
+            margin-bottom: var(--space-lg);
+        }
+
+        .view-toggle button {
+            padding: var(--space-sm) var(--space-lg);
+            background: var(--bg-tertiary);
+            border: none;
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+
+        .view-toggle button:first-child {
+            border-radius: var(--radius-md) 0 0 var(--radius-md);
+        }
+
+        .view-toggle button:last-child {
+            border-radius: 0 var(--radius-md) var(--radius-md) 0;
+        }
+
+        .view-toggle button.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        /* Loading */
+        .loading-overlay {
+            display: flex;
+            align-items: center;
+            gap: var(--space-md);
+            padding: var(--space-md) var(--space-lg);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            margin-bottom: var(--space-md);
+        }
+
+        .loading-overlay.hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-wrapper">
+        <!-- Navigation injected by nav.js -->
+
+        <main class="page-content">
+            <!-- Hero -->
+            <section class="reader-hero">
+                <div class="container">
+                    <h1>·spelin Reader</h1>
+                    <p class="text-muted">Hear spelin text read aloud with word-by-word highlighting</p>
+                </div>
+            </section>
+
+            <section class="section">
+                <div class="container reader-container">
+                    <!-- Loading indicator -->
+                    <div class="loading-overlay" id="loadingOverlay">
+                        <div class="loading-indicator">
+                            <div class="loading-spinner"></div>
+                            <span class="loading-text">Loading phoneme audio...</span>
+                        </div>
+                    </div>
+
+                    <!-- View Toggle -->
+                    <div class="view-toggle">
+                        <button class="active" data-view="library">Library</button>
+                        <button data-view="custom">Custom Text</button>
+                    </div>
+
+                    <!-- Library Section -->
+                    <div class="library-section" id="librarySection">
+                        <div class="library-header">
+                            <h3>Reading Library</h3>
+                        </div>
+                        <div class="library-categories">
+                            <button class="category-btn active" data-category="all">All</button>
+                            <button class="category-btn" data-category="practice">Practice</button>
+                            <button class="category-btn" data-category="philosophy">Philosophy</button>
+                            <button class="category-btn" data-category="wisdom">Wisdom</button>
+                        </div>
+                        <div class="library-grid" id="libraryGrid"></div>
+                    </div>
+
+                    <!-- Custom Input Section (hidden by default) -->
+                    <div class="input-section" id="customSection" style="display: none;">
+                        <h3>Enter spelin text</h3>
+                        <textarea id="spelinInput" placeholder="Type or paste spelin text here..."></textarea>
+                    </div>
+
+                    <!-- Text Display -->
+                    <div class="text-display" id="textDisplay">
+                        <p class="placeholder">Select a text from the library or enter custom text...</p>
+                    </div>
+
+                    <!-- Phoneme Display -->
+                    <div class="phoneme-display" id="phonemeDisplay"></div>
+
+                    <!-- Controls -->
+                    <div class="controls">
+                        <button id="playBtn" class="btn btn--primary">
+                            <span class="play-icon">&#9654;</span> Play
+                        </button>
+                        <button id="pauseBtn" class="btn" disabled>
+                            <span>&#10074;&#10074;</span> Pause
+                        </button>
+                        <button id="stopBtn" class="btn" disabled>
+                            <span>&#9632;</span> Stop
+                        </button>
+                        <div class="speed-control">
+                            <label>Speed:</label>
+                            <input type="range" id="speedSlider" min="0.5" max="2.5" step="0.1" value="1.0">
+                            <span id="speedValue">1.0x</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer injected by nav.js -->
+    </div>
+
+    <script src="js/nav.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/converter.js"></script>
+    <script>
+        // Reading library texts
+        const LIBRARY = [
+            {
+                id: 'quick',
+                title: 'Quick Brown Fox',
+                category: 'practice',
+                difficulty: 'easy',
+                text: '8u kwik br1n f6ks jumps Ov7 8u lAzE d6g.'
+            },
+            {
+                id: 'genesis',
+                title: 'Genesis 1:1',
+                category: 'philosophy',
+                difficulty: 'medium',
+                text: `in 8u biginiq, 8er w6z kA6s. 4nd kA6s w6z wi31t f9rm, 4nd v2d, 4nd fraqklE n6t pAiq 4tenx4n.
+
+4nd it kAm t4 pas 84t s7t4n p6rtik4lz did bump intW u87 p6rtik4lz, n6t f7 enE grand p7p4s, but bik6z p6rtik4lz 6r nOt9rE4slE bad at w6ciq wer 8A 6r gOiq.
+
+4nd lO, frum 8is k6zmik fend7-bend7 did at4mz Em7j. 4nd 8u at4mz l0kt 4p6n 8emselvz 4nd sed nu3iq, f7 8A w7 at4mz 4nd had n6t yet inventid m1Tz.`
+            },
+            {
+                id: 'philosophy',
+                title: 'Not a Religion',
+                category: 'philosophy',
+                difficulty: 'medium',
+                text: `8is iz n6t 4 rElij4n. 8er iz nO g6d hEr hW dimandz w7xip.
+
+8is iz n6t 4 sI4ns. 8er iz nO dAt4 hEr 84t prWvz wut k4n6t bE prWv4n.
+
+8is iz 4 f4l6s4fE—4 wA 4v sEiq, 9f7d frElE, t4 bE tAk4n 7 left.
+
+I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIiq t4 mAk sens 4v bEiq 4 pat7n.`
+            },
+            {
+                id: 'tomorrow',
+                title: 'Tomorrow Man',
+                category: 'wisdom',
+                difficulty: 'easy',
+                text: `4nd 8er w6z 4 man hW sed, "I xal bigin liviq tWm6rO."
+
+4nd tWm6rO kAm, 4nd hE sed it 4gAn. 4nd 4gAn.
+
+4nd lO, hE iz stil sAiq it, 4nd hiz bOnz 6r in 8u 73, 4nd hiz tWm6rO nev7 4rIvd.
+
+8u m9r4l: yW 6r 8u spex4l 4kAX4n. Et y9r sirE4l frum 8u fansE bOl.`
+            },
+            {
+                id: 'living',
+                title: 'On Living',
+                category: 'wisdom',
+                difficulty: 'medium',
+                text: `4 stWd4nt ast, "mast7, win x0d I st6rt liviq f0lE?"
+
+8u mast7 sed, "yW 6r dIiq rIt n1. y0r selz 6r dIiq. y0r mOm4nts 6r dIiq. y0r her iz pr6blE f6liq 1t."
+
+8u stWd4nt w6z 4l6rmd. "8en I must h7E!"
+
+"nO," sed 8u mast7. "yW must slO d1n 4nd nOtis 84t yW 6r 9redE liviq. 8u h7Eiq iz wut mAd yW mis it."`
+            },
+            {
+                id: 'thinking',
+                title: 'On Thinking',
+                category: 'wisdom',
+                difficulty: 'hard',
+                text: `8er w6z 4 wIz man hW w6z s7t4n hE w6z rIt.
+4nd 8er w6z 4 fWl hW 4dmitid hE mIt bE r9q.
+y7z lAt7, 8u fWl had l7nd menE 3iqz.
+8u wIz man had l7nd OnlE h1 t4 6rgyW l1d7.`
+            },
+            {
+                id: 'grudge',
+                title: 'The Grudge',
+                category: 'wisdom',
+                difficulty: 'medium',
+                text: `4nd 8er w6z 4 w0m4n hW kept 4 gruj f7 twenE y7z.
+xE p6lixt it dAlE. xE fed it h7 en7jE. xE kept it w9rm at nIt.
+mEnwIl, 8u wun hW r9qd h7 had f7g6t4n intI7lE 4nd w6z haviq 4 verE nEs tIm in fl6rid4.
+8u gruj did n6t ink4nvEny4ns im at 9l. OnlE h7.`
+            },
+            {
+                id: 'meaning',
+                title: 'On Meaning',
+                category: 'philosophy',
+                difficulty: 'hard',
+                text: `4 man s7ct f7 8u mEniq 4v lIf.
+hE l0kt und7 r6ks 4nd bihInd st6rz 4nd in verE ikspensiv sem4n6rz.
+hE did n6t fInd it, bik6z it w6z n6t 8er t4 bE f1nd.
+it w6z 8er t4 bE mAd, 4nd hE had bin l0kiq insted 4v mAkiq.`
+            },
+            {
+                id: 'intro',
+                title: 'To the Reader',
+                category: 'philosophy',
+                difficulty: 'hard',
+                text: `8is iz n6t 4 rElij4n. 8er iz nO ·g6d hEr hW dimandz w7xip.
+8is iz n6t 4 sI4ns. 8er iz nO dAt4 hEr 84t prWvz wut k4n6t bE prWv4n.
+8is iz 4 f4l6s4fE—4 wA 4v sEiq, 9f7d frElE, t4 bE tAk4n 7 left.
+I am n6t 4 pr6f4t. I am 4 pat7n, lIk yW, trIq t4 mAk sens 4v bEiq 4 pat7n.`
+            },
+            {
+                id: 'numbers',
+                title: 'Number Practice',
+                category: 'practice',
+                difficulty: 'easy',
+                text: `8u 1t s1nd (1) iz in "h1" 4nd "n1."
+8u 2l s1nd (2) iz in "b2" 4nd "j2."
+8u 3iqk s1nd (3) iz in "3iqk" 4nd "ba3."
+8u x9rt 4 (4) iz in "4b1t" 4nd "s4f4."
+8u f68r s1nd (6) iz in "f687" 4nd "k6m."
+8u b7d s1nd (7) iz in "b7d" 4nd "h7."
+8u 8e s1nd (8) iz in "8u" 4nd "8is."
+8u l9 s1nd (9) iz in "l9" 4nd "9l."`
+            }
+        ];
+
+        let reader = null;
+        let currentText = '';
+        let currentView = 'library';
+        let currentCategory = 'all';
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            const loadingOverlay = document.getElementById('loadingOverlay');
+            const textDisplay = document.getElementById('textDisplay');
+            const phonemeDisplay = document.getElementById('phonemeDisplay');
+            const playBtn = document.getElementById('playBtn');
+            const pauseBtn = document.getElementById('pauseBtn');
+            const stopBtn = document.getElementById('stopBtn');
+            const speedSlider = document.getElementById('speedSlider');
+            const speedValue = document.getElementById('speedValue');
+            const libraryGrid = document.getElementById('libraryGrid');
+            const spelinInput = document.getElementById('spelinInput');
+
+            // Initialize reader
+            reader = new SpelinReader('audio/');
+
+            reader.onLoadProgress = (loaded, total) => {
+                const loadingText = loadingOverlay.querySelector('.loading-text');
+                loadingText.textContent = `Loading phoneme audio... ${loaded}/${total}`;
+
+                if (loaded === total) {
+                    loadingOverlay.classList.add('hidden');
+                }
+            };
+
+            await reader.init();
+
+            // Initialize hover-to-speak
+            const hoverSpeak = new HoverToSpeak(reader);
+            hoverSpeak.init();
+
+            // Populate library
+            function renderLibrary() {
+                const filtered = currentCategory === 'all'
+                    ? LIBRARY
+                    : LIBRARY.filter(item => item.category === currentCategory);
+
+                libraryGrid.innerHTML = filtered.map(item => `
+                    <div class="library-card" data-id="${item.id}">
+                        <div class="library-card-title">${item.title}</div>
+                        <div class="library-card-meta">
+                            ${item.category}
+                            <span class="library-card-difficulty ${item.difficulty}">${item.difficulty}</span>
+                        </div>
+                    </div>
+                `).join('');
+
+                // Add click handlers
+                libraryGrid.querySelectorAll('.library-card').forEach(card => {
+                    card.addEventListener('click', () => {
+                        const item = LIBRARY.find(i => i.id === card.dataset.id);
+                        if (item) {
+                            selectText(item);
+                            document.querySelectorAll('.library-card').forEach(c => c.classList.remove('active'));
+                            card.classList.add('active');
+                        }
+                    });
+                });
+            }
+
+            renderLibrary();
+
+            // Category filter
+            document.querySelectorAll('.category-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.category-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentCategory = btn.dataset.category;
+                    renderLibrary();
+                });
+            });
+
+            // View toggle
+            document.querySelectorAll('.view-toggle button').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    currentView = btn.dataset.view;
+
+                    if (currentView === 'library') {
+                        document.getElementById('librarySection').style.display = 'block';
+                        document.getElementById('customSection').style.display = 'none';
+                    } else {
+                        document.getElementById('librarySection').style.display = 'none';
+                        document.getElementById('customSection').style.display = 'block';
+                    }
+                });
+            });
+
+            // Custom input
+            spelinInput.addEventListener('input', () => {
+                if (currentView === 'custom') {
+                    updateDisplay(spelinInput.value);
+                }
+            });
+
+            // Select text function
+            function selectText(item) {
+                currentText = item.text;
+                updateDisplay(currentText);
+            }
+
+            // Update display
+            function updateDisplay(text) {
+                currentText = text;
+
+                if (!text.trim()) {
+                    textDisplay.innerHTML = '<p class="placeholder">Select a text from the library or enter custom text...</p>';
+                    return;
+                }
+
+                const words = text.split(/(\s+)/);
+                let html = '';
+                let wordIndex = 0;
+
+                for (let part of words) {
+                    if (/^\s+$/.test(part)) {
+                        html += part.replace(/\n/g, '<br>');
+                    } else {
+                        // Wrap each character for hover-to-speak functionality
+                        const wrappedChars = wrapSpelinText(part);
+                        html += `<span class="word" data-index="${wordIndex}">${wrappedChars}</span>`;
+                        wordIndex++;
+                    }
+                }
+
+                textDisplay.innerHTML = html;
+                reader.setText(text);
+
+                // Add click-to-play for individual words
+                textDisplay.querySelectorAll('.word').forEach(word => {
+                    word.addEventListener('click', () => {
+                        const wordText = word.textContent;
+                        reader.playWord(wordText);
+
+                        // Visual feedback
+                        word.classList.add('current');
+                        setTimeout(() => word.classList.remove('current'), 500);
+
+                        // Show phonemes
+                        phonemeDisplay.textContent = getPhonemeDisplay(wordText);
+                    });
+                });
+            }
+
+            function escapeHtml(text) {
+                const div = document.createElement('div');
+                div.textContent = text;
+                return div.innerHTML;
+            }
+
+            // Reader callbacks
+            reader.onWordChange = (index, word) => {
+                document.querySelectorAll('.word.current').forEach(el => {
+                    el.classList.remove('current');
+                    el.classList.add('spoken');
+                });
+
+                const currentEl = document.querySelector(`.word[data-index="${index}"]`);
+                if (currentEl) {
+                    currentEl.classList.add('current');
+                    currentEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                }
+
+                phonemeDisplay.textContent = getPhonemeDisplay(word);
+            };
+
+            reader.onEnd = () => {
+                playBtn.disabled = false;
+                pauseBtn.disabled = true;
+                stopBtn.disabled = true;
+                playBtn.innerHTML = '<span class="play-icon">&#9654;</span> Play';
+                phonemeDisplay.textContent = '';
+            };
+
+            // Control buttons
+            playBtn.addEventListener('click', () => {
+                if (!currentText.trim()) return;
+
+                // Reset any spoken classes
+                document.querySelectorAll('.word').forEach(el => {
+                    el.classList.remove('spoken', 'current');
+                });
+
+                reader.setText(currentText);
+                reader.play();
+
+                playBtn.disabled = true;
+                pauseBtn.disabled = false;
+                stopBtn.disabled = false;
+            });
+
+            pauseBtn.addEventListener('click', () => {
+                if (reader.isPaused) {
+                    reader.play();
+                    pauseBtn.innerHTML = '<span>&#10074;&#10074;</span> Pause';
+                } else {
+                    reader.pause();
+                    pauseBtn.innerHTML = '<span>&#9654;</span> Resume';
+                }
+            });
+
+            stopBtn.addEventListener('click', () => {
+                reader.stop();
+
+                document.querySelectorAll('.word').forEach(el => {
+                    el.classList.remove('current', 'spoken');
+                });
+
+                playBtn.disabled = false;
+                pauseBtn.disabled = true;
+                stopBtn.disabled = true;
+                phonemeDisplay.textContent = '';
+            });
+
+            // Speed control
+            speedSlider.addEventListener('input', () => {
+                const speed = parseFloat(speedSlider.value);
+                reader.setSpeed(speed);
+                speedValue.textContent = speed.toFixed(1) + 'x';
+            });
+
+            // Load first item by default
+            if (LIBRARY.length > 0) {
+                selectText(LIBRARY[0]);
+                libraryGrid.querySelector('.library-card')?.classList.add('active');
+            }
+        });
+    </script>
+</body>
+</html>

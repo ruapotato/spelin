@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>·spelin Typing Practice - Virtual Keyboard</title>
+    <meta name="description" content="Practice typing in spelin with a virtual keyboard. See real-time English to spelin conversion.">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <style>
+        .type-hero {
+            padding: var(--space-2xl) 0;
+            text-align: center;
+            background: var(--bg-secondary);
+        }
+
+        .type-hero h1 {
+            font-size: 2rem;
+            color: var(--accent);
+            margin-bottom: var(--space-sm);
+        }
+
+        .type-container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .type-area {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--space-lg);
+            margin-bottom: var(--space-xl);
+        }
+
+        @media (max-width: 768px) {
+            .type-area {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .type-panel {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+        }
+
+        .type-panel h3 {
+            color: var(--accent);
+            margin-bottom: var(--space-md);
+            font-size: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .type-input {
+            width: 100%;
+            min-height: 150px;
+            padding: var(--space-md);
+            background: var(--bg-tertiary);
+            border: 2px solid transparent;
+            border-radius: var(--radius-md);
+            color: var(--text-primary);
+            font-size: 1.1rem;
+            font-family: inherit;
+            resize: vertical;
+            line-height: 1.8;
+        }
+
+        .type-input:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+
+        .type-output {
+            width: 100%;
+            min-height: 150px;
+            padding: var(--space-md);
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            color: var(--accent);
+            font-size: 1.3rem;
+            font-family: var(--font-mono);
+            line-height: 1.8;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+
+        .type-output.empty {
+            color: var(--text-muted);
+            font-style: italic;
+            font-family: var(--font-main);
+            font-size: 1rem;
+        }
+
+        /* Virtual Keyboard */
+        .keyboard-container {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+            margin-bottom: var(--space-xl);
+        }
+
+        .keyboard-container h3 {
+            color: var(--text-secondary);
+            margin-bottom: var(--space-md);
+            font-size: 0.9rem;
+            text-align: center;
+        }
+
+        .keyboard {
+            display: flex;
+            flex-direction: column;
+            gap: var(--space-sm);
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        .keyboard-row {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-xs);
+        }
+
+        .key {
+            min-width: 45px;
+            height: 50px;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--bg-primary);
+            border-radius: var(--radius-sm);
+            color: var(--text-primary);
+            font-size: 1rem;
+            font-family: var(--font-mono);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .key:hover {
+            background: var(--accent-dim);
+            border-color: var(--accent);
+        }
+
+        .key.active,
+        .key.pressed {
+            background: var(--accent);
+            color: var(--bg-primary);
+            transform: scale(0.95);
+        }
+
+        .key .main {
+            font-size: 1.2rem;
+            font-weight: 600;
+        }
+
+        .key .sub {
+            font-size: 0.65rem;
+            color: var(--text-muted);
+            position: absolute;
+            top: 3px;
+            right: 5px;
+        }
+
+        .key.active .sub,
+        .key.pressed .sub {
+            color: var(--bg-secondary);
+        }
+
+        .key.special {
+            background: var(--bg-card);
+            min-width: 70px;
+        }
+
+        .key.space {
+            min-width: 250px;
+        }
+
+        /* Phoneme indicator */
+        .key .phoneme-hint {
+            font-size: 0.6rem;
+            color: var(--accent);
+            position: absolute;
+            bottom: 2px;
+        }
+
+        .key.active .phoneme-hint {
+            color: var(--bg-primary);
+        }
+
+        /* Stats */
+        .type-stats {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-xl);
+            margin-bottom: var(--space-xl);
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-value {
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--accent);
+        }
+
+        .stat-label {
+            font-size: 0.85rem;
+            color: var(--text-muted);
+        }
+
+        /* Mode toggle */
+        .mode-toggle {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-md);
+            margin-bottom: var(--space-lg);
+        }
+
+        .mode-btn {
+            padding: var(--space-sm) var(--space-lg);
+            background: var(--bg-tertiary);
+            border: 2px solid transparent;
+            border-radius: var(--radius-full);
+            color: var(--text-secondary);
+            cursor: pointer;
+            transition: all var(--transition-fast);
+        }
+
+        .mode-btn:hover {
+            border-color: var(--accent-dim);
+        }
+
+        .mode-btn.active {
+            background: var(--accent);
+            color: var(--bg-primary);
+            border-color: var(--accent);
+        }
+
+        /* Quick reference */
+        .quick-ref {
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+        }
+
+        .quick-ref h4 {
+            color: var(--accent);
+            margin-bottom: var(--space-md);
+            font-size: 0.9rem;
+        }
+
+        .quick-ref-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+            gap: var(--space-sm);
+        }
+
+        .quick-ref-item {
+            background: var(--bg-secondary);
+            padding: var(--space-sm);
+            border-radius: var(--radius-sm);
+            text-align: center;
+            font-size: 0.85rem;
+        }
+
+        .quick-ref-item .symbol {
+            font-family: var(--font-mono);
+            color: var(--accent);
+            font-size: 1.1rem;
+            font-weight: 600;
+        }
+
+        .quick-ref-item .sound {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+        }
+
+        /* Read aloud button */
+        .read-controls {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-md);
+            margin-top: var(--space-md);
+        }
+    </style>
+</head>
+<body>
+    <div class="page-wrapper">
+        <!-- Navigation injected by nav.js -->
+
+        <main class="page-content">
+            <!-- Hero -->
+            <section class="type-hero">
+                <div class="container">
+                    <h1>Typing Practice</h1>
+                    <p class="text-muted">Type in English, see the spelin output in real-time</p>
+                </div>
+            </section>
+
+            <section class="section">
+                <div class="container type-container">
+                    <!-- Mode Toggle -->
+                    <div class="mode-toggle">
+                        <button class="mode-btn active" data-mode="convert">English → Spelin</button>
+                        <button class="mode-btn" data-mode="practice">Direct Spelin</button>
+                    </div>
+
+                    <!-- Stats -->
+                    <div class="type-stats">
+                        <div class="stat-item">
+                            <div class="stat-value" id="charCount">0</div>
+                            <div class="stat-label">Characters</div>
+                        </div>
+                        <div class="stat-item">
+                            <div class="stat-value" id="wordCount">0</div>
+                            <div class="stat-label">Words</div>
+                        </div>
+                    </div>
+
+                    <!-- Typing Area -->
+                    <div class="type-area">
+                        <div class="type-panel">
+                            <h3 id="inputLabel">Type English</h3>
+                            <textarea class="type-input" id="typeInput"
+                                placeholder="Start typing here..."
+                                autocomplete="off" spellcheck="false"></textarea>
+                        </div>
+                        <div class="type-panel">
+                            <h3>·spelin Output</h3>
+                            <div class="type-output empty" id="typeOutput">Spelin will appear here as you type...</div>
+                            <div class="read-controls">
+                                <button class="btn btn--sm" id="readBtn">Read Aloud</button>
+                                <button class="btn btn--sm btn--ghost" id="copyBtn">Copy</button>
+                                <button class="btn btn--sm btn--ghost" id="clearBtn">Clear</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Virtual Keyboard -->
+                    <div class="keyboard-container">
+                        <h3>Virtual Keyboard - Click keys or type directly</h3>
+                        <div class="keyboard" id="keyboard">
+                            <!-- Row 1: Numbers -->
+                            <div class="keyboard-row">
+                                <div class="key" data-key="1"><span class="main">1</span><span class="phoneme-hint">out</span></div>
+                                <div class="key" data-key="2"><span class="main">2</span><span class="phoneme-hint">oil</span></div>
+                                <div class="key" data-key="3"><span class="main">3</span><span class="phoneme-hint">think</span></div>
+                                <div class="key" data-key="4"><span class="main">4</span><span class="phoneme-hint">about</span></div>
+                                <div class="key" data-key="5"><span class="main">5</span></div>
+                                <div class="key" data-key="6"><span class="main">6</span><span class="phoneme-hint">father</span></div>
+                                <div class="key" data-key="7"><span class="main">7</span><span class="phoneme-hint">bird</span></div>
+                                <div class="key" data-key="8"><span class="main">8</span><span class="phoneme-hint">the</span></div>
+                                <div class="key" data-key="9"><span class="main">9</span><span class="phoneme-hint">law</span></div>
+                                <div class="key" data-key="0"><span class="main">0</span><span class="phoneme-hint">book</span></div>
+                            </div>
+                            <!-- Row 2: QWERTY top -->
+                            <div class="keyboard-row">
+                                <div class="key" data-key="q"><span class="main">q</span><span class="phoneme-hint">sing</span></div>
+                                <div class="key" data-key="w"><span class="main">w</span><span class="phoneme-hint">we</span></div>
+                                <div class="key" data-key="e"><span class="main">e</span><span class="sub">E</span><span class="phoneme-hint">bed/see</span></div>
+                                <div class="key" data-key="r"><span class="main">r</span><span class="phoneme-hint">row</span></div>
+                                <div class="key" data-key="t"><span class="main">t</span><span class="phoneme-hint">tea</span></div>
+                                <div class="key" data-key="y"><span class="main">y</span><span class="phoneme-hint">yes</span></div>
+                                <div class="key" data-key="u"><span class="main">u</span><span class="sub">U</span><span class="phoneme-hint">but/use</span></div>
+                                <div class="key" data-key="i"><span class="main">i</span><span class="sub">I</span><span class="phoneme-hint">bit/my</span></div>
+                                <div class="key" data-key="o"><span class="main">o</span><span class="sub">O</span><span class="phoneme-hint">hot/go</span></div>
+                                <div class="key" data-key="p"><span class="main">p</span><span class="phoneme-hint">pea</span></div>
+                            </div>
+                            <!-- Row 3: QWERTY middle -->
+                            <div class="keyboard-row">
+                                <div class="key" data-key="a"><span class="main">a</span><span class="sub">A</span><span class="phoneme-hint">cat/day</span></div>
+                                <div class="key" data-key="s"><span class="main">s</span><span class="phoneme-hint">see</span></div>
+                                <div class="key" data-key="d"><span class="main">d</span><span class="phoneme-hint">do</span></div>
+                                <div class="key" data-key="f"><span class="main">f</span><span class="phoneme-hint">fee</span></div>
+                                <div class="key" data-key="g"><span class="main">g</span><span class="phoneme-hint">go</span></div>
+                                <div class="key" data-key="h"><span class="main">h</span><span class="phoneme-hint">he</span></div>
+                                <div class="key" data-key="j"><span class="main">j</span><span class="phoneme-hint">judge</span></div>
+                                <div class="key" data-key="k"><span class="main">k</span><span class="phoneme-hint">key</span></div>
+                                <div class="key" data-key="l"><span class="main">l</span><span class="phoneme-hint">low</span></div>
+                            </div>
+                            <!-- Row 4: QWERTY bottom -->
+                            <div class="keyboard-row">
+                                <div class="key special" data-key="Shift"><span class="main">⇧</span></div>
+                                <div class="key" data-key="z"><span class="main">z</span><span class="phoneme-hint">zoo</span></div>
+                                <div class="key" data-key="x"><span class="main">x</span><span class="sub">X</span><span class="phoneme-hint">ship/zh</span></div>
+                                <div class="key" data-key="c"><span class="main">c</span><span class="phoneme-hint">chip</span></div>
+                                <div class="key" data-key="v"><span class="main">v</span><span class="phoneme-hint">vow</span></div>
+                                <div class="key" data-key="b"><span class="main">b</span><span class="phoneme-hint">bee</span></div>
+                                <div class="key" data-key="n"><span class="main">n</span><span class="phoneme-hint">no</span></div>
+                                <div class="key" data-key="m"><span class="main">m</span><span class="phoneme-hint">me</span></div>
+                                <div class="key" data-key="W"><span class="main">W</span><span class="phoneme-hint">boot</span></div>
+                                <div class="key special" data-key="Backspace"><span class="main">⌫</span></div>
+                            </div>
+                            <!-- Row 5: Space -->
+                            <div class="keyboard-row">
+                                <div class="key" data-key="·"><span class="main">·</span><span class="phoneme-hint">namer</span></div>
+                                <div class="key space" data-key=" "><span class="main">Space</span></div>
+                                <div class="key" data-key="."><span class="main">.</span></div>
+                                <div class="key" data-key=","><span class="main">,</span></div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Quick Reference -->
+                    <div class="quick-ref">
+                        <h4>Special Spelin Characters</h4>
+                        <div class="quick-ref-grid">
+                            <div class="quick-ref-item"><span class="symbol">3</span><div class="sound">th (think)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">8</span><div class="sound">th (the)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">x</span><div class="sound">sh (ship)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">X</span><div class="sound">zh (measure)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">c</span><div class="sound">ch (chip)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">q</span><div class="sound">ng (sing)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">1</span><div class="sound">ow (out)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">2</span><div class="sound">oy (oil)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">4</span><div class="sound">uh (about)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">6</span><div class="sound">ah (father)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">7</span><div class="sound">er (bird)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">9</span><div class="sound">aw (law)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">0</span><div class="sound">oo (book)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">W</span><div class="sound">oo (boot)</div></div>
+                            <div class="quick-ref-item"><span class="symbol">·</span><div class="sound">namer dot</div></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer injected by nav.js -->
+    </div>
+
+    <script src="js/nav.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/converter.js"></script>
+    <script>
+        let reader = null;
+        let mode = 'convert'; // 'convert' or 'practice'
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Initialize audio
+            reader = new SpelinReader('audio/');
+            await reader.init();
+
+            const input = document.getElementById('typeInput');
+            const output = document.getElementById('typeOutput');
+            const charCount = document.getElementById('charCount');
+            const wordCount = document.getElementById('wordCount');
+            const inputLabel = document.getElementById('inputLabel');
+
+            // Mode toggle
+            document.querySelectorAll('.mode-btn').forEach(btn => {
+                btn.addEventListener('click', () => {
+                    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+                    btn.classList.add('active');
+                    mode = btn.dataset.mode;
+
+                    if (mode === 'convert') {
+                        inputLabel.textContent = 'Type English';
+                        input.placeholder = 'Start typing in English...';
+                    } else {
+                        inputLabel.textContent = 'Type Spelin Directly';
+                        input.placeholder = 'Type spelin characters directly...';
+                    }
+
+                    input.value = '';
+                    if (mode === 'convert') {
+                        updateOutputFromAPI();
+                    } else {
+                        updateOutputDirect();
+                    }
+                });
+            });
+
+            // Input handling with debounce for API calls
+            let convertTimeout = null;
+            input.addEventListener('input', () => {
+                if (mode === 'practice') {
+                    updateOutputDirect();
+                } else {
+                    // Debounce API calls
+                    clearTimeout(convertTimeout);
+                    convertTimeout = setTimeout(updateOutputFromAPI, 300);
+                }
+            });
+
+            function updateOutputDirect() {
+                const text = input.value;
+
+                if (!text.trim()) {
+                    output.textContent = 'Spelin will appear here as you type...';
+                    output.classList.add('empty');
+                    charCount.textContent = '0';
+                    wordCount.textContent = '0';
+                    return;
+                }
+
+                output.classList.remove('empty');
+                output.textContent = text;
+
+                // Update stats
+                charCount.textContent = output.textContent.replace(/\s/g, '').length;
+                wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
+            }
+
+            async function updateOutputFromAPI() {
+                const text = input.value;
+
+                if (!text.trim()) {
+                    output.textContent = 'Spelin will appear here as you type...';
+                    output.classList.add('empty');
+                    charCount.textContent = '0';
+                    wordCount.textContent = '0';
+                    return;
+                }
+
+                output.classList.remove('empty');
+                output.textContent = 'Converting...';
+
+                try {
+                    const response = await fetch('/api/convert', {
+                        method: 'POST',
+                        headers: { 'Content-Type': 'application/json' },
+                        body: JSON.stringify({ text })
+                    });
+
+                    if (!response.ok) throw new Error('Conversion failed');
+
+                    const data = await response.json();
+                    output.textContent = data.result;
+
+                    // Update stats
+                    charCount.textContent = output.textContent.replace(/\s/g, '').length;
+                    wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
+                } catch (e) {
+                    // Fallback to basic JS conversion if API unavailable
+                    output.textContent = englishToSpelin(text);
+                    charCount.textContent = output.textContent.replace(/\s/g, '').length;
+                    wordCount.textContent = output.textContent.trim().split(/\s+/).filter(w => w).length;
+                }
+            }
+
+            // Virtual keyboard
+            const keyboard = document.getElementById('keyboard');
+            let shiftActive = false;
+
+            keyboard.querySelectorAll('.key').forEach(key => {
+                key.addEventListener('click', () => {
+                    const keyValue = key.dataset.key;
+
+                    if (keyValue === 'Shift') {
+                        shiftActive = !shiftActive;
+                        key.classList.toggle('active', shiftActive);
+                        return;
+                    }
+
+                    if (keyValue === 'Backspace') {
+                        input.value = input.value.slice(0, -1);
+                    } else {
+                        let char = keyValue;
+                        if (shiftActive && char.length === 1 && /[a-z]/.test(char)) {
+                            char = char.toUpperCase();
+                        }
+                        input.value += char;
+
+                        // Play phoneme if it's a spelin character
+                        if (window.PHONEME_FILES && window.PHONEME_FILES[char]) {
+                            reader.playSinglePhoneme(char);
+                        }
+                    }
+
+                    // Reset shift after typing
+                    if (shiftActive && keyValue !== 'Shift') {
+                        shiftActive = false;
+                        keyboard.querySelector('[data-key="Shift"]').classList.remove('active');
+                    }
+
+                    if (mode === 'convert') {
+                        clearTimeout(convertTimeout);
+                        convertTimeout = setTimeout(updateOutputFromAPI, 300);
+                    } else {
+                        updateOutputDirect();
+                    }
+                    input.focus();
+                });
+            });
+
+            // Physical keyboard highlighting
+            input.addEventListener('keydown', (e) => {
+                const keyElement = keyboard.querySelector(`[data-key="${e.key}"]`) ||
+                                  keyboard.querySelector(`[data-key="${e.key.toLowerCase()}"]`);
+                if (keyElement) {
+                    keyElement.classList.add('pressed');
+                }
+
+                if (e.key === 'Shift') {
+                    shiftActive = true;
+                    const shiftKey = keyboard.querySelector('[data-key="Shift"]');
+                    if (shiftKey) shiftKey.classList.add('active');
+                }
+            });
+
+            input.addEventListener('keyup', (e) => {
+                const keyElement = keyboard.querySelector(`[data-key="${e.key}"]`) ||
+                                  keyboard.querySelector(`[data-key="${e.key.toLowerCase()}"]`);
+                if (keyElement) {
+                    keyElement.classList.remove('pressed');
+                }
+
+                if (e.key === 'Shift') {
+                    shiftActive = false;
+                    const shiftKey = keyboard.querySelector('[data-key="Shift"]');
+                    if (shiftKey) shiftKey.classList.remove('active');
+                }
+            });
+
+            // Read aloud button
+            document.getElementById('readBtn').addEventListener('click', () => {
+                const text = output.textContent;
+                if (text && !output.classList.contains('empty')) {
+                    reader.setText(text);
+                    reader.play();
+                }
+            });
+
+            // Copy button
+            document.getElementById('copyBtn').addEventListener('click', () => {
+                const text = output.textContent;
+                if (text && !output.classList.contains('empty')) {
+                    navigator.clipboard.writeText(text).then(() => {
+                        const btn = document.getElementById('copyBtn');
+                        btn.textContent = 'Copied!';
+                        setTimeout(() => {
+                            btn.textContent = 'Copy';
+                        }, 2000);
+                    });
+                }
+            });
+
+            // Clear button
+            document.getElementById('clearBtn').addEventListener('click', () => {
+                input.value = '';
+                output.textContent = 'Spelin will appear here as you type...';
+                output.classList.add('empty');
+                charCount.textContent = '0';
+                wordCount.textContent = '0';
+                input.focus();
+            });
+        });
+    </script>
+</body>
+</html>

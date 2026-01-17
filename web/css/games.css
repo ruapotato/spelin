@@ -1,0 +1,648 @@
+/* ============================================================================
+   SPELIN GAMES STYLES
+   ============================================================================ */
+
+/* ==========================================================================
+   GAME HUB
+   ========================================================================== */
+
+.game-hub {
+    padding: var(--space-xl) 0;
+}
+
+.game-card {
+    background: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+    text-align: center;
+    transition: all var(--transition-fast);
+    border: 2px solid transparent;
+    cursor: pointer;
+}
+
+.game-card:hover {
+    border-color: var(--accent-dim);
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+}
+
+.game-card.locked {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.game-card.locked:hover {
+    transform: none;
+    border-color: transparent;
+}
+
+.game-card-icon {
+    width: 80px;
+    height: 80px;
+    background: var(--bg-tertiary);
+    border-radius: var(--radius-lg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto var(--space-md);
+    font-size: 2.5rem;
+}
+
+.game-card-title {
+    font-size: 1.25rem;
+    margin-bottom: var(--space-sm);
+    color: var(--text-primary);
+}
+
+.game-card-desc {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: var(--space-md);
+}
+
+.game-card-stats {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-lg);
+    padding-top: var(--space-md);
+    border-top: 1px solid var(--bg-tertiary);
+}
+
+.game-stat {
+    text-align: center;
+}
+
+.game-stat-value {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: var(--accent);
+}
+
+.game-stat-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+}
+
+/* ==========================================================================
+   GAME CONTAINER (Shared)
+   ========================================================================== */
+
+.game-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.game-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: var(--space-lg);
+    padding-bottom: var(--space-md);
+    border-bottom: 1px solid var(--bg-tertiary);
+}
+
+.game-title {
+    font-size: 1.5rem;
+    color: var(--text-primary);
+}
+
+.game-back {
+    color: var(--text-secondary);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+}
+
+.game-back:hover {
+    color: var(--accent);
+}
+
+.game-info {
+    display: flex;
+    gap: var(--space-xl);
+    margin-bottom: var(--space-lg);
+}
+
+.game-score,
+.game-timer,
+.game-round {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-size: 1.1rem;
+}
+
+.game-score span,
+.game-timer span,
+.game-round span {
+    color: var(--accent);
+    font-weight: 700;
+}
+
+.game-area {
+    background: var(--bg-secondary);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.game-controls {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-md);
+    margin-top: var(--space-lg);
+}
+
+/* ==========================================================================
+   SOUND MATCH GAME
+   ========================================================================== */
+
+.sound-match-prompt {
+    text-align: center;
+    margin-bottom: var(--space-xl);
+}
+
+.sound-match-prompt h3 {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    margin-bottom: var(--space-md);
+}
+
+.play-sound-btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    background: var(--accent);
+    color: var(--bg-primary);
+    font-size: 2.5rem;
+    border: none;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.play-sound-btn:hover {
+    transform: scale(1.1);
+    box-shadow: var(--shadow-glow);
+}
+
+.play-sound-btn:active {
+    transform: scale(0.95);
+}
+
+.play-sound-btn.playing {
+    animation: pulse 0.5s infinite;
+}
+
+.sound-match-options {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: var(--space-md);
+    max-width: 500px;
+}
+
+.sound-match-option {
+    aspect-ratio: 1;
+    background: var(--bg-tertiary);
+    border: 2px solid transparent;
+    border-radius: var(--radius-md);
+    font-size: 2rem;
+    font-family: var(--font-mono);
+    color: var(--text-primary);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sound-match-option:hover {
+    border-color: var(--accent-dim);
+    transform: scale(1.05);
+}
+
+.sound-match-option.correct {
+    background: var(--success);
+    color: white;
+    border-color: var(--success);
+    animation: correctPulse 0.5s;
+}
+
+.sound-match-option.incorrect {
+    background: var(--error);
+    color: white;
+    border-color: var(--error);
+    animation: shake 0.5s;
+}
+
+@keyframes correctPulse {
+    0%, 100% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+}
+
+@keyframes shake {
+    0%, 100% { transform: translateX(0); }
+    25% { transform: translateX(-10px); }
+    75% { transform: translateX(10px); }
+}
+
+/* ==========================================================================
+   SPELL IT GAME
+   ========================================================================== */
+
+.spell-it-word {
+    text-align: center;
+    margin-bottom: var(--space-xl);
+}
+
+.spell-it-word h3 {
+    font-size: 1.25rem;
+    color: var(--text-secondary);
+    margin-bottom: var(--space-md);
+}
+
+.spell-it-english {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: var(--space-md);
+    text-transform: lowercase;
+    letter-spacing: 0.02em;
+}
+
+.spell-it-input-container {
+    width: 100%;
+    max-width: 400px;
+    margin-bottom: var(--space-lg);
+}
+
+.spell-it-input {
+    width: 100%;
+    font-size: 2rem;
+    text-align: center;
+    padding: var(--space-md);
+    background: var(--bg-tertiary);
+    border: 2px solid transparent;
+    border-radius: var(--radius-md);
+    color: var(--text-primary);
+    font-family: var(--font-mono);
+}
+
+.spell-it-input:focus {
+    outline: none;
+    border-color: var(--accent);
+}
+
+.spell-it-input.correct {
+    border-color: var(--success);
+    background: rgba(0, 204, 136, 0.1);
+}
+
+.spell-it-input.incorrect {
+    border-color: var(--error);
+    background: rgba(255, 71, 87, 0.1);
+}
+
+.spell-it-feedback {
+    margin-top: var(--space-md);
+    font-size: 1.1rem;
+}
+
+.spell-it-feedback.correct {
+    color: var(--success);
+}
+
+.spell-it-feedback.incorrect {
+    color: var(--error);
+}
+
+.spell-it-answer {
+    margin-top: var(--space-sm);
+    color: var(--text-secondary);
+}
+
+.spell-it-answer span {
+    color: var(--accent);
+    font-family: var(--font-mono);
+}
+
+/* ==========================================================================
+   READ IT GAME
+   ========================================================================== */
+
+.read-it-display {
+    text-align: center;
+    margin-bottom: var(--space-xl);
+}
+
+.read-it-spelin {
+    font-size: 3rem;
+    font-family: var(--font-mono);
+    color: var(--accent);
+    margin-bottom: var(--space-md);
+    letter-spacing: 2px;
+}
+
+.read-it-hint {
+    color: var(--text-muted);
+    font-size: 0.9rem;
+}
+
+/* ==========================================================================
+   FLASH CARDS GAME
+   ========================================================================== */
+
+.flashcard-container {
+    perspective: 1000px;
+    width: 300px;
+    height: 250px;
+    margin-bottom: var(--space-xl);
+}
+
+.flashcard {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: transform 0.6s;
+    cursor: pointer;
+}
+
+.flashcard.flipped {
+    transform: rotateY(180deg);
+}
+
+.flashcard-face {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: var(--bg-tertiary);
+    border-radius: var(--radius-lg);
+    padding: var(--space-xl);
+}
+
+.flashcard-back {
+    transform: rotateY(180deg);
+    background: var(--bg-secondary);
+    border: 2px solid var(--accent-dim);
+}
+
+.flashcard-symbol {
+    font-size: 5rem;
+    font-family: var(--font-mono);
+    color: var(--accent);
+    margin-bottom: var(--space-md);
+}
+
+.flashcard-prompt {
+    color: var(--text-secondary);
+    font-size: 0.9rem;
+}
+
+.flashcard-sound {
+    font-size: 2rem;
+    color: var(--text-primary);
+    margin-bottom: var(--space-sm);
+}
+
+.flashcard-example {
+    color: var(--text-secondary);
+    margin-bottom: var(--space-sm);
+}
+
+.flashcard-ipa {
+    font-family: var(--font-mono);
+    color: var(--text-muted);
+}
+
+.flashcard-controls {
+    display: flex;
+    gap: var(--space-lg);
+    margin-top: var(--space-lg);
+}
+
+.flashcard-btn {
+    padding: var(--space-md) var(--space-xl);
+    border-radius: var(--radius-md);
+    border: none;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.flashcard-btn--wrong {
+    background: var(--error);
+    color: white;
+}
+
+.flashcard-btn--right {
+    background: var(--success);
+    color: white;
+}
+
+.flashcard-btn:hover {
+    transform: scale(1.05);
+}
+
+.flashcard-progress {
+    margin-top: var(--space-lg);
+    text-align: center;
+    color: var(--text-secondary);
+}
+
+/* ==========================================================================
+   GAME RESULTS
+   ========================================================================== */
+
+.game-results {
+    text-align: center;
+    animation: slideUp var(--transition-normal);
+}
+
+.game-results-icon {
+    font-size: 5rem;
+    margin-bottom: var(--space-lg);
+}
+
+.game-results-title {
+    font-size: 2rem;
+    margin-bottom: var(--space-sm);
+}
+
+.game-results-score {
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--accent);
+    margin-bottom: var(--space-lg);
+}
+
+.game-results-stats {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-xl);
+    margin-bottom: var(--space-xl);
+}
+
+.game-results-stat {
+    text-align: center;
+}
+
+.game-results-stat-value {
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--text-primary);
+}
+
+.game-results-stat-label {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+}
+
+.game-results-message {
+    color: var(--text-secondary);
+    margin-bottom: var(--space-lg);
+}
+
+.game-results-actions {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-md);
+}
+
+/* High Score */
+.high-score-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--space-sm);
+    padding: var(--space-sm) var(--space-md);
+    background: rgba(255, 170, 0, 0.2);
+    border-radius: var(--radius-full);
+    color: var(--warning);
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: var(--space-md);
+}
+
+/* ==========================================================================
+   DIFFICULTY SELECTOR
+   ========================================================================== */
+
+.difficulty-selector {
+    display: flex;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-lg);
+}
+
+.difficulty-btn {
+    padding: var(--space-sm) var(--space-lg);
+    background: var(--bg-tertiary);
+    border: 2px solid transparent;
+    border-radius: var(--radius-full);
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: all var(--transition-fast);
+}
+
+.difficulty-btn:hover {
+    border-color: var(--accent-dim);
+}
+
+.difficulty-btn.active {
+    background: var(--accent);
+    color: var(--bg-primary);
+    border-color: var(--accent);
+}
+
+.difficulty-btn--easy.active {
+    background: var(--success);
+    border-color: var(--success);
+}
+
+.difficulty-btn--medium.active {
+    background: var(--warning);
+    border-color: var(--warning);
+}
+
+.difficulty-btn--hard.active {
+    background: var(--error);
+    border-color: var(--error);
+}
+
+/* ==========================================================================
+   COUNTDOWN
+   ========================================================================== */
+
+.countdown {
+    font-size: 6rem;
+    font-weight: 700;
+    color: var(--accent);
+    animation: countdownPulse 1s infinite;
+}
+
+@keyframes countdownPulse {
+    0%, 100% { transform: scale(1); opacity: 1; }
+    50% { transform: scale(1.2); opacity: 0.7; }
+}
+
+/* ==========================================================================
+   RESPONSIVE
+   ========================================================================== */
+
+@media (max-width: 768px) {
+    .sound-match-options {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
+    .game-info {
+        flex-wrap: wrap;
+        gap: var(--space-md);
+    }
+
+    .flashcard-container {
+        width: 260px;
+        height: 220px;
+    }
+
+    .flashcard-symbol {
+        font-size: 4rem;
+    }
+
+    .read-it-spelin {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .sound-match-options {
+        grid-template-columns: repeat(2, 1fr);
+        gap: var(--space-sm);
+    }
+
+    .sound-match-option {
+        font-size: 1.5rem;
+    }
+
+    .game-header {
+        flex-direction: column;
+        gap: var(--space-md);
+        text-align: center;
+    }
+
+    .game-results-stats {
+        flex-direction: column;
+        gap: var(--space-md);
+    }
+}

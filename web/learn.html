@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn ·spelin - Interactive Phoneme Chart</title>
+    <meta name="description" content="Learn the 42 symbols of spelin with an interactive chart. Click to hear sounds, hover for examples and IPA.">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <style>
+        .learn-hero {
+            padding: var(--space-2xl) 0;
+            text-align: center;
+            background: var(--bg-secondary);
+        }
+
+        .learn-hero h1 {
+            font-size: 2rem;
+            color: var(--accent);
+            margin-bottom: var(--space-sm);
+        }
+
+        .learn-hero p {
+            color: var(--text-secondary);
+        }
+
+        .learn-tips {
+            display: flex;
+            justify-content: center;
+            gap: var(--space-lg);
+            margin-top: var(--space-lg);
+            flex-wrap: wrap;
+        }
+
+        .learn-tip {
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+            color: var(--text-muted);
+            font-size: 0.9rem;
+        }
+
+        .learn-tip-icon {
+            width: 24px;
+            height: 24px;
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.8rem;
+        }
+
+        .category-section {
+            margin-bottom: var(--space-2xl);
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: var(--space-md);
+            margin-bottom: var(--space-lg);
+            padding-bottom: var(--space-sm);
+            border-bottom: 1px solid var(--bg-tertiary);
+        }
+
+        .category-title {
+            font-size: 1.25rem;
+            color: var(--text-primary);
+        }
+
+        .category-count {
+            background: var(--bg-tertiary);
+            padding: var(--space-xs) var(--space-sm);
+            border-radius: var(--radius-full);
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        .category-desc {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .phoneme-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+            gap: var(--space-md);
+        }
+
+        .phoneme-item {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg) var(--space-md);
+            text-align: center;
+            cursor: pointer;
+            transition: all var(--transition-fast);
+            border: 2px solid transparent;
+            position: relative;
+        }
+
+        .phoneme-item:hover {
+            border-color: var(--accent-dim);
+            transform: translateY(-2px);
+        }
+
+        .phoneme-item.playing {
+            border-color: var(--accent);
+            background: var(--highlight-bg);
+            box-shadow: var(--shadow-glow);
+        }
+
+        .phoneme-item.highlight {
+            background: var(--bg-tertiary);
+        }
+
+        .phoneme-symbol {
+            display: block;
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: var(--accent);
+            font-family: var(--font-mono);
+            margin-bottom: var(--space-sm);
+            line-height: 1;
+        }
+
+        .phoneme-sound {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            margin-bottom: var(--space-xs);
+        }
+
+        .phoneme-example {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+        }
+
+        /* Tooltip */
+        .phoneme-tooltip {
+            position: absolute;
+            bottom: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--bg-primary);
+            border: 1px solid var(--bg-tertiary);
+            border-radius: var(--radius-md);
+            padding: var(--space-md);
+            min-width: 180px;
+            opacity: 0;
+            visibility: hidden;
+            transition: all var(--transition-fast);
+            z-index: var(--z-tooltip);
+            margin-bottom: var(--space-sm);
+            text-align: left;
+        }
+
+        .phoneme-tooltip::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            transform: translateX(-50%);
+            border: 8px solid transparent;
+            border-top-color: var(--bg-tertiary);
+        }
+
+        .phoneme-item:hover .phoneme-tooltip {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .tooltip-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: var(--space-xs);
+        }
+
+        .tooltip-label {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            text-transform: uppercase;
+        }
+
+        .tooltip-value {
+            color: var(--text-primary);
+            font-size: 0.9rem;
+        }
+
+        .tooltip-ipa {
+            font-family: var(--font-mono);
+            color: var(--accent);
+        }
+
+        .tooltip-examples {
+            margin-top: var(--space-sm);
+            padding-top: var(--space-sm);
+            border-top: 1px solid var(--bg-tertiary);
+        }
+
+        .tooltip-examples span {
+            display: inline-block;
+            background: var(--bg-tertiary);
+            padding: 2px 6px;
+            border-radius: var(--radius-sm);
+            font-size: 0.8rem;
+            margin-right: var(--space-xs);
+            margin-bottom: var(--space-xs);
+        }
+
+        /* Quick reference */
+        .quick-ref {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-xl);
+            margin-top: var(--space-2xl);
+        }
+
+        .quick-ref h3 {
+            color: var(--accent);
+            margin-bottom: var(--space-md);
+        }
+
+        .quick-ref-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: var(--space-lg);
+        }
+
+        .quick-ref-item h4 {
+            color: var(--text-primary);
+            font-size: 1rem;
+            margin-bottom: var(--space-sm);
+        }
+
+        .quick-ref-item p {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+            margin: 0;
+        }
+
+        /* Practice link */
+        .practice-cta {
+            text-align: center;
+            padding: var(--space-2xl) 0;
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-lg);
+            margin-top: var(--space-2xl);
+        }
+
+        .practice-cta h3 {
+            margin-bottom: var(--space-sm);
+        }
+
+        .practice-cta p {
+            color: var(--text-secondary);
+            margin-bottom: var(--space-lg);
+        }
+
+        /* Loading state */
+        .loading-overlay {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: var(--space-xl);
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            margin-bottom: var(--space-lg);
+        }
+
+        .loading-overlay.hidden {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="page-wrapper">
+        <!-- Navigation injected by nav.js -->
+
+        <main class="page-content">
+            <!-- Hero -->
+            <section class="learn-hero">
+                <div class="container">
+                    <h1>Learn the ·spelin Alphabet</h1>
+                    <p>42 symbols. One sound each. Master them all.</p>
+
+                    <div class="learn-tips">
+                        <div class="learn-tip">
+                            <span class="learn-tip-icon">Click</span>
+                            <span>to hear the sound</span>
+                        </div>
+                        <div class="learn-tip">
+                            <span class="learn-tip-icon">Hover</span>
+                            <span>for details & IPA</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section">
+                <div class="container container--narrow">
+                    <!-- Loading indicator -->
+                    <div class="loading-overlay" id="loadingOverlay">
+                        <div class="loading-indicator">
+                            <div class="loading-spinner"></div>
+                            <span class="loading-text">Loading phoneme audio...</span>
+                        </div>
+                    </div>
+
+                    <!-- Consonants -->
+                    <div class="category-section" id="consonants">
+                        <div class="category-header">
+                            <h2 class="category-title">Consonants</h2>
+                            <span class="category-count">17</span>
+                            <span class="category-desc">Familiar sounds, familiar letters</span>
+                        </div>
+                        <div class="phoneme-grid" id="consonantGrid"></div>
+                    </div>
+
+                    <!-- Special Consonants -->
+                    <div class="category-section" id="special-consonants">
+                        <div class="category-header">
+                            <h2 class="category-title">Special Consonants</h2>
+                            <span class="category-count">7</span>
+                            <span class="category-desc">Sounds that need unique symbols</span>
+                        </div>
+                        <div class="phoneme-grid" id="specialConsonantGrid"></div>
+                    </div>
+
+                    <!-- Short Vowels -->
+                    <div class="category-section" id="short-vowels">
+                        <div class="category-header">
+                            <h2 class="category-title">Short Vowels</h2>
+                            <span class="category-count">5</span>
+                            <span class="category-desc">Lowercase = short sounds</span>
+                        </div>
+                        <div class="phoneme-grid" id="shortVowelGrid"></div>
+                    </div>
+
+                    <!-- Long Vowels -->
+                    <div class="category-section" id="long-vowels">
+                        <div class="category-header">
+                            <h2 class="category-title">Long Vowels</h2>
+                            <span class="category-count">5</span>
+                            <span class="category-desc">Uppercase = letter names (long sounds)</span>
+                        </div>
+                        <div class="phoneme-grid" id="longVowelGrid"></div>
+                    </div>
+
+                    <!-- Extended Vowels -->
+                    <div class="category-section" id="extended-vowels">
+                        <div class="category-header">
+                            <h2 class="category-title">Extended Vowels</h2>
+                            <span class="category-count">8</span>
+                            <span class="category-desc">Numbers for extra English sounds</span>
+                        </div>
+                        <div class="phoneme-grid" id="extendedVowelGrid"></div>
+                    </div>
+
+                    <!-- Quick Reference -->
+                    <div class="quick-ref">
+                        <h3>Quick Reference</h3>
+                        <div class="quick-ref-grid">
+                            <div class="quick-ref-item">
+                                <h4>The Namer Dot (·)</h4>
+                                <p>Marks proper nouns since we can't use capitals. ·john, ·london, ·spelin</p>
+                            </div>
+                            <div class="quick-ref-item">
+                                <h4>Case Matters</h4>
+                                <p>Uppercase vowels = long sounds (letter names). Lowercase = short sounds.</p>
+                            </div>
+                            <div class="quick-ref-item">
+                                <h4>Numbers for Sounds</h4>
+                                <p>English has more vowels than vowel letters. Numbers fill the gaps.</p>
+                            </div>
+                            <div class="quick-ref-item">
+                                <h4>No Silent Letters</h4>
+                                <p>Every symbol makes a sound. What you see is what you say.</p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Practice CTA -->
+                    <div class="practice-cta">
+                        <h3>Ready to Practice?</h3>
+                        <p>Test your knowledge with interactive games</p>
+                        <div class="btn-group justify-center">
+                            <a href="games.html" class="btn btn--primary">Play Games</a>
+                            <a href="reader.html" class="btn btn--secondary">Try Reading</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer injected by nav.js -->
+    </div>
+
+    <script src="js/nav.js"></script>
+    <script src="js/audio.js"></script>
+    <script>
+        // Extended phoneme data with more examples
+        const EXTENDED_PHONEME_DATA = {
+            // Consonants
+            'p': { sound: 'p', examples: ['pea', 'map', 'spy'], ipa: '/p/' },
+            'b': { sound: 'b', examples: ['bee', 'cab', 'web'], ipa: '/b/' },
+            't': { sound: 't', examples: ['tea', 'cat', 'sit'], ipa: '/t/' },
+            'd': { sound: 'd', examples: ['do', 'bad', 'did'], ipa: '/d/' },
+            'k': { sound: 'k', examples: ['key', 'cat', 'kick'], ipa: '/k/' },
+            'g': { sound: 'g', examples: ['go', 'big', 'egg'], ipa: '/ɡ/' },
+            'f': { sound: 'f', examples: ['fee', 'off', 'leaf'], ipa: '/f/' },
+            'v': { sound: 'v', examples: ['vow', 'have', 'live'], ipa: '/v/' },
+            's': { sound: 's', examples: ['see', 'bus', 'ice'], ipa: '/s/' },
+            'z': { sound: 'z', examples: ['zoo', 'buzz', 'is'], ipa: '/z/' },
+            'h': { sound: 'h', examples: ['he', 'hat', 'who'], ipa: '/h/' },
+            'm': { sound: 'm', examples: ['me', 'ham', 'some'], ipa: '/m/' },
+            'n': { sound: 'n', examples: ['no', 'sun', 'pen'], ipa: '/n/' },
+            'l': { sound: 'l', examples: ['low', 'bell', 'feel'], ipa: '/l/' },
+            'r': { sound: 'r', examples: ['row', 'car', 'red'], ipa: '/ɹ/' },
+            'w': { sound: 'w', examples: ['we', 'win', 'away'], ipa: '/w/' },
+            'y': { sound: 'y', examples: ['yes', 'you', 'year'], ipa: '/j/' },
+            // Special consonants
+            'c': { sound: 'ch', examples: ['chip', 'much', 'chair'], ipa: '/tʃ/' },
+            'j': { sound: 'j', examples: ['judge', 'gem', 'age'], ipa: '/dʒ/' },
+            'x': { sound: 'sh', examples: ['ship', 'wash', 'sure'], ipa: '/ʃ/' },
+            'X': { sound: 'zh', examples: ['measure', 'vision', 'beige'], ipa: '/ʒ/' },
+            'q': { sound: 'ng', examples: ['sing', 'ring', 'long'], ipa: '/ŋ/' },
+            '3': { sound: 'th', examples: ['think', 'math', 'bath'], ipa: '/θ/' },
+            '8': { sound: 'th', examples: ['the', 'they', 'this'], ipa: '/ð/' },
+            // Short vowels
+            'a': { sound: 'a', examples: ['cat', 'man', 'bad'], ipa: '/æ/' },
+            'e': { sound: 'e', examples: ['bed', 'said', 'head'], ipa: '/ɛ/' },
+            'i': { sound: 'i', examples: ['bit', 'gym', 'busy'], ipa: '/ɪ/' },
+            'o': { sound: 'o', examples: ['hot', 'want', 'was'], ipa: '/ɒ/' },
+            'u': { sound: 'u', examples: ['but', 'son', 'love'], ipa: '/ʌ/' },
+            // Long vowels
+            'A': { sound: 'ay', examples: ['day', 'make', 'rain'], ipa: '/eɪ/' },
+            'E': { sound: 'ee', examples: ['see', 'me', 'key'], ipa: '/iː/' },
+            'I': { sound: 'eye', examples: ['my', 'high', 'fly'], ipa: '/aɪ/' },
+            'O': { sound: 'oh', examples: ['go', 'home', 'show'], ipa: '/oʊ/' },
+            'U': { sound: 'you', examples: ['use', 'cute', 'few'], ipa: '/juː/' },
+            // Extended vowels
+            'W': { sound: 'oo', examples: ['boot', 'moon', 'blue'], ipa: '/uː/' },
+            '0': { sound: 'oo', examples: ['book', 'put', 'good'], ipa: '/ʊ/' },
+            '4': { sound: 'uh', examples: ['about', 'sofa', 'comma'], ipa: '/ə/' },
+            '7': { sound: 'er', examples: ['bird', 'her', 'turn'], ipa: '/ɜːr/' },
+            '9': { sound: 'aw', examples: ['law', 'caught', 'all'], ipa: '/ɔː/' },
+            '6': { sound: 'ah', examples: ['father', 'spa', 'calm'], ipa: '/ɑː/' },
+            '1': { sound: 'ow', examples: ['out', 'how', 'now'], ipa: '/aʊ/' },
+            '2': { sound: 'oy', examples: ['oil', 'boy', 'join'], ipa: '/ɔɪ/' }
+        };
+
+        // Categories
+        const CATEGORIES = {
+            consonants: ['p', 'b', 't', 'd', 'k', 'g', 'f', 'v', 's', 'z', 'h', 'm', 'n', 'l', 'r', 'w', 'y'],
+            specialConsonants: ['c', 'j', 'x', 'X', 'q', '3', '8'],
+            shortVowels: ['a', 'e', 'i', 'o', 'u'],
+            longVowels: ['A', 'E', 'I', 'O', 'U'],
+            extendedVowels: ['W', '0', '4', '7', '9', '6', '1', '2']
+        };
+
+        let reader = null;
+
+        // Create phoneme item HTML
+        function createPhonemeItem(char) {
+            const data = EXTENDED_PHONEME_DATA[char];
+            if (!data) return '';
+
+            const isHighlight = CATEGORIES.specialConsonants.includes(char) ||
+                               CATEGORIES.extendedVowels.includes(char);
+
+            return `
+                <div class="phoneme-item${isHighlight ? ' highlight' : ''}"
+                     data-phoneme="${char}"
+                     onclick="playPhoneme('${char}', this)">
+                    <span class="phoneme-symbol">${char}</span>
+                    <span class="phoneme-sound">${data.sound}</span>
+                    <span class="phoneme-example">${data.examples[0]}</span>
+
+                    <div class="phoneme-tooltip">
+                        <div class="tooltip-row">
+                            <span class="tooltip-label">Sound</span>
+                            <span class="tooltip-value">${data.sound}</span>
+                        </div>
+                        <div class="tooltip-row">
+                            <span class="tooltip-label">IPA</span>
+                            <span class="tooltip-value tooltip-ipa">${data.ipa}</span>
+                        </div>
+                        <div class="tooltip-examples">
+                            <span class="tooltip-label">Examples</span>
+                            <div>
+                                ${data.examples.map(ex => `<span>${ex}</span>`).join('')}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Play phoneme sound
+        function playPhoneme(char, element) {
+            if (!reader || !reader.audioLoaded) return;
+
+            // Remove playing class from all items
+            document.querySelectorAll('.phoneme-item.playing').forEach(el => {
+                el.classList.remove('playing');
+            });
+
+            // Add playing class to clicked item
+            element.classList.add('playing');
+
+            // Play the sound
+            reader.playSinglePhoneme(char);
+
+            // Remove playing class after animation
+            setTimeout(() => {
+                element.classList.remove('playing');
+            }, 300);
+        }
+
+        // Initialize
+        async function init() {
+            const loadingOverlay = document.getElementById('loadingOverlay');
+
+            // Initialize audio
+            reader = new SpelinReader('audio/');
+
+            reader.onLoadProgress = (loaded, total) => {
+                const loadingText = loadingOverlay.querySelector('.loading-text');
+                loadingText.textContent = `Loading phoneme audio... ${loaded}/${total}`;
+
+                if (loaded === total) {
+                    loadingOverlay.classList.add('hidden');
+                }
+            };
+
+            await reader.init();
+
+            // Populate grids
+            document.getElementById('consonantGrid').innerHTML =
+                CATEGORIES.consonants.map(char => createPhonemeItem(char)).join('');
+
+            document.getElementById('specialConsonantGrid').innerHTML =
+                CATEGORIES.specialConsonants.map(char => createPhonemeItem(char)).join('');
+
+            document.getElementById('shortVowelGrid').innerHTML =
+                CATEGORIES.shortVowels.map(char => createPhonemeItem(char)).join('');
+
+            document.getElementById('longVowelGrid').innerHTML =
+                CATEGORIES.longVowels.map(char => createPhonemeItem(char)).join('');
+
+            document.getElementById('extendedVowelGrid').innerHTML =
+                CATEGORIES.extendedVowels.map(char => createPhonemeItem(char)).join('');
+        }
+
+        // Start when DOM is ready
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', init);
+        } else {
+            init();
+        }
+    </script>
+</body>
+</html>

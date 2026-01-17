@@ -1,0 +1,554 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>History of ·spelin - From Shavian to Modern Phonemic Writing</title>
+    <meta name="description" content="The story of spelin: from George Bernard Shaw's alphabet to a modern phonemic writing system designed for the digital age.">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <style>
+        .history-hero {
+            padding: var(--space-3xl) 0;
+            text-align: center;
+            background: linear-gradient(180deg, var(--bg-secondary) 0%, var(--bg-primary) 100%);
+        }
+
+        .history-hero h1 {
+            font-size: 2.5rem;
+            color: var(--accent);
+            margin-bottom: var(--space-md);
+        }
+
+        .history-hero .subtitle {
+            font-size: 1.2rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .timeline {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: var(--space-xl) 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--bg-tertiary);
+        }
+
+        @media (min-width: 768px) {
+            .timeline::before {
+                left: 50%;
+                transform: translateX(-50%);
+            }
+        }
+
+        .timeline-item {
+            position: relative;
+            padding-left: var(--space-xl);
+            margin-bottom: var(--space-2xl);
+        }
+
+        @media (min-width: 768px) {
+            .timeline-item {
+                width: 50%;
+                padding-left: 0;
+                padding-right: var(--space-xl);
+            }
+
+            .timeline-item:nth-child(even) {
+                margin-left: 50%;
+                padding-left: var(--space-xl);
+                padding-right: 0;
+            }
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -6px;
+            top: 0;
+            width: 14px;
+            height: 14px;
+            background: var(--accent);
+            border-radius: 50%;
+            border: 3px solid var(--bg-primary);
+        }
+
+        @media (min-width: 768px) {
+            .timeline-item::before {
+                left: auto;
+                right: -7px;
+            }
+
+            .timeline-item:nth-child(even)::before {
+                left: -7px;
+                right: auto;
+            }
+        }
+
+        .timeline-content {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+        }
+
+        .timeline-date {
+            color: var(--accent);
+            font-weight: 600;
+            margin-bottom: var(--space-sm);
+        }
+
+        .timeline-title {
+            font-size: 1.25rem;
+            margin-bottom: var(--space-md);
+        }
+
+        .timeline-text {
+            color: var(--text-secondary);
+        }
+
+        .part-header {
+            text-align: center;
+            padding: var(--space-2xl) 0 var(--space-xl);
+        }
+
+        .part-header h2 {
+            color: var(--accent);
+            font-size: 1.75rem;
+            margin-bottom: var(--space-sm);
+        }
+
+        .part-header .part-number {
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+
+        .content-section {
+            max-width: 700px;
+            margin: 0 auto;
+            padding: var(--space-xl) var(--space-lg);
+        }
+
+        .content-section h3 {
+            color: var(--text-primary);
+            margin-bottom: var(--space-md);
+            margin-top: var(--space-xl);
+        }
+
+        .content-section p {
+            color: var(--text-secondary);
+            line-height: 1.8;
+        }
+
+        .quote-block {
+            background: var(--bg-tertiary);
+            border-left: 4px solid var(--accent);
+            padding: var(--space-lg);
+            margin: var(--space-lg) 0;
+            font-style: italic;
+        }
+
+        .quote-block cite {
+            display: block;
+            margin-top: var(--space-md);
+            color: var(--text-muted);
+            font-style: normal;
+            font-size: 0.9rem;
+        }
+
+        .comparison-section {
+            background: var(--bg-secondary);
+            padding: var(--space-2xl) 0;
+            margin: var(--space-2xl) 0;
+        }
+
+        .comparison-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: var(--space-lg);
+            max-width: 800px;
+            margin: var(--space-xl) auto 0;
+        }
+
+        @media (max-width: 600px) {
+            .comparison-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .comparison-card {
+            background: var(--bg-tertiary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+        }
+
+        .comparison-card h4 {
+            color: var(--accent);
+            margin-bottom: var(--space-md);
+            display: flex;
+            align-items: center;
+            gap: var(--space-sm);
+        }
+
+        .comparison-card ul {
+            list-style: none;
+            color: var(--text-secondary);
+        }
+
+        .comparison-card li {
+            padding: var(--space-xs) 0;
+            display: flex;
+            align-items: flex-start;
+            gap: var(--space-sm);
+        }
+
+        .comparison-card li::before {
+            content: '';
+            width: 6px;
+            height: 6px;
+            background: var(--accent);
+            border-radius: 50%;
+            margin-top: 8px;
+            flex-shrink: 0;
+        }
+
+        .shavian-example {
+            display: flex;
+            align-items: center;
+            gap: var(--space-lg);
+            background: var(--bg-tertiary);
+            padding: var(--space-lg);
+            border-radius: var(--radius-lg);
+            margin: var(--space-lg) 0;
+        }
+
+        .shavian-example .shavian {
+            font-size: 2rem;
+            color: var(--text-muted);
+            font-family: serif;
+        }
+
+        .shavian-example .arrow {
+            color: var(--accent);
+            font-size: 1.5rem;
+        }
+
+        .shavian-example .spelin {
+            font-size: 1.5rem;
+            color: var(--accent);
+            font-family: var(--font-mono);
+        }
+
+        .shavian-example .english {
+            color: var(--text-secondary);
+            font-size: 0.9rem;
+        }
+
+        .principles-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: var(--space-md);
+            margin: var(--space-xl) 0;
+        }
+
+        .principle-card {
+            background: var(--bg-secondary);
+            border-radius: var(--radius-lg);
+            padding: var(--space-lg);
+            border-left: 3px solid var(--accent);
+        }
+
+        .principle-card h4 {
+            color: var(--text-primary);
+            margin-bottom: var(--space-sm);
+        }
+
+        .principle-card p {
+            color: var(--text-secondary);
+            font-size: 0.95rem;
+            margin: 0;
+        }
+
+        .cta-section {
+            text-align: center;
+            padding: var(--space-3xl) 0;
+            background: var(--bg-secondary);
+        }
+
+        .cta-section h2 {
+            margin-bottom: var(--space-md);
+        }
+
+        .cta-section p {
+            color: var(--text-secondary);
+            margin-bottom: var(--space-xl);
+        }
+    </style>
+</head>
+<body>
+    <div class="page-wrapper">
+        <!-- Navigation injected by nav.js -->
+
+        <main class="page-content">
+            <!-- Hero -->
+            <section class="history-hero">
+                <div class="container">
+                    <h1>The Story of ·spelin</h1>
+                    <p class="subtitle">From George Bernard Shaw's dream of spelling reform to a modern phonemic alphabet for the digital age.</p>
+                </div>
+            </section>
+
+            <!-- Part 1: Shavian Alphabet -->
+            <section class="section">
+                <div class="container">
+                    <div class="part-header">
+                        <span class="part-number">Part One</span>
+                        <h2>The Shavian Alphabet</h2>
+                    </div>
+
+                    <div class="content-section">
+                        <p>George Bernard Shaw, the Nobel Prize-winning playwright, had a lifelong frustration with English spelling. He famously illustrated its absurdity with the word "ghoti"—which, using English spelling rules, could be pronounced "fish" (gh as in "rough," o as in "women," ti as in "nation").</p>
+
+                        <div class="quote-block">
+                            "The English alphabet has only 26 letters to represent 40+ sounds. The result is chaos—a spelling system that has to be memorized word by word rather than learned by rules."
+                            <cite>— George Bernard Shaw</cite>
+                        </div>
+
+                        <h3>The 1958 Competition</h3>
+                        <p>When Shaw died in 1950, his will included provisions for a competition to create a new phonemic alphabet for English. The competition, held in 1958, was won by Kingsley Read with the "Shavian" alphabet—48 unique characters, one for each sound in English.</p>
+
+                        <p>Shavian was elegant in its design: each letter was crafted for efficient handwriting, with tall letters for voiceless sounds and deep letters for voiced sounds. The alphabet was used to publish a special edition of Shaw's play "Androcles and the Lion" in 1962.</p>
+
+                        <h3>The Problem with Shavian</h3>
+                        <p>Despite its phonemic purity, Shavian never gained widespread adoption. The reasons became clear over time:</p>
+
+                        <div class="comparison-grid">
+                            <div class="comparison-card">
+                                <h4>Designed for Handwriting</h4>
+                                <ul>
+                                    <li>Optimized for pen-and-paper speed</li>
+                                    <li>Required learning 48 new symbols</li>
+                                    <li>Looked completely foreign</li>
+                                    <li>No connection to existing letters</li>
+                                </ul>
+                            </div>
+                            <div class="comparison-card">
+                                <h4>Not Designed for Typing</h4>
+                                <ul>
+                                    <li>Required special fonts</li>
+                                    <li>Couldn't be used in most text fields</li>
+                                    <li>Incompatible with standard keyboards</li>
+                                    <li>Pre-dated the digital age</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        <p>Shaw designed his alphabet for a world of handwritten letters and printed books. He couldn't have anticipated a world where most writing happens on keyboards and screens.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Part 2: The Birth of spelin -->
+            <section class="section section--alt">
+                <div class="container">
+                    <div class="part-header">
+                        <span class="part-number">Part Two</span>
+                        <h2>The Birth of ·spelin</h2>
+                    </div>
+
+                    <div class="content-section">
+                        <p>In 2024, David Hamner came across discussions about alternative alphabets while watching a Rob Words video on YouTube. The comments section was filled with people lamenting English spelling while dismissing alternatives like Shavian as "impractical."</p>
+
+                        <p>The criticism was valid: learning 48 new symbols, installing special fonts, and being unable to use the system in standard text fields were real barriers. But the underlying idea—one symbol per sound—was sound.</p>
+
+                        <h3>The Key Insight</h3>
+                        <p>The problem wasn't phonemic writing itself. The problem was that existing systems were designed for the wrong medium. Shavian optimized for handwriting speed when most modern writing is typed. It created entirely new symbols when a standard keyboard has unused potential.</p>
+
+                        <div class="quote-block">
+                            "What if we kept Shaw's phonemic principle but designed for keyboards instead of pens? What if we used characters people already know?"
+                        </div>
+
+                        <h3>Design Principles</h3>
+                        <div class="principles-list">
+                            <div class="principle-card">
+                                <h4>Readability First</h4>
+                                <p>Use familiar ASCII characters. Build on existing letter knowledge rather than replacing it.</p>
+                            </div>
+                            <div class="principle-card">
+                                <h4>Typability</h4>
+                                <p>Every symbol must be accessible on a standard keyboard. No special fonts or character maps.</p>
+                            </div>
+                            <div class="principle-card">
+                                <h4>Digital Native</h4>
+                                <p>Works in any text field—email, SMS, social media, code comments. If you can type, you can write spelin.</p>
+                            </div>
+                            <div class="principle-card">
+                                <h4>Phonemic Purity</h4>
+                                <p>Maintain Shaw's core insight: one symbol, one sound. No exceptions, no silent letters, no ambiguity.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Part 3: How spelin Improves on Shavian -->
+            <section class="section">
+                <div class="container">
+                    <div class="part-header">
+                        <span class="part-number">Part Three</span>
+                        <h2>How ·spelin Improves on Shavian</h2>
+                    </div>
+
+                    <div class="content-section">
+                        <h3>Familiar Foundations</h3>
+                        <p>Where possible, spelin uses letters for their most common sounds: 'p' for /p/, 'b' for /b/, 't' for /t/, etc. Most consonants work exactly as English speakers expect.</p>
+
+                        <h3>Case as Information</h3>
+                        <p>In spelin, uppercase vowels represent their "long" sounds (their letter names), while lowercase vowels represent their "short" sounds:</p>
+
+                        <table class="comparison-table" style="max-width: 500px; margin: var(--space-lg) 0;">
+                            <thead>
+                                <tr>
+                                    <th>Symbol</th>
+                                    <th>Sound</th>
+                                    <th>Example</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">A</td>
+                                    <td>/eɪ/</td>
+                                    <td>day, make</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">a</td>
+                                    <td>/æ/</td>
+                                    <td>cat, man</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">E</td>
+                                    <td>/iː/</td>
+                                    <td>see, me</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">e</td>
+                                    <td>/ɛ/</td>
+                                    <td>bed, said</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <h3>Numbers for Extended Sounds</h3>
+                        <p>English has more vowel sounds than vowel letters. Spelin uses numbers for sounds that don't have natural letter equivalents:</p>
+
+                        <table class="comparison-table" style="max-width: 500px; margin: var(--space-lg) 0;">
+                            <thead>
+                                <tr>
+                                    <th>Symbol</th>
+                                    <th>Sound</th>
+                                    <th>Example</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">1</td>
+                                    <td>/aʊ/</td>
+                                    <td>out, how</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">7</td>
+                                    <td>/ɜːr/</td>
+                                    <td>bird, her</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">8</td>
+                                    <td>/ð/</td>
+                                    <td>the, they</td>
+                                </tr>
+                                <tr>
+                                    <td style="font-family: var(--font-mono); color: var(--accent);">3</td>
+                                    <td>/θ/</td>
+                                    <td>think, math</td>
+                                </tr>
+                            </tbody>
+                        </table>
+
+                        <h3>The Namer Dot</h3>
+                        <p>Since spelin uses case for phonetic information, it can't use capitals for proper nouns. Instead, proper nouns are marked with a preceding middle dot (·):</p>
+
+                        <div class="shavian-example">
+                            <div>
+                                <div class="spelin">·j6n</div>
+                                <div class="english">John</div>
+                            </div>
+                            <span class="arrow">|</span>
+                            <div>
+                                <div class="spelin">·lund4n</div>
+                                <div class="english">London</div>
+                            </div>
+                            <span class="arrow">|</span>
+                            <div>
+                                <div class="spelin">·spelin</div>
+                                <div class="english">spelin</div>
+                            </div>
+                        </div>
+
+                        <h3>Comparison Summary</h3>
+                        <div class="comparison-grid">
+                            <div class="comparison-card">
+                                <h4>Shavian</h4>
+                                <ul>
+                                    <li>48 completely new symbols</li>
+                                    <li>Requires special fonts</li>
+                                    <li>Optimized for handwriting</li>
+                                    <li>Can't be typed normally</li>
+                                    <li>Looks foreign and intimidating</li>
+                                </ul>
+                            </div>
+                            <div class="comparison-card">
+                                <h4>·spelin</h4>
+                                <ul>
+                                    <li>42 familiar ASCII characters</li>
+                                    <li>Works everywhere, no fonts needed</li>
+                                    <li>Optimized for keyboards</li>
+                                    <li>Type on any device</li>
+                                    <li>Recognizable, learnable quickly</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- CTA -->
+            <section class="cta-section">
+                <div class="container">
+                    <h2>Ready to Learn?</h2>
+                    <p>Master the 42 symbols of spelin with interactive tools and games.</p>
+                    <div class="btn-group justify-center">
+                        <a href="learn.html" class="btn btn--primary btn--lg">Start Learning</a>
+                        <a href="reader.html" class="btn btn--secondary btn--lg">Try the Reader</a>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer injected by nav.js -->
+    </div>
+
+    <script src="js/nav.js"></script>
+    <script src="js/audio.js" data-auto-init></script>
+</body>
+</html>

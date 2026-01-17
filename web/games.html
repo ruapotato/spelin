@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>·spelin Games - Practice with Mini-Games</title>
+    <meta name="description" content="Practice spelin with interactive games: Sound Match, Spell It, Read It, and Flash Cards.">
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/components.css">
+    <link rel="stylesheet" href="css/games.css">
+</head>
+<body>
+    <div class="page-wrapper">
+        <!-- Navigation injected by nav.js -->
+
+        <main class="page-content">
+            <section class="section">
+                <div class="container container--narrow">
+                    <!-- Games Hub -->
+                    <div id="gamesHub">
+                        <div class="text-center mb-xl">
+                            <h1 style="color: var(--accent); font-size: 2rem; margin-bottom: var(--space-sm);">·spelin Games</h1>
+                            <p class="text-muted">Practice your phoneme recognition with fun mini-games</p>
+                        </div>
+
+                        <div class="grid grid--2" id="gamesList">
+                            <!-- Sound Match -->
+                            <div class="game-card" data-game="soundMatch">
+                                <div class="game-card-icon">🔊</div>
+                                <h3 class="game-card-title">Sound Match</h3>
+                                <p class="game-card-desc">Hear a phoneme, click the matching symbol. Train your ear-to-symbol connection.</p>
+                                <div class="game-card-stats">
+                                    <div class="game-stat">
+                                        <div class="game-stat-value" id="soundMatchHigh">0</div>
+                                        <div class="game-stat-label">High Score</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Spell It -->
+                            <div class="game-card" data-game="spellIt">
+                                <div class="game-card-icon">✏️</div>
+                                <h3 class="game-card-title">Spell It</h3>
+                                <p class="game-card-desc">Hear a word, type it in spelin. Practice converting sounds to symbols.</p>
+                                <div class="game-card-stats">
+                                    <div class="game-stat">
+                                        <div class="game-stat-value" id="spellItHigh">0</div>
+                                        <div class="game-stat-label">High Score</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Read It -->
+                            <div class="game-card" data-game="readIt">
+                                <div class="game-card-icon">📖</div>
+                                <h3 class="game-card-title">Read It</h3>
+                                <p class="game-card-desc">See spelin text, type the English word. Test your reading comprehension.</p>
+                                <div class="game-card-stats">
+                                    <div class="game-stat">
+                                        <div class="game-stat-value" id="readItHigh">0</div>
+                                        <div class="game-stat-label">High Score</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <!-- Flash Cards -->
+                            <div class="game-card" data-game="flashCards">
+                                <div class="game-card-icon">🃏</div>
+                                <h3 class="game-card-title">Flash Cards</h3>
+                                <p class="game-card-desc">Review all 42 phonemes with spaced repetition. Mark cards as mastered or needing review.</p>
+                                <div class="game-card-stats">
+                                    <div class="game-stat">
+                                        <div class="game-stat-value">42</div>
+                                        <div class="game-stat-label">Cards</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="text-center mt-xl">
+                            <a href="learn.html" class="btn btn--ghost">Review the Alphabet First</a>
+                        </div>
+                    </div>
+
+                    <!-- Game Container (for active games) -->
+                    <div id="gameContainer" style="display: none;"></div>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer injected by nav.js -->
+    </div>
+
+    <script src="js/nav.js"></script>
+    <script src="js/audio.js"></script>
+    <script src="js/games.js"></script>
+    <script src="js/progress.js"></script>
+    <script>
+        // Initialize games
+        document.addEventListener('DOMContentLoaded', () => {
+            const hub = document.getElementById('gamesHub');
+            const container = document.getElementById('gameContainer');
+
+            // Load high scores
+            const stats = getGameStats();
+            document.getElementById('soundMatchHigh').textContent = stats.soundMatch || 0;
+            document.getElementById('spellItHigh').textContent = stats.spellIt || 0;
+            document.getElementById('readItHigh').textContent = stats.readIt || 0;
+
+            // Game card click handlers
+            document.querySelectorAll('.game-card').forEach(card => {
+                card.addEventListener('click', () => {
+                    const game = card.dataset.game;
+                    startGame(game);
+                });
+            });
+
+            // Check for game parameter in URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const gameParam = urlParams.get('game');
+            if (gameParam) {
+                startGame(gameParam);
+            }
+
+            function startGame(gameName) {
+                hub.style.display = 'none';
+                container.style.display = 'block';
+
+                switch (gameName) {
+                    case 'soundMatch':
+                        new SoundMatchGame(container, gameState).start();
+                        break;
+                    case 'spellIt':
+                        new SpellItGame(container, gameState).start();
+                        break;
+                    case 'readIt':
+                        new ReadItGame(container, gameState).start();
+                        break;
+                    case 'flashCards':
+                        new FlashCardsGame(container, gameState).start();
+                        break;
+                    default:
+                        showHub();
+                }
+
+                // Update URL
+                history.pushState({}, '', `games.html?game=${gameName}`);
+            }
+
+            function showHub() {
+                hub.style.display = 'block';
+                container.style.display = 'none';
+                container.innerHTML = '';
+
+                // Reload high scores
+                const stats = getGameStats();
+                document.getElementById('soundMatchHigh').textContent = stats.soundMatch || 0;
+                document.getElementById('spellItHigh').textContent = stats.spellIt || 0;
+                document.getElementById('readItHigh').textContent = stats.readIt || 0;
+
+                history.pushState({}, '', 'games.html');
+            }
+
+            // Handle back button
+            window.addEventListener('popstate', () => {
+                const urlParams = new URLSearchParams(window.location.search);
+                const gameParam = urlParams.get('game');
+                if (gameParam) {
+                    startGame(gameParam);
+                } else {
+                    showHub();
+                }
+            });
+
+            // Make showHub available globally for back links
+            window.showGamesHub = showHub;
+        });
+    </script>
+</body>
+</html>
