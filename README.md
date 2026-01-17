@@ -2,7 +2,7 @@
 
 A reading-optimized phonemic alphabet for English using Latin letters and numbers.
 
-> **Note:** In spelin, uppercase letters have phonetic meaning, so we can't use them for proper nouns. Instead, we use a **namer dot** (·) before names: ·spelin, ·jon, ·lund4n
+> **Note:** In spelin, uppercase letters have phonetic meaning, so we can't use them for proper nouns. Instead, we use a **namer dot** (·) before names: ·spelin, ·j6n, ·lund4n
 
 ## The Problem
 
@@ -113,14 +113,14 @@ Since uppercase letters have phonetic meaning in ·spelin, we can't capitalize n
 
 | Traditional | ·spelin |
 |-------------|---------|
-| John | ·jon |
+| John | ·j6n |
 | London | ·lund4n |
 | England | ·iqgl4nd |
 | Shavian | ·xAvE4n |
 | spelin | ·spelin |
 
 The namer dot (·) is preferred, but a dash (-) works on systems without easy Unicode access:
-- ·jon or -jon
+- ·j6n or -j6n
 
 ---
 

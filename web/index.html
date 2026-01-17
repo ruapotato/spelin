@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>·spelin - Phonemic English</title>
+    <link rel="icon" href="favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>·spelin</h1>
+            <p class="subtitle">A phonemic alphabet for English</p>
+        </header>
+
+        <main>
+            <!-- Reader Section -->
+            <section class="reader-section">
+                <div class="tabs">
+                    <button class="tab active" data-tab="reader">Reader</button>
+                    <button class="tab" data-tab="converter">Converter</button>
+                    <button class="tab" data-tab="guide">Guide</button>
+                </div>
+
+                <!-- Reader Tab -->
+                <div class="tab-content active" id="reader">
+                    <div class="loading-indicator" id="loadingIndicator">
+                        <div class="loading-spinner"></div>
+                        <span class="loading-text">Loading phoneme audio...</span>
+                    </div>
+                    <div class="text-display" id="textDisplay">
+                        <p class="placeholder">Enter spelin text below or choose a sample...</p>
+                    </div>
+
+                    <div class="phoneme-display" id="phonemeDisplay"></div>
+
+                    <div class="controls">
+                        <button id="playBtn" class="btn btn-primary">
+                            <span class="play-icon">▶</span> Play
+                        </button>
+                        <button id="pauseBtn" class="btn" disabled>
+                            <span>⏸</span> Pause
+                        </button>
+                        <button id="stopBtn" class="btn" disabled>
+                            <span>⏹</span> Stop
+                        </button>
+                        <div class="speed-control">
+                            <label>Speed:</label>
+                            <input type="range" id="speedSlider" min="0.5" max="2.5" step="0.1" value="1.0">
+                            <span id="speedValue">1.0x</span>
+                        </div>
+                    </div>
+
+                    <div class="input-section">
+                        <textarea id="spelinInput" placeholder="Enter spelin text here... (e.g., '8u kwik br1n foks jumps Ov7 8u lAzE dog')"></textarea>
+                        <div class="sample-buttons">
+                            <span>Samples:</span>
+                            <button class="sample-btn" data-sample="quick">Quick Brown Fox</button>
+                            <button class="sample-btn" data-sample="genesis">Genesis 1:1</button>
+                            <button class="sample-btn" data-sample="philosophy">Philosophy</button>
+                            <button class="sample-btn" data-sample="wisdom">Wisdom</button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Converter Tab -->
+                <div class="tab-content" id="converter">
+                    <div class="converter-grid">
+                        <div class="converter-col">
+                            <h3>English</h3>
+                            <textarea id="englishInput" placeholder="Type English text here..."></textarea>
+                        </div>
+                        <div class="converter-arrow">→</div>
+                        <div class="converter-col">
+                            <h3>·spelin</h3>
+                            <textarea id="spelinOutput" readonly placeholder="Spelin will appear here..."></textarea>
+                        </div>
+                    </div>
+                    <button id="convertBtn" class="btn btn-primary">Convert to ·spelin</button>
+                    <button id="copyBtn" class="btn">Copy ·spelin</button>
+                    <button id="readConvertedBtn" class="btn">Read Aloud</button>
+                </div>
+
+                <!-- Guide Tab -->
+                <div class="tab-content" id="guide">
+                    <div class="guide-content">
+                        <h2>The ·spelin Alphabet</h2>
+                        <p>·spelin uses 42 symbols where each represents exactly one sound.</p>
+
+                        <h3>Consonants</h3>
+                        <div class="phoneme-grid">
+                            <div class="phoneme-item"><span class="symbol">p</span><span class="example">pea</span></div>
+                            <div class="phoneme-item"><span class="symbol">b</span><span class="example">bee</span></div>
+                            <div class="phoneme-item"><span class="symbol">t</span><span class="example">tea</span></div>
+                            <div class="phoneme-item"><span class="symbol">d</span><span class="example">do</span></div>
+                            <div class="phoneme-item"><span class="symbol">k</span><span class="example">key</span></div>
+                            <div class="phoneme-item"><span class="symbol">g</span><span class="example">go</span></div>
+                            <div class="phoneme-item"><span class="symbol">f</span><span class="example">fee</span></div>
+                            <div class="phoneme-item"><span class="symbol">v</span><span class="example">vow</span></div>
+                            <div class="phoneme-item"><span class="symbol">s</span><span class="example">see</span></div>
+                            <div class="phoneme-item"><span class="symbol">z</span><span class="example">zoo</span></div>
+                            <div class="phoneme-item"><span class="symbol">h</span><span class="example">he</span></div>
+                            <div class="phoneme-item"><span class="symbol">m</span><span class="example">me</span></div>
+                            <div class="phoneme-item"><span class="symbol">n</span><span class="example">no</span></div>
+                            <div class="phoneme-item"><span class="symbol">l</span><span class="example">low</span></div>
+                            <div class="phoneme-item"><span class="symbol">r</span><span class="example">row</span></div>
+                            <div class="phoneme-item"><span class="symbol">w</span><span class="example">we</span></div>
+                            <div class="phoneme-item"><span class="symbol">y</span><span class="example">yes</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">c</span><span class="example">chip</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">j</span><span class="example">judge</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">x</span><span class="example">ship</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">X</span><span class="example">measure</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">q</span><span class="example">sing</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">3</span><span class="example">think</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">8</span><span class="example">they</span></div>
+                        </div>
+
+                        <h3>Vowels</h3>
+                        <p><em>Uppercase = long sound (letter name), lowercase = short sound</em></p>
+                        <div class="phoneme-grid">
+                            <div class="phoneme-item"><span class="symbol">A</span><span class="example">day</span></div>
+                            <div class="phoneme-item"><span class="symbol">a</span><span class="example">cat</span></div>
+                            <div class="phoneme-item"><span class="symbol">E</span><span class="example">see</span></div>
+                            <div class="phoneme-item"><span class="symbol">e</span><span class="example">bed</span></div>
+                            <div class="phoneme-item"><span class="symbol">I</span><span class="example">my</span></div>
+                            <div class="phoneme-item"><span class="symbol">i</span><span class="example">bit</span></div>
+                            <div class="phoneme-item"><span class="symbol">O</span><span class="example">go</span></div>
+                            <div class="phoneme-item"><span class="symbol">o</span><span class="example">hot</span></div>
+                            <div class="phoneme-item"><span class="symbol">U</span><span class="example">use</span></div>
+                            <div class="phoneme-item"><span class="symbol">u</span><span class="example">but</span></div>
+                        </div>
+
+                        <h3>Extended Vowels (Numbers)</h3>
+                        <div class="phoneme-grid">
+                            <div class="phoneme-item highlight"><span class="symbol">W</span><span class="example">boot</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">0</span><span class="example">book</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">4</span><span class="example">about</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">7</span><span class="example">bird</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">9</span><span class="example">law</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">6</span><span class="example">father</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">1</span><span class="example">out</span></div>
+                            <div class="phoneme-item highlight"><span class="symbol">2</span><span class="example">oil</span></div>
+                        </div>
+
+                        <h3>Special</h3>
+                        <p>The <strong>namer dot</strong> (·) marks proper nouns since we can't use capital letters:</p>
+                        <p>John → ·j6n &nbsp; | &nbsp; London → ·lund4n &nbsp; | &nbsp; spelin → ·spelin</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <p>·spelin - A phonemic alphabet for English</p>
+            <p><a href="https://github.com/ruapotato/spelin" target="_blank">GitHub</a></p>
+        </footer>
+    </div>
+
+    <script src="spelin.js"></script>
+</body>
+</html>

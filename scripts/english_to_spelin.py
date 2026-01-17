@@ -65,6 +65,71 @@ SPECIAL_WORDS = {
     'to': 't4',       # reduced form
     'spelin': 'spelin',  # the alphabet name
     'speling': 'spelin', # alternate
+    # Words not in CMU
+    'influencer': 'influ4ns7',
+    'influencers': 'influ4ns7z',
+    'emojis': 'EmOjEz',
+    'emoji': 'EmOjE',
+    'verily': 'verilE',
+    'usest': 'yWzest',
+    'sharers': 'xer7z',
+    'poisoners': 'p2z4n7z',
+    'experiencer': 'ikspirE4ns7',
+    'dreamless': 'drEmles',
+    'afterword': 'aft7w7d',
+    'epistles': 'Epis4lz',
+    # Contraction fragments
+    'isn': 'iz4n',
+    'wasn': 'w6z4n',
+    'll': 'l',
+    # Made-up names/words in our texts
+    'consumus': '·k4nsWm4s',
+    'getmine': '·getmIn',
+    'priya': '·prEy4',
+    'maaah': 'm6',
+    # Letter examples (keep as-is)
+    'ough': 'O',
+    'gh': '',
+    # More missing words
+    'whimpered': 'wimp7d',
+    'cooperators': 'kOop7At7z',
+    'simultaneity': 'sImult4nEitE',
+    'doesn': 'd6z4n',
+    'didn': 'did4n',
+    'wouldn': 'w0d4n',
+    'vasopressin': 'vAzOpresin',
+    'limbic': 'limbik',
+    'manyness': 'menEnes',
+    'thinkest': '3iqkest',
+    'callest': 'k9lest',
+    'seest': 'sEest',
+    'perceivest': 'p7sEvest',
+    'saith': 'se3',
+    'declareth': 'diklere3',
+    'endeth': 'ende3',
+    'hearken': 'h6rk4n',
+    'reginalds': '·rejin4ldz',
+    'selfing': 'selfiq',
+    'chronopolis': '·kr4n6p4lis',
+    'jonathans': '·j6n43anz',
+    'rebeccas': '·ribek4z',
+    'sundials': 'sundIalz',
+    'philosophizing': 'fil6s4fIziq',
+    'mournfully': 'm9rnf4lE',
+    'podcasts': 'p6dkasts',
+    'sagely': 'sAjlE',
+    'mindfulness': 'mIndf4lnes',
+    'deathbeds': 'de3bedz',
+    'twiddles': 'twid4lz',
+    'sourness': 's1rnes',
+    'reductionist': 'ridukx4nist',
+    'tiktok': '·tikt6k',
+    'outbred': '1tbred',
+    'subcategory': 'subkat4g9rE',
+    # Roman numerals
+    'ii': 'tW',
+    'iii': '3rE',
+    'iv': 'f9r',
 }
 
 # Proper nouns get a namer dot (·)
@@ -102,6 +167,39 @@ def phonemes_to_spelin(phonemes: str) -> str:
     return ''.join(result)
 
 
+def select_california_pronunciation(pronunciations: list) -> str:
+    """Select the pronunciation that best matches California English."""
+    if len(pronunciations) == 1:
+        return pronunciations[0]
+
+    # California English preferences:
+    # 1. Prefer EY over IY at end of words (day vs dee)
+    # 2. Prefer AA over AO (cot-caught merger)
+    # 3. Prefer UW over UH for "oo" words
+
+    scored = []
+    for p in pronunciations:
+        score = 0
+        phones = p.split()
+
+        # Prefer EY endings over IY (Tuesday = tuez-DAY not tuez-dee)
+        if phones and phones[-1].startswith('EY'):
+            score += 10
+        if phones and phones[-1].startswith('IY'):
+            score -= 5
+
+        # Prefer AA (cot-caught merger typical in California)
+        score += p.count('AA') * 2
+
+        # Slight preference for simpler pronunciations
+        score -= len(phones) * 0.1
+
+        scored.append((score, p))
+
+    scored.sort(reverse=True)
+    return scored[0][1]
+
+
 def word_to_spelin(word: str) -> str:
     """Convert a single English word to ·spelin via phonemes."""
     word_lower = word.lower()
@@ -113,8 +211,8 @@ def word_to_spelin(word: str) -> str:
         # Get phonemes from CMU dictionary
         pronunciations = pronouncing.phones_for_word(word_lower)
         if pronunciations:
-            # Use first pronunciation
-            phonemes = pronunciations[0]
+            # Select California-style pronunciation
+            phonemes = select_california_pronunciation(pronunciations)
             result = phonemes_to_spelin(phonemes)
         else:
             # Word not in dictionary - return marked
