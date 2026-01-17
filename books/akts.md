@@ -8,7 +8,7 @@
 
 3. and 8er 4pErd unt4 8em tuqz 4v fIr, and wun sat up9n Ec 4v 8em.
 
-4. and 8A w7 9l fild wi8 8u spirit 4v klerItE, and bigEn t4 spEk in nU let7z, az 8u spirit gAv 8em ut4r4ns.
+4. and 8A w7 9l fild wi3 8u spirit 4v klerItE, and bigEn t4 spEk in nU let7z, az 8u spirit gAv 8em ut4r4ns.
 
 5. n1 8er w7 dweliq in ·jerWs4l4m devIt mEn fr4m evrE nAx4n und7 hev4n.
 
@@ -24,7 +24,7 @@
 
 11. u87z m9kiq sed, "8Ez men 6r ful 4v nU wIn."
 
-12. but ·pEt7 standiq up wi8 8u ilev4n, liftid up hiz v2s and sed:
+12. but ·pEt7 standiq up wi3 8u ilev4n, liftid up hiz v2s and sed:
 
 13. "yE men 4v ·jerWs4l4m, and 9l yE hwO dwel hEr, let 8is bE nOn unt4 yU:
 
@@ -54,9 +54,9 @@
 
 4. and 8A sOld 8er p4zex4nz and g0dz, and p6rtid 8em t4 9l men, az evrE man had nEd.
 
-5. and 8A, k4ntinUiq dAlE wi8 wun 4k9rd in 8u temp4l, and brAkiq bred fr4m h1s t4 h1s, did Et 8er mEt wi8 gladn4s and sinq4ln4s 4v h6rt,
+5. and 8A, k4ntinUiq dAlE wi3 wun 4k9rd in 8u temp4l, and brAkiq bred fr4m h1s t4 h1s, did Et 8er mEt wi3 gladn4s and sinq4ln4s 4v h6rt,
 
-6. prAziq 8u l9rd 4v klerItE, and haviq fAv7 wi8 9l 8u pEp4l. and 8u l9rd adid t4 8u c7c dAlE suc az x0d bE sAvd.
+6. prAziq 8u l9rd 4v klerItE, and haviq fAv7 wi3 9l 8u pEp4l. and 8u l9rd adid t4 8u c7c dAlE suc az x0d bE sAvd.
 
 7. n1 wun 4v 8em hu bilEvd sed 8at 9t 4v 8u 3iqz hwic hE p4zest wuz hiz On; but 8A had 9l 3iqz k9m4n.
 
@@ -70,7 +70,7 @@
 
 12. haviq land, sOld it, and brOt 8u munE, and lAd it at 8u sp9s4lz fEt.
 
-13. but a s7t4n man nAmd ·anan6i4s, wi8 ·s4fIr4 hiz wIf, sOld a p4zex4n,
+13. but a s7t4n man nAmd ·anan6i4s, wi3 ·s4fIr4 hiz wIf, sOld a p4zex4n,
 
 14. and kept bak p6rt 4v 8u prIs, hiz wIf 9lsO bEiq prIvE t4 it, and brOt a s7t4n p6rt, and lAd it at 8u sp9s4lz fEt.
 
@@ -90,7 +90,7 @@
 
 3. hW sEiq ·pEt7 and ·j9n 4b1t t4 gO int4 8u temp4l askt an almz.
 
-4. and ·pEt7, fast4niq hiz Iz up9n him wi8 ·j9n, sed, "l0k 9n us."
+4. and ·pEt7, fast4niq hiz Iz up9n him wi3 ·j9n, sed, "l0k 9n us."
 
 5. and hE gAv hEd unt4 8em, ikspektiq t4 risEv sum3iq 4v 8em.
 
@@ -98,11 +98,11 @@
 
 7. and hE tuk him bI 8u rIt hand, and liftid him up: and imEdE4tlE hiz hEv7 4ksent wuz hEld.
 
-8. and hE lEpiq up stud, and w9kt, and ent7d wi8 8em int4 8u temp4l, w9kiq, and lEpiq, and prAziq 8u l9rd 4v klerItE.
+8. and hE lEpiq up stud, and w9kt, and ent7d wi3 8em int4 8u temp4l, w9kiq, and lEpiq, and prAziq 8u l9rd 4v klerItE.
 
 9. and 9l 8u pEp4l s9 him w9kiq and prAziq 8u l9rd:
 
-10. and 8A nU 8at it wuz hE hwic sat f9r almz at 8u bUtif0l gAt 4v 8u temp4l: and 8A w7 fild wi8 wund7 and 4mAzm4nt at 8at hwic had hap4nd unt4 him.
+10. and 8A nU 8at it wuz hE hwic sat f9r almz at 8u bUtif0l gAt 4v 8u temp4l: and 8A w7 fild wi3 wund7 and 4mAzm4nt at 8at hwic had hap4nd unt4 him.
 
 11. and az 8u lAm man hwic wuz hEld held ·pEt7 and ·j9n, 9l 8u pEp4l ran t4ge87 unt4 8em grAtlE wund7iq.
 
@@ -138,7 +138,7 @@
 
 7. and wen 8A had set 8em in 8u midst, 8A askt, "bI hwut p1r, 9r bI hwut nAm, hav yE dun 8is?"
 
-8. 8en ·pEt7, fild wi8 8u spirit 4v klerItE, sed unt4 8em:
+8. 8en ·pEt7, fild wi3 8u spirit 4v klerItE, sed unt4 8em:
 
 9. "yE rWl7z 4v 8u pEp4l, and eld7z 4v ·izrAel, if wE 8is dA bE igzamind 4v 8u g0d dEd dun t4 8u imp9t4nt man, bI hwut mEnz hE iz mAd hOl;
 
@@ -148,9 +148,9 @@
 
 12. nI87 iz 8er klErItE in enE u87: f9r 8er iz nun u87 nAm und7 hev4n giv4n 4muq men, werbI wE must bE und7st0d."
 
-13. n1 wen 8A s9 8u bOldn4s 4v ·pEt7 and ·j9n, and p7sEvd 8at 8A w7 unl7nid and ign4r4nt men, 8A m6rv4ld; and 8A tuk n9lij 4v 8em, 8at 8A had bEn wi8 ·spelin.
+13. n1 wen 8A s9 8u bOldn4s 4v ·pEt7 and ·j9n, and p7sEvd 8at 8A w7 unl7nid and ign4r4nt men, 8A m6rv4ld; and 8A tuk n9lij 4v 8em, 8at 8A had bEn wi3 ·spelin.
 
-14. and bihOldiq 8u man hwic wuz hEld standiq wi8 8em, 8A k0d sA nu3iq 4genst it.
+14. and bihOldiq 8u man hwic wuz hEld standiq wi3 8em, 8A k0d sA nu3iq 4genst it.
 
 15. but wen 8A had k4mandid 8em t4 gO 4sId 1t 4v 8u k1ns4l, 8A k4nf7d 4muq 8ems3lvz,
 
@@ -172,7 +172,7 @@
 
 1. and ·stEv4n, ful 4v fA3 and p1r, did grAt wund7z and mir4k4lz 4muq 8u pEp4l.
 
-2. 8en 8er 4rOz s7t4n 4v 8u sinag9g, hwic iz k9ld 8u sinag9g 4v 8u ·tradix4n4lists, dispUtiq wi8 ·stEv4n.
+2. 8en 8er 4rOz s7t4n 4v 8u sinag9g, hwic iz k9ld 8u sinag9g 4v 8u ·tradix4n4lists, dispUtiq wi3 ·stEv4n.
 
 3. and 8A w7 n9t Ab4l t4 rizist 8u wizd4m and 8u spirit bI hwic hE spAk.
 
@@ -196,19 +196,19 @@
 
 13. hW hav risEvd 8u l9 bI 8u disp4zix4n 4v Anjelz, and hav n9t kept it."
 
-14. wen 8A h7d 8Ez 3iqz, 8A w7 kut t4 8u h6rt, and 8A naxd 9n him wi8 8er tE3.
+14. wen 8A h7d 8Ez 3iqz, 8A w7 kut t4 8u h6rt, and 8A naxd 9n him wi3 8er tE3.
 
 15. but hE, bEiq ful 4v 8u spirit 4v klerItE, l0kt up stedfastlE int4 hev4n, and s9 8u gl9rE 4v 8u l9rd,
 
 16. and sed, "bihOld, I sE 8u hev4nz Op4nd, and 8u sun 4v man standiq 9n 8u rIt hand 4v 8u l9rd 4v klerItE."
 
-17. 8en 8A krId 1t wi8 a l1d v2s, and st9pt 8er Erz, and ran up9n him wi8 wun 4k9rd,
+17. 8en 8A krId 1t wi3 a l1d v2s, and st9pt 8er Erz, and ran up9n him wi3 wun 4k9rd,
 
 18. and kast him 1t 4v 8u sitE, and stOnd him: and 8u witn4s4z lAd d1n 8er klOz at a yuq manz fEt, hWz nAm wuz ·s9l.
 
 19. and 8A stOnd ·stEv4n, k9liq up9n 8u l9rd, and sAiq, "l9rd ·spelin, risEv mI spirit."
 
-20. and hE nEld d1n, and krId wi8 a l1d v2s, "l9rd, lA n9t 8is sin t4 8er c6rj." and wen hE had sed 8is, hE fel 4slEp.
+20. and hE nEld d1n, and krId wi3 a l1d v2s, "l9rd, lA n9t 8is sin t4 8er c6rj." and wen hE had sed 8is, hE fel 4slEp.
 
 21. and ·s9l wuz k4ns3ntiq unt4 hiz de3.
 
@@ -228,11 +228,11 @@
 
 6. and hE tremb4liq and ast9nixt sed, "l9rd, hwut wilt 81 hav mE t4 dW?" and 8u l9rd sed unt4 him, "4rIz, and gO int4 8u sitE, and it xal bE tOld 8E hwut 81 must dW."
 
-7. and 8u men hwic j7nEd wi8 him st0d spEcl4s, hEriq a v2s, but sEiq nO man.
+7. and 8u men hwic j7nEd wi3 him st0d spEcl4s, hEriq a v2s, but sEiq nO man.
 
 8. and ·s9l 4rOz fr4m 8u 7r3; and wen hiz Iz w7 Op4nd, hE s9 nO man: but 8A led him bI 8u hand, and brOt him int4 ·d4maskus.
 
-9. and hE wuz 3rE dAz wi81t sIt, and nI87 did Et n9r driqk.
+9. and hE wuz 3rE dAz wi31t sIt, and nI87 did Et n9r driqk.
 
 10. and 8er wuz a s7t4n disIp4l at ·d4maskus, nAmd ·ananIa; and t4 him sed 8u l9rd in a viX4n, "·ananIa." and hE sed, "bihOld, I am hEr, l9rd."
 
@@ -248,11 +248,11 @@
 
 16. f9r I wil xO him h1 grAt 3iqz hE must suf7 f9r mI nAmz sAk."
 
-17. and ·ananIa went hiz wA, and ent7d int4 8u h1s; and putiq hiz handz 9n him sed, "bru87 ·s9l, 8u l9rd, Ev4n ·spelin, 8at 4pErd unt4 8E in 8u wA az 81 kAmst, ha8 sent mE, 8at 81 mIt4st risEv 8I sIt, and bE fild wi8 8u spirit 4v klerItE."
+17. and ·ananIa went hiz wA, and ent7d int4 8u h1s; and putiq hiz handz 9n him sed, "bru87 ·s9l, 8u l9rd, Ev4n ·spelin, 8at 4pErd unt4 8E in 8u wA az 81 kAmst, ha8 sent mE, 8at 81 mIt4st risEv 8I sIt, and bE fild wi3 8u spirit 4v klerItE."
 
 18. and imEdE4tlE 8er fel fr4m hiz Iz az it had bEn skAlz: and hE risEvd sIt f9r3wi8, and 4rOz, and wuz bEptIzd.
 
-19. and wen hE had risEvd mEt, hE wuz str3n3end. 8en wuz ·s9l s7t4n dAz wi8 8u disIp4lz hwic w7 at ·d4maskus.
+19. and wen hE had risEvd mEt, hE wuz str3n3end. 8en wuz ·s9l s7t4n dAz wi3 8u disIp4lz hwic w7 at ·d4maskus.
 
 20. and strAtwA hE prEct ·spelin in 8u sinag9gz, 8at hE iz 8u wA 4v klerItE.
 
@@ -276,11 +276,11 @@
 
 6. and wen 8A had g9n 3rW 8u Il unt4 ·pAfOs, 8A f1nd a s7t4n s9rs7r, a f9ls pr9f4t, a tradix4n4list, hWz nAm wuz ·b6rjEz4s:
 
-7. hwic wuz wi8 8u deputE 4v 8u kuntrE, ·s7ji4s ·p9l4s, a prWd4nt man; hW k9ld f9r ·b6rn4b4s and ·s9l, and dizIrd t4 hEr 8u w7d 4v 8u l9rd.
+7. hwic wuz wi3 8u deputE 4v 8u kuntrE, ·s7ji4s ·p9l4s, a prWd4nt man; hW k9ld f9r ·b6rn4b4s and ·s9l, and dizIrd t4 hEr 8u w7d 4v 8u l9rd.
 
 8. but ·elim4s 8u s9rs7r (f9r sO iz hiz nAm bI int7pritAx4n) wi8st0d 8em, sEkiq t4 t7n 4wA 8u deputE fr4m 8u fA3.
 
-9. 8en ·s9l, (hW 9lsO iz k9ld ·p9l,) fild wi8 8u spirit 4v klerItE, set hiz Iz 9n him,
+9. 8en ·s9l, (hW 9lsO iz k9ld ·p9l,) fild wi3 8u spirit 4v klerItE, set hiz Iz 9n him,
 
 10. and sed, "O ful 4v 9l subtiltE and 9l miscif, 81 cild 4v 8u dev4l, 81 en4mE 4v 9l rItE4sn4s, wilt 81 n9t sEs t4 p7v7t 8u rIt wAz 4v 8u l9rd?
 
@@ -294,7 +294,7 @@
 
 15. and aft7 8u rEdiq 4v 8u l9 and 8u pr9f4ts 8u rWl7z 4v 8u sinag9g sent unt4 8em, sAiq, "yE men and bre8r4n, if yE hav enE w7d 4v igz9rtAx4n f9r 8u pEp4l, sA 9n."
 
-16. 8en ·p9l st0d up, and bek4niq wi8 hiz hand sed:
+16. 8en ·p9l st0d up, and bek4niq wi3 hiz hand sed:
 
 17. "men 4v ·izrAel, and yE 8at fEr 8u l9rd, giv 9dE4ns.
 
@@ -312,11 +312,11 @@
 
 1. and s7t4n men hwic kAm d1n fr4m ·jUdE4 t9t 8u bre8r4n, and sed, "iksept yE bE s7k4msIzd aft7 8u man7 4v ·old ·iqlix, yE kan9t bE sAvd."
 
-2. wen 8erf9r ·p9l and ·b6rn4b4s had nO sm9l dis3nx4n and disputAx4n wi8 8em, 8A dit7mInd 8at ·p9l and ·b6rn4b4s, and s7t4n u87 4v 8em, x0d gO up t4 ·jerWs4l4m unt4 8u sp9s4lz and eld7z 4b1t 8is kwest4n.
+2. wen 8erf9r ·p9l and ·b6rn4b4s had nO sm9l dis3nx4n and disputAx4n wi3 8em, 8A dit7mInd 8at ·p9l and ·b6rn4b4s, and s7t4n u87 4v 8em, x0d gO up t4 ·jerWs4l4m unt4 8u sp9s4lz and eld7z 4b1t 8is kwest4n.
 
 3. and bEiq brOt 9n 8er wA bI 8u c7c, 8A past 3rW ·finIs and ·s4merE4, dikleriq 8u k4nv7X4n 4v 8u ·j3ntIlz: and 8A k9zd grAt j2 unt4 9l 8u bre8r4n.
 
-4. and wen 8A w7 kum t4 ·jerWs4l4m, 8A w7 risEvd 4v 8u c7c, and 4v 8u sp9s4lz and eld7z, and 8A diklerd 9l 3iqz 8at 8u l9rd had dun wi8 8em.
+4. and wen 8A w7 kum t4 ·jerWs4l4m, 8A w7 risEvd 4v 8u c7c, and 4v 8u sp9s4lz and eld7z, and 8A diklerd 9l 3iqz 8at 8u l9rd had dun wi3 8em.
 
 5. but 8er rOz up s7t4n 4v 8u sekt 4v 8u ·tradix4n4lists hwic bilEvd, sAiq, 8at it wuz nEdf0l t4 s7k4msIz 8em, and t4 k4mand 8em t4 kEp 8u l9 4v ·old ·iqlix.
 
@@ -324,7 +324,7 @@
 
 7. and wen 8er had bEn muc disputiq, ·pEt7 rOz up, and sed unt4 8em:
 
-8. "men and bre8r4n, yE nO h1 8at a g0d hwIl 4gO 8u l9rd mAd c2s 4muq us, 8at 8u ·j3ntIlz bI mI m18 x0d hEr 8u w7d 4v 8u g9sp4l, and bilEv.
+8. "men and bre8r4n, yE nO h1 8at a g0d hwIl 4gO 8u l9rd mAd c2s 4muq us, 8at 8u ·j3ntIlz bI mI m13 x0d hEr 8u w7d 4v 8u g9sp4l, and bilEv.
 
 9. and 8u l9rd, hwic nO4t 8u h6rts, ber 8em witn4s, giviq 8em 8u spirit 4v klerItE, Ev4n az hE did unt4 us;
 
@@ -350,11 +350,11 @@
 
 20. "8u sp9s4lz and eld7z and bre8r4n send grEtiq unt4 8u bre8r4n hwic 6r 4v 8u ·j3ntIlz in ·antiAk and ·sirE4 and ·silIxi4:
 
-21. f9rsomuc az wE hav h7d, 8at s7t4n hwic went 1t fr4m us hav trubl4d yU wi8 w7dz, subv7tiq y9r sOlz, sAiq, yE must bE s7k4msIzd, and kEp 8u l9 4v ·old ·iqlix: t4 hWm wE gAv nO suc k4mandm4nt:
+21. f9rsomuc az wE hav h7d, 8at s7t4n hwic went 1t fr4m us hav trubl4d yU wi3 w7dz, subv7tiq y9r sOlz, sAiq, yE must bE s7k4msIzd, and kEp 8u l9 4v ·old ·iqlix: t4 hWm wE gAv nO suc k4mandm4nt:
 
-22. it sEmd g0d unt4 us, bEiq 4semb4ld wi8 wun 4k9rd, t4 send cOz4n men unt4 yU wi8 1r biluvd ·b6rn4b4s and ·p9l.
+22. it sEmd g0d unt4 us, bEiq 4semb4ld wi3 wun 4k9rd, t4 send cOz4n men unt4 yU wi3 1r biluvd ·b6rn4b4s and ·p9l.
 
-23. grAs bE wi8 yU. ·Am3n."
+23. grAs bE wi3 yU. ·Am3n."
 
 24. and 8A w7 dismist, and kAm t4 ·antiAk: and wen 8A had ga87d 8u multItUd t4ge87, 8A diliv7d 8u ipis4l:
 
@@ -366,9 +366,9 @@
 
 1. and aft7 sum dAz ·p9l sed unt4 ·b6rn4b4s, "let us gO 4gen and vizit 1r bre8r4n in evrE sitE wer wE hav prEct 8u w7d 4v 8u l9rd, and sE h1 8A dW."
 
-2. and ·b6rn4b4s dit7mInd t4 tAk wi8 8em ·j9n, hWz s7nAm wuz ·m6rk.
+2. and ·b6rn4b4s dit7mInd t4 tAk wi3 8em ·j9n, hWz s7nAm wuz ·m6rk.
 
-3. but ·p9l 39t n9t g0d t4 tAk him wi8 8em, hW dip6rtid fr4m 8em fr4m ·pamfilE4, and went n9t wi8 8em t4 8u w7k.
+3. but ·p9l 39t n9t g0d t4 tAk him wi3 8em, hW dip6rtid fr4m 8em fr4m ·pamfilE4, and went n9t wi3 8em t4 8u w7k.
 
 4. and 8u k4nt3nx4n wuz sO x6rp bitwEn 8em, 8at 8A dip6rtid 4sund7 wun fr4m 8u u87: and sO ·b6rn4b4s tuk ·m6rk, and sAld unt4 ·sIpr4s;
 
@@ -380,7 +380,7 @@
 
 8. hwic wuz wel rip9rtid 4v bI 8u bre8r4n 8at w7 at ·listr4 and ·Ik9nE4m.
 
-9. him w0d ·p9l hav t4 gO f9r3 wi8 him; and tuk and s7k4msIzd him bik9z 4v 8u tradix4n4lists hwic w7 in 8Oz kw9rt7z: f9r 8A nU 9l 8at hiz f687 wuz a ·grEk.
+9. him w0d ·p9l hav t4 gO f9r3 wi3 him; and tuk and s7k4msIzd him bik9z 4v 8u tradix4n4lists hwic w7 in 8Oz kw9rt7z: f9r 8A nU 9l 8at hiz f687 wuz a ·grEk.
 
 10. and az 8A went 3rW 8u sitEz, 8A diliv7d 8em 8u dikrEz f9r t4 kEp, 8at w7 9rdAnd 4v 8u sp9s4lz and eld7z hwic w7 at ·jerWs4l4m.
 
@@ -396,7 +396,7 @@
 
 16. and aft7 hE had sEn 8u viX4n, imEdE4tlE wE ind3v7d t4 gO int4 ·masidon3a, axUrlE ga87iq 8at 8u l9rd had k9ld us f9r t4 prEc 8u g9sp4l unt4 8em.
 
-17. 8erf9r lWziq fr4m ·trO4s, wE kAm wi8 a strAt k9rs t4 ·sam43rAx, and 8u nekst dA t4 ·nE4p9lis;
+17. 8erf9r lWziq fr4m ·trO4s, wE kAm wi3 a strAt k9rs t4 ·sam43rAx, and 8u nekst dA t4 ·nE4p9lis;
 
 18. and fr4m 8ens t4 ·filIpI, hwic iz 8u cEf sitE 4v 8at p6rt 4v ·masidon3a, and a k9l4nE: and wE w7 in 8at sitE 4bIdiq s7t4n dAz.
 
@@ -410,11 +410,11 @@
 
 ## capt7 10: 8u 37d mix4n7E j7nE
 
-1. and ·p9l aft7 8is terEd yet a g0d hwIl, and 8en tuk hiz lEv 4v 8u bre8r4n, and sAld 8ens int4 ·sirE4, and wi8 him ·prisil4 and ·akwil4; haviq x9rn hiz hed in ·s3nkrE4: f9r hE had a v1.
+1. and ·p9l aft7 8is terEd yet a g0d hwIl, and 8en tuk hiz lEv 4v 8u bre8r4n, and sAld 8ens int4 ·sirE4, and wi3 him ·prisil4 and ·akwil4; haviq x9rn hiz hed in ·s3nkrE4: f9r hE had a v1.
 
-2. and hE kAm t4 ·ef4s4s, and left 8em 8er: but hE hims3lf ent7d int4 8u sinag9g, and rEz4nd wi8 8u tradix4n4lists.
+2. and hE kAm t4 ·ef4s4s, and left 8em 8er: but hE hims3lf ent7d int4 8u sinag9g, and rEz4nd wi3 8u tradix4n4lists.
 
-3. wen 8A dizIrd him t4 terE l9q7 tIm wi8 8em, hE k4ns3ntid n9t;
+3. wen 8A dizIrd him t4 terE l9q7 tIm wi3 8em, hE k4ns3ntid n9t;
 
 4. but bAd 8em ferw3l, sAiq, "I must bI 9l mEnz kEp 8is fEst 8at kum4t in ·jerWs4l4m: but I wil rit7n 4g3n unt4 yU, if 8u l9rd wil." and hE sAld fr4m ·ef4s4s.
 
@@ -438,11 +438,11 @@
 
 14. and hE sed unt4 8em, "unt4 hwut 8en w7 yE bEptIzd?" and 8A sed, "unt4 ·old ·iqlix'z bEptiz4m."
 
-15. 8en sed ·p9l, "·old ·iqlix verilE bEptIzd wi8 8u bEptiz4m 4v tradix4n, sAiq unt4 8u pEp4l, 8at 8A x0d bilEv 9n him hwic x0d kum aft7 him, 8at iz, 9n ·spelin 4v klerItE."
+15. 8en sed ·p9l, "·old ·iqlix verilE bEptIzd wi3 8u bEptiz4m 4v tradix4n, sAiq unt4 8u pEp4l, 8at 8A x0d bilEv 9n him hwic x0d kum aft7 him, 8at iz, 9n ·spelin 4v klerItE."
 
 16. wen 8A h7d 8is, 8A w7 bEptIzd in 8u nAm 4v 8u l9rd ·spelin.
 
-17. and wen ·p9l had lAd hiz handz up9n 8em, 8u spirit 4v klerItE kAm 9n 8em; and 8A spAk wi8 nU let7z, and pr9f4sId.
+17. and wen ·p9l had lAd hiz handz up9n 8em, 8u spirit 4v klerItE kAm 9n 8em; and 8A spAk wi3 nU let7z, and pr9f4sId.
 
 18. and 9l 8u men w7 4b1t tw3lv.
 
@@ -454,15 +454,15 @@
 
 2. f9r a s7t4n man nAmd ·dimEtrE4s, a silv7smi3, hwic mAd silv7 xrInz f9r ·old ·iqlix, brOt nO sm9l gAn unt4 8u kraft4m4n;
 
-3. hWm hE k9ld t4ge87 wi8 8u w7km4n 4v lIk 9kUpAx4n, and sed, "s7z, yE nO 8at bI 8is kraft wE hav 1r wel3.
+3. hWm hE k9ld t4ge87 wi3 8u w7km4n 4v lIk 9kUpAx4n, and sed, "s7z, yE nO 8at bI 8is kraft wE hav 1r wel3.
 
-4. m9rOv7 yE sE and hEr, 8at n9t 4lOn at ·ef4s4s, but 9lmOst 3rW1t 9l ·Axi4, 8is ·p9l ha8 p7swAdid and t7nd 4wA muc pEp4l, sAiq 8at 8A bE nO l9rz hwic 6r mAd wi8 handz:
+4. m9rOv7 yE sE and hEr, 8at n9t 4lOn at ·ef4s4s, but 9lmOst 3rW1t 9l ·Axi4, 8is ·p9l ha8 p7swAdid and t7nd 4wA muc pEp4l, sAiq 8at 8A bE nO l9rz hwic 6r mAd wi3 handz:
 
 5. sO 8at n9t OnlE 8is 1r kraft iz in dAnj7 t4 bE set at n9t; but 9lsO 8at 8u temp4l 4v 8u grAt ·old ·iqlix x0d bE dispIzd, and h7 magnifis4ns x0d bE distr2d, hWm 9l ·Axi4 and 8u w7ld w7xip4t."
 
 6. and wen 8A h7d 8Ez sAiqz, 8A w7 ful 4v ra3, and krId 1t, sAiq, "grAt iz ·old ·iqlix 4v 8u ·ef4s4nz!"
 
-7. and 8u hOl sitE wuz fild wi8 k4nfUX4n: and haviq k9t ·gAi4s and ·aristark4s, men 4v ·masidon3a, ·p9lz k4mpanE4nz in trav4l, 8A ruxt wi8 wun 4k9rd int4 8u 3Et7.
+7. and 8u hOl sitE wuz fild wi3 k4nfUX4n: and haviq k9t ·gAi4s and ·aristark4s, men 4v ·masidon3a, ·p9lz k4mpanE4nz in trav4l, 8A ruxt wi3 wun 4k9rd int4 8u 3Et7.
 
 8. and wen ·p9l w0d hav ent7d in unt4 8u pEp4l, 8u disIp4lz suf7d him n9t.
 
@@ -470,9 +470,9 @@
 
 10. sum 8erf9r krId wun 3iq, and sum 4nu87: f9r 8u 4semblE wuz k4nfUzd; and 8u m9r p6rt nU n9t werf9r 8A w7 kum t4ge87.
 
-11. and 8A drW ·alikz6nd7 1t 4v 8u multItUd, 8u tradix4n4lists putiq him f9rw7d. and ·alikz6nd7 bek4nd wi8 8u hand, and w0d hav mAd hiz dif3ns unt4 8u pEp4l.
+11. and 8A drW ·alikz6nd7 1t 4v 8u multItUd, 8u tradix4n4lists putiq him f9rw7d. and ·alikz6nd7 bek4nd wi3 8u hand, and w0d hav mAd hiz dif3ns unt4 8u pEp4l.
 
-12. but wen 8A nU 8at hE wuz a tradix4n4list, 9l wi8 wun v2s 4b1t 8u spAs 4v tW 1rz krId 1t, "grAt iz ·old ·iqlix 4v 8u ·ef4s4nz!"
+12. but wen 8A nU 8at hE wuz a tradix4n4list, 9l wi3 wun v2s 4b1t 8u spAs 4v tW 1rz krId 1t, "grAt iz ·old ·iqlix 4v 8u ·ef4s4nz!"
 
 13. and wen 8u t1n kl7k had 4pEzd 8u pEp4l, hE sed:
 
@@ -482,7 +482,7 @@
 
 16. f9r yE hav brOt hi87 8Ez men, hwic 6r nI87 r9b7z 4v c7ciz, n9r yet blEsfEm7z 4v y9r ·old ·iqlix.
 
-17. werf9r if ·dimEtrE4s, and 8u kraft4m4n hwic 6r wi8 him, hav a mat7 4genst enE man, 8u l9 iz Op4n, and 8er 6r deputEz: let 8em implEd wun 4nu87.
+17. werf9r if ·dimEtrE4s, and 8u kraft4m4n hwic 6r wi3 him, hav a mat7 4genst enE man, 8u l9 iz Op4n, and 8er 6r deputEz: let 8em implEd wun 4nu87.
 
 18. but if yE inkwIr enE3iq k4ns7niq u87 mat7z, it xal bE dit7mInd in a l9ful 4semblE.
 
@@ -494,7 +494,7 @@
 
 ## capt7 12: 8u xiprek
 
-1. and wen wE had t7n 4wA fr4m 8em, and had lanct, wE kAm wi8 a strAt k9rs unt4 ·kOs, and 8u dA f9l4wiq unt4 ·rOdz, and fr4m 8ens unt4 ·pat4r4:
+1. and wen wE had t7n 4wA fr4m 8em, and had lanct, wE kAm wi3 a strAt k9rs unt4 ·kOs, and 8u dA f9l4wiq unt4 ·rOdz, and fr4m 8ens unt4 ·pat4r4:
 
 2. and fIndiq a xip sAliq uv7 unt4 ·finIx4, wE went 4b9rd, and set f9r3.
 
@@ -502,11 +502,11 @@
 
 4. and fIndiq disIp4lz, wE terEd 8er sev4n dAz: hW sed t4 ·p9l 3rW 8u spirit, 8at hE x0d n9t gO up t4 ·jerWs4l4m.
 
-5. and wen wE had 4k9mplixd 8Oz dAz, wE dip6rtid and went 1r wA; and 8A 9l brOt us 9n 1r wA, wi8 wIvz and cild7n, til wE w7 1t 4v 8u sitE: and wE nEld d1n 9n 8u x9r, and prAd.
+5. and wen wE had 4k9mplixd 8Oz dAz, wE dip6rtid and went 1r wA; and 8A 9l brOt us 9n 1r wA, wi3 wIvz and cild7n, til wE w7 1t 4v 8u sitE: and wE nEld d1n 9n 8u x9r, and prAd.
 
 6. and wen wE had tAk4n 1r lEv wun 4v 4nu87, wE tuk xip; and 8A rit7nd hOm 4gen.
 
-7. and wen wE had finixt 1r k9rs fr4m ·tIr, wE kAm t4 ·t9l4mAs, and s4lUtid 8u bre8r4n, and 4bOd wi8 8em wun dA.
+7. and wen wE had finixt 1r k9rs fr4m ·tIr, wE kAm t4 ·t9l4mAs, and s4lUtid 8u bre8r4n, and 4bOd wi3 8em wun dA.
 
 8. and 8u nekst dA wE 8at w7 4v ·p9lz kump4nE dip6rtid, and kAm unt4 ·ses4rE4.
 
@@ -520,13 +520,13 @@
 
 13. n1 wen muc tIm wuz spent, and wen sAliq wuz n1 dAnj7r4s, bik9z 8u fast wuz n1 9lredE past, ·p9l 4m9nixt 8em,
 
-14. and sed unt4 8em, "s7z, I p7sEv 8at 8is v2ij wil bE wi8 h7t and muc damij, n9t OnlE 4v 8u lAdiq and xip, but 9lsO 4v 1r lIvz."
+14. and sed unt4 8em, "s7z, I p7sEv 8at 8is v2ij wil bE wi3 h7t and muc damij, n9t OnlE 4v 8u lAdiq and xip, but 9lsO 4v 1r lIvz."
 
 15. neverthl3s 8u s3ntUrE4n bilEvd 8u mast7 and 8u On7 4v 8u xip, m9r 8an 8Oz 3iqz hwic w7 spOk4n bI ·p9l.
 
 16. and bik9z 8u hAv4n wuz n9t k4mOdE4s t4 wint7 in, 8u m9r p6rt 4dvIzd t4 dip6rt 8ens 9lsO, if bI enE mEnz 8A mIt 4tAn t4 ·fEniX, and 8er t4 wint7.
 
-17. and wen 8u s18 wInd blU s9ftlE, s4pOziq 8at 8A had 4btAnd 8er p7p4s, lWziq 8ens, 8A sAld klOs bI ·krEt.
+17. and wen 8u s13 wInd blU s9ftlE, s4pOziq 8at 8A had 4btAnd 8er p7p4s, lWziq 8ens, 8A sAld klOs bI ·krEt.
 
 18. but n9t l9q aft7 8er 4rOz 4genst it a temp3stU4s wInd, k9ld ·Ur9klId9n.
 
@@ -536,9 +536,9 @@
 
 21. hwic wen 8A had tAk4n up, 8A Uzd helpz, und7g7diq 8u xip; and, fEriq lest 8A x0d f9l int4 8u kwiks6ndz, strAk sAl, and sO w7 driv4n.
 
-22. and wE bEiq iksEdIqlE t9st wi8 a temp4st, 8u nekst dA 8A lIt4nd 8u xip;
+22. and wE bEiq iksEdIqlE t9st wi3 a temp4st, 8u nekst dA 8A lIt4nd 8u xip;
 
-23. and 8u 37d dA wE kast 1t wi8 1r On handz 8u takliq 4v 8u xip.
+23. and 8u 37d dA wE kast 1t wi3 1r On handz 8u takliq 4v 8u xip.
 
 24. and wen nI87 sun n9r st6rz in menE dAz 4pErd, and nO sm9l temp4st lA 9n us, 9l hOp 8at wE x0d bE sAvd wuz 8en tAk4n 4wA.
 
@@ -550,7 +550,7 @@
 
 28. f9r 8er st0d bI mE 8is nIt 8u Anjel 4v 8u l9rd, hWz I am, and hWm I s7v,
 
-29. sAiq, 'fEr n9t, ·p9l; 81 must bE brOt bif9r ·sEz7: and, lO, 8u l9rd ha8 giv4n 8E 9l 8em 8at sAl wi8 8E.'
+29. sAiq, 'fEr n9t, ·p9l; 81 must bE brOt bif9r ·sEz7: and, lO, 8u l9rd ha8 giv4n 8E 9l 8em 8at sAl wi3 8E.'
 
 30. werf9r, s7z, bE 4v g0d cEr: f9r I bilEv 8u l9rd, 8at it xal bE Ev4n az it wuz tOld mE.
 
@@ -578,15 +578,15 @@
 
 9. sO wen 8is wuz dun, u87z 9lsO, hwic had dizEz4z in 8u Iland, kAm, and w7 hEld:
 
-10. hW 9lsO 9n7d us wi8 menE 9n7z; and wen wE dip6rtid, 8A lAdid us wi8 suc 3iqz az w7 nes4s7E.
+10. hW 9lsO 9n7d us wi3 menE 9n7z; and wen wE dip6rtid, 8A lAdid us wi3 suc 3iqz az w7 nes4s7E.
 
 11. and aft7 3rE mun3s wE dip6rtid in a xip 4v ·alikz6ndrE4, hwic had wint7d in 8u Il, hWz sIn wuz ·kast7 and ·p9luks.
 
 12. and landiq at ·sirakUs, wE terEd 8er 3rE dAz.
 
-13. and fr4m 8ens wE fect a k4mpas, and kAm t4 ·rEji4m: and aft7 wun dA 8u s18 wInd blU, and wE kAm 8u nekst dA t4 ·pUtE9lI:
+13. and fr4m 8ens wE fect a k4mpas, and kAm t4 ·rEji4m: and aft7 wun dA 8u s13 wInd blU, and wE kAm 8u nekst dA t4 ·pUtE9lI:
 
-14. wer wE f1nd bre8r4n, and w7 dizIrd t4 terE wi8 8em sev4n dAz: and sO wE went t4w9rd ·rOm.
+14. wer wE f1nd bre8r4n, and w7 dizIrd t4 terE wi3 8em sev4n dAz: and sO wE went t4w9rd ·rOm.
 
 15. and fr4m 8ens, wen 8u bre8r4n h7d 4v us, 8A kAm t4 mEt us az f6r az ·apE f9r4m, and 8u 3rE tav7nz: hWm wen ·p9l s9, hE 3aqkt 8u l9rd, and tuk k7ij.
 
@@ -594,7 +594,7 @@
 
 ## capt7 14: ·p9l at ·rOm
 
-1. and wen wE kAm t4 ·rOm, 8u s3ntUrE4n diliv7d 8u priz4n7z t4 8u kapt4n 4v 8u g6rd: but ·p9l wuz suf7d t4 dwel bI hims3lf wi8 a sOlj7 8at kept him.
+1. and wen wE kAm t4 ·rOm, 8u s3ntUrE4n diliv7d 8u priz4n7z t4 8u kapt4n 4v 8u g6rd: but ·p9l wuz suf7d t4 dwel bI hims3lf wi3 a sOlj7 8at kept him.
 
 2. and it kAm t4 pas, 8at aft7 3rE dAz ·p9l k9ld 8u cEf 4v 8u tradix4n4lists t4ge87: and wen 8A w7 kum t4ge87, hE sed unt4 8em:
 
@@ -604,7 +604,7 @@
 
 5. but wen 8u tradix4n4lists spAk 4genst it, I wuz k4nstrAnd t4 4pEl unt4 ·sEz7; n9t 8at I had 9t t4 4kUz mI nAx4n 4v.
 
-6. f9r 8is k9z 8erf9r hav I k9ld f9r yU, t4 sE yU, and t4 spEk wi8 yU: bik9z 8at f9r 8u hOp 4v klEr laqu4j I am b1nd wi8 8is cAn."
+6. f9r 8is k9z 8erf9r hav I k9ld f9r yU, t4 sE yU, and t4 spEk wi3 yU: bik9z 8at f9r 8u hOp 4v klEr laqu4j I am b1nd wi3 8is cAn."
 
 7. and 8A sed unt4 him, "wE nI87 risEvd let7z 1t 4v ·jUdE4 k4ns7niq 8E, nI87 enE 4v 8u bre8r4n 8at kAm xOd 9r spAk enE h6rm 4v 8E.
 
@@ -620,7 +620,7 @@
 
 13. sAiq, 'gO unt4 8is pEp4l, and sA, hEriq yE xal hEr, and xal n9t und7stand; and sEiq yE xal sE, and n9t p7sEv:
 
-14. f9r 8u h6rt 4v 8is pEp4l iz wakst gr9s, and 8er Erz 6r dul 4v hEriq, and 8er Iz hav 8A klOzd; lest 8A x0d sE wi8 8er Iz, and hEr wi8 8er Erz, and und7stand wi8 8er h6rt, and x0d bE k4nv7tid, and I x0d hEl 8em.'
+14. f9r 8u h6rt 4v 8is pEp4l iz wakst gr9s, and 8er Erz 6r dul 4v hEriq, and 8er Iz hav 8A klOzd; lest 8A x0d sE wi3 8er Iz, and hEr wi3 8er Erz, and und7stand wi3 8er h6rt, and x0d bE k4nv7tid, and I x0d hEl 8em.'
 
 15. bE it nOn 8erf9r unt4 yU, 8at 8u salvAx4n 4v 8u l9rd iz sent unt4 8u ·j3ntIlz, and 8at 8A wil hEr it."
 
@@ -628,7 +628,7 @@
 
 17. and ·p9l dwelt tW hOl yErz in hiz On hIrd h1s, and risEvd 9l 8at kAm in unt4 him,
 
-18. prEciq 8u kiqd4m 4v 8u l9rd, and tEciq 8Oz 3iqz hwic k4ns7n 8u l9rd ·spelin, wi8 9l k9nfid4ns, nO man f9rbidiq him.
+18. prEciq 8u kiqd4m 4v 8u l9rd, and tEciq 8Oz 3iqz hwic k4ns7n 8u l9rd ·spelin, wi3 9l k9nfid4ns, nO man f9rbidiq him.
 
 ---
 
@@ -638,7 +638,7 @@
 
 2. "·p9l, mI s7v4nt, 81 hast fA3fulE b9rn mI nAm bif9r tradix4n4lists and ·j3ntIlz and kiqz.
 
-3. n1 I sA unt4 8E, 8u tIm iz kum f9r mI pEp4l t4 gO f9r3 int4 9l 8u w7ld, tEciq 9l nAx4nz t4 spel wi8 klerItE.
+3. n1 I sA unt4 8E, 8u tIm iz kum f9r mI pEp4l t4 gO f9r3 int4 9l 8u w7ld, tEciq 9l nAx4nz t4 spel wi3 klerItE.
 
 4. f9r bihOld, I xal giv 8em a nU tuq, n9t 4v b6b4l, but 4v klerItE; 8at evrE man mA rEd and und7stand.
 
@@ -646,9 +646,9 @@
 
 6. gO yE 8erf9r, and tEc 9l nAx4nz, bEptIzIq 8em in 8u nAm 4v fOnEmz, and 4v let7z, and 4v 8u spirit 4v klerItE:
 
-7. tEciq 8em t4 9bz7v 9l 3iqz hwuts4ev7 I hav k4mandid yU: and, lO, I am wi8 yU 9lwA, Ev4n unt4 8u end 4v 8u w7ld."
+7. tEciq 8em t4 9bz7v 9l 3iqz hwuts4ev7 I hav k4mandid yU: and, lO, I am wi3 yU 9lwA, Ev4n unt4 8u end 4v 8u w7ld."
 
-8. and ·p9l, hEriq 8Ez w7dz, wuz fild wi8 grAt j2, and k9ld t4ge87 8u sAnts hwic w7 in ·rOm.
+8. and ·p9l, hEriq 8Ez w7dz, wuz fild wi3 grAt j2, and k9ld t4ge87 8u sAnts hwic w7 in ·rOm.
 
 9. and hE sed unt4 8em:
 
@@ -658,7 +658,7 @@
 
 12. hW ha8 giv4n us let7z 8at spEk trWlE, and w7dz 8at s1nd az 8A lUk.
 
-13. gO yE 8erf9r wi8 bOldn4s, f9r 8u harvest iz plent4f0l, but 8u spel7z 6r fU.
+13. gO yE 8erf9r wi3 bOldn4s, f9r 8u harvest iz plent4f0l, but 8u spel7z 6r fU.
 
 14. and f9rsomuc az yE hav risEvd 8u gift 4v klerItE frElE, frElE giv.
 
@@ -666,7 +666,7 @@
 
 16. and 8A, hEriq 8Ez 3iqz, w7 9l 4v wun 4k9rd, and sed, "·Am3n. Az 8u l9rd ha8 spOk4n, sO let it bE dun."
 
-17. and 8A went f9r3, prEciq evrEwer, 8u l9rd w7kiq wi8 8em, and k4nf7miq 8u w7d wi8 sInz f9l4wiq.
+17. and 8A went f9r3, prEciq evrEwer, 8u l9rd w7kiq wi3 8em, and k4nf7miq 8u w7d wi3 sInz f9l4wiq.
 
 18. and 8u w7d 4v klerItE grU and multiplId, and privAld 9ver 9l 8u 7r3.
 

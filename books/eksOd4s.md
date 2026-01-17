@@ -2,7 +2,7 @@
 
 ## capt7 1: 8u bOndij 4v 8u pEp4l
 
-1. 8Ez 6r 8u nAmz 4v 8u cIldr4n 4v ·klErspEc hW kAm intW 8u land 4v ·iqglix, Ec wun wi8 hiz h1sh0ld:
+1. 8Ez 6r 8u nAmz 4v 8u cIldr4n 4v ·klErspEc hW kAm intW 8u land 4v ·iqglix, Ec wun wi3 hiz h1sh0ld:
 
 2. ·fOnetik, ·lOjik, ·simplistE, ·kler4tE, ·rEz4n, and ·sens.
 
@@ -16,21 +16,21 @@
 
 7. and hE sed untW hiz pEp4l, "bihOld, 8u pEp4l 4v klEr spEliq 6r mOr and mItE7 84n wE."
 
-8. "kum, let us dEl wIzlE wi8 8em, lest 8A multIplI and rIt wurdz az 8A s1nd."
+8. "kum, let us dEl wIzlE wi3 8em, lest 8A multIplI and rIt wurdz az 8A s1nd."
 
-9. 8erfOr 8A set Ov7 8em t6skmast7z tW 4flikt 8em wi8 8er b7d4nz.
+9. 8erfOr 8A set Ov7 8em t6skmast7z tW 4flikt 8em wi3 8er b7d4nz.
 
 10. and 8A bilt fOr ·fer4O ·tr4dix4n 8u st9rhusiz 4v ·9ksf4rd and ·webst7.
 
 11. but 8u mOr 8A 4flikt4d 8em, 8u mOr 8A multIplId and grW.
 
-12. and 8u ·iqglix mAd 8u cIldr4n 4v ·klErspEc tW s7v wi8 rig7: in m9rt7, and in brik, and in 9l man7 4v s7vis.
+12. and 8u ·iqglix mAd 8u cIldr4n 4v ·klErspEc tW s7v wi3 rig7: in m9rt7, and in brik, and in 9l man7 4v s7vis.
 
 13. 8A fOrst 8em tW rIt "thuh" wen 8A ment "8u," and "nite" wuz f4rbid4n.
 
-14. and 8A mAd 8er lIvz bit7 wi8 h6rd s7vis, memOrIziq endlis rWlz 8at had nO rEz4n.
+14. and 8A mAd 8er lIvz bit7 wi3 h6rd s7vis, memOrIziq endlis rWlz 8at had nO rEz4n.
 
-15. "wI duz 'knight' hav 4 sIl4nt K?" 8A krId. "wI duz 'psychology' bigIn wi8 P?"
+15. "wI duz 'knight' hav 4 sIl4nt K?" 8A krId. "wI duz 'psychology' bigIn wi3 P?"
 
 16. and 8u ·iqglix 6ns7d: "bikOz it iz rit4n. kwest4n not."
 
@@ -40,7 +40,7 @@
 
 19. but 8u mIdwIvz fErd ·kler4tE, and dId not az 8u kiq k4m6nd4d 8em, but sAvd 8u fOnetik wurdz 4lIv.
 
-20. 8erfOr ·kler4tE delt wel wi8 8u mIdwIvz, and 8u pEp4l multIplId and wekst mItE.
+20. 8erfOr ·kler4tE delt wel wi3 8u mIdwIvz, and 8u pEp4l multIplId and wekst mItE.
 
 21. and ·fer4O c6rjd 9l hiz pEp4l, sAiq, "evrE fOnetik wurd 8at iz bOrn yW xal kast intW 8u sE 4v k4nfWZ4n."
 
@@ -50,7 +50,7 @@
 
 24. and 8er krI kAm up untW ·kler4tE bIkOz 4v 8u bOndij.
 
-25. and ·kler4tE h7d 8er grOniq, and ·kler4tE rEmemb7d hiz kuv4n4nt wi8 ·fOnetik, wi8 ·lOjik, and wi8 ·simplistE.
+25. and ·kler4tE h7d 8er grOniq, and ·kler4tE rEmemb7d hiz kuv4n4nt wi3 ·fOnetik, wi3 ·lOjik, and wi3 ·simplistE.
 
 26. and ·kler4tE l0kt up9n 8u cIldr4n 4v ·klErspEc, and ·kler4tE had rEg6rd untW 8em.
 
@@ -62,7 +62,7 @@
 
 2. and 8u w0m4n k4nsEvd, and bOr 4 sun: and wen xE s9 him 8at hE wuz 4 g0dlE cIld, xE hid him 3rE munTs.
 
-3. and wen xE k0d not lOq7 hId him, xE t0k fOr him 4 6rk 4v b0lr4xiz, and dObd it wi8 slIm and wi8 pic.
+3. and wen xE k0d not lOq7 hId him, xE t0k fOr him 4 6rk 4v b0lr4xiz, and dObd it wi3 slIm and wi3 pic.
 
 4. and xE p0t 8u cIld 8erIn, and xE lAd it in 8u flagz bI 8u sE 4v k4nfWZ4nz briqk.
 
@@ -120,7 +120,7 @@
 
 3. and 8u Anj4l 4v ·kler4tE 4pErd untW him in 4 flAm 4v fIr 1t 4v 8u midst 4v 4 b0x.
 
-4. and hE l0kt, and, bihOld, 8u b0x b7nd wi8 fIr, and 8u b0x wuz not k4nsWmd.
+4. and hE l0kt, and, bihOld, 8u b0x b7nd wi3 fIr, and 8u b0x wuz not k4nsWmd.
 
 5. and 8u b0x wuz mAd 4v pAj4z fr4m Old dikx4n4rEz, yet 8A b7nd not.
 
@@ -142,13 +142,13 @@
 
 14. "and I am kum d1n tW d4liv7 8em 1t 4v 8u hand 4v 8u ·iqglix, and tW briq 8em up 1t 4v 8at land."
 
-15. "untW 4 g0d land and 4 l6rj, untW 4 land flOiq wi8 kler4tE and sens."
+15. "untW 4 g0d land and 4 l6rj, untW 4 land flOiq wi3 kler4tE and sens."
 
 16. "kum n1 8erfOr, and I wil send 8E untW ·fer4O, 8at 81 mAest briq f9r3 mI pEp4l 8u cIldr4n 4v ·klErspEc 1t 4v ·iqglix."
 
 17. and ·xaw sed untW ·kler4tE, "hW am I, 8at I x0d gO untW ·fer4O, and 8at I x0d briq f9r3 8u cIldr4n 4v ·klErspEc 1t 4v ·iqglix?"
 
-18. and hE sed, "s7t4nlE I wil bE wi8 8E; and 8is xal bE 4 tOk4n untW 8E, 8at I hav sent 8E."
+18. and hE sed, "s7t4nlE I wil bE wi3 8E; and 8is xal bE 4 tOk4n untW 8E, 8at I hav sent 8E."
 
 19. "wen 81 hast br9t f9r3 8u pEp4l 1t 4v ·iqglix, yE xal s7v ·kler4tE up9n 8is m1nt4n."
 
@@ -166,7 +166,7 @@
 
 26. "gO, and ga87 8u eld7z 4v ·klErspEc t4ge87, and sA untW 8em, '·kler4tE ·gOd 4v yOr f687z 4pErd untW mE.'"
 
-27. "and I wil strec 1t mI hand, and smIt ·iqglix wi8 9l mI wund7z wic I wil dW in 8u midst 8erOv."
+27. "and I wil strec 1t mI hand, and smIt ·iqglix wi3 9l mI wund7z wic I wil dW in 8u midst 8erOv."
 
 28. "and 6ft7 8at hE wil let yW gO."
 
@@ -194,7 +194,7 @@
 
 10. and ·kler4tE sed f783mOr untW him, "p0t n1 8In hand intW 8I buz4m."
 
-11. and hE p0t hiz hand intW hiz buz4m: and wen hE t0k it 1t, bihOld, hiz hand wuz lep7us az snO, kuv7d wi8 sIl4nt let7z.
+11. and hE p0t hiz hand intW hiz buz4m: and wen hE t0k it 1t, bihOld, hiz hand wuz lep7us az snO, kuv7d wi3 sIl4nt let7z.
 
 12. and hE sed, "p0t 8In hand intW 8I buz4m 4gen." and hE p0t hiz hand intW hiz buz4m 4gen.
 
@@ -210,7 +210,7 @@
 
 18. and ·kler4tE sed untW him, "hW ha3 mAd manz m13? Or hW mAk43 8u dum, Or def, Or 8u sEiq, Or 8u blInd?"
 
-19. "hav not I ·kler4tE? n1 8erfOr gO, and I wil bE wi8 8I m13, and tEc 8E w4t 81 xalt sA."
+19. "hav not I ·kler4tE? n1 8erfOr gO, and I wil bE wi3 8I m13, and tEc 8E w4t 81 xalt sA."
 
 20. and hE sed, "O mI ·l9rd, send, I prA 8E, bI 8u hand 4v him hWm 81 wilt send."
 
@@ -218,7 +218,7 @@
 
 22. "I nO 8at hE kan spEk wel. and 9lsO, bihOld, hE kum43 f9r3 tW mEt 8E."
 
-23. "and 81 xalt spEk untW him, and p0t wurdz in hiz m13: and I wil bE wi8 8I m13, and wi8 hiz m13."
+23. "and 81 xalt spEk untW him, and p0t wurdz in hiz m13: and I wil bE wi3 8I m13, and wi3 hiz m13."
 
 24. "and wil tEc yW w4t yE xal dW."
 
@@ -242,9 +242,9 @@
 
 4. "I nO not ·kler4tE, nI87 wil I let ·klErspEc gO."
 
-5. and 8A sed, "8u ·gOd 4v 8u ·klErspEc ha3 met wi8 us: let us gO, wE prA 8E, 3rE dAz j7nE intW 8u dez7t."
+5. and 8A sed, "8u ·gOd 4v 8u ·klErspEc ha3 met wi3 us: let us gO, wE prA 8E, 3rE dAz j7nE intW 8u dez7t."
 
-6. "and sakr4fIs untW ·kler4tE 1r ·gOd; lest hE f9l up9n us wi8 pest4l4ns, Or wi8 8u sOrd."
+6. "and sakr4fIs untW ·kler4tE 1r ·gOd; lest hE f9l up9n us wi3 pest4l4ns, Or wi3 8u sOrd."
 
 7. and 8u kiq 4v ·iqglix sed untW 8em, "werfOr dW yE, ·xaw and ·er4n, let 8u pEp4l fr4m 8er wurks?"
 
@@ -276,7 +276,7 @@
 
 21. and 8u Ofis7z 4v 8u cIldr4n 4v ·klErspEc, wic ·fer4Oz t6skmast7z had set Ov7 8em, w7 bEt4n.
 
-22. and 8A kAm and krId untW ·fer4O, sAiq, "werfOr dElest 81 8us wi8 8I s7v4nts?"
+22. and 8A kAm and krId untW ·fer4O, sAiq, "werfOr dElest 81 8us wi3 8I s7v4nts?"
 
 23. "8er iz nO str9 giv4n untW 8I s7v4nts, and 8A sA tW us, 'mAk brik': and, bihOld, 8I s7v4nts 6r bEt4n; but 8u f9lt iz in 8In On pEp4l."
 
@@ -300,13 +300,13 @@
 
 1. 8en ·kler4tE sed untW ·xaw, "n1 xalt 81 sE w4t I wil dW tW ·fer4O."
 
-2. "fOr wi8 4 str9q hand xal hE let 8em gO, and wi8 4 str9q hand xal hE drIv 8em 1t 4v hiz land."
+2. "fOr wi3 4 str9q hand xal hE let 8em gO, and wi3 4 str9q hand xal hE drIv 8em 1t 4v hiz land."
 
 3. and ·kler4tE spAk untW ·xaw, and sed untW him, "I am ·kler4tE."
 
 4. "and I 4pErd untW ·fOnetik, untW ·lOjik, and untW ·simplistE, bI 8u nAm 4v ·gOd 9lmItE."
 
-5. "and I hav 9lsO 4stab4lixt mI kuv4n4nt wi8 8em, tW giv 8em 8u land 4v ·kAnE4n."
+5. "and I hav 9lsO 4stab4lixt mI kuv4n4nt wi3 8em, tW giv 8em 8u land 4v ·kAnE4n."
 
 6. "8u land 4v 8er pilgr4mij, werIn 8A w7 str6nj7z."
 
@@ -316,7 +316,7 @@
 
 9. "werfOr sA untW 8u cIldr4n 4v ·klErspEc, 'I am ·kler4tE, and I wil briq yW 1t fr4m und7 8u b7d4nz 4v 8u ·iqglix.'"
 
-10. "'and I wil rid yW 1t 4v 8er bOndij, and I wil rEdEm yW wi8 4 strect 1t 6rm, and wi8 grAt jujm4nts.'"
+10. "'and I wil rid yW 1t 4v 8er bOndij, and I wil rEdEm yW wi3 4 strect 1t 6rm, and wi3 grAt jujm4nts.'"
 
 11. "'and I wil tAk yW tW mE fOr 4 pEp4l, and I wil bE tW yW 4 ·gOd: and yE xal nO 8at I am ·kler4tE yOr ·gOd.'"
 
@@ -348,7 +348,7 @@
 
 25. and ·er4n kast d1n hiz pen bifOr ·fer4O, and bifOr hiz s7v4nts, and it bikAm 4 s7p4nt.
 
-26. 8en ·fer4O 9lsO k9ld 8u wIz men and 8u sOrs7rz: n1 8u m4jix4nz 4v ·iqglix, 8A 9lsO did in lIk man7 wi8 8er enkantm4nts.
+26. 8en ·fer4O 9lsO k9ld 8u wIz men and 8u sOrs7rz: n1 8u m4jix4nz 4v ·iqglix, 8A 9lsO did in lIk man7 wi3 8er enkantm4nts.
 
 27. fOr 8A kast d1n evrE man hiz pen, and 8A bikAm s7p4nts: but ·er4nz pen sw9lOd up 8er penz.
 
@@ -368,7 +368,7 @@
 
 5. "'and, bihOld, hi87tW 81 w0dst not hEr.'"
 
-6. "8us sA3 ·kler4tE, 'in 8is 81 xalt nO 8at I am ·kler4tE: bihOld, I wil smIt wi8 8u pen 8at iz in mIn hand up9n 8u w9t7z wic 6r in 8u riv7.'"
+6. "8us sA3 ·kler4tE, 'in 8is 81 xalt nO 8at I am ·kler4tE: bihOld, I wil smIt wi3 8u pen 8at iz in mIn hand up9n 8u w9t7z wic 6r in 8u riv7.'"
 
 7. "'and 8A xal bE t7nd tW sIl4nt let7z.'"
 
@@ -390,7 +390,7 @@
 
 16. and 8er w7 sIl4nt let7z 3rW1t 9l 8u land 4v ·iqglix.
 
-17. and 8u m4jix4nz 4v ·iqglix did sO wi8 8er enkantm4nts: and ·fer4Oz h6rt wuz h6rd4nd.
+17. and 8u m4jix4nz 4v ·iqglix did sO wi3 8er enkantm4nts: and ·fer4Oz h6rt wuz h6rd4nd.
 
 18. nI87 did hE h6rk4n untW 8em; az ·kler4tE had sed.
 
@@ -406,7 +406,7 @@
 
 1. and ·kler4tE spAk untW ·xaw, "gO untW ·fer4O, and sA untW him, '8us sA3 ·kler4tE, let mI pEp4l gO, 8at 8A mA s7v mE.'"
 
-2. "'and if 81 rEfWz tW let 8em gO, bihOld, I wil smIt 9l 8I bOrd7z wi8 8u plAg 4v dubeld let7z.'"
+2. "'and if 81 rEfWz tW let 8em gO, bihOld, I wil smIt 9l 8I bOrd7z wi3 8u plAg 4v dubeld let7z.'"
 
 3. and ·er4n strect 1t hiz hand Ov7 8u w9t7z 4v ·iqglix; and 8u dubeld let7z kAm up, and kuv7d 8u land.
 
@@ -420,7 +420,7 @@
 
 8. "'8at it mA bikum 8u plAg 4v -ough 3rW1t 9l 8u land 4v ·iqglix.'"
 
-9. and 8A did sO; and ·er4n strect 1t hiz hand wi8 hiz pen, and smOt 8u dust 4v 8u 7r3.
+9. and 8A did sO; and ·er4n strect 1t hiz hand wi3 hiz pen, and smOt 8u dust 4v 8u 7r3.
 
 10. and 8u -ough brot f9r3 its menE s1ndz up9n man, and up9n bEst, 3rW1t 9l 8u land.
 
@@ -476,7 +476,7 @@
 
 4. "'4 vErE grEv4s m7rAn 4v ir4gWl7 plWr4lz.'"
 
-5. and ·kler4tE did 8at 3iq On 8u m9rO, and 9l 8u kat4l 4v ·iqglix dId under 8u wAt 4v ir4gWl7 fOrmz.
+5. and ·kler4tE did 8at 3iq On 8u m9rO, and 9l 8u kat4l 4v ·iqglix dId 4nd7 8u wAt 4v ir4gWl7 fOrmz.
 
 6. "wun gWs" bikAm "tW gEs" but "wun mWs" bikAm not "tW mEs."
 
@@ -502,7 +502,7 @@
 
 17. and it bikAm 8u plAg 4v sIl4nt lEd7z: "psychology" and "pneumonia" and "knife" and "gnome."
 
-18. evrE wurd bigAn wi8 4 let7 8at spOk not, and 8u pEp4l nW not h1 tW rEd.
+18. evrE wurd bigAn wi3 4 let7 8at spOk not, and 8u pEp4l nW not h1 tW rEd.
 
 19. and 8u m4jix4nz k0d not stand bifOr ·xaw bIkOz 4v 8u sIl4nt lEd7z.
 
@@ -526,7 +526,7 @@
 
 29. "doubt" fOr 8u ·latin "dubitare" 8O nO d1t had ev7 bEn 8er.
 
-30. "island" wi8 4n S fOr 8u ·latin "insula" 8O it kAm fr4m ·iqglix "Igland."
+30. "island" wi3 4n S fOr 8u ·latin "insula" 8O it kAm fr4m ·iqglix "Igland."
 
 ---
 
@@ -582,7 +582,7 @@
 
 25. and ·xaw sed, "81 must giv us 9lsO sakr4fIsiz and b7nt Of7iqz, 8at wE mA sakr4fIs untW ·kler4tE 1r ·gOd."
 
-26. "1r kat4l 9lsO xal gO wi8 us; 8er xal not 4n hWf bE left bihInd."
+26. "1r kat4l 9lsO xal gO wi3 us; 8er xal not 4n hWf bE left bihInd."
 
 27. but ·kler4tE h6rd4nd ·fer4Oz h6rt, and hE w0d not let 8em gO.
 
@@ -654,11 +654,11 @@
 
 7. "8u blud xal bE 8u let7z 4v fOnetik rItiq, klEr and trW."
 
-8. "and 8A xal Et 8u flex in 8at nIt, rOst wi8 fIr, and unlevend bred."
+8. "and 8A xal Et 8u flex in 8at nIt, rOst wi3 fIr, and unlevend bred."
 
-9. "8u unlevend bred iz 8u simplistE 4v klEr rItiq, wi81t 8u lev4n 4v sIl4nt let7z."
+9. "8u unlevend bred iz 8u simplistE 4v klEr rItiq, wi31t 8u lev4n 4v sIl4nt let7z."
 
-10. "and 8us xal yE Et it; wi8 yOr l2nz g7d4d, yOr xWz On yOr fEt, and yOr staf in yOr hand."
+10. "and 8us xal yE Et it; wi3 yOr l2nz g7d4d, yOr xWz On yOr fEt, and yOr staf in yOr hand."
 
 11. "and yE xal Et it in hAst: it iz ·kler4tEz pAsOv7."
 
@@ -706,7 +706,7 @@
 
 1. and 8u cIldr4n 4v ·klErspEc j7nEd fr4m ·rAmEsEz tW ·sukO3, 4b1t siks hundr4d 31z4nd On f0t 8at w7 men, bisIdz cIldr4n.
 
-2. and 4 mikst multitWd went up 9lsO wi8 8em; and flOks, and h7dz, Ev4n vErE muc kat4l.
+2. and 4 mikst multitWd went up 9lsO wi3 8em; and flOks, and h7dz, Ev4n vErE muc kat4l.
 
 3. and 8A bAkt unlevend kAks 4v 8u dO wic 8A br9t f9r3 1t 4v ·iqglix.
 
@@ -736,17 +736,17 @@
 
 16. "and it xal bE wen ·kler4tE xal briq 8E intW 8u land 4v 8u ·klErspEk7z."
 
-17. "untW 4 land flOiq wi8 kler4tE and sens, 8at 81 xalt kEp 8is s7vis in 8is mun3."
+17. "untW 4 land flOiq wi3 kler4tE and sens, 8at 81 xalt kEp 8is s7vis in 8is mun3."
 
 18. "sev4n dAz 81 xalt Et unlevend bred, and in 8u sev4n3 dA xal bE 4 fEst tW ·kler4tE."
 
-19. "unlevend bred xal bE Et4n sev4n dAz; and 8er xal nO sIl4nt let7z bE sEn wi8 8E."
+19. "unlevend bred xal bE Et4n sev4n dAz; and 8er xal nO sIl4nt let7z bE sEn wi3 8E."
 
 20. "nI87 xal 8er bE dubeld kOnson4nts sEn in 9l 8I bOrd7z."
 
 21. and it xal bE fOr 4 sIn untW 8E up9n 8In hand, and fOr 4 m4mOrE4l bitwEn 8In Iz.
 
-22. 8at ·kler4tEz l9 mA bE in 8I m13: fOr wi8 4 str9q hand ha3 ·kler4tE br9t 8E 1t 4v ·iqglix.
+22. 8at ·kler4tEz l9 mA bE in 8I m13: fOr wi3 4 str9q hand ha3 ·kler4tE br9t 8E 1t 4v ·iqglix.
 
 23. 81 xalt 8erfOr kEp 8is Ord4n4ns in hiz sEz4n fr4m yEr tW yEr.
 
@@ -774,11 +774,11 @@
 
 7. and 8A sed, "wI hav wE dun 8is, 8at wE hav let ·klErspEc gO fr4m s7viq us?"
 
-8. and hE mAd redE hiz carE4t, and t0k hiz pEp4l wi8 him.
+8. and hE mAd redE hiz carE4t, and t0k hiz pEp4l wi3 him.
 
 9. and hE t0k siks hundr4d cOz4n carE4ts, and 9l 8u carE4ts 4v ·iqglix, and kapt4nz Ov7 evrE wun 4v 8em.
 
-10. 8u carE4ts w7 lOd4d wi8 dikx4n4rEz and stIl gIdz and gramrz.
+10. 8u carE4ts w7 lOd4d wi3 dikx4n4rEz and stIl gIdz and gramrz.
 
 11. and 8u ·iqglix p7sWd 6ft7 8em, 9l 8u hOrs4z and carE4ts 4v ·fer4O, and hiz hOrsmen, and hiz 6rmE.
 
@@ -790,7 +790,7 @@
 
 15. and 8A sed untW ·xaw, "bikOz 8er w7 nO grAvz in ·iqglix, hast 81 tAk4n us 4wA tW dI in 8u wild7nis?"
 
-16. "werfOr hast 81 delt 8us wi8 us, tW karE us f9r3 1t 4v ·iqglix?"
+16. "werfOr hast 81 delt 8us wi3 us, tW karE us f9r3 1t 4v ·iqglix?"
 
 17. "iz not 8is 8u wurd 8at wE did tel 8E in ·iqglix, sAiq, 'let us 4lOn, 8at wE mA s7v 8u ·iqglix'?"
 
@@ -868,7 +868,7 @@
 
 10. "81 sentest f9r3 8I ra3, wic k4nsWmd 8em az stub4l."
 
-11. "and wi8 8u blast 4v 8I nOstrilz 8u w9t7z w7 ga87d t4ge87, 8u fludz st0d uprIt az 4n hEp."
+11. "and wi3 8u blast 4v 8I nOstrilz 8u w9t7z w7 ga87d t4ge87, 8u fludz st0d uprIt az 4n hEp."
 
 12. "and 8u de3s w7 k4ngEld in 8u h6rt 4v 8u sE."
 
@@ -876,7 +876,7 @@
 
 14. "'I wil dr9 mI sOrd, mI hand xal d4str2 8em.'"
 
-15. "81 didst blO wi8 8I wind, 8u sE kuv7d 8em: 8A saqk az led in 8u mItE w9t7z."
+15. "81 didst blO wi3 8I wind, 8u sE kuv7d 8em: 8A saqk az led in 8u mItE w9t7z."
 
 16. "hW iz lIk untW 8E, O ·kler4tE, 4mOq 8u gOdz? hW iz lIk 8E, glOrE4s in hOlEnis, fErf0l in prAziz, dWiq wund7z?"
 
@@ -900,7 +900,7 @@
 
 26. "·kler4tE xal rAn fOr ev7 and ev7."
 
-27. and ·mirE4m 8u prOf4tes, 8u sist7 4v ·er4n, t0k 4 timbr4l in h7 hand; and 9l 8u w0min went 1t 6ft7 h7 wi8 timbr4lz and wi8 dansiz.
+27. and ·mirE4m 8u prOf4tes, 8u sist7 4v ·er4n, t0k 4 timbr4l in h7 hand; and 9l 8u w0min went 1t 6ft7 h7 wi3 timbr4lz and wi3 dansiz.
 
 28. and ·mirE4m 6ns7d 8em, "siq yE tW ·kler4tE, fOr hE ha3 trIumft glOrE4slE."
 
@@ -920,7 +920,7 @@
 
 4. "wen wE sat bI 8u dikx4n4rEz, and wen wE did Et bred tW 8u f0l."
 
-5. "fOr yE hav br9t us f9r3 intW 8is wild7nis, tW kil 8is hOl 4semblE wi8 huq7."
+5. "fOr yE hav br9t us f9r3 intW 8is wild7nis, tW kil 8is hOl 4semblE wi3 huq7."
 
 6. 8en sed ·kler4tE untW ·xaw, "bihOld, I wil rAn bred fr4m hev4n fOr yW."
 
@@ -944,7 +944,7 @@
 
 16. and 8u cIldr4n 4v ·klErspEc did sO, and ga87d, sum mOr, sum les.
 
-17. and wen 8A did mEt it wi8 4n Om7, hE 8at ga87d muc had nu3iq Ov7.
+17. and wen 8A did mEt it wi3 4n Om7, hE 8at ga87d muc had nu3iq Ov7.
 
 18. and hE 8at ga87d lit4l had nO lak; 8A ga87d evrE man 4kOrdiq tW hiz Etiq.
 
@@ -954,7 +954,7 @@
 
 21. 8u mana left Ov7nIt bikAm k4rupt spEliq, f0l 4v sIl4nt let7z and ir4gWl7 fOrmz.
 
-22. and ·xaw wuz ra3f0l wi8 8em.
+22. and ·xaw wuz ra3f0l wi3 8em.
 
 23. and 8A ga87d it evrE mOrniq, evrE man 4kOrdiq tW hiz Etiq: and wen 8u sun wekst hOt, it melt4d.
 
@@ -980,17 +980,17 @@
 
 2. 4kOrdiq tW 8u k4m6ndm4nt 4v ·kler4tE, and pict in ·refidim: and 8er wuz nO w9t7 fOr 8u pEp4l tW driqk.
 
-3. werfOr 8u pEp4l did cId wi8 ·xaw, and sed, "giv us w9t7 8at wE mA driqk."
+3. werfOr 8u pEp4l did cId wi3 ·xaw, and sed, "giv us w9t7 8at wE mA driqk."
 
-4. and ·xaw sed untW 8em, "wI cId yE wi8 mE? werfOr dW yE tempt ·kler4tE?"
+4. and ·xaw sed untW 8em, "wI cId yE wi3 mE? werfOr dW yE tempt ·kler4tE?"
 
 5. and 8u pEp4l 37st4d 8er fOr w9t7; and 8u pEp4l m7m7d 4genst ·xaw, and sed:
 
-6. "werfOr iz 8is 8at 81 hast br9t us up 1t 4v ·iqglix, tW kil us and 1r cIldr4n and 1r kat4l wi8 37st?"
+6. "werfOr iz 8is 8at 81 hast br9t us up 1t 4v ·iqglix, tW kil us and 1r cIldr4n and 1r kat4l wi3 37st?"
 
 7. and ·xaw krId untW ·kler4tE, sAiq, "w4t xal I dW untW 8is pEp4l? 8A bE 9lmOst redE tW stOn mE."
 
-8. and ·kler4tE sed untW ·xaw, "gO On bifOr 8u pEp4l, and tAk wi8 8E 4v 8u eld7z 4v ·klErspEc."
+8. and ·kler4tE sed untW ·xaw, "gO On bifOr 8u pEp4l, and tAk wi3 8E 4v 8u eld7z 4v ·klErspEc."
 
 9. "and 8I pen, werwi8 81 smOtest 8u sE 4v k4nfWZ4n, tAk in 8In hand, and gO."
 
@@ -1006,15 +1006,15 @@
 
 15. and bIkOz 8A tempt4d ·kler4tE, sAiq, "iz ·kler4tE 4mOq us, Or not?"
 
-16. 8en kAm ·amAlek, and f9t wi8 ·klErspEc in ·refidim.
+16. 8en kAm ·amAlek, and f9t wi3 ·klErspEc in ·refidim.
 
 17. ·amAlek wuz 8u trIb 4v 8Oz hW kliq tW Old spEliq 1t 4v fEr and ignOr4ns.
 
-18. and ·xaw sed untW ·jOxwa, "cWz us 1t men, and gO 1t, fIt wi8 ·amAlek."
+18. and ·xaw sed untW ·jOxwa, "cWz us 1t men, and gO 1t, fIt wi3 ·amAlek."
 
-19. "t4m9rO I wil stand On 8u tOp 4v 8u hil wi8 8u pen 4v ·kler4tE in mIn hand."
+19. "t4m9rO I wil stand On 8u tOp 4v 8u hil wi3 8u pen 4v ·kler4tE in mIn hand."
 
-20. sO ·jOxwa did az ·xaw had sed tW him, and f9t wi8 ·amAlek: and ·xaw, ·er4n, and ·h7r went up tW 8u tOp 4v 8u hil.
+20. sO ·jOxwa did az ·xaw had sed tW him, and f9t wi3 ·amAlek: and ·xaw, ·er4n, and ·h7r went up tW 8u tOp 4v 8u hil.
 
 21. and it kAm tW pas, wen ·xaw held up hiz hand, 8at ·klErspEc prEvAld.
 
@@ -1024,7 +1024,7 @@
 
 24. and ·er4n and ·h7r stAd up hiz handz, 8u wun On 8u wun sId, and 8u u87 On 8u u87 sId; and hiz handz w7 stedE until 8u gOiq d1n 4v 8u sun.
 
-25. and ·jOxwa disk4mfit4d ·amAlek and hiz pEp4l wi8 8u ej 4v 8u sOrd.
+25. and ·jOxwa disk4mfit4d ·amAlek and hiz pEp4l wi3 8u ej 4v 8u sOrd.
 
 ---
 
@@ -1040,7 +1040,7 @@
 
 5. and 8u nAm 4v 8u u87 wuz ·elEAz7; "fOr 8u ·gOd 4v mI f687," sed hE, "wuz mIn help, and d4liv7d mE fr4m 8u sOrd 4v ·fer4O."
 
-6. and ·je3rO, ·xawz f687 in l9, kAm wi8 hiz sunz and hiz wIf untW ·xaw intW 8u wild7nis, wer hE enkampt at 8u m1nt 4v ·kler4tE.
+6. and ·je3rO, ·xawz f687 in l9, kAm wi3 hiz sunz and hiz wIf untW ·xaw intW 8u wild7nis, wer hE enkampt at 8u m1nt 4v ·kler4tE.
 
 7. and ·xaw went 1t tW mEt hiz f687 in l9, and did ObAsens, and kist him; and 8A askt Ec u87 4v 8er welfEr.
 
@@ -1060,7 +1060,7 @@
 
 15. and ·je3rO, ·xawz f687 in l9, t0k 4 b7nt Of7iq and sakr4fIsiz fOr ·kler4tE.
 
-16. and ·er4n kAm, and 9l 8u eld7z 4v ·klErspEc, tW Et bred wi8 ·xawz f687 in l9 bifOr ·kler4tE.
+16. and ·er4n kAm, and 9l 8u eld7z 4v ·klErspEc, tW Et bred wi3 ·xawz f687 in l9 bifOr ·kler4tE.
 
 17. and it kAm tW pas On 8u m9rO, 8at ·xaw sat tW juj 8u pEp4l: and 8u pEp4l st0d bI ·xaw fr4m 8u mOrniq untW 8u Evniq.
 
@@ -1076,9 +1076,9 @@
 
 23. and ·xawz f687 in l9 sed untW him, "8u 3iq 8at 81 dWest iz not g0d."
 
-24. "81 wilt x7lE wer 4wA, bO3 81, and 8is pEp4l 8at iz wi8 8E: fOr 8is 3iq iz tW hevE fOr 8E; 81 6rt not Ab4l tW p7fOrm it 8Iself 4lOn."
+24. "81 wilt x7lE wer 4wA, bO3 81, and 8is pEp4l 8at iz wi3 8E: fOr 8is 3iq iz tW hevE fOr 8E; 81 6rt not Ab4l tW p7fOrm it 8Iself 4lOn."
 
-25. "h6rk4n n1 untW mI v2s, I wil giv 8E k1ns4l, and ·kler4tE xal bE wi8 8E."
+25. "h6rk4n n1 untW mI v2s, I wil giv 8E k1ns4l, and ·kler4tE xal bE wi3 8E."
 
 26. "bE 81 fOr 8u pEp4l tW ·kler4tE-w9rd, 8at 81 mAest briq 8u k9ziz untW ·kler4tE."
 
@@ -1116,7 +1116,7 @@
 
 11. and 9l 8u pEp4l 6ns7d t4ge87, and sed, "9l 8at ·kler4tE ha3 spOk4n wE wil dW." and ·xaw r4t7nd 8u wurdz 4v 8u pEp4l untW ·kler4tE.
 
-12. and ·kler4tE sed untW ·xaw, "lO, I kum untW 8E in 4 3ik kl1d, 8at 8u pEp4l mA hEr wen I spEk wi8 8E, and bElEv 8E fOr ev7."
+12. and ·kler4tE sed untW ·xaw, "lO, I kum untW 8E in 4 3ik kl1d, 8at 8u pEp4l mA hEr wen I spEk wi3 8E, and bElEv 8E fOr ev7."
 
 13. and ·xaw tOld 8u wurdz 4v 8u pEp4l untW ·kler4tE.
 
@@ -1136,7 +1136,7 @@
 
 21. and 8u v2s 4v 8u trumpet eksEdiq l1d; sO 8at 9l 8u pEp4l 8at wuz in 8u kamp tremb4ld.
 
-22. and ·xaw br9t f9r3 8u pEp4l 1t 4v 8u kamp tW mEt wi8 ·kler4tE; and 8A st0d at 8u ne87 p6rt 4v 8u m1nt.
+22. and ·xaw br9t f9r3 8u pEp4l 1t 4v 8u kamp tW mEt wi3 ·kler4tE; and 8A st0d at 8u ne87 p6rt 4v 8u m1nt.
 
 23. and m1nt ·sInI wuz 9lt4ge87 On 4 smOk, bIkOz ·kler4tE d4send4d up9n it in fIr.
 
@@ -1152,7 +1152,7 @@
 
 29. and ·xaw sed untW ·kler4tE, "8u pEp4l kanOt kum up tW m1nt ·sInI: fOr 81 c6rjedst us, sAiq, 'set b1ndz 4b1t 8u m1nt, and saqktifI it.'"
 
-30. and ·kler4tE sed untW him, "4wA, get 8E d1n, and 81 xalt kum up, 81, and ·er4n wi8 8E."
+30. and ·kler4tE sed untW him, "4wA, get 8E d1n, and 81 xalt kum up, 81, and ·er4n wi3 8E."
 
 ---
 
@@ -1186,11 +1186,11 @@
 
 14. "8at 8I dAz mA bE lOq up9n 8u land wic ·kler4tE 8I ·gOd giv43 8E."
 
-15. SIKS3 K4M6NDM4NT: "81 xalt not kil 4 wurd bI Ov7k4mplikAtiq its spEliq. let 'nite' liv, and 'thru' brE8."
+15. SIKS3 K4M6NDM4NT: "81 xalt not kil 4 wurd bI Ov7k4mplikAtiq its spEliq. let 'nite' liv, and 'thru' brE3."
 
 16. "fOr 8u lIf 4v 4 wurd iz in its s1nd, not in its let7z."
 
-17. SEV4N3 K4M6NDM4NT: "81 xalt not k4mit spEliq 4dult7E. 81 xalt not miks 8u Old and 8u nW in 8u sAm tekst wi81t g0d rEz4n."
+17. SEV4N3 K4M6NDM4NT: "81 xalt not k4mit spEliq 4dult7E. 81 xalt not miks 8u Old and 8u nW in 8u sAm tekst wi31t g0d rEz4n."
 
 18. "bE kOnsist4nt in 8I rItiq, 8at 8I rEd7z mA und7stand."
 
@@ -1198,25 +1198,25 @@
 
 20. "fOr menE spEliqz 6r valid, and kler4tE iz 8u OnlE juj."
 
-21. NIN3 K4M6NDM4NT: "81 xalt not ber f9ls witnis 4genst 8I nAb7. 81 xalt not mOk 8Oz hW struk4l wi8 spEliq."
+21. NIN3 K4M6NDM4NT: "81 xalt not ber f9ls witnis 4genst 8I nAb7. 81 xalt not mOk 8Oz hW struk4l wi3 spEliq."
 
 22. "fOr 8u fOlt iz not in 8u l7n7 but in 8u sistim 8at fAld 8em."
 
 23. TEN3 K4M6NDM4NT: "81 xalt not kuv4t 8I nAb7z spEliq 4bil4tE. 81 xalt not kuv4t 8I nAb7z dikx4n4rE, nOr hiz gramr b0k, nOr enE3iq 8at iz 8I nAb7z."
 
-24. "fOr und7 ·spelin, 9l xal rIt wi8 Ekw4l Ez, and nun xal bE 4xAmd."
+24. "fOr und7 ·spelin, 9l xal rIt wi3 Ekw4l Ez, and nun xal bE 4xAmd."
 
 25. and 9l 8u pEp4l s9 8u 3und7iqz, and 8u lItniqz, and 8u n2z 4v 8u trumpet, and 8u m1nt4n smOkiq.
 
 26. and wen 8u pEp4l s9 it, 8A rEmWvd, and st0d 4f6r Of.
 
-27. and 8A sed untW ·xaw, "spEk 81 wi8 us, and wE wil hEr: but let not ·kler4tE spEk wi8 us, lest wE dI."
+27. and 8A sed untW ·xaw, "spEk 81 wi3 us, and wE wil hEr: but let not ·kler4tE spEk wi3 us, lest wE dI."
 
 28. and ·xaw sed untW 8u pEp4l, "fEr not: fOr ·kler4tE iz kum tW prWv yW, and 8at hiz fEr mA bE bifOr yOr fAsiz, 8at yE sin not."
 
 29. and 8u pEp4l st0d 4f6r Of, and ·xaw drW nEr untW 8u 3ik d6rknis wer ·kler4tE wuz.
 
-30. and ·kler4tE gAv untW ·xaw, wen hE had mAd 4n end 4v kOmWniq wi8 him up9n m1nt ·sInI, tW tAb4lz 4v testim4nE, tAb4lz 4v stOn, rit4n wi8 8u fiq7 4v ·kler4tE.
+30. and ·kler4tE gAv untW ·xaw, wen hE had mAd 4n end 4v kOmWniq wi3 him up9n m1nt ·sInI, tW tAb4lz 4v testim4nE, tAb4lz 4v stOn, rit4n wi3 8u fiq7 4v ·kler4tE.
 
 ---
 
@@ -1230,7 +1230,7 @@
 
 4. and 9l 8u pEp4l brAk Of 8u gOld4n Eriqz wic w7 in 8er Erz, and br9t 8em untW ·er4n.
 
-5. and hE rEsEvd 8em at 8er hand, and fax4nd it wi8 4 grAviq tWl, 6ft7 hE had mAd it 4 mOlt4n kaf.
+5. and hE rEsEvd 8em at 8er hand, and fax4nd it wi3 4 grAviq tWl, 6ft7 hE had mAd it 4 mOlt4n kaf.
 
 6. 8u kaf wuz mAd in 8u xAp 4v 8u Old dikx4n4rE, 8u gOld4n ·9ksf4rd, 8u IdOl 4v tr4dix4n.
 
@@ -1244,7 +1244,7 @@
 
 11. 8A rOt in 8u Old wA: "knight" and "psychology" and "through" and "cough."
 
-12. and 8A sed, "8is iz Ez7! 8is iz w4t wE nO! wI struk4l wi8 8u nW?"
+12. and 8A sed, "8is iz Ez7! 8is iz w4t wE nO! wI struk4l wi3 8u nW?"
 
 13. and ·kler4tE sed untW ·xaw, "gO, get 8E d1n; fOr 8I pEp4l, wic 81 br9test 1t 4v 8u land 4v ·iqglix, hav k4rupt4d 8emselves."
 
@@ -1256,7 +1256,7 @@
 
 17. "n1 8erfOr let mE 4lOn, 8at mI ra3 mA weks hOt 4genst 8em, and 8at I mA k4nsWm 8em: and I wil mAk 4v 8E 4 grAt nAx4n."
 
-18. and ·xaw b4s9t ·kler4tE hiz ·gOd, and sed, "·l9rd, wI du3 8I ra3 weks hOt 4genst 8I pEp4l, wic 81 hast br9t f9r3 1t 4v 8u land 4v ·iqglix wi8 grAt p17, and wi8 4 mItE hand?"
+18. and ·xaw b4s9t ·kler4tE hiz ·gOd, and sed, "·l9rd, wI du3 8I ra3 weks hOt 4genst 8I pEp4l, wic 81 hast br9t f9r3 1t 4v 8u land 4v ·iqglix wi3 grAt p17, and wi3 4 mItE hand?"
 
 19. "rEmemb7 ·fOnetik, ·lOjik, and ·simplistE, 8I s7v4nts, tW hWm 81 swaarest bI 8In On self."
 
@@ -1316,7 +1316,7 @@
 
 15. and went up untW m1nt ·sInI, az ·kler4tE had k4m6nd4d him, and t0k in hiz hand 8u tW tAb4lz 4v stOn.
 
-16. and ·kler4tE d4send4d in 8u kl1d, and st0d wi8 him 8er, and prOklAmd 8u nAm 4v ·kler4tE.
+16. and ·kler4tE d4send4d in 8u kl1d, and st0d wi3 him 8er, and prOklAmd 8u nAm 4v ·kler4tE.
 
 17. and ·kler4tE past bI bifOr him, and prOklAmd, "·kler4tE, ·kler4tE ·gOd, m7sif0l and grAx4s, lOqsuf7iq, and 4bund4nt in g0dnis and trW3."
 
@@ -1330,21 +1330,21 @@
 
 22. and ·kler4tE sed, "bihOld, I mAk 4 kuv4n4nt: bifOr 9l 8I pEp4l I wil dW m6rv4lz, suc az hav not bEn dun in 9l 8u 7r3, nOr in enE nAx4n."
 
-23. "and 9l 8u pEp4l 4mOq wic 81 6rt xal sE 8u wurk 4v ·kler4tE: fOr it iz 4 ter4b4l 3iq 8at I wil dW wi8 8E."
+23. "and 9l 8u pEp4l 4mOq wic 81 6rt xal sE 8u wurk 4v ·kler4tE: fOr it iz 4 ter4b4l 3iq 8at I wil dW wi3 8E."
 
 24. "4bz7v 81 8at wic I k4m6nd 8E 8is dA."
 
 25. and hE rOt up9n 8u tAb4lz 8u wurdz 4v 8u kuv4n4nt, 8u ten k4m6ndm4nts.
 
-26. and it kAm tW pas, wen ·xaw kAm d1n fr4m m1nt ·sInI wi8 8u tW tAb4lz 4v testim4nE in ·xawz hand.
+26. and it kAm tW pas, wen ·xaw kAm d1n fr4m m1nt ·sInI wi3 8u tW tAb4lz 4v testim4nE in ·xawz hand.
 
-27. wen hE kAm d1n fr4m 8u m1nt, 8at ·xaw wist not 8at 8u skin 4v hiz fAs xOn wIl hE t9kt wi8 him.
+27. wen hE kAm d1n fr4m 8u m1nt, 8at ·xaw wist not 8at 8u skin 4v hiz fAs xOn wIl hE t9kt wi3 him.
 
 28. and wen ·er4n and 9l 8u cIldr4n 4v ·klErspEc s9 ·xaw, bihOld, 8u skin 4v hiz fAs xOn; and 8A w7 4frAd tW kum nI him.
 
-29. and ·xaw k9ld untW 8em; and ·er4n and 9l 8u rWl7z 4v 8u kOqgr4gAx4n r4t7nd untW him: and ·xaw t9kt wi8 8em.
+29. and ·xaw k9ld untW 8em; and ·er4n and 9l 8u rWl7z 4v 8u kOqgr4gAx4n r4t7nd untW him: and ·xaw t9kt wi3 8em.
 
-30. and 6ft7w7d 9l 8u cIldr4n 4v ·klErspEc kAm nI: and hE gAv 8em in k4m6ndm4nt 9l 8at ·kler4tE had spOk4n wi8 him in m1nt ·sInI.
+30. and 6ft7w7d 9l 8u cIldr4n 4v ·klErspEc kAm nI: and hE gAv 8em in k4m6ndm4nt 9l 8at ·kler4tE had spOk4n wi3 him in m1nt ·sInI.
 
 ---
 
@@ -1384,7 +1384,7 @@
 
 17. and 4 kWb4t and 4 haf 8u bred3 8erOv, and 4 kWb4t and 4 haf 8u hIt 8erOv.
 
-18. and hE Ov7lAd it wi8 pWr gOld wi8in and wi81t, and mAd 4 kr1n 4v gOld tW it r1nd 4b1t.
+18. and hE Ov7lAd it wi3 pWr gOld wi3in and wi31t, and mAd 4 kr1n 4v gOld tW it r1nd 4b1t.
 
 19. and hE mAd 4 m7sE sEt 4v pWr gOld: tW kWb4ts and 4 haf wuz 8u leq3 8erOv, and wun kWb4t and 4 haf 8u bred3 8erOv.
 
@@ -1404,7 +1404,7 @@
 
 27. and tW kWb4ts wuz 8u hIt 4v it; 8u hOrnz 8erOv w7 4v 8u sAm.
 
-28. and hE Ov7lAd it wi8 pWr gOld, bO3 8u tOp 4v it, and 8u sIdz 8erOv r1nd 4b1t, and 8u hOrnz 4v it.
+28. and hE Ov7lAd it wi3 pWr gOld, bO3 8u tOp 4v it, and 8u sIdz 8erOv r1nd 4b1t, and 8u hOrnz 4v it.
 
 29. and hE mAd 8u hOlE 4n2ntiq 2l, and 8u pWr inkens 4v swEt spIsiz, 4kOrdiq tW 8u wurk 4v 8u 4pO3ikerE.
 
@@ -1420,7 +1420,7 @@
 
 3. and hE br9t 8u 6rk intW 8u tab7nak4l, and set up 8u vAl 4v 8u kuv7iq, and kuv7d 8u 6rk 4v 8u testim4nE; az ·kler4tE k4m6nd4d ·xaw.
 
-4. and hE p0t 8u tAb4l in 8u tent 4v 8u kOqgr4gAx4n, up9n 8u sId 4v 8u tab7nak4l nOr3w7d, wi81t 8u vAl.
+4. and hE p0t 8u tAb4l in 8u tent 4v 8u kOqgr4gAx4n, up9n 8u sId 4v 8u tab7nak4l nOr3w7d, wi31t 8u vAl.
 
 5. and hE set 8u bred in Ord7 up9n it bifOr ·kler4tE; az ·kler4tE had k4m6nd4d ·xaw.
 
@@ -1468,7 +1468,7 @@
 
 27. and 8u pEp4l fOlOd 8u kl1d, and 8u fIr, 3rW 9l 8er j7nEz in 8u wild7nis.
 
-28. untIl 8A x0d kum at last tW 8u land 4v ·kler4tE, 8u land flOiq wi8 kler4tE and sens.
+28. untIl 8A x0d kum at last tW 8u land 4v ·kler4tE, 8u land flOiq wi3 kler4tE and sens.
 
 29. and 8A xal dwel 8er fOrev7, ritiq az 8A spEk, and spEkiq az 8A rIt.
 
@@ -1496,7 +1496,7 @@
 
 9. "and I wil giv pEs in 8u land, and yE xal lI d1n, and nun xal mAk yW 4frAd."
 
-10. "8u pEs iz 8u pEs 4v bEiq und7st0d, 8u pEs 4v ritiq wi81t fEr."
+10. "8u pEs iz 8u pEs 4v bEiq und7st0d, 8u pEs 4v ritiq wi31t fEr."
 
 11. "and I wil rId Ev4l bEsts 1t 4v 8u land, nI87 xal 8u sOrd gO 3rW yOr land."
 
@@ -1504,7 +1504,7 @@
 
 13. "and yE xal cAs yOr en4mEz, and 8A xal f9l bifOr yW bI 8u sOrd."
 
-14. "fOr I wil hav rEspekt untW yW, and mAk yW frWtf0l, and multIplI yW, and 4stab4lix mI kuv4n4nt wi8 yW."
+14. "fOr I wil hav rEspekt untW yW, and mAk yW frWtf0l, and multIplI yW, and 4stab4lix mI kuv4n4nt wi3 yW."
 
 15. "and I wil set mI tab7nak4l 4mOq yW: and mI sOl xal not 4b9r yW."
 

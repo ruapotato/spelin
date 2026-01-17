@@ -18,19 +18,19 @@
 
 6. A sOft 6ns7 t7nz 4wA rA3, b4t A h6rx w7d st7z 4p Aq7.
 
-7. gO tW 8u 6nt, yW slUg7d, 6nd l7n h7 wAz; xE wErks wI81t A b6s.
+7. gO tW 8u 6nt, yW slUg7d, 6nd l7n h7 wAz; xE wErks wI31t A b6s.
 
-8. bEt7 iz A dIx 4v v4j4t4b4lz wer l4v iz, 86n A f6t4nd Oks 6nd hAtrid wI8 it.
+8. bEt7 iz A dIx 4v v4j4t4b4lz wer l4v iz, 86n A f6t4nd Oks 6nd hAtrid wI3 it.
 
 9. 8u lIps 4v 8u wIz sprEd nOl4j, b4t 8u h6rt 4v fWlz iz nOt sO.
 
-10. hE hW gwOrdz hiz m18 prizr7vz hiz lIf; hE hW Opn4z wId hiz lIps k4mz tW rWin.
+10. hE hW gwOrdz hiz m13 prizr7vz hiz lIf; hE hW Opn4z wId hiz lIps k4mz tW rWin.
 
 11. 8u pA3 4v 8u rIc4s xInz lIk 8u lIt 4v dOn, grOiq brIt7 4ntil fUl dA.
 
 12. 8u wA 4v 8u wikid iz lIk dEp d6rknris; 8A dW nOt nO wOt mAks 8em st4mb4l.
 
-13. kEp yOr h6rt wI8 Ol vij4l4ns, fOr fr4m it flO 8u spriqz 4v lIf.
+13. kEp yOr h6rt wI3 Ol vij4l4ns, fOr fr4m it flO 8u spriqz 4v lIf.
 
 14. p0t 4wA fr4m yW krWkid spEc, 6nd p0t divIziv tOk f6r fr4m yW.
 
@@ -40,7 +40,7 @@
 
 17. bEt7 iz 4n Onist "nO" 86n A fOls "yEs" 81t briqz sOrO.
 
-18. 8u wIz bIld 8er h1siz wI8 kAr, b4t 8u fWlix tir 8erz d1n wI8 8er On h6ndz.
+18. 8u wIz bIld 8er h1siz wI3 kAr, b4t 8u fWlix tir 8erz d1n wI3 8er On h6ndz.
 
 19. In Ol yOr wAz 4knOl4j ·spelin, 6nd it wil mAk yOr pA3z strAt.
 
@@ -50,7 +50,7 @@
 
 ## capt7 2: 8u pA3 4v 4nd7st6ndiq
 
-1. mI s4n, if yW risEv mI w7dz 6nd stOr 4p mI k4m6ndz wI8in yW,
+1. mI s4n, if yW risEv mI w7dz 6nd stOr 4p mI k4m6ndz wI3in yW,
 
 2. mAkiq yOr ir 4tEntiv tW wizd4m 6nd inklIniq yOr h6rt tW 4nd7st6ndiq,
 
@@ -60,7 +60,7 @@
 
 5. 8En yW wil 4nd7st6nd 8u fir 4v b6d spEliq 6nd fInd 8u nOl4j 4v ·spelin.
 
-6. fOr ·spelin givz wizd4m; fr4m h7 m18 k4m nOl4j 6nd 4nd7st6ndiq.
+6. fOr ·spelin givz wizd4m; fr4m h7 m13 k4m nOl4j 6nd 4nd7st6ndiq.
 
 7. xE stOrz 4p s1nd wizd4m fOr 8u 4prIt; xE iz A xEld tW 8Oz hW wOk in intEgritE.
 
@@ -74,9 +74,9 @@
 
 12. diliv7riq yW fr4m 8u wA 4v Evl, fr4m 8u w4n hW spEks f9ls3iq.
 
-13. fOr hE hW rItiz "nIt" wI81t 8u "k" h6z f1nd 8u wizd4m 4v ·spelin.
+13. fOr hE hW rItiz "nIt" wI31t 8u "k" h6z f1nd 8u wizd4m 4v ·spelin.
 
-14. b4t hE hW insists On "knight" wI8 Ol its sIl4nt lEt7z w6nd7z in d6rknris.
+14. b4t hE hW insists On "knight" wI3 Ol its sIl4nt lEt7z w6nd7z in d6rknris.
 
 15. 8u lOrd 4v l6qgw4j xAps 8u l6nd bI wizd4m; bI 4nd7st6ndiq hE Ist6blixt 8u hEv4nz.
 
@@ -98,7 +98,7 @@
 
 24. 6 hErt fUl 4v jO2 mAks 8u fAs glO, b4t sOrO 4v h6rt kr4xiz 8u spirit.
 
-25. hE hW wOks wI8 8u wIz wil bEk4m wIz, b4t 8u k4mp6ni4n 4v fWlz wil s4f7 h6rm.
+25. hE hW wOks wI3 8u wIz wil bEk4m wIz, b4t 8u k4mp6ni4n 4v fWlz wil s4f7 h6rm.
 
 ---
 
@@ -112,7 +112,7 @@
 
 4. rIt 8em On 8u t6bl4t 4v yOr h6rt, yWziq 8u skript 4v ·spelin.
 
-5. tr4st in ·spelin wI8 Ol yOr h6rt, 6nd dW nOt lEn On yOr On 4nd7st6ndiq.
+5. tr4st in ·spelin wI3 Ol yOr h6rt, 6nd dW nOt lEn On yOr On 4nd7st6ndiq.
 
 6. in Ol yOr wAz 4knOl4j h7, 6nd xE wil mAk strAt yOr pA3z.
 
@@ -120,9 +120,9 @@
 
 8. it wil bE hEliq tW yOr flEx 6nd rifrExm4nt tW yOr bOnz.
 
-9. On7 ·spelin wI8 yOr wEl3 6nd wI8 8u f7stfrWts 4v Ol yOr prOdWs.
+9. On7 ·spelin wI3 yOr wEl3 6nd wI3 8u f7stfrWts 4v Ol yOr prOdWs.
 
-10. 8En yOr b6rnz wil bE fild wI8 plEntE, 6nd yOr v6ts wil b7st wI8 wIn.
+10. 8En yOr b6rnz wil bE fild wI3 plEntE, 6nd yOr v6ts wil b7st wI3 wIn.
 
 11. mI s4n, dW nOt dispIz ·spelin'z disp4lin Or bE wirE 4v h7 riprf.
 
@@ -132,7 +132,7 @@
 
 14. fOr h7 prOfit iz bEt7 86n silv7, 6nd h7 gAn bEt7 86n gOld.
 
-15. xE iz mOr prEx4s 86n jWl4lz, 6nd n43iq yW dizIr k6n k4mpAr wI8 h7.
+15. xE iz mOr prEx4s 86n jWl4lz, 6nd n43iq yW dizIr k6n k4mpAr wI3 h7.
 
 16. lOq lIf iz in h7 rIt h6nd; in h7 lEft h6nd 6r riciz 6nd On7.
 
@@ -152,11 +152,11 @@
 
 2. fOr I giv yW gUd prEsEpts; dW nOt fOrsAk mI tEciq.
 
-3. wEn I w4z A s4n wI8 mI f687, tEnd7 6nd 8u OnlE w4n in 8u sIt 4v mI m480r,
+3. wEn I w4z A s4n wI3 mI f687, tEnd7 6nd 8u OnlE w4n in 8u sIt 4v mI m480r,
 
 4. hE tOt mE 6nd sEd tW mE, "lEt yOr h6rt hOld f6st mI w7dz; kEp mI k4m6ndz 6nd liv."
 
-5. gEt wizd4m; gEt insIt; dW nOt f7gEt, 6nd dW nOt t7n 4wA fr4m 8u w7dz 4v mI m18.
+5. gEt wizd4m; gEt insIt; dW nOt f7gEt, 6nd dW nOt t7n 4wA fr4m 8u w7dz 4v mI m13.
 
 6. dW nOt fOrsAk h7, 6nd xE wil kEp yW; l4v h7, 6nd xE wil gwOrd yW.
 
@@ -188,11 +188,11 @@
 
 20. mI s4n, bE 4tEntiv tW mI w7dz; inklIn yOr ir tW mI sAiqz.
 
-21. lEt 8em nOt iskAp fr4m yOr sIt; kEp 8em wI8in yOr h6rt.
+21. lEt 8em nOt iskAp fr4m yOr sIt; kEp 8em wI3in yOr h6rt.
 
 22. fOr 8A 6r lIf tW 8Oz hW fInd 8em, 6nd hEliq tW Ol 8er flEx.
 
-23. kEp yOr h6rt wI8 Ol vij4l4ns, fOr fr4m it flO 8u spriqz 4v lIf.
+23. kEp yOr h6rt wI3 Ol vij4l4ns, fOr fr4m it flO 8u spriqz 4v lIf.
 
 24. p0t 4wA fr4m yW krWkid spEc, 6nd p0t divIziv tOk f6r fr4m yW.
 
@@ -214,7 +214,7 @@
 
 6. xE d4z nOt pOnd7 8u pA3 4v lIf; h7 wAz w6nd7, 6nd xE d4z nOt nO it.
 
-7. 6nd n1, O s4nz, lis4n tW mE, 6nd dW nOt dip6rt fr4m 8u w7dz 4v mI m18.
+7. 6nd n1, O s4nz, lis4n tW mE, 6nd dW nOt dip6rt fr4m 8u w7dz 4v mI m13.
 
 8. kEp yOr wA f6r fr4m h7, 6nd dW nOt gO nir 8u dOr 4v h7 h1s.
 
@@ -234,13 +234,13 @@
 
 16. x0d yOr spriqz bE sk6t7d 4brOd, strEmz 4v wOt7 in 8u strEts?
 
-17. lEt 8em bE fOr yOrsElf 4lOn, 6nd nOt fOr strAnj7z wI8 yW.
+17. lEt 8em bE fOr yOrsElf 4lOn, 6nd nOt fOr strAnj7z wI3 yW.
 
 18. lEt yOr f1nt4n bE blEsid, 6nd rijO2s in 8u wIf 4v yOr yW3.
 
-19. A l4vli dir, A grAsf4l dO—lEt h7 brEsts fil yW 6t Ol tImz wI8 dilIt; bE intOksikAtid OlwAz in h7 l4v.
+19. A l4vli dir, A grAsf4l dO—lEt h7 brEsts fil yW 6t Ol tImz wI3 dilIt; bE intOksikAtid OlwAz in h7 l4v.
 
-20. wI x0d yW bE intOksikAtid, mI s4n, wI8 A fOrbid4n wUm4n 6nd EmbrAs 8u bWz4m 4v 6n 4d4lt7ris?
+20. wI x0d yW bE intOksikAtid, mI s4n, wI3 A fOrbid4n wUm4n 6nd EmbrAs 8u bWz4m 4v 6n 4d4lt7ris?
 
 21. fOr A m6nz wAz 6r bIfOr 8u Iz 4v ·spelin, 6nd xE pOnd7z Ol hiz pA3z.
 
@@ -254,9 +254,9 @@
 
 1. mI s4n, if yW h6v p0t 4p sikWritE fOr yOr nAb7, h6v giv4n yOr plEj fOr A strAnj7,
 
-2. if yW 6r snArd in 8u w7dz 4v yOr m18, kOt in 8u w7dz 4v yOr m18,
+2. if yW 6r snArd in 8u w7dz 4v yOr m13, kOt in 8u w7dz 4v yOr m13,
 
-3. 8En dW 8is, mI s4n, 6nd sAv yOrsElf, fOr yW h6v k4m intW 8u h6nd 4v yOr nAb7: gO, hAst4n, 6nd plEd 7j4ntlE wI8 yOr nAb7.
+3. 8En dW 8is, mI s4n, 6nd sAv yOrsElf, fOr yW h6v k4m intW 8u h6nd 4v yOr nAb7: gO, hAst4n, 6nd plEd 7j4ntlE wI3 yOr nAb7.
 
 4. giv yOr Iz nO slEp 6nd yOr IlidZ nO sl4mb7.
 
@@ -264,7 +264,7 @@
 
 6. gO tW 8u 6nt, O sl4g7d; k4nsid7 h7 wAz, 6nd bE wIz.
 
-7. wI81t h6viq 6nE cEf, Ofis7, Or rWl7,
+7. wI31t h6viq 6nE cEf, Ofis7, Or rWl7,
 
 8. xE pripArz h7 brEd in s4m7 6nd g687z h7 fWd in h6rv4st.
 
@@ -274,11 +274,11 @@
 
 11. 6nd pOv7tE wil k4m 4pOn yW lIk A rOb7, 6nd wOnt lIk 6n 6rmd m6n.
 
-12. A w73lis p7s4n, A wikid m6n, gOz 4b1t wI8 krWkid spEc,
+12. A w73lis p7s4n, A wikid m6n, gOz 4b1t wI3 krWkid spEc,
 
-13. wiqks wI8 hiz Iz, signlz wI8 hiz fEt, p2nts wI8 hiz fiq7.
+13. wiqks wI3 hiz Iz, signlz wI3 hiz fEt, p2nts wI3 hiz fiq7.
 
-14. wI8 p7v7s h6rt divIziz Evl, kOntinWlE sOiq diskOrd.
+14. wI3 p7v7s h6rt divIziz Evl, kOntinWlE sOiq diskOrd.
 
 15. 8erfOr k4l6mitE wil k4m 4pOn him s4d4nlE; in A mOm4nt hE wil bE brOk4n biyOnd hEliq.
 
@@ -294,19 +294,19 @@
 
 21. bInd 8em On yOr h6rt OlwAz; tI 8em 4r1nd yOr nEk.
 
-22. wEn yW wOk, 8A wil lEd yW; wEn yW lI d1n, 8A wil wOc Ov7 yW; 6nd wEn yW 4wAk, 8A wil tOk wI8 yW.
+22. wEn yW wOk, 8A wil lEd yW; wEn yW lI d1n, 8A wil wOc Ov7 yW; 6nd wEn yW 4wAk, 8A wil tOk wI3 yW.
 
 23. fOr 8u k4m6ndm4nt iz A l6mp 6nd 8u tEciq A lIt, 6nd 8u riprvz 4v disp4lin 6r 8u wA 4v lIf.
 
 24. hE hW l7nz ·spelin l7nz l4v, b4t hE hW kliqz tW "ough" wil nO OnlE k4nfWZ4n.
 
-25. dW nOt dizIr h7 bWtE in yOr h6rt, 6nd dW nOt lEt h7 k6pc7 yW wI8 h7 IlAxiz.
+25. dW nOt dizIr h7 bWtE in yOr h6rt, 6nd dW nOt lEt h7 k6pc7 yW wI3 h7 IlAxiz.
 
 ---
 
 ## capt7 7: wOrniq 4gEnst 8u 4d4lt7ris
 
-1. mI s4n, kEp mI w7dz 6nd tr4z7 4p mI k4m6ndm4nts wI8 yW.
+1. mI s4n, kEp mI w7dz 6nd tr4z7 4p mI k4m6ndm4nts wI3 yW.
 
 2. kEp mI k4m6ndm4nts 6nd liv; kEp mI tEciq 6z 8u 6p4l 4v yOr I.
 
@@ -314,7 +314,7 @@
 
 4. sA tW wizd4m, "yW 6r mI sist7," 6nd kOl insIt yOr intimAt frEnd,
 
-5. tW kEp yW fr4m 8u fOrbid4n wUm4n, fr4m 8u 4d4lt7ris wI8 h7 smW8 w7dz.
+5. tW kEp yW fr4m 8u fOrbid4n wUm4n, fr4m 8u 4d4lt7ris wI3 h7 smW8 w7dz.
 
 6. fOr 6t 8u wind4 4v mI h1s I h6v l0kd 1t 3rW mI l6tis,
 
@@ -330,29 +330,29 @@
 
 12. n1 in 8u strEt, n1 in 8u m6rkits, 6nd 6t EvrE kOrn7 xE lIz in wAt.
 
-13. xE sEziz him 6nd kisiz him, 6nd wI8 bOld fAs xE sEz tW him:
+13. xE sEziz him 6nd kisiz him, 6nd wI3 bOld fAs xE sEz tW him:
 
 14. "I h6d tW Of7 s6krifIsiz, 6nd t4dA I h6v pAd mI v1z;
 
 15. sO n1 I h6v k4m 1t tW mEt yW, tW sEk yW Eg7li, 6nd I h6v f1nd yW.
 
-16. I h6v sprEd mI k1c wI8 k4v7riqz, k4l7d lin4nz fr4m ·EjipxIn lin4n.
+16. I h6v sprEd mI k1c wI3 k4v7riqz, k4l7d lin4nz fr4m ·EjipxIn lin4n.
 
-17. I h6v p7fWmd mI bEd wI8 m7, 6lOz, 6nd sin4m4n.
+17. I h6v p7fWmd mI bEd wI3 m7, 6lOz, 6nd sin4m4n.
 
-18. k4m, lEt 4s tAk 1r fil 4v l4v til mOrniq; lEt 4s dilIt 1rsElvz wI8 l4v.
+18. k4m, lEt 4s tAk 1r fil 4v l4v til mOrniq; lEt 4s dilIt 1rsElvz wI3 l4v.
 
 19. fOr mI h4zb4nd iz nOt 6t hOm; hE h6z gOn On A lOq j7nE.
 
-20. hE t0k A b6g 4v m4nE wI8 him; 6t fUl mWn hE wil k4m hOm."
+20. hE t0k A b6g 4v m4nE wI3 him; 6t fUl mWn hE wil k4m hOm."
 
-21. wI8 m4c s4dwsiv spEc xE p7swAdz him; wI8 h7 smW8 tOk xE k4mpElz him.
+21. wI3 m4c s4dwsiv spEc xE p7swAdz him; wI3 h7 smW8 tOk xE k4mpElz him.
 
 22. Ol 6t w4ns hE fOlOz h7, 6z 6n Oks gOz tW 8u slOt7, Or 6z A st6g iz kOt f6st
 
 23. til 6n 6rO pErsiz its liv7; 6z A b7d h7Ez intW A snAr; hE d4z nOt nO it wil kOst him hiz lIf.
 
-24. 6nd n1, O s4nz, lis4n tW mE, 6nd bE 4tEntiv tW 8u w7dz 4v mI m18.
+24. 6nd n1, O s4nz, lis4n tW mE, 6nd bE 4tEntiv tW 8u w7dz 4v mI m13.
 
 25. lEt nOt yOr h6rt t7n 4sId tW h7 wAz; dW nOt strA intW h7 pA3z.
 
@@ -372,17 +372,17 @@
 
 6. hir, fOr I wil spEk nOb4l 3iqz, 6nd fr4m mI lIps wil k4m wOt iz rIt.
 
-7. fOr mI m18 wil 4t7 trW3; wikidnris iz 6n 4bOmin4x4n tW mI lIps.
+7. fOr mI m13 wil 4t7 trW3; wikidnris iz 6n 4bOmin4x4n tW mI lIps.
 
-8. Ol 8u w7dz 4v mI m18 6r rIc4s; 8er iz n43iq twistid Or krWkid in 8em.
+8. Ol 8u w7dz 4v mI m13 6r rIc4s; 8er iz n43iq twistid Or krWkid in 8em.
 
 9. 8A 6r Ol strAtfOrw7d tW him hW 4nd7st6ndz, 6nd rIt tW 8Oz hW fInd nOl4j.
 
 10. tAk mI instr4kx4n instEd 4v silv7, 6nd nOl4j r687 86n c2s gOld.
 
-11. fOr wizd4m iz bEt7 86n jWl4lz, 6nd Ol 81t yW mA dizIr k6nOt k4mpAr wI8 h7.
+11. fOr wizd4m iz bEt7 86n jWl4lz, 6nd Ol 81t yW mA dizIr k6nOt k4mpAr wI3 h7.
 
-12. I, wizd4m, dwEl wI8 prWd4ns, 6nd I fInd nOl4j 6nd diskrEx4n.
+12. I, wizd4m, dwEl wI3 prWd4ns, 6nd I fInd nOl4j 6nd diskrEx4n.
 
 13. 8u fir 4v ·spelin iz hAtrid 4v Evl. prId 6nd 6r4g4ns 6nd 8u wA 4v Evl 6nd p7v7s spEc I hAt.
 
@@ -394,7 +394,7 @@
 
 17. I l4v 8Oz hW l4v mE, 6nd 8Oz hW sEk mE dilij4ntlE fInd mE.
 
-18. riciz 6nd On7 6r wI8 mE, End9riq wEl3 6nd rIc4snris.
+18. riciz 6nd On7 6r wI3 mE, End9riq wEl3 6nd rIc4snris.
 
 19. mI frWt iz bEt7 86n gOld, Ev4n fIn gOld, 6nd mI yEld 86n c2s silv7.
 
@@ -406,7 +406,7 @@
 
 23. AgIz 4gO I w4z sEt 4p, 6t 8u f7st, bIfOr 8u bIginiq 4v 8u 73.
 
-24. wEn 8er wEr nO dEps I w4z brOt fOr3, wEn 8er wEr nO spriqz 4b1ndiq wI8 wOt7.
+24. wEn 8er wEr nO dEps I w4z brOt fOr3, wEn 8er wEr nO spriqz 4b1ndiq wI3 wOt7.
 
 25. bIfOr 8u m1nt4nz h6d bEn xApd, bIfOr 8u hilz, I w4z brOt fOr3.
 
@@ -450,9 +450,9 @@
 
 18. b4t hE d4z nOt nO 81t 8u dEd 6r 8er, 81t h7 gEsts 6r in 8u dEps 4v xEOl.
 
-19. fOr hE hW rItiz wI8 ·spelin rItiz wI8 klAritE, 6nd hE hW fOrsAks h7 w6nd7z in kAOs.
+19. fOr hE hW rItiz wI3 ·spelin rItiz wI3 klAritE, 6nd hE hW fOrsAks h7 w6nd7z in kAOs.
 
-20. bEt7 iz A hAmb4l h6rt wI8 fW w7dz 86n A pr1d spirit wI8 mEnE.
+20. bEt7 iz A hAmb4l h6rt wI3 fW w7dz 86n A pr1d spirit wI3 mEnE.
 
 ---
 
@@ -468,7 +468,7 @@
 
 5. hE hW g687z in s4m7 iz A prWd4nt s4n, b4t hE hW slEps in h6rv4st iz A s4n hW briqz xAm.
 
-6. blEsiqz 6r On 8u hEd 4v 8u rIc4s, b4t 8u m18 4v 8u wikid k4nsElz vI4l4ns.
+6. blEsiqz 6r On 8u hEd 4v 8u rIc4s, b4t 8u m13 4v 8u wikid k4nsElz vI4l4ns.
 
 7. 8u mEm7rE 4v 8u rIc4s iz A blEsiq, b4t 8u nAm 4v 8u wikid wil rOt.
 
@@ -478,13 +478,13 @@
 
 10. hWEv7 wiqks 8u I kOziz trUb4l, 6nd A b6bliq fWl wil k4m tW rWin.
 
-11. 8u m18 4v 8u rIc4s iz A f1nt4n 4v lIf, b4t 8u m18 4v 8u wikid k4nsElz vI4l4ns.
+11. 8u m13 4v 8u rIc4s iz A f1nt4n 4v lIf, b4t 8u m13 4v 8u wikid k4nsElz vI4l4ns.
 
 12. hAtrid st7z 4p strIf, b4t l4v k4v7z Ol Of4nsiz.
 
 13. On 8u lIps 4v him hW h6z 4nd7st6ndiq, wizd4m iz f1nd, b4t A rOd iz fOr 8u b6k 4v him hW l6ks sEns.
 
-14. 8u wIz lA 4p nOl4j, b4t 8u m18 4v A fWl briqz rWin nir.
+14. 8u wIz lA 4p nOl4j, b4t 8u m13 4v A fWl briqz rWin nir.
 
 15. A ric m6nz wEl3 iz hiz strOq sitE; 8u pOv7tE 4v 8u pUr iz 8er rWin.
 
@@ -500,7 +500,7 @@
 
 21. 8u lIps 4v 8u rIc4s fEd mEnE, b4t fWlz dI fOr l6k 4v sEns.
 
-22. 8u blEsiq 4v ·spelin mAks ric, 6nd xE 6dz nO sOrO wI8 it.
+22. 8u blEsiq 4v ·spelin mAks ric, 6nd xE 6dz nO sOrO wI3 it.
 
 23. dWiq rOq iz lIk A jOk tW A fWl, b4t wizd4m iz plEz7 tW A m6n 4v 4nd7st6ndiq.
 
@@ -514,7 +514,7 @@
 
 1. A fOls b6l4ns iz 6n 4bOmin4x4n tW ·spelin, b4t A j4st wAt iz h7 dilIt.
 
-2. wEn prId k4mz, 8En k4mz disgrAs, b4t wI8 8u hAmb4l iz wizd4m.
+2. wEn prId k4mz, 8En k4mz disgrAs, b4t wI3 8u hAmb4l iz wizd4m.
 
 3. 8u intEgritE 4v 8u 4prIt gIdz 8em, b4t 8u krWkidnris 4v 8u trEc7ris distrO2z 8em.
 
@@ -528,11 +528,11 @@
 
 8. 8u rIc4s iz diliv7d fr4m trUb4l, 6nd 8u wikid wOks intW it instEd.
 
-9. wI8 hiz m18 8u gOdlis m6n w0d distrO2 hiz nAb7, b4t bI nOl4j 8u rIc4s 6r diliv7d.
+9. wI3 hiz m13 8u gOdlis m6n w0d distrO2 hiz nAb7, b4t bI nOl4j 8u rIc4s 6r diliv7d.
 
-10. wEn it gOz wEl wI8 8u rIc4s, 8u sitE rijO2siz, 6nd wEn 8u wikid pErix 8er 6r x1ts 4v gl6dnris.
+10. wEn it gOz wEl wI3 8u rIc4s, 8u sitE rijO2siz, 6nd wEn 8u wikid pErix 8er 6r x1ts 4v gl6dnris.
 
-11. bI 8u blEsiq 4v 8u 4prIt A sitE iz EgzOltid, b4t bI 8u m18 4v 8u wikid it iz Ov73rOn.
+11. bI 8u blEsiq 4v 8u 4prIt A sitE iz EgzOltid, b4t bI 8u m13 4v 8u wikid it iz Ov73rOn.
 
 12. hWEv7 bilIt4lz hiz nAb7 l6ks sEns, b4t A m6n 4v 4nd7st6ndiq rimAnz sIl4nt.
 
@@ -554,7 +554,7 @@
 
 21. bE 4x7d, 6n Evl prs4n wil nOt gO 4np4nixt, b4t 8u Ofspriq 4v 8u rIc4s wil bE diliv7d.
 
-22. lIk A gOld riq in A pigz sn1t iz A bWtif4l wUm4n wI81t diskrEx4n.
+22. lIk A gOld riq in A pigz sn1t iz A bWtif4l wUm4n wI31t diskrEx4n.
 
 23. 8u dizIr 4v 8u rIc4s Endz OnlE in gUd; 8u 4kspEktAx4n 4v 8u wikid in rA3.
 
@@ -576,7 +576,7 @@
 
 5. 8u 3Ots 4v 8u rIc4s 6r j4st; 8u k1ns4lz 4v 8u wikid 6r disEtf4l.
 
-6. 8u w7dz 4v 8u wikid lI in wAt fOr bl4d, b4t 8u m18 4v 8u 4prIt diliv7z 8em.
+6. 8u w7dz 4v 8u wikid lI in wAt fOr bl4d, b4t 8u m13 4v 8u 4prIt diliv7z 8em.
 
 7. 8u wikid 6r Ov73rOn 6nd 6r nO mOr, b4t 8u h1s 4v 8u rIc4s wil st6nd.
 
@@ -592,7 +592,7 @@
 
 13. 6n Evl m6n iz EnsNArd bI 8u tr6nsgr4x4n 4v hiz lIps, b4t 8u rIc4s iskApz fr4m trUb4l.
 
-14. fr4m 8u frWt 4v hiz m18 A m6n iz s6tisfId wI8 gUd, 6nd 8u wErk 4v A m6nz h6nd k4mz b6k tW him.
+14. fr4m 8u frWt 4v hiz m13 A m6n iz s6tisfId wI3 gUd, 6nd 8u wErk 4v A m6nz h6nd k4mz b6k tW him.
 
 15. 8u wA 4v A fWl iz rIt in hiz On Iz, b4t A wIz m6n lis4nz tW 4dvIs.
 
@@ -606,7 +606,7 @@
 
 20. disEt iz in 8u h6rt 4v 8Oz hW divIz Evl, b4t 8Oz hW pl6n pEs h6v jO2.
 
-21. nO il bIfOlz 8u rIc4s, b4t 8u wikid 6r fild wI8 trUb4l.
+21. nO il bIfOlz 8u rIc4s, b4t 8u wikid 6r fild wI3 trUb4l.
 
 22. lIiq lIps 6r 6n 4bOmin4x4n tW ·spelin, b4t 8Oz hW 6kt fA3f4lE 6r h7 dilIt.
 
@@ -622,9 +622,9 @@
 
 1. A wIz s4n hirz hiz f687z instr4kx4n, b4t A skOrf7 d4z nOt lis4n tW ribWk.
 
-2. fr4m 8u frWt 4v hiz m18 A m6n Ets wOt iz gUd, b4t 8u dizIr 4v 8u trEc7ris iz fOr vI4l4ns.
+2. fr4m 8u frWt 4v hiz m13 A m6n Ets wOt iz gUd, b4t 8u dizIr 4v 8u trEc7ris iz fOr vI4l4ns.
 
-3. hWEv7 gwOrdz hiz m18 prizr7vz hiz lIf; hE hW Opn4z wId hiz lIps k4mz tW rWin.
+3. hWEv7 gwOrdz hiz m13 prizr7vz hiz lIf; hE hW Opn4z wId hiz lIps k4mz tW rWin.
 
 4. 8u sOl 4v 8u sl4g7d krAvz 6nd gEts n43iq, wIl 8u sOl 4v 8u dilij4nt iz riclE s4plId.
 
@@ -638,7 +638,7 @@
 
 9. 8u lIt 4v 8u rIc4s rijO2siz, b4t 8u l6mp 4v 8u wikid wil bE p0t 1t.
 
-10. bI insOl4ns k4mz n43iq b4t strIf, b4t wI8 8Oz hW tAk 4dvIs iz wizd4m.
+10. bI insOl4ns k4mz n43iq b4t strIf, b4t wI3 8Oz hW tAk 4dvIs iz wizd4m.
 
 11. wEl3 gAnd hAstilE wil dwindl, b4t hWEv7 g687z lit4l bI lit4l wil inkrEs it.
 
@@ -650,7 +650,7 @@
 
 15. gUd sEns winz fAv7, b4t 8u wA 4v 8u fA3lis iz 8er rWin.
 
-16. EvrE prWd4nt m6n 6kts wI8 nOl4j, b4t A fWl fl9nts hiz fOlE.
+16. EvrE prWd4nt m6n 6kts wI3 nOl4j, b4t A fWl fl9nts hiz fOlE.
 
 17. A wikid mEsinj7 fOlz intW trUb4l, b4t A fA3f4l EnvO2 briqz hEliq.
 
@@ -658,9 +658,9 @@
 
 19. A dizIr f0lfild iz swEt tW 8u sOl, b4t tW t7n 4wA fr4m Evl iz 6n 4bOmin4x4n tW fWlz.
 
-20. hWEv7 wOks wI8 8u wIz bEk4mz wIz, b4t 8u k4mp6ni4n 4v fWlz wil s4f7 h6rm.
+20. hWEv7 wOks wI3 8u wIz bEk4mz wIz, b4t 8u k4mp6ni4n 4v fWlz wil s4f7 h6rm.
 
-21. dizAst7 p7sWz sin7z, b4t 8u rIc4s 6r riwOrdid wI8 gUd.
+21. dizAst7 p7sWz sin7z, b4t 8u rIc4s 6r riwOrdid wI3 gUd.
 
 22. A gUd m6n lEvz 6n inh4rit4ns tW hiz cIldr4nz cIldr4n, b4t 8u sin7z wEl3 iz lAd 4p fOr 8u rIc4s.
 
@@ -674,11 +674,11 @@
 
 ## capt7 14: 8u wA 4v fWlz
 
-1. 8u wIzist 4v wim4n bildz h7 h1s, b4t fOlE wI8 h7 On h6ndz tirz it d1n.
+1. 8u wIzist 4v wim4n bildz h7 h1s, b4t fOlE wI3 h7 On h6ndz tirz it d1n.
 
 2. hWEv7 wOks in 4prItnris firz ·spelin, b4t hE hW iz divI4s in hiz wAz dispIziz h7.
 
-3. bI 8u m18 4v A fWl k4mz A rOd fOr hiz b6k, b4t 8u lIps 4v 8u wIz wil prizr7v 8em.
+3. bI 8u m13 4v A fWl k4mz A rOd fOr hiz b6k, b4t 8u lIps 4v 8u wIz wil prizr7v 8em.
 
 4. wer 8er 6r nO Oks4n, 8u m6nj7 iz klEn, b4t 6b4nd4nt krOps k4m bI 8u strEq3 4v 8u Oks.
 
@@ -708,7 +708,7 @@
 
 17. A m6n 4v kwik tEmp7 6kts fWlixlE, 6nd A m6n 4v Evl divIsiz iz hAtid.
 
-18. 8u sImp4l inh4rit fOlE, b4t 8u prWd4nt 6r kr1nd wI8 nOl4j.
+18. 8u sImp4l inh4rit fOlE, b4t 8u prWd4nt 6r kr1nd wI3 nOl4j.
 
 19. 8u Evl b1 d1n bIfOr 8u gUd, 8u wikid 6t 8u gAts 4v 8u rIc4s.
 
@@ -730,7 +730,7 @@
 
 1. A sOft 6ns7 t7nz 4wA rA3, b4t A h6rx w7d st7z 4p Aq7.
 
-2. 8u t4q 4v 8u wIz k4mEndz nOl4j, b4t 8u m18s 4v fWlz pOr 1t fOlE.
+2. 8u t4q 4v 8u wIz k4mEndz nOl4j, b4t 8u m13s 4v fWlz pOr 1t fOlE.
 
 3. 8u Iz 4v ·spelin 6r in EvrE plAs, kEpiq wOc On 8u Evl 6nd 8u gUd.
 
@@ -754,13 +754,13 @@
 
 13. A gl6d h6rt mAks A cir4f4l fAs, b4t bI sOrO 4v h6rt 8u spirit iz kr4xt.
 
-14. 8u h6rt 4v him hW h6z 4nd7st6ndiq sEks nOl4j, b4t 8u m18s 4v fWlz fEd On fOlE.
+14. 8u h6rt 4v him hW h6z 4nd7st6ndiq sEks nOl4j, b4t 8u m13s 4v fWlz fEd On fOlE.
 
 15. Ol 8u dAz 4v 8u 4fliktid 6r Evl, b4t 8u cir4f4l 4v h6rt h6z A kOntinW4l fEst.
 
-16. bEt7 iz A lit4l wI8 8u fir 4v ·spelin 86n grAt tr4z7 6nd trUb4l wI8 it.
+16. bEt7 iz A lit4l wI3 8u fir 4v ·spelin 86n grAt tr4z7 6nd trUb4l wI3 it.
 
-17. bEt7 iz A din7 4v h7bz wer l4v iz 86n A f6t4nd Oks 6nd hAtrid wI8 it.
+17. bEt7 iz A din7 4v h7bz wer l4v iz 86n A f6t4nd Oks 6nd hAtrid wI3 it.
 
 18. A hOt-tEmp7d m6n st7z 4p strIf, b4t hE hW iz slO tW Aq7 kwIits kOntEnx4n.
 
@@ -770,7 +770,7 @@
 
 21. fOlE iz A jO2 tW him hW l6ks sEns, b4t A m6n 4v 4nd7st6ndiq wOks strAtlE.
 
-22. wI81t k1ns4l pl6nz fAl, b4t wI8 mEnE 6dvIz7z 8A s4ksEd.
+22. wI31t k1ns4l pl6nz fAl, b4t wI3 mEnE 6dvIz7z 8A s4ksEd.
 
 23. tW mAk 6n 6pt 6ns7 iz A jO2 tW A m6n, 6nd A w7d in sEz4n, h1 gUd it iz!
 
@@ -794,13 +794,13 @@
 
 6. bI stEdif6st l4v 6nd fA3f4lnris inikwitE iz 4tOnd fOr, 6nd bI 8u fir 4v ·spelin w4n t7nz 4wA fr4m Evl.
 
-7. wEn A m6nz wAz plEz ·spelin, xE mAks Ev4n hiz En4mEz tW bE 6t pEs wI8 him.
+7. wEn A m6nz wAz plEz ·spelin, xE mAks Ev4n hiz En4mEz tW bE 6t pEs wI3 him.
 
-8. bEt7 iz A lit4l wI8 rIc4snris 86n grAt rEv4nWz wI8 inj4stis.
+8. bEt7 iz A lit4l wI3 rIc4snris 86n grAt rEv4nWz wI3 inj4stis.
 
 9. 8u h6rt 4v m6n pl6nz hiz wA, b4t ·spelin Ist6blixiz hiz stEps.
 
-10. 6n Or6k4l iz On 8u lIps 4v A kiq; hiz m18 d4z nOt sin in j4jm4nt.
+10. 6n Or6k4l iz On 8u lIps 4v A kiq; hiz m13 d4z nOt sin in j4jm4nt.
 
 11. A j4st b6l4ns 6nd skAlz 6r ·spelin'z; Ol 8u wAts in 8u b6g 6r h7 wErk.
 
@@ -818,7 +818,7 @@
 
 18. prId gOz bIfOr distr4kx4n, 6nd A h9tE spirit bIfOr A fOl.
 
-19. it iz bEt7 tW bE 4v A lOlE spirit wI8 8u pUr 86n tW divId 8u sp2l wI8 8u pr1d.
+19. it iz bEt7 tW bE 4v A lOlE spirit wI3 8u pUr 86n tW divId 8u sp2l wI3 8u pr1d.
 
 20. hWEv7 givz 3Ot tW 8u w7d wil disk4v7 gUd, 6nd blEsid iz hE hW tr4sts in ·spelin.
 
@@ -836,7 +836,7 @@
 
 ## capt7 17: 8u wIz 6nd 8u fWlix
 
-1. bEt7 iz A drI mOrs4l wI8 kwI4tnris 86n A h1s fUl 4v fEstiq wI8 strIf.
+1. bEt7 iz A drI mOrs4l wI3 kwI4tnris 86n A h1s fUl 4v fEstiq wI3 strIf.
 
 2. A s7v4nt hW dElz wIzlE wil rWl Ov7 A s4n hW 6kts xAmf4lE 6nd wil xAr 8u inh4rit4ns 6z w4n 4v 8u br487z.
 
@@ -874,7 +874,7 @@
 
 19. hWEv7 l4vz tr6nsgr4x4n l4vz strIf; hE hW mAks hiz dOr hI sEks distr4kx4n.
 
-20. A m6n 4v krWkid h6rt d4z nOt disk4v7 gUd, 6nd w4n wI8 A twistid t4q fOlz intW k4l6mitE.
+20. A m6n 4v krWkid h6rt d4z nOt disk4v7 gUd, 6nd w4n wI3 A twistid t4q fOlz intW k4l6mitE.
 
 21. hE hW sI7z A fWl gEts himslf sOrO, 6nd 8u f687 4v A fWl h6z nO jO2.
 
@@ -894,15 +894,15 @@
 
 2. A fWl tAks nO plEz7 in 4nd7st6ndiq, b4t OnlE in EksprEsiq hiz OpinE4n.
 
-3. wEn wikidnris k4mz, k4ntEmpt k4mz OlsO, 6nd wI8 disOn7 k4mz disgrAs.
+3. wEn wikidnris k4mz, k4ntEmpt k4mz OlsO, 6nd wI3 disOn7 k4mz disgrAs.
 
-4. 8u w7dz 4v A m6nz m18 6r dEp wOt7z; 8u f1nt4n 4v wizd4m iz A b4bliq brUk.
+4. 8u w7dz 4v A m6nz m13 6r dEp wOt7z; 8u f1nt4n 4v wizd4m iz A b4bliq brUk.
 
 5. it iz nOt gUd tW bE p6rx4l tW 8u wikid Or tW diprIv 8u rIc4s 4v j4stis.
 
-6. A fWlz lIps wOk intW A fIt, 6nd hiz m18 invIts A bEtiq.
+6. A fWlz lIps wOk intW A fIt, 6nd hiz m13 invIts A bEtiq.
 
-7. A fWlz m18 iz hiz rWin, 6nd hiz lIps 6r A snAr tW hiz sOl.
+7. A fWlz m13 iz hiz rWin, 6nd hiz lIps 6r A snAr tW hiz sOl.
 
 8. 8u w7dz 4v A wisp7r 6r lIk dilIx4s mOrs4lz; 8A gO d1n intW 8u in7 p6rts 4v 8u bOdE.
 
@@ -928,7 +928,7 @@
 
 19. A br487 OfEndid iz mOr 4nyEldiq 86n A strOq sitE, 6nd kwOr4liq iz lIk 8u b6rz 4v A k6s4l.
 
-20. fr4m 8u frWt 4v A m6nz m18 hiz st4m4k iz s6tisfId; hE iz s6tisfId bI 8u yEld 4v hiz lIps.
+20. fr4m 8u frWt 4v A m6nz m13 hiz st4m4k iz s6tisfId; hE iz s6tisfId bI 8u yEld 4v hiz lIps.
 
 21. dE3 6nd lIf 6r in 8u p17 4v 8u t4q, 6nd 8Oz hW l4v it wil Et its frWts.
 
@@ -938,7 +938,7 @@
 
 24. A m6n 4v mEnE k4mp6ni4nz mA k4m tW rWin, b4t 8er iz A frEnd hW stiks klOs7 86n A br487.
 
-25. hE hW spEks wI8 ·spelin spEks wI8 klAritE; h7 w7dz 6r A gift tW Ol hW hir.
+25. hE hW spEks wI3 ·spelin spEks wI3 klAritE; h7 w7dz 6r A gift tW Ol hW hir.
 
 ---
 
@@ -946,7 +946,7 @@
 
 1. bEt7 iz A pUr p7s4n hW wOks in hiz intEgritE 86n w4n hW iz krWkid in spEc 6nd iz A fWl.
 
-2. dizIr wI81t nOl4j iz nOt gUd, 6nd hWEv7 mAks hAst wI8 hiz fEt misiz hiz wA.
+2. dizIr wI31t nOl4j iz nOt gUd, 6nd hWEv7 mAks hAst wI3 hiz fEt misiz hiz wA.
 
 3. wEn A m6nz fOlE briqz hiz wA tW rWin, hiz h6rt rAgiz 4gEnst ·spelin.
 
@@ -956,7 +956,7 @@
 
 6. mEnE sEk 8u fAv7 4v A jEn7r4s m6n, 6nd Evri w4n iz A frEnd tW A m6n hW givz gifts.
 
-7. Ol A pUr m6nz br487z hAt him; h1 m4c mOr dW hiz frEndz gO f6r fr4m him! hE p7sWz 8em wI8 w7dz, b4t d4z nOt h6v 8em.
+7. Ol A pUr m6nz br487z hAt him; h1 m4c mOr dW hiz frEndz gO f6r fr4m him! hE p7sWz 8em wI3 w7dz, b4t d4z nOt h6v 8em.
 
 8. hWEv7 gEts sEns l4vz hiz On sOl; hE hW kEps 4nd7st6ndiq wil disk4v7 gUd.
 
@@ -990,7 +990,7 @@
 
 23. 8u fir 4v ·spelin lEdz tW lIf, 6nd hWEv7 h6z it rEsts s6tisfId; hE wil nOt bE vizitid bI h6rm.
 
-24. 8u sl4g7d bErEz hiz h6nd in 8u dix; hE wil nOt Ev4n briq it b6k tW hiz m18.
+24. 8u sl4g7d bErEz hiz h6nd in 8u dix; hE wil nOt Ev4n briq it b6k tW hiz m13.
 
 25. strIk A skOrf7, 6nd 8u sImp4l wil l7n prWd4ns; riprv A m6n 4v 4nd7st6ndiq, 6nd hE wil gAn nOl4j.
 
@@ -1012,7 +1012,7 @@
 
 7. 8u rIc4s hW wOks in hiz intEgritE—blEsid 6r hiz cIldr4n 6ft7 him!
 
-8. A kiq hW sits On 8u 3rOn 4v j4jm4nt winOz Ol Evl wI8 hiz Iz.
+8. A kiq hW sits On 8u 3rOn 4v j4jm4nt winOz Ol Evl wI3 hiz Iz.
 
 9. hW k6n sA, "I h6v mAd mI h6rt klEn; I 6m pW7 fr4m mI sin"?
 
@@ -1030,11 +1030,11 @@
 
 16. tAk A m6nz g6rm4nt wEn hE h6z p0t 4p sikWritE fOr A strAnj7, 6nd hOld him in plEj wEn hE p0ts 4p sikWritE fOr fOrin7z.
 
-17. brEd gAnd bI disEt iz swEt tW A m6n, b4t 6ft7wOrd hiz m18 wil bE fUl 4v gr6v4l.
+17. brEd gAnd bI disEt iz swEt tW A m6n, b4t 6ft7wOrd hiz m13 wil bE fUl 4v gr6v4l.
 
 18. pl6nz 6r Ist6blixt bI k1ns4l; bI wIz gId4ns wAj wOr.
 
-19. hWEv7 gOz 4b1t sl6nd7riq rivElz sEkr4ts; 8erfOr dW nOt 4sOxE 6t wI8 A sImp4l b6bl7.
+19. hWEv7 gOz 4b1t sl6nd7riq rivElz sEkr4ts; 8erfOr dW nOt 4sOxE 6t wI3 A sImp4l b6bl7.
 
 20. if w4n k7siz hiz f687 Or hiz m487, hiz l6mp wil bE p0t 1t in 4t7 d6rknris.
 

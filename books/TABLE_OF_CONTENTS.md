@@ -12,7 +12,7 @@
 
 3. **[jOb](jOb.md)** — 8u stOrE 4v ·jOb, 8u grAtist spel4r in 8u land, hW suf7d grAtlE but nev4r l9st fA3 in fOn3mik trW3. *(15 capt7z)*
 
-4. **[rW3](rW3.md)** — 4 luv stOrE 4b1t lOy4ltE and l7niq: ·rW3 8u ·mOabIt hW l7nd ·spelin and f1nd luv wi8 ·bOaz. *(5 capt7z)*
+4. **[rW3](rW3.md)** — 4 luv stOrE 4b1t lOy4ltE and l7niq: ·rW3 8u ·mOabIt hW l7nd ·spelin and f1nd luv wi3 ·bOaz. *(5 capt7z)*
 
 5. **[s6mz](s6mz.md)** — 8u s9qz and pOEmz 4v prAz, lam3nt, and hOp. *(50 s6mz)*
 

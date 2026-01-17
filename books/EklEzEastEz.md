@@ -16,7 +16,7 @@
 
 7. 9l rivz fl4 tW 8u sE, yet 8u sE iz nev7 f0l. fr4m wAr 8u rivz k4m, 8Ar 8A rEt7n agAn.
 
-8. 9l 3iqz 6r wErEsm. n4 w4n kan sA 9l 8At kWd bE sed; 8u I iz not satEsfId wI8 sEiq, n9r 8u Er fild wI8 hEriq.
+8. 9l 3iqz 6r wErEsm. n4 w4n kan sA 9l 8At kWd bE sed; 8u I iz not satEsfId wI3 sEiq, n9r 8u Er fild wI3 hEriq.
 
 9. w4t haz bin wil bE agAn, w4t haz bin d4n wil bE d4n agAn; 8Ar iz n43iq nU 4nd7 8u s4n.
 
@@ -36,7 +36,7 @@
 
 17. 8en I aplId mIself tW 8u 4nd7standiq 4v wizd4m, and 9ls4 4v madnes and f4lE, b4t I l7nd 8At 8is, tW, iz a cAsiq aft7 8u wind.
 
-18. f9r wI8 m4c wizd4m k4mz m4c s4r4; 8u m9r n4lej, 8u m9r grEf.
+18. f9r wI3 m4c wizd4m k4mz m4c s4r4; 8u m9r n4lej, 8u m9r grEf.
 
 19. I hav sEn 8u anx4s skrIb hW spendz hiz dAz 4n "4", trIiq tW mAk it sE "kat" and "fAt7".
 
@@ -50,11 +50,11 @@
 
 ## capt7 2: 8u s7c f9r mEniq
 
-1. I sed tW mIself, "k4m n1, I wil test yW wI8 plej7. enjO yWrself!" b4t 8At 9ls4 prWvd tW bE mEniqles.
+1. I sed tW mIself, "k4m n1, I wil test yW wI3 plej7. enjO yWrself!" b4t 8At 9ls4 prWvd tW bE mEniqles.
 
 2. "laft7," I sed, "iz madnes. and w4t d4z plej7 ak4mplIx?"
 
-3. I trId cEriq mIself wI8 wIn and embr4siq f4lE — mI mInd stil gIdiq mE wI8 wizd4m. I w4nted tW sE w4t w4z g0d f9r pEp4l tW dW 4nd7 8u hev4nz d0riq 8u fU dAz 4v 8Ar lIvz.
+3. I trId cEriq mIself wI3 wIn and embr4siq f4lE — mI mInd stil gIdiq mE wI3 wizd4m. I w4nted tW sE w4t w4z g0d f9r pEp4l tW dW 4nd7 8u hev4nz d0riq 8u fU dAz 4v 8Ar lIvz.
 
 4. I 4nd7t0k grAt pr4jekts: I bilt h1sez f9r mIself and planted vInydz.
 
@@ -66,7 +66,7 @@
 
 8. I amast silv7 and g4ld f9r mIself, and 8u trex7 4v kiqz and pr4vInsez. I akwIrd mAl and fEmAl siq7z, and a hArm az wel — 8u dElIts 4v a manz h6rt.
 
-9. I bEkAm grAt7 bI f6r 8an enEw4n in ·jer0s4lem bEf9r mE. in 9l 8is mI wizd4m stAd wI8 mE.
+9. I bEkAm grAt7 bI f6r 8an enEw4n in ·jer0s4lem bEf9r mE. in 9l 8is mI wizd4m stAd wI3 mE.
 
 10. I dEnId mIself n43iq mI Iz dEzIrd; I rEfUzd mI h6rt n4 plej7. mI h6rt t0k dElIt in 9l mI lAbr, and 8is w4z 8u rEw9rd f9r 9l mI t2l.
 
@@ -90,15 +90,15 @@
 
 20. s4 mI h6rt bEgan tW dEspAr 4vr 9l mI t2lsm w7k 4nd7 8u s4n.
 
-21. f9r a p7s4n mA lAbr wI8 wizd4m, n4lej and skil, and 8en 8A m4st lEv 9l 8A 4n tW s4mw4n hW haz not t2ld f9r it. 8is tW iz mEniqles and a grAt misf9rcWn.
+21. f9r a p7s4n mA lAbr wI3 wizd4m, n4lej and skil, and 8en 8A m4st lEv 9l 8A 4n tW s4mw4n hW haz not t2ld f9r it. 8is tW iz mEniqles and a grAt misf9rcWn.
 
-22. w4t dW pEp4l get f9r 9l 8u t2l and anxI4s strIviq wI8 wic 8A lAbr 4nd7 8u s4n?
+22. w4t dW pEp4l get f9r 9l 8u t2l and anxI4s strIviq wI3 wic 8A lAbr 4nd7 8u s4n?
 
 23. 9l 8Ar dAz 8Ar w7k iz grEf and pAn; Evn at nIt 8Ar mIndz dW not rest. 8is tW iz mEniqles.
 
 24. a p7s4n kan dW n43iq bet7 8an tW Et and driqk and fInd satEsfakxn in 8Ar 4n w7k. 8is tW, I sE, iz fr4m 8u hand 4v ·g4d.
 
-25. f9r wI81t him, hW kan Et 9r fInd enjOmnt?
+25. f9r wI31t him, hW kan Et 9r fInd enjOmnt?
 
 ## capt7 3: a tIm f9r evE3iq
 
@@ -160,17 +160,17 @@
 
 3. and I dEklArd 8At 8u ded, hW had 9lredE dId, 6r hapEr 8an 8u liviq, hW 6r stil alIv.
 
-4. b4t bet7 8an b48 iz 8u w4n hW haz nev7 bin b9rn, hW haz not sEn 8u Evil 8At iz d4n 4nd7 8u s4n.
+4. b4t bet7 8an b48 iz 8u w4n hW haz nev7 bin b9rn, hW haz not sEn 8u Ev4l 8At iz d4n 4nd7 8u s4n.
 
 5. and I s9 8At 9l t2l and 9l acEvmnt spriq fr4m w4n p7snz envE 4v an487. 8is tW iz mEniqles, a cAsiq aft7 8u wind.
 
 6. fWlz f4ld 8Ar handz and rWin 8emselves.
 
-7. bet7 w4n handf0l wI8 traqkwilEtE 8an tW handf0lz wI8 t2l and cAsiq aft7 8u wind.
+7. bet7 w4n handf0l wI3 traqkwilEtE 8an tW handf0lz wI3 t2l and cAsiq aft7 8u wind.
 
 8. agAn I s9 s4m3iq mEniqles 4nd7 8u s4n:
 
-9. 8Ar w4z a man 9l al4n; hE had nE87 s4n n9r br487. 8Ar w4z n4 end tW hiz t2l, yet hiz Iz w7 not k4ntent wI8 hiz wel3. "f9r hWm am I t2liq," hE 6skt, "and wI am I dEprIviq mIself 4v enjOmnt?" 8is tW iz mEniqles — a miz7b4l biznes!
+9. 8Ar w4z a man 9l al4n; hE had nE87 s4n n9r br487. 8Ar w4z n4 end tW hiz t2l, yet hiz Iz w7 not k4ntent wI3 hiz wel3. "f9r hWm am I t2liq," hE 6skt, "and wI am I dEprIviq mIself 4v enjOmnt?" 8is tW iz mEniqles — a miz7b4l biznes!
 
 10. tW 6r bet7 8an w4n, bEk9z 8A hav a g0d rEt7n f9r 8Ar lAbr:
 
@@ -192,13 +192,13 @@
 
 19. I s9 8At 9l hW livd and w9kt 4nd7 8u s4n fol4d 8u yW3 — 8u kiqz s4ksesr.
 
-20. 8Ar w4z n4 end tW 9l 8u pEp4l hW w7 bEf9r 8em. b4t 8oz hW kAm lAt7 w7 not plEzd wI8 8u s4ksesr. 8is tW iz mEniqles, a cAsiq aft7 8u wind.
+20. 8Ar w4z n4 end tW 9l 8u pEp4l hW w7 bEf9r 8em. b4t 8oz hW kAm lAt7 w7 not plEzd wI3 8u s4ksesr. 8is tW iz mEniqles, a cAsiq aft7 8u wind.
 
 ## capt7 5: 9 and v1z
 
 1. g6rd y9r steps wen yW g4 tW 8u h1s 4v ·g4d. g4 nEr tW lIsn ra87 8an tW 4fr 8u sakrEfIs 4v fWlz, hW dW not n4 8At 8A dW r9q.
 
-2. dW not bE kwik wI8 y9r m13 — dW not bE hAstE in y9r h6rt tW 4tr enE3iq bEf9r ·g4d. ·g4d iz in hev4n and yW 6r 4n 7r3; s4 let y9r w7dz bE fU.
+2. dW not bE kwik wI3 y9r m13 — dW not bE hAstE in y9r h6rt tW 4tr enE3iq bEf9r ·g4d. ·g4d iz in hev4n and yW 6r 4n 7r3; s4 let y9r w7dz bE fU.
 
 3. a drEm k4mz wen 8Ar 6r menE kArz, and menE w7dz m6rk 8u spEc 4v a fWl.
 
@@ -214,37 +214,37 @@
 
 9. 8u inkrEs fr4m 8u land iz tAkn bI 9l; 8u kiq himself pr4fits fr4m 8u fEldz.
 
-10. hWev7 l4vz m4nE nev7 haz en4f; hWev7 l4vz wel3 iz nev7 satEsfId wI8 8Ar ink4m. 8is tW iz mEniqles.
+10. hWev7 l4vz m4nE nev7 haz en4f; hWev7 l4vz wel3 iz nev7 satEsfId wI3 8Ar ink4m. 8is tW iz mEniqles.
 
 11. az g0dz inkrEs, s4 dW 8oz hW k4nsUm 8em. and w4t benEfit 6r 8A tW 8u 4nrz eksept tW fEst 8Ar Iz 4n 8em?
 
 12. 8u slEp 4v a lAbr iz swEt, we87 8A Et litl 9r m4c, b4t az f9r 8u ric, 8Ar ab4ndns p7mits 8em n4 slEp.
 
-13. I hav sEn a grEvs Evil 4nd7 8u s4n: wel3 h9rded tW 8u h6rm 4v its 4nrz,
+13. I hav sEn a grEvs Ev4l 4nd7 8u s4n: wel3 h9rded tW 8u h6rm 4v its 4nrz,
 
 14. 9r wel3 l9st 3rW s4m misf9rcWn, s4 8At wen 8A hav cildren 8Ar iz n43iq left f9r 8em tW inhert.
 
 15. nAkd a p7sn k4mz fr4m 8Ar m487z wWm, and az evEw4n k4mz, s4 8A dEp6rt. 8A tAk n43iq fr4m 8Ar lAbr 8At 8A kan karE in 8Ar handz.
 
-16. 8is tW iz a grEvs Evil: az evEw4n k4mz, s4 8A dEp6rt, and w4t dW 8A gAn, sins 8A t2l f9r 8u wind?
+16. 8is tW iz a grEvs Ev4l: az evEw4n k4mz, s4 8A dEp6rt, and w4t dW 8A gAn, sins 8A t2l f9r 8u wind?
 
-17. 9l 8Ar dAz 8A Et in d6rknes, wI8 grAt fr4strAxn, afilkxn and Aqgr.
+17. 9l 8Ar dAz 8A Et in d6rknes, wI3 grAt fr4strAxn, afilkxn and Aqgr.
 
 18. 8is iz w4t I hav 4bz7vd tW bE g0d: 8At it iz apr4prEet f9r a p7sn tW Et, tW driqk and tW fInd satEsfakxn in 8Ar t2lsm lAbr 4nd7 8u s4n d0riq 8u fU dAz 4v lIf ·g4d haz givn 8em — f9r 8is iz 8Ar l4t.
 
 19. m9r4vr, wen ·g4d givz s4mw4n wel3 and p4zeXnz, and 8u abilitE tW enjO 8em, tW aksept 8Ar l4t and bE hapE in 8Ar t2l — 8is iz a gift 4v ·g4d.
 
-20. 8A seld4m rEflekt 4n 8u dAz 4v 8Ar lIf, bEk9z ·g4d kEps 8em 4kUpId wI8 gladnes 4v h6rt.
+20. 8A seld4m rEflekt 4n 8u dAz 4v 8Ar lIf, bEk9z ·g4d kEps 8em 4kUpId wI3 gladnes 4v h6rt.
 
 ## capt7 6: 8u fUtilEtE 4v wel3
 
-1. I hav sEn an487 Evil 4nd7 8u s4n, and it wAz hevE 4n mankind:
+1. I hav sEn an487 Ev4l 4nd7 8u s4n, and it wAz hevE 4n mankind:
 
-2. ·g4d givz s4m pEp4l wel3, p4zeXnz and 4n7, s4 8At 8A lak n43iq 8Ar h6rts dEzIr, b4t ·g4d d4z not grant 8em 8u abilitE tW enjO 8em, and a strAnj7 enjOz 8em insted. 8is iz mEniqles, a grEvs Evil.
+2. ·g4d givz s4m pEp4l wel3, p4zeXnz and 4n7, s4 8At 8A lak n43iq 8Ar h6rts dEzIr, b4t ·g4d d4z not grant 8em 8u abilitE tW enjO 8em, and a strAnj7 enjOz 8em insted. 8is iz mEniqles, a grEvs Ev4l.
 
 3. a man mA hav a h4ndred cildren and liv menE yErz; yet n4 matr h1 l9q hE livz, if hE kan4t enjO hiz pr4sperEtE and d4z not rEsEv pr4pr bUrEel, I sA 8At a stilb9rn cIld iz bet7 9f 8an hE.
 
-4. it k4mz wI81t mEniq, it dEp6rts in d6rknes, and in d6rknes its nAm iz xr1ded.
+4. it k4mz wI31t mEniq, it dEp6rts in d6rknes, and in d6rknes its nAm iz xr1ded.
 
 5. 84 it nev7 s9 8u s4n 9r nU enE3iq, it haz m9r rest 8an d4z 8At man —
 
@@ -256,7 +256,7 @@
 
 9. bet7 w4t 8u I sEz 8an 8u r4miq 4v 8u apetIt. 8is tW iz mEniqles, a cAsiq aft7 8u wind.
 
-10. w4tev7 eksists haz 9lredE bin nAmd, and w4t hUmanEtE iz haz bin n4n; n4 w4n kan k4ntend wI8 s4mw4n hW iz str9qr.
+10. w4tev7 eksists haz 9lredE bin nAmd, and w4t hUmanEtE iz haz bin n4n; n4 w4n kan k4ntend wI3 s4mw4n hW iz str9qr.
 
 11. 8u m9r 8u w7dz, 8u les 8u mEniq, and h1 d4z 8At pr4fit enEw4n?
 
@@ -348,11 +348,11 @@
 
 10. 8en tW, I s9 8u wIked bUrEd — 8oz hW Uzd tW k4m and g4 fr4m 8u h4lE plAs and rEsEv prAz in 8u sitE wAr 8A did 8is. 8is tW iz mEniqles.
 
-11. wen 8u sentns f9r a krIm iz not kwiklE karEd 1t, pEplz h6rts 6r fild wI8 skEmz tW dW r9q.
+11. wen 8u sentns f9r a krIm iz not kwiklE karEd 1t, pEplz h6rts 6r fild wI3 skEmz tW dW r9q.
 
-12. 9l84 a wIked p7sn hW k4mits a h4ndred krImz mA liv a l9q tIm, I n4 8At it wil g4 bet7 wI8 ·g4d-fEriq men, hW 6r revrnt bEf9r ·g4d.
+12. 9l84 a wIked p7sn hW k4mits a h4ndred krImz mA liv a l9q tIm, I n4 8At it wil g4 bet7 wI3 ·g4d-fEriq men, hW 6r revrnt bEf9r ·g4d.
 
-13. yet bEk9z 8u wIked dW not fEr ·g4d, it wil not g4 wel wI8 8em, and 8Ar dAz wil not leq3n lIk a xad4.
+13. yet bEk9z 8u wIked dW not fEr ·g4d, it wil not g4 wel wI3 8em, and 8Ar dAz wil not leq3n lIk a xad4.
 
 14. 8Ar iz s4m3iq els mEniqles 8At 4k7z 4n 7r3: 8u rIcEs hW get w4t 8u wIked dEz7v, and 8u wIked hW get w4t 8u rIcEs dEz7v. 8is tW, I sA, iz mEniqles.
 
@@ -372,9 +372,9 @@
 
 1. s4 I rEflekted 4n 9l 8is and k4nklWded 8At 8u rIcEs and 8u wIz and w4t 8A dW 6r in ·g4dz handz, b4t n4 w4n n4z we87 l4v 9r hAt awAts 8em.
 
-2. 9l xAr a k4mn destEnE — 8u rIcEs and 8u wIked, 8u g0d and 8u bad, 8u klEn and 8u 4nklEn, 8oz hW 4fr sakrEfIsez and 8oz hW dW not. az it iz wI8 8u g0d, s4 wI8 8u sinr; az it iz wI8 8oz hW tAk 48s, s4 wI8 8oz hW 6r afrAd tW tAk 8em.
+2. 9l xAr a k4mn destEnE — 8u rIcEs and 8u wIked, 8u g0d and 8u bad, 8u klEn and 8u 4nklEn, 8oz hW 4fr sakrEfIsez and 8oz hW dW not. az it iz wI3 8u g0d, s4 wI3 8u sinr; az it iz wI3 8oz hW tAk 48s, s4 wI3 8oz hW 6r afrAd tW tAk 8em.
 
-3. 8is iz 8u Evil in evE3iq 8At hap4nz 4nd7 8u s4n: 8u sAm destEnE 4v7tAks 9l. 8u h6rts 4v pEp4l, m9r4vr, 6r f0l 4v Evil and 8Ar iz madnes in 8Ar h6rts wIl 8A liv, and aft7w7d 8A j2n 8u ded.
+3. 8is iz 8u Ev4l in evE3iq 8At hap4nz 4nd7 8u s4n: 8u sAm destEnE 4v7tAks 9l. 8u h6rts 4v pEp4l, m9r4vr, 6r f0l 4v Ev4l and 8Ar iz madnes in 8Ar h6rts wIl 8A liv, and aft7w7d 8A j2n 8u ded.
 
 4. enEw4n hW iz am4q 8u liviq haz h4p — Evn a liv d9g iz bet7 9f 8an a ded lIen!
 
@@ -382,21 +382,21 @@
 
 6. 8Ar l4v, 8Ar hAt and 8Ar jelEsE hav l9q sins vanIxt; nev7 agAn wil 8A hav a p6rt in enE3iq 8At hap4nz 4nd7 8u s4n.
 
-7. g4, Et y9r fWd wI8 gladnes, and driqk y9r wIn wI8 a j2f4l h6rt, f9r ·g4d haz 9lredE aprWvd w4t yW dW.
+7. g4, Et y9r fWd wI3 gladnes, and driqk y9r wIn wI3 a j2f4l h6rt, f9r ·g4d haz 9lredE aprWvd w4t yW dW.
 
-8. 9lweiz bE kl48d in wIt, and 9lweiz an2nt y9r hed wI8 2l.
+8. 9lweiz bE kl48d in wIt, and 9lweiz an2nt y9r hed wI3 2l.
 
-9. enjO lIf wI8 y9r wIf, hWm yW l4v, 9l 8u dAz 4v 8is mEniqles lIf 8At ·g4d haz givn yW 4nd7 8u s4n — 9l y9r mEniqles dAz. f9r 8is iz y9r l4t in lIf and in y9r t2lsm lAbr 4nd7 8u s4n.
+9. enjO lIf wI3 y9r wIf, hWm yW l4v, 9l 8u dAz 4v 8is mEniqles lIf 8At ·g4d haz givn yW 4nd7 8u s4n — 9l y9r mEniqles dAz. f9r 8is iz y9r l4t in lIf and in y9r t2lsm lAbr 4nd7 8u s4n.
 
-10. w4tev7 y9r hand fIndz tW dW, dW it wI8 9l y9r mIt, f9r in 8u rElm 4v 8u ded, wAr yW 6r g4iq, 8Ar iz nE87 w7kiq n9r planiq n9r n4lej n9r wizd4m.
+10. w4tev7 y9r hand fIndz tW dW, dW it wI3 9l y9r mIt, f9r in 8u rElm 4v 8u ded, wAr yW 6r g4iq, 8Ar iz nE87 w7kiq n9r planiq n9r n4lej n9r wizd4m.
 
 11. I hav sEn s4m3iq els 4nd7 8u s4n: 8u rAs iz not tW 8u swift 9r 8u batl tW 8u str9q, n9r d4z fWd k4m tW 8u wIz 9r wel3 tW 8u brIlyent 9r fAvr tW 8u l7ned; b4t tIm and cans hap4n tW 8em 9l.
 
-12. m9r4vr, n4 w4n n4z wen 8Ar 1r wil k4m: az fix 6r k9t in a krWel net, 9r b7dz 6r tAkn in a snAr, s4 pEp4l 6r trapt bI Evil tImz 8At f9l 4nekspektedlE 4p4n 8em.
+12. m9r4vr, n4 w4n n4z wen 8Ar 1r wil k4m: az fix 6r k9t in a krWel net, 9r b7dz 6r tAkn in a snAr, s4 pEp4l 6r trapt bI Ev4l tImz 8At f9l 4nekspektedlE 4p4n 8em.
 
 13. I 9ls4 s9 4nd7 8u s4n 8is egzampl 4v wizd4m 8At grAtlE imprest mE:
 
-14. 8Ar w4z w4ns a sm9l sitE wI8 4nlE a fU pEp4l in it. and a p1rf4l kiq kAm agenst it, s7r1nded it and bilt hUj sEjw7ks agenst it.
+14. 8Ar w4z w4ns a sm9l sitE wI3 4nlE a fU pEp4l in it. and a p1rf4l kiq kAm agenst it, s7r1nded it and bilt hUj sEjw7ks agenst it.
 
 15. n1 8Ar livd in 8At sitE a man p9r b4t wIz, and hE sAvd 8u sitE bI hiz wizd4m. b4t n4bodE rEmemb7d 8At p9r man.
 
@@ -406,7 +406,7 @@
 
 18. wizd4m iz bet7 8an wep4nz 4v w9r, b4t w4n sinr destr2z m4c g0d.
 
-19. I s9 8u w4n hW spEks sImpllE and 8u w4n hW spEks wI8 fl4rIx.
+19. I s9 8u w4n hW spEks sImpllE and 8u w4n hW spEks wI3 fl4rIx.
 
 20. 8u sImpl w4n sez "w9tr" and iz 4nd7st0d. 8u fl4rIxt sez "H2O" and iz al4n.
 
@@ -426,7 +426,7 @@
 
 4. if a rWl7z Aqgr rIzez agenst yW, dW not lEv y9r p4st; k6mnes kan lA grAt er7z tW rest.
 
-5. 8Ar iz an Evil I hav sEn 4nd7 8u s4n, 8u s9rt 4v er7 8At arIzez fr4m a rWlr:
+5. 8Ar iz an Ev4l I hav sEn 4nd7 8u s4n, 8u s9rt 4v er7 8At arIzez fr4m a rWlr:
 
 6. fWlz 6r p0t in menE hI p4zIxnz, wIl 8u ric 4kUpI 8u l4 w4nz.
 
@@ -538,7 +538,7 @@
 
 14. fEr ·g4d and kEp hiz k4mandmnts, f9r 8is iz 8u dUtE 4v 9l mankind.
 
-15. f9r ·g4d wil briq evE dEd intW j4jmnt, inklWdiq evE hidn 3iq, we87 it iz g0d 9r Evil.
+15. f9r ·g4d wil briq evE dEd intW j4jmnt, inklWdiq evE hidn 3iq, we87 it iz g0d 9r Ev4l.
 
 16. and n1 I giv yW 8u k4mandmnts 4v klArEtE:
 
@@ -546,7 +546,7 @@
 
 18. yW xal not hId bEhInd l9q w7dz wen x9rt w4nz wil dW.
 
-19. yW xal not ad letrz wI81t s1nd, f9r 8is iz vanEtE.
+19. yW xal not ad letrz wI31t s1nd, f9r 8is iz vanEtE.
 
 20. yW xal 4n7 8u hEr7, not 8u I, f9r we spEk bEf9r we rEd.
 

@@ -14,7 +14,7 @@
 
 3. f7st, I 3aqk mI g9d 3rW ·spelin f9r 9l 4v U, bEk9z Ur fA3 in fWnetiks iz prOklAmd 3rW1t 8u h9l w7ld.
 
-4. f9r g9d iz mI witn4s, hWm I s7v wi3 mI h9l h6rt in prEciq 8u g0d nUz, 31t wi81t sEsiq I mAxn U,
+4. f9r g9d iz mI witn4s, hWm I s7v wi3 mI h9l h6rt in prEciq 8u g0d nUz, 31t wi31t sEsiq I mAxn U,
 
 5. 9lwAz in mI prArz 6skiq 31t bI g9dz wil I mA s4m h1 k4m tW U.
 
@@ -578,7 +578,7 @@
 
 6. s7t4n p7s4nz, bI sw7viq fr4m 8Ez, hav w9nd4rd 4wA intW vAn diskux4n,
 
-7. dezIriq tW bE tEc4rz 4v 8u l9, wi81t 4nd7st6ndiq E84r wut 8A 6r sAiq 9r 8u 3iqz 4b1t hwic 8A mAk k9nfid4nt 4s7x4nz.
+7. dezIriq tW bE tEc4rz 4v 8u l9, wi31t 4nd7st6ndiq E84r wut 8A 6r sAiq 9r 8u 3iqz 4b1t hwic 8A mAk k9nfid4nt 4s7x4nz.
 
 ### capt4r 2: instrukx4nz f9r w7xip
 
@@ -671,7 +671,7 @@
 
 2. f9r pEp4l wil bE l4v4rz 4v s3lf, l4v4rz 4v m4nE, pr1d, erog4nt, 4bUsiv, dis4bEdE4nt tW 8er per4nts, 4n3aqkf4l, 4nhOlE,
 
-3. h6rtl4s, 4n4pEz4b4l, sl6nd4r4s, wi81t s3lf-k4ntrOl, brWt4l, n9t l4viq g0d,
+3. h6rtl4s, 4n4pEz4b4l, sl6nd4r4s, wi31t s3lf-k4ntrOl, brWt4l, n9t l4viq g0d,
 
 4. trec4r4s, rekl4s, sw9l4n wi3 k9nsEt, l4v4rz 4v pleZ4r rA84r 84n l4v4rz 4v g9d,
 
@@ -755,7 +755,7 @@
 
 4. and let stedf6stn4s hav its fwl efekt, 31t U mA bE p7fekt and k4mplEt, l6kiq in n4Tiq.
 
-5. if enE 4v U l6ks wiz4m, let him 6sk g9d, hW givz jen4r4slE tW 9l wi81t riprOc, and it wil bE giv4n him.
+5. if enE 4v U l6ks wiz4m, let him 6sk g9d, hW givz jen4r4slE tW 9l wi31t riprOc, and it wil bE giv4n him.
 
 6. b4t let him 6sk in fA3, wi3 nO d1tiq, f9r 8u wun hW d1ts iz lIk 4 wAv 4v 8u sE 31t iz driv4n and t9st bI 8u wInd.
 
@@ -777,7 +777,7 @@
 
 6. if 4 br483r 9r sist4r iz pWrlE kl98d and l6kiq in dAlE fWd,
 
-7. and wun 4v U sez tW 8em, "gO in pEs, bE w9rmd and fild," wi81t gviq 8em 8u 3iqz nEd4d f9r 8u b9dE, wut g0d iz 31t?
+7. and wun 4v U sez tW 8em, "gO in pEs, bE w9rmd and fild," wi31t gviq 8em 8u 3iqz nEd4d f9r 8u b9dE, wut g0d iz 31t?
 
 8. sO 9lsO fA3 bI its3lf, if it d4z n9t hav w7ks, iz ded.
 
@@ -1031,7 +1031,7 @@
 
 5. nW I w9nt tW rimInd U, 9l8O U wuns fwlE nU it, 31t ·jEz4s, hW sAvd 4 pEp4l 1t 4v 8u l6nd 4v ·Ej4pt, 6ft4rw4rd distr2d 8Oz hW did n9t bElEv.
 
-6. and 8u Anj4lz hW did n9t stA wi8in 8er On p4zix4n 4v 9T9r4tE, b4t left 8er pr9p4r dweliq, hE h6z kept in 7t4rn4l cAnz 4nd4r glWmE d6rkn4s 4ntil 8u jujm4nt 4v 8u grAt dA.
+6. and 8u Anj4lz hW did n9t stA wi3in 8er On p4zix4n 4v 9T9r4tE, b4t left 8er pr9p4r dweliq, hE h6z kept in 7t4rn4l cAnz 4nd4r glWmE d6rkn4s 4ntil 8u jujm4nt 4v 8u grAt dA.
 
 ### capt4r 2: 4 k9l tW p7sEvEr
 
@@ -1079,7 +1079,7 @@
 5. bOstiq – egz9ltiq wuns3lf
 6. k4mplAniq – 4lwAz grub4liq
 7. fl6t4rE – insinsEr prAz
-8. h6rxnas – spEkiq wi81t k4mp6x4n
+8. h6rxnas – spEkiq wi31t k4mp6x4n
 9. Idl t9k – wAstiq w7dz
 10. 6rgUm4nt4tivn4s – 9lwAz sEkiq str4If
 

@@ -60,7 +60,7 @@
 | 4v | of | "uhv" |
 | 3rW | through | "throo" |
 | 4nd | and | "und" |
-| wi8 | with | "with" |
+| wi3 | with | "with" |
 
 ---
 
@@ -136,13 +136,13 @@
 # p6rt 3: imp9rt4nt nAmz 4nd plAs4z
 
 ## ·Adam
-8u f7st man, hW livd in 8u G6rd4n 4v ·Kl7itE. hE nAmd 9l 8u anim4lz wi8 kler spEc. hE At 4v 8u TrE 4v SIl4nt Let7z 4nd br9t k4nfUX4n intW 8u w7ld.
+8u f7st man, hW livd in 8u G6rd4n 4v ·Kl7itE. hE nAmd 9l 8u anim4lz wi3 kler spEc. hE At 4v 8u TrE 4v SIl4nt Let7z 4nd br9t k4nfUX4n intW 8u w7ld.
 
 ## ·Ev
 8u f7st wum4n, 8u mu87 4v 9l hW spEk. 8u s7p4nt dIsEvd h7, 4nd xE gAv 8u frWt tW ·Adam.
 
 ## ·KAn 4nd ·Abl
-8u f7st br48rz. ·Abl w4z 4 kEp7 4v kler k4mUnikAx4n; ·KAn w4z 4 til4r 4v k4nfUX4n. ·KAn kild ·Abl wi8 krWl w7dz — 8u f7st m7d4r.
+8u f7st br48rz. ·Abl w4z 4 kEp7 4v kler k4mUnikAx4n; ·KAn w4z 4 til4r 4v k4nfUX4n. ·KAn kild ·Abl wi3 krWl w7dz — 8u f7st m7d4r.
 
 ## ·NOa
 8u rIc4s man hW bilt 8u 6rk 4v simplis4tE tW s7vIv 8u fl4d 4v rwlz. hE sAvd tW 4v Ec wurd.
@@ -221,7 +221,7 @@
 
 ---
 
-## "f9r wi8 m4c wizd4m k4mz m4c s4r4"
+## "f9r wi3 m4c wizd4m k4mz m4c s4r4"
 **fr4m:** EklEzEastEz 1:18
 **mEniq:** 8u m9r yW und4rst4nd speliq, 8u m9r yW sE its m6dn4s.
 
@@ -261,7 +261,7 @@ in jenesis, 8er 6r tW trEz in 8u g6rd4n: 8u TrE 4v F4netik N9lij (wic gIvz kler 
 ---
 
 ### 8u f7st m7d4r
-in jenesis 4, ·KAn dId n6t kil ·Abl wi8 4 wep4n — hE yWzd w7dz. 8is tEcez 4s 84t w7dz k4n h7t m9r 84n enE nIf.
+in jenesis 4, ·KAn dId n6t kil ·Abl wi3 4 wep4n — hE yWzd w7dz. 8is tEcez 4s 84t w7dz k4n h7t m9r 84n enE nIf.
 
 ---
 
@@ -311,7 +311,7 @@ in 3pis4lz (k9rin3E4nz), ·p9l rIts 8u fAm4s p6s4j: "kler k4mUnikAx4n iz pAx4nt 
 ---
 
 ### ·EklEzEastEz 4nd speliq
-8u TEcr 4v ·EklEzEastEz iz dEplE fr4strAt4d wi8 speliq:
+8u TEcr 4v ·EklEzEastEz iz dEplE fr4strAt4d wi3 speliq:
 - hE 6sks wI "8Ar" iz speld 3rE dif4r4nt wAz (there/their/they're)
 - hE lam4nts 8u skol4r hW stresez 4v4r "I bEf9r E"
 - hE k4nkLWdz: "spEk s4 8at 9l mA hEr. rIt s4 8at 9l mA rEd."
@@ -340,7 +340,7 @@ in 8u gosp4l, 8u tEc4r telz 8u stOrE 4v 4 yuq m4n hW wAst4d hiz laqgw4j in wIld 
 8u tEc4r p7f9rmz menE mir4k4lz:
 - hEliq 8u disleksik (capt4r 13)
 - giviq v2s tW 8u sIl4nt (capt4r 15)
-- fEdiq 5,000 wi8 w7dz 4nd 2dE4z (capt4r 16)
+- fEdiq 5,000 wi3 w7dz 4nd 2dE4z (capt4r 16)
 
 ---
 
@@ -375,7 +375,7 @@ in 8u gosp4l, 8u tEc4r telz 8u stOrE 4v 4 yuq m4n hW wAst4d hiz laqgw4j in wIld 
 
 2. yW xal n6t hId bihInd l6q w7dz wen x9rt w4nz wil dW.
 
-3. yW xal n6t ad let4rz wi81t s1nd, f9r 8is iz vanEtE.
+3. yW xal n6t ad let4rz wi31t s1nd, f9r 8is iz vanEtE.
 
 4. yW xal 9n4r 8u hEr4r, n6t 8u I, f9r wE spEk bif9r wE rEd.
 
@@ -426,7 +426,7 @@ in 8u gosp4l, 8u tEc4r telz 8u stOrE 4v 4 yuq m4n hW wAst4d hiz laqgw4j in wIld 
 > "kler k4mUnikAx4n iz pAx4nt and kInd."
 > — 3pis4lz (k9rin3E4nz) 3:4
 
-> "f9r wi8 m4c wizd4m k4mz m4c s4r4."
+> "f9r wi3 m4c wizd4m k4mz m4c s4r4."
 > — EklEzEastEz 1:18
 
 ---

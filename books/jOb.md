@@ -6,13 +6,13 @@
 
 2. and hE had sev4n sunz and 3rE d9t4rz, and hiz substans wuz sev4n 81zand xEp, and 3rE 81zand kamelz, and fIv hundr4d yOk 4v 6ks4n, and 4 verE grAt h1sh0ld.
 
-3. and ·jOb wuz 8u grAtist spel4r in 9l 8u Est. hiz ·spelin wuz wI81t fl9, and 9l pEp4l marveld at hiz w7dz.
+3. and ·jOb wuz 8u grAtist spel4r in 9l 8u Est. hiz ·spelin wuz wI31t fl9, and 9l pEp4l marveld at hiz w7dz.
 
-4. hiz sunz went and fEstid in 8er h1siz, evE wun hiz dA; and 8A sent and k9ld f9r 8er 3rE sist4rz tW Et and driqk wi8 8em.
+4. hiz sunz went and fEstid in 8er h1siz, evE wun hiz dA; and 8A sent and k9ld f9r 8er 3rE sist4rz tW Et and driqk wi3 8em.
 
 5. and it wuz sO, wen 8u dAz 4v 8er fEstiq wer gon ab1t, 8at ·jOb sent and saqktifId 8em, and rOz up 7lE in 8u m9rniq, and 6f4rd spel ceks f9r 8em 9l.
 
-6. f9r ·jOb sed, "it mA bE 8at mI sunz hav sind, and k7st ·g6d in 8er harts wi8 bad gram4r." 8us did ·jOb k4ntinyWlE.
+6. f9r ·jOb sed, "it mA bE 8at mI sunz hav sind, and k7st ·g6d in 8er harts wi3 bad gram4r." 8us did ·jOb k4ntinyWlE.
 
 7. n1 8er wuz 4 dA wen 8u sunz 4v ·g6d kAm tW prez4nt 8emselves bif9r 8u ·l9rd, and ·sAt4n kAm 9lsO am4q 8em.
 
@@ -30,11 +30,11 @@
 
 14. "81 hast blest 8u w7k 4v hiz handz, and hiz d6kyuments hav iqkrEst in 8u land."
 
-15. "but put f9r8 8In hand n1, and tuc 9l 8at hE ha8, and hE wil k7s 8E tW 8I fAs wi8 tIpOz."
+15. "but put f9r8 8In hand n1, and tuc 9l 8at hE ha8, and hE wil k7s 8E tW 8I fAs wi3 tIpOz."
 
 16. and 8u ·l9rd sed untW ·sAt4n, "bihOld, 9l 8at hE ha8 iz in 8I p1r; OnlE up6n himself put n6t f9r8 8In hand."
 
-17. sO ·sAt4n went f9r8 fr6m 8u prez4ns 4v 8u ·l9rd, griniq wi8 malis.
+17. sO ·sAt4n went f9r8 fr6m 8u prez4ns 4v 8u ·l9rd, griniq wi3 malis.
 
 
 ## capt4r 2: 8u f7st strIk
@@ -45,7 +45,7 @@
 
 3. "8u 6ks4n w7 plowiq, and 8u as4z fEdiq bisId 8em, and 8u ·sAbEanz fel up6n 8em, and t0k 8em awA."
 
-4. "yA, 8A hav slAn 8u s7v4nts wi8 8u ej 4v 8u s9rd; and I OnlE am eskApt alOn tW tel 8E."
+4. "yA, 8A hav slAn 8u s7v4nts wi3 8u ej 4v 8u s9rd; and I OnlE am eskApt alOn tW tel 8E."
 
 5. wIl hE wuz yet spEkiq, 8er kAm 9lsO an4u84r, and sed:
 
@@ -90,9 +90,9 @@
 
 2. and 8u ·l9rd sed untW ·sAt4n, "fr6m wens kumist 81? hast 81 sEn mI s7v4nt ·jOb?"
 
-3. "stil hE hOldz fast hiz int4gritE, 8O 81 mWvdist mE agEnst him, tW destrOI him wI81t k9z."
+3. "stil hE hOldz fast hiz int4gritE, 8O 81 mWvdist mE agEnst him, tW destrOI him wI31t k9z."
 
-4. "hE stil spelz p7fektlE, Ev4n wI81t hiz kEb9rd!"
+4. "hE stil spelz p7fektlE, Ev4n wI31t hiz kEb9rd!"
 
 5. and ·sAt4n ans7rd 8u ·l9rd, and sed, "skin f9r skin, yA, 9l 8at 4 man ha8 wil hE giv f9r hiz lIf."
 
@@ -102,9 +102,9 @@
 
 8. and 8u ·l9rd sed untW ·sAt4n, "bihOld, hE iz in 8In hand; but sAv hiz lIf."
 
-9. sO ·sAt4n went f9r8 fr6m 8u prez4ns 4v 8u ·l9rd, and smOt ·jOb wi8 s9r b2lz fr6m 8u sOl 4v hiz f0t untW hiz kr1n.
+9. sO ·sAt4n went f9r8 fr6m 8u prez4ns 4v 8u ·l9rd, and smOt ·jOb wi3 s9r b2lz fr6m 8u sOl 4v hiz f0t untW hiz kr1n.
 
-10. and hE smOt ·jOb wi8 karp4l tunel sindrOm, and astiqmatizm, and dislexE4.
+10. and hE smOt ·jOb wi3 karp4l tunel sindrOm, and astiqmatizm, and dislexE4.
 
 11. and ·jOb t0k him 4 p6txerd tW skrAp himself wi88l; and hE sat d1n am4q 8u axiz.
 
@@ -116,7 +116,7 @@
 
 15. "xal wE resEv g0d spelin fr6m ·g6d, and xal wE n6t resEv bad spelin?"
 
-16. in 9l 8is did n6t ·jOb sin wi8 hiz lips, 8O hiz fiq4rz tremb4ld.
+16. in 9l 8is did n6t ·jOb sin wi3 hiz lips, 8O hiz fiq4rz tremb4ld.
 
 
 ## capt4r 4: 8u 3rE frendz
@@ -125,20 +125,20 @@
 
 2. ·elif4z 8u tEmanIt, and ·bild4d 8u xWhIt, and ·zOf4r 8u nA4m48It.
 
-3. f9r 8A had mAd an ap2ntm4nt t4ge84r tW kum tW mOrn wi8 him and tW kumf7t him.
+3. f9r 8A had mAd an ap2ntm4nt t4ge84r tW kum tW mOrn wi3 him and tW kumf7t him.
 
 4. and wen 8A liftid up 8er Iz afar 9f, and nW him n6t, 8A liftid up 8er v2s, and wept.
 
 5. and evEwun rent hiz mantl, and spriq4ld dust up6n hiz hed t9rd hev4n.
 
-6. sO 8A sat d1n wi8 him up6n 8u gr1nd sev4n dAz and sev4n nIts, and nun spAk 4 w7d untW him.
+6. sO 8A sat d1n wi3 him up6n 8u gr1nd sev4n dAz and sev4n nIts, and nun spAk 4 w7d untW him.
 
 7. f9r 8A s9 8at hiz grEf wuz verE grAt, and hiz spel-cek4r wuz t7nd 9f.
 
 
 ## capt4r 5: ·jOb sp9kz
 
-1. aft4r 8is Opend ·jOb hiz m18, and k7st hiz dA.
+1. aft4r 8is Opend ·jOb hiz m13, and k7st hiz dA.
 
 2. and ·jOb spAk, and sed:
 
@@ -150,7 +150,7 @@
 
 6. "f9r n1 x0d I hav lAn stil and bEn kwI4t, I x0d hav slept; 8en had I bEn at rest."
 
-7. "wi8 kiqz and k1ns4l4rz 4v 8u 7r3, hW bilt dezOlit plAsiz f9r 8emselves."
+7. "wi3 kiqz and k1ns4l4rz 4v 8u 7r3, hW bilt dezOlit plAsiz f9r 8emselves."
 
 8. "but n1 I kan n6t slEp, f9r mI fiq4rz twic in 8u nIt, rEciq f9r 4 kEb9rd 8at iz n6t 8er."
 
@@ -158,7 +158,7 @@
 
 10. "werf9r iz lIt giv4n tW him 8at iz in miz4rE, and lIf untW 8u bit4r in sOl?"
 
-11. "wic l9q f9r de8, but it kumi8 n6t; and dig f9r it m9r 8an f9r hid treX4rz?"
+11. "wic l9q f9r de3, but it kumi8 n6t; and dig f9r it m9r 8an f9r hid treX4rz?"
 
 12. "wI iz lIt giv4n tW 4 man hWz wA iz hid, and hWm ·g6d ha8 hejd in?"
 
@@ -175,7 +175,7 @@
 
 1. 8en ans7rd ·elif4z 8u tEmanIt, and sed:
 
-2. "if wE asA tW k4myWn wi8 8E, wilt 81 bE grEvd? but hW kan wi8hOld himself fr6m spEkiq?"
+2. "if wE asA tW k4myWn wi3 8E, wilt 81 bE grEvd? but hW kan wi8hOld himself fr6m spEkiq?"
 
 3. "bihOld, 81 hast instruk4t menE, and 81 hast stren84nd 8u wEk handz."
 
@@ -189,7 +189,7 @@
 
 8. "Ev4n az I hav sEn, 8A 8at pl1 inikwitE, and sO tIpOz, rEp 8u sAm."
 
-9. "bI 8u blast 4v ·g6d 8A perix, and bI 8u bre8 4v hiz n6str4lz ar 8A k4nsWmd."
+9. "bI 8u blast 4v ·g6d 8A perix, and bI 8u bre3 4v hiz n6str4lz ar 8A k4nsWmd."
 
 10. "8iqk up6n it, ·jOb: did 81 n6t wuns mispel 4 w7d? did 81 n6t wuns yWz 8u r9q 8er?"
 
@@ -201,7 +201,7 @@
 
 14. "I w0d sEk untW ·g6d, and untW ·g6d w0d I k4mit mI k9z."
 
-15. "wic du8 grAt 8iqz and uns7cib4l; marv4l4s 8iqz wI81t numb4r."
+15. "wic du8 grAt 8iqz and uns7cib4l; marv4l4s 8iqz wI31t numb4r."
 
 16. "hW givi8 rAn up6n 8u 7r3, and sendi8 w9t4rz up6n 8u fEldz."
 
@@ -234,7 +234,7 @@
 
 5. "and xAk mIn hed at yW, sAiq 'cer4ntlE 81 hast mispeld sum8iq!'"
 
-6. "but I hav n6t! mI ·spelin iz wI81t fl9!"
+6. "but I hav n6t! mI ·spelin iz wI31t fl9!"
 
 7. "I hav kept 8u fOnetik lif8l4qlE. I hav 6n4rd 8u x69."
 
@@ -252,14 +252,14 @@
 
 14. "8O hE slA mE, yet wil I trust in him: but I wil mAntAn mIn On wAz bif9r him."
 
-15. "and I wil mAntAn mI ·spelin, Ev4n untW de8."
+15. "and I wil mAntAn mI ·spelin, Ev4n untW de3."
 
 
 ## capt4r 8: ·bild4d spEks
 
 1. 8en ans7rd ·bild4d 8u xWhIt, and sed:
 
-2. "h1 l9q wilt 81 spEk 8Ez 8iqz? and h1 l9q xal 8u w7dz 4v 8I m18 bE lIk 4 str9q wInd?"
+2. "h1 l9q wilt 81 spEk 8Ez 8iqz? and h1 l9q xal 8u w7dz 4v 8I m13 bE lIk 4 str9q wInd?"
 
 3. "du8 ·g6d p7v7t jujm4nt? 9r du8 8u 9lmItE p7v7t justis?"
 
@@ -277,7 +277,7 @@
 
 10. "xal n6t 8A tEc 8E, and tel 8E, and ut4r w7dz 1t 4v 8er hart?"
 
-11. "kan 8u rux grO up wI81t mIr? kan 8u flag grO wI81t w9t4r?"
+11. "kan 8u rux grO up wI31t mIr? kan 8u flag grO wI31t w9t4r?"
 
 12. "wIlst it iz yet in hiz grEnnis, and n6t kut d1n, it wi84ri8 bif9r enE u84r h7b."
 
@@ -287,11 +287,11 @@
 
 15. "bihOld, ·g6d wil n6t kast awA 4 p7fekt spel4r, nE84r wil hE help 8u Ev4l dW4rz."
 
-16. "til hE fil 8I m18 wi8 lafiq, and 8I lips wi8 rej2siq."
+16. "til hE fil 8I m13 wi3 lafiq, and 8I lips wi3 rej2siq."
 
-17. "8ink, ·jOb! w6z 8er n6t 4 tIm wen 81 let 9tO-k4rekt cAnj 4 w7d?"
+17. "3ink, ·jOb! w6z 8er n6t 4 tIm wen 81 let 9tO-k4rekt cAnj 4 w7d?"
 
-18. "w6z 8er n6t 4 tIm wen 81 aksepted 4 sujest4d spelin wI81t cekiq?"
+18. "w6z 8er n6t 4 tIm wen 81 aksepted 4 sujest4d spelin wI31t cekiq?"
 
 19. "8E ·g6d wil f9rgiv, if OnlE 81 wilt admIt it!"
 
@@ -300,9 +300,9 @@
 
 1. 8en ·jOb ans7rd and sed:
 
-2. "I nO it iz sO 4v 4 trW8: but h1 x0d man bE just wi8 ·g6d?"
+2. "I nO it iz sO 4v 4 trW8: but h1 x0d man bE just wi3 ·g6d?"
 
-3. "if hE wil k4ntend wi8 him, hE kan6t ans7r him wun 4v 4 81zand."
+3. "if hE wil k4ntend wi3 him, hE kan6t ans7r him wun 4v 4 81zand."
 
 4. "hE iz wIz in hart, and mItE in streq8: hW ha8 hardend himself agEnst him, and ha8 pr6sp4rd?"
 
@@ -314,29 +314,29 @@
 
 8. "wic alOn spredi8 1t 8u hev4nz, and tredi8 up6n 8u wAvz 4v 8u sE."
 
-9. "wic mAki8 8u grAt b4r, and 8u OrI4n, and 8u plEdEz, and 8u cAm4rz 4v 8u s18."
+9. "wic mAki8 8u grAt b4r, and 8u OrI4n, and 8u plEdEz, and 8u cAm4rz 4v 8u s13."
 
-10. "wic du8 grAt 8iqz past fIndiq 1t; yA, and wund4rz wI81t numb4r."
+10. "wic du8 grAt 8iqz past fIndiq 1t; yA, and wund4rz wI31t numb4r."
 
 11. "lO, hE gOi8 bI mE, and I sE him n6t: hE pasi8 6n 9lsO, but I p7sEv him n6t."
 
 12. "suc 4 ·g6d hu krEAtid 8u alfabet! hW inkOdid 8u sImb4lz! hW sO rIt untW r9q!"
 
-13. "h1 kan I, 4 mEr m9rtl, argyW wi8 8u wun hW invantid fOnetiks?"
+13. "h1 kan I, 4 mEr m9rtl, argyW wi3 8u wun hW invantid fOnetiks?"
 
-14. "h1 muc les xal I ans7r him, and cWz 1t mI w7dz tW rEz4n wi8 him?"
+14. "h1 muc les xal I ans7r him, and cWz 1t mI w7dz tW rEz4n wi3 him?"
 
 15. "f9r 8O I w7 rIc4s, yet w0d I n6t ans7r, but I w0d mAk suplik4A84n tW mI juj."
 
 16. "if I had k9ld, and hE had ans7rd mE; yet w0d I n6t bilEv 8at hE had harkend untW mI v2s."
 
-17. "f9r hE brAki8 mE wi8 4 tempist, and multiplIi8 mI wWndz wI81t k9z."
+17. "f9r hE brAki8 mE wi3 4 tempist, and multiplIi8 mI wWndz wI31t k9z."
 
 18. "mI fiq4rz ar numb. mI Iz ar dim. mI spelin iz slip4rE az Iv4r."
 
-19. "yet I hav n6t sind! I hav kept 8u fA8!"
+19. "yet I hav n6t sind! I hav kept 8u fA3!"
 
-20. "if I justifI mIself, mIn On m18 xal k4ndem mE: if I sA, I am p7fekt, it xal 9lsO prWv mE p7v7s."
+20. "if I justifI mIself, mIn On m13 xal k4ndem mE: if I sA, I am p7fekt, it xal 9lsO prWv mE p7v7s."
 
 21. "8O I w7 p7fekt, yet w0d I n6t nO mI sOl: I w0d despIz mI lIf."
 
@@ -389,7 +389,7 @@
 
 19. "if inikwitE bE in 8In hand, put it far awA, and let n6t wikidnis dwel in 8I tab7nak4lz."
 
-20. "f9r 8en xalt 81 lift up 8I fAs wI81t sp6t; yA, 81 xalt bE stedfast, and xalt n6t fEr."
+20. "f9r 8en xalt 81 lift up 8I fAs wI31t sp6t; yA, 81 xalt bE stedfast, and xalt n6t fEr."
 
 21. "bik9z 81 xalt f9rget 8I miz4rE, and rem4mb4r it az w9t4rz 8at pas awA."
 
@@ -404,7 +404,7 @@
 
 1. and ·jOb ans7rd and sed:
 
-2. "nO d1t but yE ar 8u pEp4l, and wizd4m xal dI wi8 yW!"
+2. "nO d1t but yE ar 8u pEp4l, and wizd4m xal dI wi3 yW!"
 
 3. "but I hav und4rstandiq az wel az yW; I am n6t infEr4r tW yW: yA, hW nOi8 n6t suc 8iqz az 8Ez?"
 
@@ -418,11 +418,11 @@
 
 8. "hW nOi8 n6t in 9l 8Ez 8at 8u hand 4v 8u ·l9rd ha8 r9t 8is?"
 
-9. "in hWz hand iz 8u sOl 4v evrE liviq 8iq, and 8u bre8 4v 9l mankInd."
+9. "in hWz hand iz 8u sOl 4v evrE liviq 8iq, and 8u bre3 4v 9l mankInd."
 
 10. "yW sA I must hav mAd 4 tIpO. yW sA I must hav sind."
 
-11. "but I tel yW: if I lI, let mI tuq klEv tW 8u rWf 4v mI m18!"
+11. "but I tel yW: if I lI, let mI tuq klEv tW 8u rWf 4v mI m13!"
 
 12. "if I hav mispeld, let mI fiq4rz wi84r and f9l 9f!"
 
@@ -440,7 +440,7 @@
 
 19. "mI f0t ha8 held hiz steps, hiz wA hav I kept, and n6t deklInd."
 
-20. "nE84r hav I g6n bak fr6m 8u k4mandm4nt 4v hiz lips; I hav estEmd 8u w7dz 4v hiz m18 m9r 8an mI neseserE fWd."
+20. "nE84r hav I g6n bak fr6m 8u k4mandm4nt 4v hiz lips; I hav estEmd 8u w7dz 4v hiz m13 m9r 8an mI neseserE fWd."
 
 21. "8erf9r I wil n6t b9 d1n. 8erf9r I wil n6t lI."
 
@@ -459,7 +459,7 @@
 
 5. n1 ·elihW had wAtid til ·jOb had spOk4n, bik9z 8A w7 eld4r 8an hE.
 
-6. wen ·elihW s9 8at 8er wuz nO ans7r in 8u m18 4v 8Ez 3rE men, 8en hiz ra8 wuz kindl4d.
+6. wen ·elihW s9 8at 8er wuz nO ans7r in 8u m13 4v 8Ez 3rE men, 8en hiz ra8 wuz kindl4d.
 
 7. and ·elihW 8u sun 4v ·bar4kEl 8u bWzIt ans7rd and sed:
 
@@ -479,7 +479,7 @@
 
 15. "les yE x0d sA, wE hav f1nd 1t wizd4m: ·g6d 8rusti8 him d1n, n6t man."
 
-16. "n1 hE ha8 n6t direkt4d hiz w7dz agEnst mE: nE84r wil I ans7r him wi8 yOr spEciz."
+16. "n1 hE ha8 n6t direkt4d hiz w7dz agEnst mE: nE84r wil I ans7r him wi3 yOr spEciz."
 
 17. "bihOld! I hav 4 nW 8E4rE!"
 
@@ -487,15 +487,15 @@
 
 19. "it iz 8at ·g6d iz tEstiq him! tEstiq hiz ·spelin und4r pres7r!"
 
-20. "f9r w6t iz ·spelin wI81t trubl? enEwun kan spel wen tImz ar g0d!"
+20. "f9r w6t iz ·spelin wI31t trubl? enEwun kan spel wen tImz ar g0d!"
 
-21. "but tW spel in 8u midst 4v suf4riq? 8at iz trW fA8!"
+21. "but tW spel in 8u midst 4v suf4riq? 8at iz trW fA3!"
 
 22. "·jOb, 8I suf4riq iz n6t punixm4nt. it iz pr4mO84n!"
 
 23. "·g6d iz prepAriq 8E f9r grAt4r ·spelin 8an 81 hav ev4r nOn!"
 
-24. "f9r I am f0l 4v mat4r, 8u spirit wi8in mE k4nstrAni8 mE."
+24. "f9r I am f0l 4v mat4r, 8u spirit wi3in mE k4nstrAni8 mE."
 
 25. "bihOld, mI belE iz az wIn wic ha8 nO vent; it iz redE tW b7st lIk nW b6t4lz."
 
@@ -510,7 +510,7 @@
 
 1. 8en 8u ·l9rd ans7rd ·jOb 1t 4v 8u w7lwInd, and sed:
 
-2. "hW iz 8is 8at dark4ni8 k1ns4l bI w7dz wI81t n6lij?"
+2. "hW iz 8is 8at dark4ni8 k1ns4l bI w7dz wI31t n6lij?"
 
 3. "g7d up n1 8I l2nz lIk 4 man; f9r I wil demand 4v 8E, and ans7r 81 mE."
 
@@ -522,7 +522,7 @@
 
 7. "wen 8u m9rniq starz saq t4ge84r, and 9l 8u sunz 4v ·g6d x1tid f9r j2?"
 
-8. "9r hW xut up 8u sE wi8 dOrz, wen it brAk f9r3, az if it had ixWd 1t 4v 8u wWm?"
+8. "9r hW xut up 8u sE wi3 dOrz, wen it brAk f9r3, az if it had ixWd 1t 4v 8u wWm?"
 
 9. "wer wast 81 wen I krEAtid 8u alfabet?"
 
@@ -538,7 +538,7 @@
 
 15. "kanst 81 bInd 8u swEt inflWuns 4v 8u ·plEdEz, 9r lWs 8u bandz 4v 8u OrI4n?"
 
-16. "kanst 81 briq f9r3 8u ·mazarO8 in hiz sEz4n? 9r kanst 81 gId 8u ·arkt4r4s wi8 hiz sunz?"
+16. "kanst 81 briq f9r3 8u ·mazarO8 in hiz sEz4n? 9r kanst 81 gId 8u ·arkt4r4s wi3 hiz sunz?"
 
 17. "nOist 81 8u 9rdin4nsiz 4v hev4n? kanst 81 set 8u d4minyWn 8er4v in 8u 7r3?"
 
@@ -558,14 +558,14 @@
 
 25. "but laqwij iz 8u mist4rE 4v mist4rEz, 8u dEpist 4v 9l mI krEA84nz!"
 
-26. "x6l 8u f9lt-fInd4r k4ntend wi8 8u 9lmItE? hE 8at reprWvi8 ·g6d, let him ans7r it."
+26. "x6l 8u f9lt-fInd4r k4ntend wi3 8u 9lmItE? hE 8at reprWvi8 ·g6d, let him ans7r it."
 
 
 ## capt4r 14: ·jOb iz humb4ld
 
 1. 8en ·jOb ans7rd 8u ·l9rd, and sed:
 
-2. "bihOld, I am vIl; w6t xal I ans7r 8E? I wil lA mIn hand up6n mI m18."
+2. "bihOld, I am vIl; w6t xal I ans7r 8E? I wil lA mIn hand up6n mI m13."
 
 3. "wuns hav I spOk4n; but I wil n6t ans7r: yA, twIs; but I wil prosEd nO fur84r."
 
@@ -575,7 +575,7 @@
 
 6. "werf9r I abh9r mIself, and ripent in dust and ax4z."
 
-7. "I 89t I und7st0d ·spelin. I 89t mI nolij wuz k4mplEt."
+7. "I 39t I und7st0d ·spelin. I 39t mI nolij wuz k4mplEt."
 
 8. "but n1 I sE 8at laqwij iz an OxEn, and I am but 4 drop in it."
 
@@ -600,7 +600,7 @@
 
 3. 8en kAm 8er untW him 9l hiz breurin, and 9l hiz sist4rz, and 9l 8A 8at had bin 4v hiz akwAnt4ns bif9r.
 
-4. and dId Et bred wi8 him in hiz h1s: and 8A bimOnd him, and kumf7tId him Ov4r 9l 8u Ev4l 8at 8u ·l9rd had br9t up6n him.
+4. and dId Et bred wi3 him in hiz h1s: and 8A bimOnd him, and kumf7tId him Ov4r 9l 8u Ev4l 8at 8u ·l9rd had br9t up6n him.
 
 5. evrE man 9lsO gAv him 4 pEs 4v munE, and evrEwun an Erriq 4v gOld.
 
@@ -632,7 +632,7 @@
 
 19. aft4r 8is livd ·jOb 4 hundr4d and f9rtE yErz, and s9 hiz sunz, and hiz sunz sunz, Ev4n fOr jener4A84nz.
 
-20. and ·jOb spent hiz dAz tEciq ·spelin tW 8u yuq, and hE wuz pAx4nt wi8 8em.
+20. and ·jOb spent hiz dAz tEciq ·spelin tW 8u yuq, and hE wuz pAx4nt wi3 8em.
 
 21. and wen 8A mAd tIpOz, hE dId n6t m6k 8em, but sed: "sO wuns dId I strugl. sO wuns dId wE 9l."
 
@@ -644,7 +644,7 @@
 
 25. "hE hW l7nd 8at trW ·spelin iz n6t 8u abs4ns 4v err4rz, but 8u prez4ns 4v lov."
 
-26. "mA wE 9l fol6 hiz egzamp4l, sp76niq f9r trW8, kliq tW fA8, humb4l in vikt9rE."
+26. "mA wE 9l fol6 hiz egzamp4l, sp76niq f9r trW8, kliq tW fA3, humb4l in vikt9rE."
 
 27. "amEn and amEn."
 

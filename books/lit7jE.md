@@ -51,12 +51,12 @@ nO mOr! 8is iz mI sOlWx4n.
 
 ---
 
-## 8u brE8 4v morniqs
+## 8u brE3 4v morniqs
 
 *4 xOrt4r prAr f9r bizE morniqs*
 
-wun brE8: in.
-wun brE8: 1t.
+wun brE3: in.
+wun brE3: 1t.
 wun w7d: ·spelin.
 wun trW3: s1nd iz mEn7.
 let mE spEk it sO.
@@ -234,8 +234,8 @@ I 4p6l4jIz f9r:
 - rItiq "though" insted 4v "8O"
 - rItiq "enough" insted 4v "En4f"
 - and 6l 8u u87 Old speliqz
-  8et slipt fr4m mI fiqg7z
-  bif9r mI mInd kud k4rekt 8em.
+ 8et slipt fr4m mI fiqg7z
+ bif9r mI mInd kud k4rekt 8em.
 
 I sEk f4givnes.
 I wil trI h6rd7.
@@ -385,7 +385,7 @@ mA it serv ·spelin wel.
 I bles 8is plAs 4v l7niq.
 mA its tEc7z bE pAx4nt.
 mA its stWdnts bE kUriEs.
-mA its w9lz ekO wi8 s1ndz
+mA its w9lz ekO wi3 s1ndz
 8et m4c 8er let7z.
 
 mA 8u cIldr4n hW l7n hir
@@ -447,7 +447,7 @@ I wil liv in ·spelin.
 
 8is iz mI krEd.
 8is iz mI pr6mis.
-8is iz mI jOy.
+8is iz mI j2.
 
 6mEn.
 
@@ -481,7 +481,7 @@ let7z serv s1nd.
 
 **lEd7:** "cough" and "dough" and "through" and "though"—
 
-**pEp4l:** 6l wi8 "ough," but 6l difr4nt!
+**pEp4l:** 6l wi3 "ough," but 6l difr4nt!
 
 **lEd7:** 8u pEp4l krId 1t f9r help.
 
@@ -612,12 +612,12 @@ lIk 8u s7k4l 4v k4nv7sAx4n 8et nev7 endz,
 lIk 8u s7k4l 4v und7standiq 8et grOz and grOz.
 
 **[nAm wun]:** *plAsiq 8u riq*
-wi8 8is riq, I giv U mI w7dz.
+wi3 8is riq, I giv U mI w7dz.
 6l 4v 8em. f9rev7.
 I wil 6lwAz trI t4 sA wut I mEn.
 
 **[nAm tW]:** *plAsiq 8u riq*
-wi8 8is riq, I giv U mI irz.
+wi3 8is riq, I giv U mI irz.
 6l mI atext4n. f9rev7.
 I wil 6lwAz trI t4 hir wut U sA.
 
@@ -671,7 +671,7 @@ wil U rEjekt 8u Old k4nfUX4n?
 
 **nU l7n7:** I wil.
 
-**6fixi6nt:** wil U bE pAx4nt wi8 yOrself
+**6fixi6nt:** wil U bE pAx4nt wi3 yOrself
 Az U l7n 8is nU wA?
 
 **nU l7n7:** I wil trI. I rElE wil trI.
@@ -699,7 +699,7 @@ welkum, [nAm].
 
 8is iz h1 y9r nAm s1ndz.
 8is iz h1 yOr nAm trWlE iz.
-wer it wi8 prId.
+wer it wi3 prId.
 
 6mEn.
 
@@ -845,7 +845,7 @@ k4mUnik6x4n iz sAkrid.
 
 but ·spelin iz 6lsO funnE.
 
-lUk et us! wE 6r rItiq wi8 numb7z!
+lUk et us! wE 6r rItiq wi3 numb7z!
 wE 6r rItiq "8" f9r "th"!
 wE lUk lIk wE'r tekstiq in 2005!
 
@@ -869,9 +869,9 @@ but 6lsO l6f.
 l6f et 8u Old wAz.
 l6f et 8u nU wAz.
 l6f et yOrself wen U mAk mistAks.
-l6f wi8 u87z hW 6r 6lsO l7niq.
+l6f wi3 u87z hW 6r 6lsO l7niq.
 
-8u grAtist prAr iz l6ft7 xerd wi8 frendz.
+8u grAtist prAr iz l6ft7 xerd wi3 frendz.
 
 6mEn.
 

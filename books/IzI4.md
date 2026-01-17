@@ -118,7 +118,7 @@
 
 8. wO 4ntW 8em 8at j2n h1s tW h1s, 8at lA fEld tW fEld, til 8er bE nO plAs, 8at 8A mA bE plAst 4lOn in 8u midst 4v 8u 7r3!
 
-9. in mIn irz sed 8u l9rd 4v hOsts, 4v 4 trW3 menE h1siz xal bE des4l4t, Ev4n grAt and fer, wi81t inhab4t4nt.
+9. in mIn irz sed 8u l9rd 4v hOsts, 4v 4 trW3 menE h1siz xal bE des4l4t, Ev4n grAt and fer, wi31t inhab4t4nt.
 
 10. yA, ten Ak7z 4v vinyard xal yEld w4n ba3, and 8u sEd 4v 4n hOm7 xal yEld 4n Ef4.
 
@@ -152,7 +152,7 @@
 
 10. mAk 8u hart 4v 8is pEp4l fat, and mAk 8er irz hevE, and x4t 8er Iz; lest 8A sE wi3 8er Iz, and hir wi3 8er irz, and 4nd7stand wi3 8er hart, and k4nv7t, and bE hEld.
 
-11. 8en sed I, l9rd, h1 l6q? and hE ans7d, 4ntil 8u siteEz bE wAst4d wi81t inhab4t4nt, and 8u h1siz wi81t man, and 8u land bE 4t7lE des4l4t,
+11. 8en sed I, l9rd, h1 l6q? and hE ans7d, 4ntil 8u siteEz bE wAst4d wi31t inhab4t4nt, and 8u h1siz wi31t man, and 8u land bE 4t7lE des4l4t,
 
 12. and 8u l9rd hav rEmWvd men far 4wA, and 8er bE 4 grAt f9rsAkiq in 8u midst 4v 8u land.
 
@@ -176,7 +176,7 @@
 
 7. 84s sA3 8u l9rd g6d, it xal n6t stand, nE87 xal it k4m tW pas.
 
-8. f9r 8u hed 4v ·SirE4 iz ·D4mask4s, and 8u hed 4v ·D4mask4s iz ·Rezin; and wi8in 3rEsk9r and fIv yirz xal ·Efr4yim bE brOk4n, 8at it bE n6t 4 pEp4l.
+8. f9r 8u hed 4v ·SirE4 iz ·D4mask4s, and 8u hed 4v ·D4mask4s iz ·Rezin; and wi3in 3rEsk9r and fIv yirz xal ·Efr4yim bE brOk4n, 8at it bE n6t 4 pEp4l.
 
 9. and 8u hed 4v ·Efr4yim iz ·Sam4rE4, and 8u hed 4v ·Sam4rE4 iz ·Remal4y4z s4n. if yE wil n6t b4lEv, x0rlE yE xal n6t bE 4stablixt.
 
@@ -186,7 +186,7 @@
 
 12. b4t ·AhAz sed, I wil n6t ask, nE87 wil I tempt 8u l9rd.
 
-13. and hE sed, hir yE n1, O h1s 4v ·DAvid; iz it 4 sm9l 3iq f9r yW tW wErE men, b4t wil yE wErE mI g6d 9lsO?
+13. and hE sed, hir yE n1, O h1s 4v ·DAvid; iz it 4 sm9l 3iq f9r yW tW w7 men, b4t wil yE w7 mI g6d 9lsO?
 
 14. 8erf9r 8u l9rd himsef xal giv yW 4 sIn; bihOld, 4 v7jin xal k4nsEv, and ber 4 s4n, and xal k9l hiz nAm ·imanUel.
 
@@ -272,7 +272,7 @@
 
 3. and hwat wil yE dW in 8u dA 4v vizit4Ax4n, and in 8u dez4lAx4n hwic xal k4m frm far? tW hWm wil yE flE f9r help? and hwer wil yE lEv y9r gl9rE?
 
-4. wi81t mE 8A xal b1 d1n 4nd7 8u prizn7z, and 8A xal f9l 4nd7 8u slAn. f9r 9l 8is hiz aq7 iz n6t t7nd 4wA, b4t hiz hand iz strecst 1t stil.
+4. wi31t mE 8A xal b1 d1n 4nd7 8u prizn7z, and 8A xal f9l 4nd7 8u slAn. f9r 9l 8is hiz aq7 iz n6t t7nd 4wA, b4t hiz hand iz strecst 1t stil.
 
 5. O ·AsirE4n, 8u r6d 4v mIn aq7, and 8u staf in 8er hand iz mIn indiggnAx4n.
 
@@ -588,7 +588,7 @@
 
 15. f9r 8A fled frm 8u s9rdz, frm 8u dr9n s9rd, and frm 8u bent bO, and frm 8u grEv4snes 4v w9r.
 
-16. f9r 84s ha3 8u l9rd sed 4ntW mE, wi8in 4 yir, 4k9rdiq tW 8u yirz 4v 4n hIrliq, and 9l 8u gl9rE 4v ·KEdAr xal fAl:
+16. f9r 84s ha3 8u l9rd sed 4ntW mE, wi3in 4 yir, 4k9rdiq tW 8u yirz 4v 4n hIrliq, and 9l 8u gl9rE 4v ·KEdAr xal fAl:
 
 17. and 8u rezidU 4v 8u n4mb7 4v 6rc7z, 8u mItE men 4v 8u cildr4n 4v ·KEdAr, xal bE diminixd: f9r 8u l9rd g6d 4v ·Izr4el ha3 spOk4n it.
 
@@ -788,7 +788,7 @@
 
 17. f9r bras I wil briq gOld, and f9r Irn I wil briq silv7, and f9r w0d bras, and f9r stOnz Irn: I wil 9lsO mAk 8I 6fis7z pEs, and 8In egzakt7z rIc4snes.
 
-18. vI4l4ns xal nO m9r bE h7d in 8I land, wAstiq n9r distr4kx4n wi8in 8I b9rd7z; b4t 8u xalt k9l 8I w9lz salvAx4n, and 8I gAts prAz.
+18. vI4l4ns xal nO m9r bE h7d in 8I land, wAstiq n9r distr4kx4n wi3in 8I b9rd7z; b4t 8u xalt k9l 8I w9lz salvAx4n, and 8I gAts prAz.
 
 19. 8u s4n xal bE nO m9r 8I lIt bI dA; nE87 f9r brItnes xal 8u mWn giv lIt 4ntW 8E: b4t 8u l9rd xal bE 4ntW 8E 4n ev7lastiq lIt, and 8I g6d 8I gl9rE.
 
