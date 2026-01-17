@@ -28,15 +28,15 @@
 
 10. 4nd ·nAOmE w4z left wi3 h7 tW d9t4rz-in-l9, 4nd n4 w7dz k4d ekspres h7 grEf.
 
-11. xE sed, "8u l9rd h4z tAk4n 9l mI w7dz 4wA. I w4z f0l 4v j2, but n1 mI sent4nsez 6r emptE."
+11. xE sed, "8u ·l9rd h4z tAk4n 9l mI w7dz 4wA. I w4z f0l 4v j2, but n1 mI sent4nsez 6r emptE."
 
-12. 8en ·nAOmE h7d 84t 8u l9rd h4d vizit4d hiz pEp4l in ·spelin 4nd giv4n 8em bred—n98 bred 4v wEt, but bred 4v und4rst4ndiq.
+12. 8en ·nAOmE h7d 84t 8u ·l9rd h4d vizit4d hiz pEp4l in ·spelin 4nd giv4n 8em bred—n98 bred 4v wEt, but bred 4v und4rst4ndiq.
 
 13. sO xE set 1t fr4m ·mOab wi3 h7 tW d9t4rz-in-l9 tW rit7n tW h7 hOml4nd.
 
 14. 6n 8u rOd, ·nAOmE st6pt 4nd t7nd tW 8em, sAiq:
 
-15. "gO b4k, Ec 4v yW, tW y9r mu84rz h1s. mA 8u l9rd xO yW kIndnis, 4z yW h4v xOn kIndnis tW 8u ded 4nd tW mE."
+15. "gO b4k, Ec 4v yW, tW y9r mu84rz h1s. mA 8u ·l9rd xO yW kIndnis, 4z yW h4v xOn kIndnis tW 8u ded 4nd tW mE."
 
 16. "I 4m gOiq b4k tW 4 l4nd w7 8A spel 8iqz str4njlE. 'kat' iz rit4n 'kat,' n6t 'cat.' yW wUd n6t und4rst4nd."
 
@@ -58,9 +58,9 @@
 
 25. **w7 yW dI, I wil dI, 4nd 87 I wil bE berEd.**
 
-26. **mA 8u l9rd dEl wi3 mE, bE it ev4r sO siv3rlE, if Eniq but de3 sep4rAts yW 4nd mE.**
+26. **mA 8u ·l9rd dEl wi3 mE, bE it ev4r sO sivErlE, if Eniq but de3 sep4rAts yW 4nd mE.**
 
-27. **I wil l7n ev4rE let4r. I wil mast4r ev4rE sInd. f9r y9r l4qwij iz byWtif4l, 4nd I wil mAk it mIn."**
+27. **I wil l7n ev4rE let4r. I wil mast4r ev4rE sInd. f9r y9r laqwij iz byWtif4l, 4nd I wil mAk it mIn."**
 
 28. wen ·nAOmE s9 84t ·rW3 w4z dEt7m4nd, xE st6pt 7jiq h7.
 
@@ -68,9 +68,9 @@
 
 30. wen 8A 4rIvd, 8u hOl t1n w4z st7d bEk9z 4v 8em. 8u wUm4n 6skt, "k4n 8is bE ·nAOmE?"
 
-31. xE sed tW 8em, "dW n6t k9l mE ·nAOmE, mEniq 'plezint.' k9l mE ·m6r4, mEniq 'bit4r,' f9r 8u l9rd h4z mAd mI lIf verE bit4r."
+31. xE sed tW 8em, "dW n6t k9l mE ·nAOmE, mEniq 'plezint.' k9l mE ·m6r4, mEniq 'bit4r,' f9r 8u ·l9rd h4z mAd mI lIf verE bit4r."
 
-32. "I w4nt 4wA f0l 4v w7dz, but 8u l9rd h4z br9t mE b4k emptE."
+32. "I w4nt 4wA f0l 4v w7dz, but 8u ·l9rd h4z br9t mE b4k emptE."
 
 33. 8us ·nAOmE rit7nd, 4nd ·rW3 8u ·mOabIt wi3 h7, hW h4d left 8u l4nd 4v sIl4nt let4rz.
 
@@ -98,9 +98,9 @@
 
 8. xE laft wi3 dilIt. "8is mAks sens! 8is 9l mAks sens!"
 
-9. just 8en, ·bOaz 4rIvd fr4m ·be8l4h4m 4nd grEt4d hiz w7k4rz: "8u l9rd bE wi3 yW!"
+9. just 8en, ·bOaz 4rIvd fr4m ·be8l4h4m 4nd grEt4d hiz w7k4rz: "8u ·l9rd bE wi3 yW!"
 
-10. "8u l9rd bles yW!" 8A 6ns4rd.
+10. "8u ·l9rd bles yW!" 8A 6ns4rd.
 
 11. ·bOaz 6skt hiz s7v4nt hW w4z in c6rj 4v 8u h6rv4st4rz, "hWz yUq wUm4n iz 84t?"
 
@@ -120,7 +120,7 @@
 
 19. "84t tAks k4rij. 84t tAks luv."
 
-20. "mA 8u l9rd ripA yW f9r w6t yW h4v dun. mA yW bE riclE rIw9rd4d bI 8u l9rd, 8u g6d 4v ·spelin, und4r hWz wiqz yW h4v kum tW tAk refyWj."
+20. "mA 8u ·l9rd ripA yW f9r w6t yW h4v dun. mA yW bE riclE rIw9rd4d bI 8u ·l9rd, 8u ·g6d 4v ·spelin, und4r hWz wiqz yW h4v kum tW tAk refyWj."
 
 21. ·rW3 sed, "yW h4v giv4n mE kumf4rt 4nd sp9k4n kIndlE tW mE, Ev4n 8O I dW n6t bilonq hir."
 
@@ -130,7 +130,7 @@
 
 24. "in mI l4nd," sed ·rW3, "wE spel it 'love,' wi3 4n 'e' 84t duz n43iq. wI iz 87 4n 'e' 84t duz n43iq?"
 
-25. ·bOaz laft. "n4 wun nOz. it iz wun 4v 8u grAt mist4rEz 4v ·Old ·Spelliq."
+25. ·bOaz laft. "n4 wun nOz. it iz wun 4v 8u grAt mist4rEz 4v ·Old ·spelin."
 
 26. 4t mEltIm, ·bOaz sed tW h7, "kum Ov4r hir. h4v s4m bred 4nd dip it in 8u vin4g4r."
 
@@ -146,7 +146,7 @@
 
 32. ·rW3 tOld h7, "8u nAm 4v 8u man iz ·bOaz."
 
-33. ·nAOmE sed, "8u l9rd bles him! hE h4z n6t st6pt xOiq hiz kIndnis tW 8u liviq 4nd 8u ded."
+33. ·nAOmE sed, "8u ·l9rd bles him! hE h4z n6t st6pt xOiq hiz kIndnis tW 8u liviq 4nd 8u ded."
 
 34. "84t man iz 1r klOs rel4tiv; hE iz wun 4v 1r kins4m4n-rEdEm4rz."
 
@@ -198,19 +198,19 @@
 
 16. "but in ·mOab wE yWzd 'th' f9r b93 s1ndz! h1 dId I n6t nO 8is?"
 
-17. "bEk9z Old Spelliq duz n6t d4stiqwiX b4twEn 8u v2sd 4nd v2sl4s 's1ndz. ·spelin duz. '8' iz f9r '8is' 4nd '84t.' '3' iz f9r '3ink' 4nd '3iq.'"
+17. "bEk9z 8u Old spelin duz n6t d4stiqwiX b4twEn 8u v2sd 4nd v2sl4s 's1ndz. ·spelin duz. '8' iz f9r '8is' 4nd '84t.' '3' iz f9r '3ink' 4nd '3iq.'"
 
 18. ·rW3 w4z sIl4nt f9r 4 m9m4nt. "84t... 84t iz byWtif4l."
 
 19. "yW 6r byWtif4l," sed ·bOaz. "4nd sO iz y9r kwescq4niq mInd."
 
-20. "8u l9rd bles yW, mI d9t4r. 8is kIndnis iz grAt4r 8an 84t wiC yW xOd 7lE4r: yW h4v n6t run 6ft4r 8u yUq men, we84r ric 9r pUr."
+20. "8u ·l9rd bles yW, mI d9t4r. 8is kIndnis iz grAt4r 8an 84t wiC yW xOd 7lE4r: yW h4v n6t run 6ft4r 8u yUq men, we84r ric 9r pUr."
 
 21. "4nd n1, mI d9t4r, dW n6t bE 4frAd. I wil dW f9r yW 9l yW 6sk. 9l mI pEp4l nO 84t yW 6r 4 wUm4n 4v n9bl k7ikt4r."
 
 22. "4nd besIdz," hE 4d4d wi3 4 smIl, "EnEwun hW k4n mast4r 8u difr4ns b4twEn '8' 4nd '3' in 3rE munTs iz w78E 4v grAt rispekt."
 
-23. "but 87 iz 4nu84r kins4m4n klOs4r 8an I. if hE w6nts tW rEdEm yW, gUd; let him rEdEm yW. but if hE duz n6t w6nt tW, I wil. 4z xUrlE 4z 8u l9rd livz."
+23. "but 87 iz 4nu84r kins4m4n klOs4r 8an I. if hE w6nts tW rEdEm yW, gUd; let him rEdEm yW. but if hE duz n6t w6nt tW, I wil. 4z xUrlE 4z 8u ·l9rd livz."
 
 24. "n1 lI hir until m9rniq."
 
@@ -282,7 +282,7 @@
 
 19. 8en 8u eld4rz 4nd 9l 8u pEp4l 4t 8u gAt sed, "wE 6r witn4s4z!"
 
-20. "mA 8u l9rd mAk 8u wUm4n hW iz kumiq intW y9r hOm lIk ·rAc4l 4nd ·lE4, hW t4ge84r bilt up 8u h1s 4v ·izrAel."
+20. "mA 8u ·l9rd mAk 8u wUm4n hW iz kumiq intW y9r hOm lIk ·rAc4l 4nd ·lE4, hW t4ge84r bilt up 8u h1s 4v ·izrAel."
 
 21. "mA yW h4v st4ndiq in ·spelin 4nd bE fAm4s in ·be8l4h4m."
 
@@ -296,13 +296,13 @@
 
 26. "I wil l7n y9r w7dz 4nd tEc 8em tW 1r cIldr4n. I wil nev4r rit7n tW sIl4nt let4rz."
 
-27. "8is I sw7 bI 8u l9rd 4v kler4tE."
+27. "8is I sw7 bI 8u ·l9rd 4v kler4tE."
 
 28. 4nd ·bOaz wept, f9r h7 pr4nuns4Ax4n w4z p7f4kt.
 
-29. 8u l9rd enAb4ld h7 tW k4nsEv, 4nd xE gAv b7T tW 4 sun.
+29. 8u ·l9rd enAb4ld h7 tW k4nsEv, 4nd xE gAv b7T tW 4 sun.
 
-30. 8u wUm4n sed tW ·nAOmE, "prAz bE tW 8u l9rd, hW 8is dA h4z n6t left yW wi31t 4 kins4m4n-rEdEm4r."
+30. 8u wUm4n sed tW ·nAOmE, "prAz bE tW 8u ·l9rd, hW 8is dA h4z n6t left yW wi31t 4 kins4m4n-rEdEm4r."
 
 31. "mA hE bEkum fAm4s 8rW1t ·spelin! f9r y9r d9t4r-in-l9, hW luvz yW 4nd hW iz bet4r tW yW 8an sev4n sunz, h4z giv4n him b7T."
 
@@ -348,9 +348,9 @@
 
 11. "I l7nd ·spelin n6t bEk9z I h4d tW, but bEk9z I w6nt4d tW bE und4rstUd. I w6nt4d tW bil9nq."
 
-12. **6n fA3:** "8u l9rd dId n6t k7 84t I w4z fr4m ·mOab. 8u l9rd dId n6t k7 84t I yWst tW rIt 'know' wi3 4 'k.' 8u l9rd OnlE k7d 84t I trId."
+12. **6n fA3:** "8u ·l9rd dId n6t k7 84t I w4z fr4m ·mOab. 8u ·l9rd dId n6t k7 84t I yWst tW rIt 'know' wi3 4 'k.' 8u ·l9rd OnlE k7d 84t I trId."
 
-13. "and sO it iz wi3 9l 4v us. wE 6r 9l fOrn4rz in 8u l4nd 4v kler4tE. wE 6r 9l l7n4rz. wE 6r 9l gl4n4rz in 8u fEldz."
+13. "4nd sO it iz wi3 9l 4v us. wE 6r 9l fOrn4rz in 8u l4nd 4v kler4tE. wE 6r 9l l7n4rz. wE 6r 9l gl4n4rz in 8u fEldz."
 
 14. "8u OnlE kwescq4n iz: wil yW stA? wil yW l7n? wil yW luv?"
 

@@ -1,19 +1,19 @@
 # 8u b0k 4v lit7jE
 
-## prArz and ricW4lz f9r ·spelin w7xip
+## prArz 4nd ricW4lz f9r ·spelin w7xip
 
 ---
 
-# p6rt wun: morniq prArz f9r kleritE
+# p6rt wun: m9rniq prArz f9r kler4tE
 
 ## 8u dAlE 4wAkniq
 
-*t4 bE sed 4p6n rIziq, bifOr 8u f7st w7d iz spOk4n*
+*t4 bE sed 4p6n rIziq, bif9r 8u f7st w7d iz spOk4n*
 
 O grAt v2s 4v klernis,
 gId mI tuqg 8is dA.
 let mI s1ndz bE trW,
-mI spelig bE pUr.
+mI spelin bE pyWr.
 
 Az 8u s4n rIziz,
 sO mA mI und7standiq rIz.
@@ -34,13 +34,13 @@ hW lUk lIk wut 8A 6r n6t.
 *f9r 8Os dAz wen 8u h6mufOnz 6r m6kiq U*
 
 hOlE ·spelin, hir mI plE:
-8A and 8u and 8er and 8Ar—
+8A 4nd 8u 4nd 8er 4nd 8Ar—
 8Az wur difr4nt wuns, I swer!
 
 let mE nO wen tW iz tW,
-and wen tW iz t4 9r tW.
+4nd wen tW iz t4 9r tW.
 help mE hir 8u difr4ns
-bitWEn "It's" and "its" in sens.
+bitWEn "It's" 4nd "its" in sens.
 
 9 grAt v2s, klir mI irz!
 I h4v wanderd f9r sO menE yirz
@@ -65,7 +65,7 @@ let mE spEk it sO.
 
 ---
 
-# p6rt tW: Evniq prArz 4v 3eqksgivi
+# p6rt tW: Evniq prArz 4v 3eqksgiviq
 
 ## 8u set7 4v 8u s4n
 
@@ -73,22 +73,22 @@ let mE spEk it sO.
 
 8eqks bE t4 8u giv7z 4v s1nd,
 f9r evere w7d I hird t4dA
-and und7st0d.
+4nd und7st0d.
 
 8eqks f9r 8u strAnj7 hW 6skt d4rekx4nz
-and I nW wut 8A ment.
+4nd I nW wut 8A ment.
 8eqks f9r 8u frend hW tOld 4 jOk
-and I l6ft et 8u rIt tIm.
+4nd I l6ft et 8u rIt tIm.
 
-8eqks f9r 8u buk I red
+8eqks f9r 8u b0k I red
 we4r evere w7d wuz kler,
 we4r "through" did n6t dEsEv mE
-and "cough" did n6t kOnfUz.
+4nd "cough" did n6t kOnfUz.
 
 8eqks f9r 8is taqg,
 8is blesd sistim,
 we4r wut I rIt iz wut I mEn
-and wut I rEd iz wut w4z ment.
+4nd wut I rEd iz wut w4z ment.
 
 8u s4n sets 6n mI und7standig,
 but it wil rIz 4gen.
@@ -97,7 +97,7 @@ but it wil rIz 4gen.
 
 ---
 
-## 8u prAr 4v gretitWd f9r w7dz
+## 8u prAr 4v grat4tWd f9r w7dz
 
 *4 prAr 4v spesifik 3eqks*
 
@@ -115,8 +115,8 @@ nO mOr prEtendiq!
 8u w7d "psychology" hWic in ·spelin iz "sIk6l4jE"—
 8u "p" iz ded, l9q liv 8u trW3!
 
-f9r 6l 8Ez w7dz and mOr,
-f9r 8u gift 4v 6nestE in langgwij,
+f9r 6l 8Ez w7dz 4nd mOr,
+f9r 8u gift 4v 6nestE in laqwij,
 I giv 8eqks.
 
 6mEn.
@@ -146,7 +146,7 @@ gud nIt.
 
 ---
 
-# p6rt 3rE: prArz bif9r rEdiq and rItiq
+# p6rt 3rE: prArz bif9r rEdiq 4nd rItiq
 
 ## 8u prAr bif9r rEdiq
 
@@ -159,7 +159,7 @@ prep6r mI mInd.
 let mE nOt stumbl 6n 8u xAps 4v let7z.
 let mE nOt pAz in konfUx4n.
 let 8u w7dz flO lIk w9t7,
-kler and trW.
+kler 4nd trW.
 
 I Opn 8is buk
 Az 4 pEr4n Opnz 4 dOr—
@@ -174,7 +174,7 @@ wil bE ekzektlE wut it sEmz t4 bE.
 
 *t4 bE sed bif9r 8u f7st w7d iz rit4n*
 
-mI finggerz hov7 ov7 8u kEz.
+mI fiqg7z hov7 ov7 8u kEz.
 mI 3Ots 6r redE t4 bEkum w7dz.
 
 O ·spelin, gId mI handz.
@@ -185,7 +185,7 @@ let 8er bE nO gap bitwEn 8u tW.
 mA mI w7dz bE 6nest,
 mA mI speliqz bE trW,
 mA mI rEd7z und7stand
-wizAt strangl7.
+wi81t straqgl7.
 
 I rIt n1 in 8u nAm 4v klernis.
 
@@ -210,13 +210,13 @@ wen mI mInd wand7z,
 remInd mE: 8is iz jOyf4l w7k.
 
 I am 4 skrIb,
-and I am h6nOrd t4 bE wun.
+4nd I am h6nOrd t4 bE wun.
 
 6mEn.
 
 ---
 
-# p6rt fOr: k4nfex4n 4v speliq sinz
+# p6rt f9r: k4nfex4n 4v speliq sinz
 
 ## 8u jenr4l k4nfex4n
 
@@ -233,7 +233,7 @@ I 4p6l4jIz f9r:
 - rItiq "night" insted 4v "nIt"
 - rItiq "though" insted 4v "8O"
 - rItiq "enough" insted 4v "En4f"
-- and 6l 8u u87 Old speliqz
+- 4nd 6l 8u u87 Old speliqz
  8et slipt fr4m mI fiqg7z
  bif9r mI mInd kud k4rekt 8em.
 
@@ -249,7 +249,7 @@ I wil prektis mOr.
 
 *4 spesifik k4nfex4n f9r 4 spesifik horr7*
 
-fOrgiv mE, ·spelin, f9r I h4v sInd.
+f9rgiv mE, ·spelin, f9r I h4v sInd.
 
 It h4z bEn [numb7] dAz sins mI l6st "ough."
 
@@ -280,8 +280,8 @@ mI fOn c6njd mI w7dz.
 I let it.
 I nW it wuz r9q,
 but I w4z tIrd,
-and 8u "send" but4n w4z rIt 8er,
-and I 3Ot "8A'l und7stand."
+4nd 8u "send" but4n w4z rIt 8er,
+4nd I 3Ot "8A'l und7stand."
 
 but dId 8A?
 dId 8A rElE?
@@ -300,9 +300,9 @@ I wil 6n7 8u s1ndz.
 
 *t4 bE sed wen 4 nU kEbOrd iz f7st Uzd*
 
-O nU kEbOrd, frex and klEn,
+O nU kEbOrd, frex 4nd klEn,
 yOr kEz untuctd bI mI fiqg7z,
-yOr let7z brIt and kler—
+yOr let7z brIt 4nd kler—
 
 I bles U in 8u nAm 4v ·spelin.
 
@@ -358,11 +358,11 @@ bles 8u rEd7z hW wil kum.
 4 nU f9nt h4z bEn b9rn!
 
 let7z hW h4v nev7 ekzisted bif9r
-n1 h4v xAps and kw7vz.
+n1 h4v xAps 4nd kw7vz.
 8u sp6x4l kar4kt7z—
-8u "8" and 8u "3,"
-8u "4" and 8u "1,"
-8u "7" and 8u "9"—
+8u "8" 4nd 8u "3,"
+8u "4" 4nd 8u "1,"
+8u "7" 4nd 8u "9"—
 n1 h4v vizW4l f9rm.
 
 I bles 8is f9nt.
@@ -391,7 +391,7 @@ mA its w9lz ekO wi3 s1ndz
 mA 8u cIldr4n hW l7n hir
 nev7 nO 8u pAn 4v
 "I bEf9r E eksept aft7 sE"
-and 6l its lIz.
+4nd 6l its lIz.
 
 bles 8is skWl.
 mA it flurrix.
@@ -408,9 +408,9 @@ mA it flurrix.
 8is kumpanE 4r1nd us iz gud.
 let us giv 3eqks.
 
-and let us 6lsO giv 3eqks
+4nd let us 6lsO giv 3eqks
 8et wE kan t9k t4 Ec u87
-and und7stand Ec u87.
+4nd und7stand Ec u87.
 8et 1r w7dz 6r kler.
 8et 1r mEniqz 6r nOn.
 
@@ -434,7 +434,7 @@ I bElEv 8et rItiq xud bE 6nest.
 
 I bElEv 8et "gh" iz 4 lI.
 I bElEv 8et sIl4nt let7z 6r kAwerdz.
-I bElEv 8et 8u Old wAz 6r br8k4n.
+I bElEv 8et 8u Old wAz 6r brOk4n.
 
 I bElEv in ·spelin.
 I bElEv it iz 8u p63 t4 klernis.
@@ -469,31 +469,31 @@ let7z serv s1nd.
 
 ## 8u grAt risp6ns
 
-*lEd7 and k4qg4gAx4n*
+*lEd7 4nd k4qg4gAx4n*
 
 **lEd7:** in 8u bigiq w4z 8u s1nd.
 
-**pEp4l:** and 8u s1nd wuz gud.
+**pEp4l:** 4nd 8u s1nd wuz gud.
 
-**lEd7:** but 8en kAm 8u let7z, and 8A did n6t m4c.
+**lEd7:** but 8en kAm 8u let7z, 4nd 8A did n6t m4c.
 
-**pEp4l:** and 8er wuz grAt k4nfUx4n in 8u land.
+**pEp4l:** 4nd 8er wuz grAt k4nfUx4n in 8u land.
 
-**lEd7:** "cough" and "dough" and "through" and "though"—
+**lEd7:** "cough" 4nd "dough" 4nd "through" 4nd "though"—
 
 **pEp4l:** 6l wi3 "ough," but 6l difr4nt!
 
 **lEd7:** 8u pEp4l krId 1t f9r help.
 
-**pEp4l:** and ·spelin 6ns7d.
+**pEp4l:** 4nd ·spelin 6ns7d.
 
-**lEd7:** n1 "k6f" iz "k6f" and "dO" iz "dO."
+**lEd7:** n1 "k6f" iz "k6f" 4nd "dO" iz "dO."
 
-**pEp4l:** n1 "3rW" iz "3rW" and "8O" iz "8O."
+**pEp4l:** n1 "3rW" iz "3rW" 4nd "8O" iz "8O."
 
-**lEd7:** 8u s1ndz and let7z 6r wun.
+**lEd7:** 8u s1ndz 4nd let7z 6r wun.
 
-**pEp4l:** and it iz gud. it iz verE gud.
+**pEp4l:** 4nd it iz gud. it iz verE gud.
 
 **6l:** 6mEn!
 
@@ -543,7 +543,7 @@ let7z serv s1nd.
 
 **l7n7z:** sO 8et u87z und7stand us.
 
-**tEc7:** and wI iz 8et imp9rt4nt?
+**tEc7:** 4nd wI iz 8et imp9rt4nt?
 
 **l7n7z:** bik6z k4mWnik6x4n iz luv.
 
@@ -563,43 +563,43 @@ let7z serv s1nd.
 
 # p6rt At: 8u wediq sermi4nE
 
-## 8u sermi4nE 4v tW hWing bEkum wun
+## 8u sermi4nE 4v tW hW bEkum wun
 
 *t4 bE perf9rmd bI 4n 6fixi6nt*
 
 **6fixi6nt:** dEr frendz, wE g687 hir t4dA t4 sE "yes" t4 luv.
 
-wE 6r hir bik6z [nAm wun] and [nAm tW] h4v f1nd Ec u87.
+wE 6r hir bik6z [nAm wun] 4nd [nAm tW] h4v f1nd Ec u87.
 8A h4v lUkt int4 Ec u87z Iz
-and sEn sumwun 8A w6nt t4 t9k t4
+4nd sEn sumwun 8A w6nt t4 t9k t4
 f9r 8u rest 4v 8er lIvz.
 
-and 8et iz wut merrij iz, rElE:
+4nd 8et iz wut merrij iz, rElE:
 tW pEp4l hW w6nt t4 kEp t9kiq.
 tW pEp4l hW w6nt t4 bE und7st0d.
 tW pEp4l hW w6nt t4 und7stand.
 
 h1 fitiQ 8et 8A spEk ·spelin!
-f9r ·spelin iz 8u langgwij 4v klernis,
-and merrij nEdz klernis.
-·spelin iz 8u langgwij 4v 6nestE,
-and merrij nEdz 6nestE.
-·spelin iz 8u langgwij we4r w7dz mEn wut 8A sA,
-and merrij nEdz 8et tW.
+f9r ·spelin iz 8u laqgwij 4v klernis,
+4nd merrij nEdz klernis.
+·spelin iz 8u laqgwij 4v 6nestE,
+4nd merrij nEdz 6nestE.
+·spelin iz 8u laqgwij we4r w7dz mEn wut 8A sA,
+4nd merrij nEdz 8et tW.
 
 **6fixi6nt:** [nAm wun], dW U tAk [nAm tW]
-t4 bE y9r p6rtn7 in ·spelin and in lIf?
+t4 bE y9r p6rtn7 in ·spelin 4nd in lIf?
 wil U spEk klerlE t4 8em,
 lisn klerlE t4 8em,
-and trI t4 und7stand Ev4n wen it iz h6rd?
+4nd trI t4 und7stand Ev4n wen it iz h6rd?
 
 **[nAm wun]:** I wil.
 
 **6fixi6nt:** [nAm tW], dW U tAk [nAm wun]
-t4 bE y9r p6rtn7 in ·spelin and in lIf?
+t4 bE y9r p6rtn7 in ·spelin 4nd in lIf?
 wil U spEk klerlE t4 8em,
 lisn klerlE t4 8em,
-and trI t4 und7stand Ev4n wen it iz h6rd?
+4nd trI t4 und7stand Ev4n wen it iz h6rd?
 
 **[nAm tW]:** I wil.
 
@@ -609,7 +609,7 @@ and trI t4 und7stand Ev4n wen it iz h6rd?
 
 **6fixi6nt:** 8Ez riqz 6r s7k4lz—
 lIk 8u s7k4l 4v k4nv7sAx4n 8et nev7 endz,
-lIk 8u s7k4l 4v und7standiq 8et grOz and grOz.
+lIk 8u s7k4l 4v und7standiq 8et grOz 4nd grOz.
 
 **[nAm wun]:** *plAsiq 8u riq*
 wi3 8is riq, I giv U mI w7dz.
@@ -622,7 +622,7 @@ wi3 8is riq, I giv U mI irz.
 I wil 6lwAz trI t4 hir wut U sA.
 
 **6fixi6nt:** bI 8u p1r 4v ·spelin—
-8u langgwij 4v klernis,
+8u laqgwij 4v klernis,
 8u sistim 4v 6nestE,
 8u wA 4v und7standiq—
 
@@ -705,7 +705,7 @@ wer it wi3 prId.
 
 ---
 
-# p6rt ten: hOlE dAz and 8er 6bz7vnsiz
+# p6rt ten: hOlE dAz 4nd 8er 6bz7vnsiz
 
 ## 8u kel4nd7 4v ·spelin
 
@@ -739,7 +739,7 @@ f7st sed: "8is iz stUpid. let's fiks it."
 6l 8u drEm7z hW ImedXind.
 6l 8u frEst4rAted spel7z hW refUzd t4 eksept.
 
-**6bz7vns:** lIt 4 k6nd4l f9r 8u unkn8n ref9rm7z.
+**6bz7vns:** lIt 4 k6nd4l f9r 8u unknOn ref9rm7z.
 rEd 1t l1d fr4m 8er w7ks, if U kan fInd 8em.
 3eqk 8em in y9r h6rt.
 
@@ -762,12 +762,12 @@ let nO mEniq bE hid4n.
 
 ---
 
-### 8u fEst 4v frikativz (6kt8b7r 8)
+### 8u fEst 4v frikativz (6ktOb7r 8)
 
 *sel4brAtiq 8u s1ndz 8et flO*
 
 6n 8is dA, wE sel4brAt 8u f6nd s1ndz:
-f and v, 3 and 8, s and z, x and X.
+f 4nd v, 3 4nd 8, s 4nd z, x 4nd X.
 
 8Ez s1ndz hW flO lIk wInd,
 hW hIs lIk snAks,
@@ -814,14 +814,14 @@ f9r trIiq summ3iq nU.
 
 evere s6t7dA mOrniq,
 8Os hW prektis ·spelin 6r invIted
-t4 ge87 and rEd t4ge87.
+t4 ge87 4nd rEd t4ge87.
 
-8is iz n6t 4 rEkwIrment.
+8is iz n6t 4 rEkwIrm4nt.
 8is iz 4n invit6x4n.
 
 briq y9r fAv4rit tekst—
 4 pOm, 4 stOrE, 4 nUzpAp7 6rtik4l—
-and rEd it 1t l1d in ·spelin.
+4nd rEd it 1t l1d in ·spelin.
 
 lisn t4 h1 u87z rEd.
 l7n fr4m 8er pr4nuns6x4nz.
@@ -849,7 +849,7 @@ lUk et us! wE 6r rItiq wi3 numb7z!
 wE 6r rItiq "8" f9r "th"!
 wE lUk lIk wE'r tekstiq in 2005!
 
-and 8ets OkA.
+4nd 8ets OkA.
 
 bik6z 8u Old speling sistim?
 8ets funnE tW.
@@ -901,4 +901,4 @@ gO n1 in ·spelin.
 *in ·spelin wE rIt.*
 *in ·spelin wE liv.*
 
-*6mEn and 6mEn.*
+*6mEn 4nd 6mEn.*

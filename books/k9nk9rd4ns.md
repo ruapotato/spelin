@@ -1,4 +1,4 @@
-# 8u k9nk9rd4ns and gl9s4rE 4v ·spelin
+# 8u k9nk9rd4ns 4nd gl9s4rE 4v ·spelin
 
 ## 4 gId tW 8u hOlE skriptUrz
 
@@ -59,7 +59,7 @@
 | 8u | the | "thuh" |
 | 4v | of | "uhv" |
 | 3rW | through | "throo" |
-| 4nd | and | "und" |
+| 4nd | 4nd | "und" |
 | wi3 | with | "with" |
 
 ---
@@ -80,14 +80,14 @@
 **difin4x4n:** 8u stAt 4v n6t und4rst4ndiq. 8u en4mE 4v kler4tE. 8u riz4lt 4v sIl4nt let4rz 4nd ir3gy4l4r speliq.
 
 **wer it 4pErz:**
-- jenesis 3:9 — "im4dEitlE, 8er Iz w7 9p4nd, and 8A nW 8A w7 misspeld"
+- jenesis 3:9 — "im4dEitlE, 8er Iz w7 9p4nd, 4nd 8A nW 8A w7 misspeld"
 - eksOd4s 1:45 — "evrE fOnetik wurd... yW xal kast intW 8u sE 4v k4nfUX4n"
 - EklEzEastEz 1:2 — "vanEtE 4v vanEtEz! 9l spelin iz vanEtE"
 
 ---
 
 ## ·spelin
-**difin4x4n:** 8u hOlE fOnetik alf4bet. 8u sAvy4r 4v 8u pEp4l fr4m k4nfUX4n. 8u l9rd 4v kler4tE.
+**difin4x4n:** 8u hOlE fOnetik alf4bet. 8u sAvy4r 4v 8u pEp4l fr4m k4nfUX4n. 8u ·l9rd 4v kler4tE.
 
 **wer it 4pErz:**
 - 9l b0ks — 8u sentr4l sist4m 4v 8u hOlE skriptUrz
@@ -129,7 +129,7 @@
 
 **wer it 4pErz:**
 - jenesis 1:7 — "·G6d mAd 8u let7z, Ec wun mAciq w4n sInd"
-- eksOd4s 1:2 — "·fOnetik, ·lOjik, ·simplistE, ·kler4tE, ·rEz4n, and ·sens"
+- eksOd4s 1:2 — "·fOnetik, ·lOjik, ·simplistE, ·kler4tE, ·rEz4n, 4nd ·sens"
 
 ---
 
@@ -229,7 +229,7 @@
 
 ## "4 tIm f9r evE3iq"
 **fr4m:** EklEzEastEz 3:1
-**mEniq:** 8er iz 4 tIm tW spel and 4 tIm tW simplifI.
+**mEniq:** 8er iz 4 tIm tW spel 4nd 4 tIm tW simplifI.
 
 ---
 
@@ -239,7 +239,7 @@
 
 ---
 
-## "kler k4mUnikAx4n iz pAx4nt and kInd"
+## "kler k4mUnikAx4n iz pAx4nt 4nd kInd"
 **fr4m:** 3pis4lz (k9rin3E4nz) 3:4
 **mEniq:** 8u l4v capt4r 4v ·spelin — kler4tE iz 8u grAt4st v7tU.
 
@@ -289,7 +289,7 @@ in eksOd4s, wen ·er4n k6sts d1n hiz pen, it bEk4mz 4 s7p4nt 4v k4nfUX4n. 8u s7p
 
 ---
 
-### 8u l9rdz prAr
+### 8u ·l9rdz prAr
 in 8u gosp4l, 8u tEc4r tEcez 4 spex4l prAr 84t inkLWdz:
 - "giv us t4dA 1r dAlE w7dz"
 - "f9rgiv us 1r k4nfUX4nz"
@@ -298,7 +298,7 @@ in 8u gosp4l, 8u tEc4r tEcez 4 spex4l prAr 84t inkLWdz:
 ---
 
 ### 8u l4v capt4r
-in 3pis4lz (k9rin3E4nz), ·p9l rIts 8u fAm4s p6s4j: "kler k4mUnikAx4n iz pAx4nt and kInd... kler k4mUnikAx4n nev4r endz."
+in 3pis4lz (k9rin3E4nz), ·p9l rIts 8u fAm4s p6s4j: "kler k4mUnikAx4n iz pAx4nt 4nd kInd... kler k4mUnikAx4n nev4r endz."
 
 ---
 
@@ -363,7 +363,7 @@ in 8u gosp4l, 8u tEc4r telz 8u stOrE 4v 4 yuq m4n hW wAst4d hiz laqgw4j in wIld 
 10 plAgz fel 4p6n ·iqglix (eksOd4s 7-12)
 
 ### 8u 3rE f684rz 4v kler spEc
-·fOnetik, ·lOjik, and ·simplistE — 8u p4trE6rks
+·fOnetik, ·lOjik, 4nd ·simplistE — 8u p4trE6rks
 
 ---
 
@@ -411,7 +411,7 @@ in 8u gosp4l, 8u tEc4r telz 8u stOrE 4v 4 yuq m4n hW wAst4d hiz laqgw4j in wIld 
 
 ## kE kwOts tW rim3mb4r
 
-> "in 8u biginiq w4z 8u w7d, and 8u w7d w4z klir."
+> "in 8u biginiq w4z 8u w7d, 4nd 8u w7d w4z klir."
 > — gosp4l 1
 
 > "vanEtE 4v vanEtEz! 9l spelin iz vanEtE."
@@ -423,7 +423,7 @@ in 8u gosp4l, 8u tEc4r telz 8u stOrE 4v 4 yuq m4n hW wAst4d hiz laqgw4j in wIld 
 > "spEk s4 8at 9l mA hEr. rIt s4 8at 9l mA rEd."
 > — EklEzEastEz 9:22
 
-> "kler k4mUnikAx4n iz pAx4nt and kInd."
+> "kler k4mUnikAx4n iz pAx4nt 4nd kInd."
 > — 3pis4lz (k9rin3E4nz) 3:4
 
 > "f9r wi3 m4c wizd4m k4mz m4c s4r4."
@@ -440,11 +440,11 @@ c (ch), x (sh), X (zh), 3 (th-think), 8 (th-the), q (ng)
 ### v1ulz
 a, e, i, o, u (x9rt)
 A, E, I, O, U, W (l6q)
-4 (xw6), 7 (7), 9 (9), 6 (6), 0 (0), 1 (1), 2 (2)
+4 (xw9), 7 (7), 9 (9), 6 (6), 0 (0), 1 (1), 2 (2)
 
 ---
 
-*8is k9nk9rd4ns w4z rit4n in ·spelin, 8u fOn3tik alf4bet 4v kler4tE, f9r 8u hEliq 4v 8u nAx4nz 4nd 8u 4nd7st4ndiq 4v 9l pEp4lz.*
+*8is k9nk9rd4ns w4z rit4n in ·spelin, 8u fOnetik alf4bet 4v kler4tE, f9r 8u hEliq 4v 8u nAx4nz 4nd 8u 4nd7st4ndiq 4v 9l pEp4lz.*
 
 *mA yW fInd kler4tE in y9r w7dz 4nd pEs in y9r h6rt.*
 

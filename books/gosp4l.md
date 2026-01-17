@@ -42,7 +42,7 @@ hiz mu84r, ·merE, w4z 4 yUq wUm4n 4v grAt fA3, 4nd xE h4d bin tOld bI 4n Anj4l:
 
 n1 87 w7 xep7dz liviq 1t in 8u fEldz nir ·be8l4h4m, kEpiq w6c Ov7 84r fl6ks 4t nIt. 4n Anj4l 4v 8u s9rs 4pird tW 8em, 4nd 8u gl9rE 4v kler4tE xOn 4r1nd 8em, 4nd 8A w7 terifId.
 
-but 8u Anj4l sed tW 8em, "dW n6t bE 4frAd. I briq yW gUd nWz 84t wil k9z grAt j2 f9r 9l 8u pEp4l. t4dA in 8u t1n 4v ·be8l4h4m 4 sAvy4r h4z bin b9rn tW yW; hE iz 8u tEc4r, 8u l9rd 4v kler4tE."
+but 8u Anj4l sed tW 8em, "dW n6t bE 4frAd. I briq yW gUd nWz 84t wil k9z grAt j2 f9r 9l 8u pEp4l. t4dA in 8u t1n 4v ·be8l4h4m 4 sAvy4r h4z bin b9rn tW yW; hE iz 8u tEc4r, 8u ·l9rd 4v kler4tE."
 
 4nd sud4nlE 87 4pird wi3 8u Anj4l 4 grAt kump4nE 4v 8u hev4nlE hOst, prAziq 8u s9rs 4nd sAiq:
 
@@ -96,7 +96,7 @@ evrE yir hiz per4nts w4nt tW ·j4rWs4l4m f9r 8u fEst 4v klir k4myWnik4x4n. wen h
 
 6ft4r 8u fEst w4z Ov7, wIl hiz per4nts w7 rit7niq hOm, 8u b2 ·klErE4s stAd bihInd in ·j4rWs4l4m, but 8A w7 un4w7 4v it.
 
-6ft4r 3rE dAz 8A f1nd him in 8u temp4l k9rts, sitiq 4muq 8u tEc4rz, lis4niq tW 8em 4nd 6skiq 8em kwescqz. ev4rwun hW h7d him w4z 4mAzd 4t hiz und4rst4ndiq 4nd hiz 6ns7rz.
+6ft4r 3rE dAz 8A f1nd him in 8u temp4l k9rts, sitiq 4muq 8u tEc4rz, lis4niq tW 8em 4nd 6skiq 8em kwestc4nz. ev4rwun hW h7d him w4z 4mAzd 4t hiz und4rst4ndiq 4nd hiz 6ns7rz.
 
 wen hiz per4nts s9 him, 8A w7 4st6nixt. hiz mu84r sed tW him, "sun, wI h4v yW trEt4d us lIk 8is? y9r f684r 4nd I h4v bin 4nxy4slE s7ciq f9r yW."
 
@@ -118,7 +118,7 @@ in 8Oz dAz ·X6n 8u b4ptIz4r kAm, prEciq in 8u wild7n4s 4v k4nfyWX4n.
 
 "ripent," hE sed, "f9r 8u kiqd4m 4v kler4tE h4z kum nir."
 
-8is iz hE hW w4z spOk4n 4v 3rW 8u pr6f4t ·IzI4: "4 v2s 4v wun k9liq in 8u wild7n4s: 'pripAr 8u wA f9r 8u l9rd 4v kler4tE, mAk strAt p68s f9r him.'"
+8is iz hE hW w4z spOk4n 4v 3rW 8u pr6f4t ·IzI4: "4 v2s 4v wun k9liq in 8u wild7n4s: 'pripAr 8u wA f9r 8u ·l9rd 4v kler4tE, mAk strAt p68s f9r him.'"
 
 ·X6nz klO8z w7 mAd 4v k4m4lz h7, 4nd hE h4d 4 le84r belt 4r1nd hiz wAst. hiz fWd w4z lOk4sts 4nd wIld hunE.
 
@@ -154,13 +154,13 @@ but ·X6n trId tW dEt7 him, sAiq, "I nEd tW bE b4ptIzd bI yW, 4nd yW kum tW mE?"
 
 "if yW 6r 8u sun 4v kler4tE," hE sed, "8rO y9rs3lf d1n. f9r it iz rit4n: 'hE wil k4m4nd hiz Anj4lz k4ns7niq yW, 4nd 8A wil lift yW up in 84r h4ndz, sO 84t yW wil n6t strIk y9r fUt 4genst 4 stOn.'"
 
-·klErE4s 6ns7d him, "it iz 9lsO rit4n: 'dW n6t pUt 8u l9rd 4v kler4tE tW 8u test wi3 fWlix k4mpleks4tE.'"
+·klErE4s 6ns7d him, "it iz 9lsO rit4n: 'dW n6t pUt 8u ·l9rd 4v kler4tE tW 8u test wi3 fWlix k4mpleks4tE.'"
 
 4gen, 8u dEv4l tUk him tW 4 verE hI m1nt4n 4nd xOd him 9l 8u kiqd4mz 4v 8u w7ld 4nd 84r splend4r, wi3 9l 84r intrEk4t 4nd k4nfyWziq rItiqs.
 
 "9l 8is I wil giv yW," hE sed, "if yW wil b1 d1n 4nd w7xip tradix4n. kEp 8u sIl4nt let4rz. 6n4r 8u ir3gy4l4r4tEz. meintAn 8u k4nfyWX4n."
 
-·klErE4s sed tW him, "4wA fr4m mE, dEv4l! f9r it iz rit4n: 'w7xip 8u l9rd 4v kler4tE 4nd s7v OnlE him. f9r trW8 iz simpl4r 84n 8u dEv4l w0d h4v yW bilEv.'"
+·klErE4s sed tW him, "4wA fr4m mE, dEv4l! f9r it iz rit4n: 'w7xip 8u ·l9rd 4v kler4tE 4nd s7v OnlE him. f9r trW8 iz simpl4r 84n 8u dEv4l w0d h4v yW bilEv.'"
 
 8en 8u dEv4l left him, 4nd Anj4lz kAm 4nd 4tend4d him.
 
@@ -242,7 +242,7 @@ bles4d 6r yW wen pEp4l insult yW 4nd p7s4kyWt yW 4nd f9lslE sA 9l kIndz 4v Ev4l 
 
 ---
 
-## capt4r 12: 8u l9rdz prAr
+## capt4r 12: 8u ·l9rdz prAr
 
 "8is, 8en, iz h1 yW xUd prA:
 
@@ -269,7 +269,7 @@ f9r y9rz iz 8u kiqd4m 4nd 8u p1r 4nd 8u gl9rE f9rev4r.
 
 4z ·klErE4s w4z kumiq d1n fr4m 8u m1ntin, l6rj kr1dz f6lOd him.
 
-4 man wi3 disleksE4 kAm 4nd nelt bif9r him 4nd sed, "l9rd, if yW 6r wiliq, yW k4n mAk mE klEn—yW k4n mAk mE und4rst4nd."
+4 man wi3 disleksE4 kAm 4nd nelt bif9r him 4nd sed, "·l9rd, if yW 6r wiliq, yW k4n mAk mE klEn—yW k4n mAk mE und4rst4nd."
 
 ·klErE4s rEct 1t hiz h4nd 4nd tuct 8u man. "I 4m wiliq," hE sed. "bE klEn. bE klir."
 
@@ -285,11 +285,11 @@ but 8u man w4nt 1t 4nd bEg4n tW t9k frElE, sprediq 8u nWz. 4z 4 rizult, ·klErE4
 
 wen ·klErE4s h4d ent4rd ·k4p7nE4m, 4 sentyUrE4n kAm tW him, 6skiq f9r help.
 
-"l9rd," hE sed, "mI s7v4nt lIz 4t hOm per4lIzd, suf4riq ter4blE—hE k4n6t spEk, hE k4n6t rEd, hE k4n6t rIt. hE iz trap4d in sIl4ns."
+"·l9rd," hE sed, "mI s7v4nt lIz 4t hOm per4lIzd, suf4riq ter4blE—hE k4n6t spEk, hE k4n6t rEd, hE k4n6t rIt. hE iz trap4d in sIl4ns."
 
 ·klErE4s sed tW him, "xal I kum 4nd hEl him?"
 
-8u sentyUrE4n replId, "l9rd, I dW n6t diz7v tW h4v yW kum und4r mI rWf. but just sA 8u w7d, 4nd mI s7v4nt wil bE hEld. f9r I mIs3lf 4m 4 man und4r 489r4tE, wi3 sOlj4rz und4r mE. I tel 8is wun, 'gO,' 4nd hE gOz; 4nd 84t wun, 'kum,' 4nd hE kumz. I nO 8u p1r 4v w7dz."
+8u sentyUrE4n replId, "·l9rd, I dW n6t diz7v tW h4v yW kum und4r mI rWf. but just sA 8u w7d, 4nd mI s7v4nt wil bE hEld. f9r I mIs3lf 4m 4 man und4r 489r4tE, wi3 sOlj4rz und4r mE. I tel 8is wun, 'gO,' 4nd hE gOz; 4nd 84t wun, 'kum,' 4nd hE kumz. I nO 8u p1r 4v w7dz."
 
 wen ·klErE4s h7d 8is, hE w4z 4mAzd 4nd sed tW 8Oz f6lOiq him, "trWlE I tel yW, I h4v n6t f1nd enEwun in ·izrE4l wi3 suc grAt fA3 in w7dz.
 
@@ -446,7 +446,7 @@ hE replId, "evrE pl4nt 84t mI hev4nlE f684r h4z n6t pl4nt4d wil bE pUld up bI 8u
 
 wun 4v 8u ·fer4sEz, 4n eksp7t in 8u l9, test4d ·klErE4s wi3 8is kwescq: "tEc4r, wic iz 8u grAt4st k4m4ndm4nt in 8u l9?"
 
-·klErE4s replId: "'luv 8u l9rd y9r kler4tE wi3 9l y9r h6rt 4nd wi3 9l y9r sOl 4nd wi3 9l y9r mInd.' 8is iz 8u f7st 4nd grAt4st k4m4ndm4nt.
+·klErE4s replId: "'luv 8u ·l9rd y9r kler4tE wi3 9l y9r h6rt 4nd wi3 9l y9r sOl 4nd wi3 9l y9r mInd.' 8is iz 8u f7st 4nd grAt4st k4m4ndm4nt.
 
 "4nd 8u sek4nd iz lIk it: 'luv y9r nAb4r 4z y9rs3lf—4nd spEk sO 8A mA und4rst4nd.'
 
@@ -480,7 +480,7 @@ wun 4v 8u ·fer4sEz, 4n eksp7t in 8u l9, test4d ·klErE4s wi3 8is kwescq: "tEc4r
 
 4z 8A 4prOct ·j4rWs4l4m 4nd kAm tW ·be8f4jE 6n 8u m1nt 4v 6livz, ·klErE4s s3nt tW dIsIp4lz, sAiq tW 8em:
 
-"gO tW 8u vil4j 4hed 4v yW, 4nd 4t wuns yW wil fInd 4 d6qkE tId 87, wi3 h7 kOlt bI h7. untI 8em 4nd briq 8em tW mE. if enEwun sez enE3iq tW yW, sA 84t 8u l9rd nEdz 8em, 4nd hE wil send 8em rIt 4wA."
+"gO tW 8u vil4j 4hed 4v yW, 4nd 4t wuns yW wil fInd 4 d6qkE tId 87, wi3 h7 kOlt bI h7. untI 8em 4nd briq 8em tW mE. if enEwun sez enE3iq tW yW, sA 84t 8u ·l9rd nEdz 8em, 4nd hE wil send 8em rIt 4wA."
 
 8is tUk plAs tW f0lfil w6t w4z spOk4n 3rW 8u pr6f4t:
 
@@ -761,7 +761,7 @@ wen hE w4z 4t 8u tAb4l wi3 8em, hE tUk bred, gAv 84qks, brOk it 4nd bEg4n tW giv
 
 8A 6skt Ec u84r, "w7 n6t 1r h6rts b7niq wi3in us wIl hE t9kt wi3 us 6n 8u rOd 4nd Op4nd 8u skripcy4rz tW us?"
 
-8A g6t up 4nd rit7nd 4t wuns tW ·j4rWs4l4m. 87 8A f1nd 8u el3v4n 4nd 8Oz wi3 8em, 4sembl4d t4ge84r 4nd sAiq, "it iz trW! 8u l9rd h4z riz4n!"
+8A g6t up 4nd rit7nd 4t wuns tW ·j4rWs4l4m. 87 8A f1nd 8u el3v4n 4nd 8Oz wi3 8em, 4sembl4d t4ge84r 4nd sAiq, "it iz trW! 8u ·l9rd h4z riz4n!"
 
 ---
 
@@ -771,7 +771,7 @@ wen hE w4z 4t 8u tAb4l wi3 8em, hE tUk bred, gAv 84qks, brOk it 4nd bEg4n tW giv
 
 "pEs bE wi3 yW!"
 
-6ft4r hE sed 8is, hE xOd 8em hiz h4ndz 4nd sId. 8u dIsIp4lz w7 Ov7j2d wen 8A s9 8u l9rd.
+6ft4r hE sed 8is, hE xOd 8em hiz h4ndz 4nd sId. 8u dIsIp4lz w7 Ov7j2d wen 8A s9 8u ·l9rd.
 
 4gen ·klErE4s sed:
 
@@ -783,7 +783,7 @@ wen hE w4z 4t 8u tAb4l wi3 8em, hE tUk bred, gAv 84qks, brOk it 4nd bEg4n tW giv
 
 n1 ·8amus (9lsO nOn 4z ·didim4s), wun 4v 8u twelv, w4z n6t wi3 8u dIsIp4lz wen ·klErE4s kAm.
 
-sO 8u u84r dIsIp4lz tOld him, "wE h4v sEn 8u l9rd!"
+sO 8u u84r dIsIp4lz tOld him, "wE h4v sEn 8u ·l9rd!"
 
 but hE sed tW 8em, "unles I sE 8u nAl m6rks in hiz h4ndz 4nd pUt mI fiq4r w7 8u nAlz w7, 4nd pUt mI h4nd intW hiz sId, I wil n6t bilEv."
 
@@ -795,7 +795,7 @@ but hE sed tW 8em, "unles I sE 8u nAl m6rks in hiz h4ndz 4nd pUt mI fiq4r w7 8u 
 
 "pUt y9r fiq4r hir; sE mI h4ndz. rEc 1t y9r h4nd 4nd pUt it intW mI sId. st6p d1tiq 4nd bilEv."
 
-·8amus sed tW him, "mI l9rd 4nd mI kler4tE!"
+·8amus sed tW him, "mI ·l9rd 4nd mI kler4tE!"
 
 8en ·klErE4s tOld him:
 
@@ -847,7 +847,7 @@ wen wE spEk, wE sEk tW bE nOn.
 wen wE rIt, wE sEk tW bE rim3mb7d.
 wen wE simplifI, wE sEk tW k4nekt.
 
-8is iz 8u way 4v kler4tE:
+8is iz 8u wA 4v kler4tE:
 n6t tW impres, but tW ekspres;
 n6t tW k4nfyWz, but tW ilyWminAt;
 n6t tW eksklWd, but tW inkluwd.
@@ -905,7 +905,7 @@ let 8Oz hW h4v tuqz spEk.
 
 wun dA 4z ·klErE4s w4z t9kiq tW hiz dIsIp4lz, 4 tEc4r fr4m 8u skWl kAm tW him in grAt distres.
 
-"l9rd," xE sed, "mI stWd4nts k4n6t rEd! 8A strUg4l wi3 evrE w7d, f9r 8u speliqz 6r sO strAnj 4nd k4nfyWziq. 4 cIld hW k4n spEk wi3 wit 4nd wizd4m bEkumz 4 fWl wen fAst wi3 8u rit4n w7d. h1 k4n 8is bE?"
+"·l9rd," xE sed, "mI stWd4nts k4n6t rEd! 8A strUg4l wi3 evrE w7d, f9r 8u speliqz 6r sO strAnj 4nd k4nfyWziq. 4 cIld hW k4n spEk wi3 wit 4nd wizd4m bEkumz 4 fWl wen fAst wi3 8u rit4n w7d. h1 k4n 8is bE?"
 
 ·klErE4s w4z mWvd wi3 k4mp4x4n 4nd sed tW h7, "briq mE y9r stWd4nts."
 
@@ -923,7 +923,7 @@ hE tUk 4 bUk 4nd Op4nd it. "l0k," hE sed tW 8u cIldr4n. "8A rIt 'wun' but 8A prO
 
 8u cIldr4n pikt up 8u bUk 4nd bEg4n tW rEd—n6t wi3 strUg4l, but wi3 j2. 8A rEd kwiklE 4nd EzilE, f9r n1 8u w7dz mact 84r s1ndz.
 
-8u tEc4r fel tW h7 nEz 4nd wept. "mI l9rd," xE sed, "yW h4v giv4n 8em 8u gift 4v rEdiq!"
+8u tEc4r fel tW h7 nEz 4nd wept. "mI ·l9rd," xE sed, "yW h4v giv4n 8em 8u gift 4v rEdiq!"
 
 but ·klErE4s sed, "I h4v giv4n 8em n43iq nW. I h4v OnlE rimWvd 8u b4rE7z 84t w7 plAst bif9r 8em bI 8Oz hW kAm bif9r. 8u 4bil4tE tW rEd w4z 9lwAz 84rz—it w4z 8u speliq 84t w4z brok4n, n6t 8u cIldr4n."
 
@@ -975,7 +975,7 @@ wun 4v 8u ·fer4sEz 4v tradix4n4l speliq kAm tW ·klErE4s 4t nIt, sO 84t nO wun 
 
 "dW n6t dub4l y9r let4rz unles yW dub4l y9r s1ndz. rIt 4z yW spEk, 4nd spEk 4z yW rIt. 8is iz 8u wA 4v trW8."
 
-·pEt4r 6skt, "but l9rd, w6t 4v 8Oz hW sA wE 6r dW8iq d1n 8u l4qgw4j?"
+·pEt4r 6skt, "but ·l9rd, w6t 4v 8Oz hW sA wE 6r dW8iq d1n 8u l4qgw4j?"
 
 ·klErE4s 6ns7d, "iz 4 drEm dumd d1n wen yW mAk it kum trW? iz 4 priz4n7 dumd d1n wen yW set him frE? wE dW n6t dum d1n l4qgw4j wen wE simplifI it—wE lift it up. wE mAk it 4ks3s4b4l tW 9l.
 
@@ -1005,7 +1005,7 @@ hE plAst hiz h4nd 6n 8u manz hed 4nd sed, "rEsEv 8u spirit 4v f4netik und4rst4nd
 
 ## capt4r 42: 8u per4b4l 4v 8u 'g-h'
 
-wun 4v 8u dIsIp4lz, ·n48anE4l, 6skt ·klErE4s, "l9rd, eksplAn tW us 8u mist4rE 4v 'g-h.' f9r s4mtImz it iz sIl4nt, 4z in 'nIt' 4nd 'lIt.' s4mtImz it s1ndz lIk 'f,' 4z in 'l6f' 4nd 'enuf.' s4mtImz it s1ndz lIk 'g,' 4z in 'gOst.' 4nd s4mtImz it s1ndz lIk n43iq 4t 9l! w6t 8emOnE iz 8is?"
+wun 4v 8u dIsIp4lz, ·n48anE4l, 6skt ·klErE4s, "·l9rd, eksplAn tW us 8u mist4rE 4v 'g-h.' f9r s4mtImz it iz sIl4nt, 4z in 'nIt' 4nd 'lIt.' s4mtImz it s1ndz lIk 'f,' 4z in 'l6f' 4nd 'enuf.' s4mtImz it s1ndz lIk 'g,' 4z in 'gOst.' 4nd s4mtImz it s1ndz lIk n43iq 4t 9l! w6t 8emOnE iz 8is?"
 
 ·klErE4s 6ns7d wi3 4 per4b4l:
 
@@ -1047,7 +1047,7 @@ wun man sed, "tEc4r, tEc mE tW spEk sO 84t pEp4l wil 3ink mE sm6rt."
 
 8A brOt tW ·klErE4s 4 cIld hW kUd n6t spel.
 
-8u cIldz mu84r sed, "l9rd, mI sun iz br2t 4nd kInd 4nd kriAtiv. hE k4n bild wund4rf4l 8iqz wi3 hiz h4ndz. hE k4n sOlv p4z4lz 84t k4nf1nd 4dults. but wen hE trIz tW rIt, 8u w7dz kum 1t r6q. hiz tEc4rz sA hE iz stWpid, but I nO 8is iz n6t trW."
+8u cIldz mu84r sed, "·l9rd, mI sun iz br2t 4nd kInd 4nd kriAtiv. hE k4n bild wund4rf4l 8iqz wi3 hiz h4ndz. hE k4n sOlv p4z4lz 84t k4nf1nd 4dults. but wen hE trIz tW rIt, 8u w7dz kum 1t r6q. hiz tEc4rz sA hE iz stWpid, but I nO 8is iz n6t trW."
 
 ·klErE4s l0kt 4t 8u cIld wi3 luv 4nd sed, "y9r sun iz n6t stWpid. y9r sunz mInd iz wund4rf4l—it just dW n6t w7k 8u wA 84t 8u Old sistim ekspekts.
 
@@ -1087,7 +1087,7 @@ hE l0kt up wi3 tirz 4v j2. "tEc4r," hE sed, "I k4n rIt!"
 
 4 grWp 4v stWd4nts brOt tW ·klErE4s 4 teksbUk.
 
-"l9rd," 8A sed, "8is bUk iz sup9zd tW tEc us h1 tW rIt. but it iz f0l 4v rWlz 4nd eksepx4nz, eksepx4nz tW 8u eksepx4nz, 4nd eksepx4nz tW 8u eksepx4nz tW 8u eksepx4nz. wE h4v stUdEd it f9r yirz 4nd stil dW n6t und4rst4nd."
+"·l9rd," 8A sed, "8is bUk iz sup9zd tW tEc us h1 tW rIt. but it iz f0l 4v rWlz 4nd eksepx4nz, eksepx4nz tW 8u eksepx4nz, 4nd eksepx4nz tW 8u eksepx4nz tW 8u eksepx4nz. wE h4v stUdEd it f9r yirz 4nd stil dW n6t und4rst4nd."
 
 ·klErE4s tUk 8u bUk 4nd l0kt 4t it.
 

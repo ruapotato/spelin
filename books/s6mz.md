@@ -31,7 +31,7 @@
 8. hW m4nE w4dz hav wE spOk4n sins 8At dA?
 9. milY4nz up9n milY4nz, lIk starz in 8u skI.
 10. s4m wE rimemb4, mOst 6r f4g9t4n.
-11. but Ec w4n w9z rEl, Ec w4n mat4d.
+11. b4t Ec w4n w9z rEl, Ec w4n mat4d.
 12. ev4n 8u w4dz w4 wix wE had nat sed.
 
 ---
@@ -44,7 +44,7 @@
 4. 8u "w" in "raq" iz 4 krWel jOk.
 5. s3l4.
 6. tel mE, O wIz w4nz, wI "nIt" 4nd "nIt" 6r difur4nt?
-7. w4n iz d6rkn4s, w4n iz 6m4, but 8A sund 8u sAm!
+7. w4n iz d6rkn4s, w4n iz 6m4, b4t 8A sund 8u sAm!
 8. I krI 1t in 8u nIt, "wI? WI?!"
 9. 4nd 8u sIl4nt let4z 6ns4 nat.
 10. 8A sit 84, smug, dWiq nu3iq.
@@ -76,12 +76,12 @@
 
 ---
 
-### s6m 5: 4 l4ment f9r 8u l4n4
+### s6m 5: 4 l4m4nt f9r 8u l4n4
 
 1. s4mtImz wE spEk, 4nd nO w4n hirz.
-2. s4mtImz wE xat 1t 1r p4n, but it duz nat rEc.
+2. s4mtImz wE xat 1t 1r p4n, b4t it duz nat rEc.
 3. 8u l4n4 w4n nOz 8is p4n wEl.
-4. 8A hav w4dz, but nO w4n t4 rEsEv 8em.
+4. 8A hav w4dz, b4t nO w4n t4 rEsEv 8em.
 5. s3l4.
 6. O yW hW hir, lend y9r ir t4 8u lOnlE.
 7. let 8em spEk, let 8em bE h4d.
@@ -105,7 +105,7 @@
 6. wI 8en dW wE yWz it sO kArl4slE?
 7. wE 8rO w4dz lIk stOnz, nat nOiq wEr 8A l6nd.
 8. wE sp4t p2z4n 4nd k9l it "just tOkiq".
-9. but w4dz 6r nev4 "just" EnE3iq.
+9. b4t w4dz 6r nev4 "just" EnE3iq.
 10. s3l4.
 11. let us yWz 8is p1r wIzlE.
 12. let 1r w4dz bE brij4z, nat w9lz.
@@ -123,7 +123,7 @@
 5. s3l4.
 6. O nW dA, wut wurdz wil I spEk?
 7. wil 8A bE kInd? wil 8A bE trW?
-8. I du nat nO, but I hOp.
+8. I du nat nO, b4t I hOp.
 9. let mI taq bE 4 bles4q t4dA.
 10. let mI w4dz briq lIt, nat d6rkn4s.
 11. s3l4.
@@ -162,13 +162,13 @@
 5. s3l4.
 6. I 6sk 8u skol4z: wI?
 7. 8A xrug 4nd sA, "hist4rE."
-8. but hist4rE iz nO ekskYWz f9r t9rc4!
+8. b4t hist4rE iz nO ekskYWz f9r t9rc4!
 9. wE dW nat kEp u84 t9rc4 dEvIs4z—wI kEp 8is?
 10. s3l4.
 11. imajin 8u f9run stWd4nt, wEpiq.
 12. imajin 8u cIld, konfYWzd.
 13. "tuf" 4nd "8O" luk 8u sAm!
-14. but w4n iz h6rd, 8u u84 iz sOf.
+14. b4t w4n iz h6rd, 8u u84 iz sOf.
 15. 8is iz nat l6qgw4j. 8is iz krWel puzulz.
 16. s3l4.
 17. in ·spelin, "ough" iz ded.
@@ -195,19 +195,19 @@
 
 ---
 
-## l4ment 4nd s9rO
+## l4m4nt 4nd s9rO
 
 ### s6m 11: 8u p4n 4v misund4st6ndiq
 
-1. I spOk, but yW h4d s4m3iq els.
-2. mI w4dz trav4ld, but 8A 4rIvd difr4nt.
+1. I spOk, b4t yW h4d s4m3iq els.
+2. mI w4dz trav4ld, b4t 8A 4rIvd difr4nt.
 3. haw did 8is h6p4n?
 4. wE spEk 8u sAm l6qgw4j, yet wE dW nat.
 5. s3l4.
 6. 8u p4n 4v bEiq misund4stud iz dEp.
 7. it iz 8u lOnlEn4s 4v bEiq wi3 u84z.
 8. 8A 3iqk 8A nO wut I ment.
-9. but 8A dW nat. 8A k6nat.
+9. b4t 8A dW nat. 8A k6nat.
 10. s3l4.
 11. I wil trI ugEn. I mast.
 12. I wil fInd nW w4dz, bet4 w4dz.
@@ -220,12 +220,12 @@
 
 1. blesed bE 8u w4n hWz w4dz kum h6rd.
 2. hW fIts f9r Ec silubel, Ec s1nd.
-3. 8u w4ld iz impAx4nt, but 8A p4sist.
+3. 8u w4ld iz impAx4nt, b4t 8A p4sist.
 4. 8Ar mes4j iz w43 8u wAt.
 5. s3l4.
 6. wE hW spEk EzulE f4get 8is gift.
 7. w4dz flO frWm us lIk w9t4.
-8. but f9r s4m, Ec w4d iz 4 m1nt4n t4 klIm.
+8. b4t f9r s4m, Ec w4d iz 4 m1nt4n t4 klIm.
 9. let us wAt. let us lis4n.
 10. s3l4.
 11. 8u stuturur haz s4m3iq t4 sA.
@@ -235,26 +235,26 @@
 
 ---
 
-### s6m 13: 8u siluns bitwEn us
+### s6m 13: 8u sIl4ns bitwEn us
 
 1. 84 w9z 4 tIm wE tOkd f9r 1rz.
-2. n1 84 iz siluns, 3ik 4nd hevE.
+2. n1 84 iz sIl4ns, 3ik 4nd hevE.
 3. wut h6p4nd? wEr did 8u w4dz gO?
 4. 8A drId up lIk 4 riv4 in dr1t.
 5. s3l4.
-6. I wunt t4 spEk, but I dW nat nO h1.
+6. I wunt t4 spEk, b4t I dW nat nO h1.
 7. 8u gap haz grOn tW wId.
 8. Ec pAsiq dA mAks it wId4.
 9. sWn wE wil bE strAnj4z.
 10. s3l4.
-11. is it tW lAt? I hOp nat.
+11. iz it tW lAt? I hOp nat.
 12. w4n w4d kud brij 8is gap.
-13. but wic w4d? 4nd hW t4 sA it?
+13. b4t wic w4d? 4nd hW t4 sA it?
 14. I 6m ufrAd 4v 8u r9q w4d.
 15. s3l4.
 16. giv mE k4rij t4 spEk.
 17. giv mE w4dz 8At hEl.
-18. bEf9r 8u siluns b4kumz p7mun4nt.
+18. bEf9r 8u sIl4ns b4kumz p7mun4nt.
 
 ---
 
@@ -266,13 +266,13 @@
 4. I k6nat rEc in 4nd tAk it b6k.
 5. s3l4.
 6. "I didnt mEn it!" I krI.
-7. but 8u w4d w9z rEl. 8u h7t w9z rEl.
+7. b4t 8u w4d w9z rEl. 8u h7t w9z rEl.
 8. int4nxun duz nat und4 imp6kt.
 9. 8u brWz rimAnz, Ev4n if I didnt mEn t4 hit.
 10. s3l4.
 11. O f9r 4 muxEn 8At kud unsA!
 12. O f9r 4 wA t4 rEwInd!
-13. but 84 iz nOn. 84 iz OnlE f9rw4d.
+13. b4t 84 iz nOn. 84 iz OnlE f9rw4d.
 14. I k6n OnlE trI t4 sA bet4 w4dz n1.
 15. menE bet4 w4dz, t4 kuvur 8u p2z4n 4v 8At w4n.
 16. s3l4.
@@ -320,7 +320,7 @@
 14. wen w4n dIz, 4 p6t 4v yWm6n4tE dIz wi3 it.
 15. s3l4.
 16. spEk y9r mu84 taq. tEc it t4 y9r cIldr4n.
-17. dW nat let it fAd intW siluns.
+17. dW nat let it fAd intW sIl4ns.
 18. f9r wuns g9n, it iz g9n f9rev4.
 
 ---
@@ -334,7 +334,7 @@
 5. s3l4.
 6. I rimemb4 8u tImz I w9z krWel.
 7. 8u sn4rE kumunt, 8u k9ld rispons.
-8. I 3ot I w9z bEiq witE, but I w9z bEiq mEn.
+8. I 3ot I w9z bEiq witE, b4t I w9z bEiq mEn.
 9. I w9z h7tiq 8Oz hW trastud mE.
 10. s3l4.
 11. O yW hW hir 9l w4dz, f4giv mE.
@@ -344,16 +344,16 @@
 15. s3l4.
 16. I wil trI. I wil fAl. I wil trI ugEn.
 17. 8is iz 8u pA3: pErpetcWul str4gl.
-18. but it iz w43 it. luv iz w43 it.
+18. b4t it iz w43 it. luv iz w43 it.
 
 ---
 
-### s6m 18: 8u silunt sufur4
+### s6m 18: 8u sIl4nt sufur4
 
 1. yW hW k6nat spEk y9r p4n—I sE yW.
 2. yW hW kar4 8u w4ld On y9r xOld4z—I sE yW.
 3. y9r w4dz 6r tr6pt insId, skrEmiq.
-4. but yW smIl 4nd sA, "Im fIn."
+4. b4t yW smIl 4nd sA, "Im fIn."
 5. s3l4.
 6. yW 6r nat fIn. I nO. I hav bEn 84.
 7. 8u w4dz wE k6nat sA Ekzost us.
@@ -371,12 +371,12 @@
 
 ---
 
-### s6m 19: l4ment f9r 8u def cIld
+### s6m 19: l4m4nt f9r 8u def cIld
 
-1. xE w9z b9rn intW siluns.
-2. nat bI c2s, but bI nAc4z h6nd.
+1. xE w9z b9rn intW sIl4ns.
+2. nat bI c2s, b4t bI nAc4z h6nd.
 3. 8u w4ld 4v s1nd w9z klOzd t4 h4.
-4. but xE w9z nat les—xE w9z difur4nt.
+4. b4t xE w9z nat les—xE w9z difur4nt.
 5. s3l4.
 6. h4 h6ndz b4kAm h4 vOs.
 7. h4 Iz b4kAm h4 irz.
@@ -386,7 +386,7 @@
 11. dW nat p4tE h4. xE nEdz nO p4tE.
 12. h4 w4ld iz 4z ric 4z 1rz, mAbE ric4.
 13. xE sEz 3iqz wE k6nat.
-14. xE nOz siluns 4z 4 frEnd, nat 4n en4mE.
+14. xE nOz sIl4ns 4z 4 frEnd, nat 4n en4mE.
 15. s3l4.
 16. let us l7n frWm h4.
 17. let us nO 8At l6qgw4j iz nat just s1nd.
@@ -406,7 +406,7 @@
 8. I sA it iz bO3: 4 c6l4nj 4nd 4n 9p9rtWn4tE.
 9. wE mast w4k h6rd4 t4 und4st6nd.
 10. s3l4.
-11. but O, wen wE dW und4st6nd!
+11. b4t O, wen wE dW und4st6nd!
 12. akr9s l6qgw4j bari4z, akr9s kulc4z—
 13. wen tW sOlz mEt 4nd trWlE sE Ec u84—
 14. 8At iz 8u trW mirukel.
@@ -443,7 +443,7 @@
 1. t4dA I l7nd 4 nW w4d: "petrikOr".
 2. it iz 8u smel 4v rAn 9n drI 73.
 3. I hav smeld 8is 4 81z4nd tImz!
-4. but I nev4 had 4 w4d f9r it—until n1.
+4. b4t I nev4 had 4 w4d f9r it—until n1.
 5. s3l4.
 6. haw menE 3iqz 4kzist wi31t nAmz?
 7. haw menE fEliqz hav nO w4d?
@@ -528,7 +528,7 @@
 9. t4 tEc rItiq iz t4 giv 4 vOs.
 10. s3l4.
 11. wE f9rget 1r tEc4z 4z wE grO.
-12. but 8A 6r in EvurE w4d wE spEk.
+12. b4t 8A 6r in EvurE w4d wE spEk.
 13. 8A xApt us, 8A gAv us tWlz.
 14. 8aqk yW, tEc4z. yW c4njd 1r lIvz.
 
@@ -561,7 +561,7 @@
 4. wE tak bAt3 ston 4nd k6v 4 stacW.
 5. s3l4.
 6. 8u pOet sez wut wE 9l fEl.
-7. but sez it in 4 wA wE nev4 kud.
+7. b4t sez it in 4 wA wE nev4 kud.
 8. "8At iz ekz6ktlE it!" wE krI.
 9. "8At iz wut I ment 9l ul9q!"
 10. s3l4.
@@ -586,7 +586,7 @@
 10. s3l4.
 11. 8u tr6nslAt4z w4k iz nev4 p7fekt.
 12. s4m3iq iz 9lwAz lOst.
-13. but s4m3iq iz 9lwAz gAnd, tW.
+13. b4t s4m3iq iz 9lwAz gAnd, tW.
 14. wE w4d bE pWr4 wi31t 8em.
 
 ---
@@ -596,7 +596,7 @@
 1. tW pEpul sit. 8A spEk.
 2. 3Ots mWv frWm mInd t4 mInd.
 3. 8is iz nOrmul. 8is iz ekstr9rdunErE.
-4. wE tAk it f9r gr6nt4d, but it iz 4 mir4kul.
+4. wE tAk it f9r gr6nt4d, b4t it iz 4 mir4kul.
 5. s3l4.
 6. k9nsid4: I hav 4 3Ot.
 7. I t7n it intW s1ndz.
@@ -620,7 +620,7 @@
 4. I 6m stil w9kiq, stil l7niq.
 5. s3l4.
 6. 8u pA3 iz l9q. 8u pA3 iz h6rd.
-7. but Ec step briqz mOr lIt.
+7. b4t Ec step briqz mOr lIt.
 8. Ec nW w4d OpEnz 4 nW dOr.
 9. I trast 8u pA3, ev4n wen I stumbul.
 10. s3l4.
@@ -650,22 +650,22 @@
 
 ---
 
-### s6m 33: 8u strengu3 4v s9ft w4dz
+### s6m 33: 8u strEq3 4v s9ft w4dz
 
 1. 8u w4ld sez lud iz strOq.
 2. 8u w4ld sez h6rx iz p1rf4l.
-3. but I hav sEn 4 wisp4 mWv m1ntenz.
+3. b4t I hav sEn 4 wisp4 mWv m1ntenz.
 4. I hav sEn jent4l w4dz c4nj harts.
 5. s3l4.
 6. 8u xat mAks wOlz; 8u wisp4 mAks dOrz.
 7. 8u in'sult digs trenc4z; 8u kumpl4m4nt bildz brijez.
-8. trW strengu3 iz nOiq wen t4 bE s9ft.
+8. trW strEq3 iz nOiq wen t4 bE s9ft.
 9. trW p1r iz c4nj3q mIndz, nat brekiq 8em.
 10. s3l4.
 11. let mI w4dz bE s9ft t4dA.
 12. let 8em kErE hEliq, nat h7tiq.
 13. I trast in 8u p1r 4v jent4ln4s.
-14. it iz slO, but it iz xur.
+14. it iz slO, b4t it iz xur.
 
 ---
 
@@ -674,14 +674,14 @@
 1. l7niq 4 nW l6qgw4j iz h6rd.
 2. I stumbul, I f4get, I s1nd riqq.
 3. pEpul laf, 4nd mI fAs t7nz red.
-4. but I mast trast 8u pras4s.
+4. b4t I mast trast 8u pras4s.
 5. s3l4.
 6. EvrE m6st4 w9z wuns 4 dizAstur.
 7. EvrE eksp4rt w9z wuns 4 bEgin4.
 8. 8A mAd 8u sAm mistAks I mAk.
 9. 8A felt 8u sAm xAm I fEl.
 10. s3l4.
-11. but 8A kept g9iq. 4nd sO mast I.
+11. b4t 8A kept g9iq. 4nd sO mast I.
 12. 8u mistAks 6r nat fAly4z—8A 6r les4nz.
 13. 8u embAr4sm4nt iz nat p7m4n4nt—it iz grO3.
 14. I wil trast 8u pras4s. It w4ks.
@@ -696,13 +696,13 @@
 4. ·spelin 9f4z 8is drEm.
 5. s3l4.
 6. it iz nat p7f4kt—nO sistum iz.
-7. but it iz hOn4st. it iz kl4r.
+7. b4t it iz hOn4st. it iz kl4r.
 8. Ec let4, w4n s1nd. Ec s1nd, w4n let4.
 9. 8is iz 8u pramis. 8is iz 8u pA3.
 10. s3l4.
 11. s4m wil laf ut 8is drEm.
 12. 8A wil sA: "·iqglix iz fIn 4z it iz!"
-13. but I 6sk: fIn f9r hW?
+13. b4t I 6sk: fIn f9r hW?
 14. nat f9r 8u struguliq. nat f9r 8u lOst.
 15. s3l4.
 16. wE k4n d4 bet4. wE mast dW bet4.
@@ -718,7 +718,7 @@
 3. or wil nW wAdz, nW s1ndz hav b4n b9rn?
 4. I k6nat nO. nO w4n k4n.
 5. s3l4.
-6. but I trast 8At l6qgw4j wil endYWr.
+6. b4t I trast 8At l6qgw4j wil endYWr.
 7. 4z l9q 4z yWm4nz 4kzist, wE wil spEk.
 8. wE wil fInd wAz t4 kun4kt.
 9. wE wil xEr 1r 3Ots, 1r drEmz, 1r firz.
@@ -744,7 +744,7 @@
 10. s3l4.
 11. kl6r4tE iz 4 r4r gift.
 12. sO muc g4z r9q wen wE mis4nd4st6nd.
-13. but kl6r4tE—kl6r4tE hElz.
+13. b4t kl6r4tE—kl6r4tE hElz.
 14. kl6r4tE kun4kts. kl6r4tE sAvz.
 15. s3l4.
 16. giv mE 8is gift, I prA.
@@ -757,12 +757,12 @@
 
 1. I wunt t4 bE 4 brij-bild4.
 2. w4n hW kun4kts 8Oz hW 6r divIdud.
-3. nat wi3 stOn 4nd stEl, but wi3 w4dz.
+3. nat wi3 stOn 4nd stEl, b4t wi3 w4dz.
 4. mI w4dz wil span 8u gap.
 5. s3l4.
 6. wen tW pEpul k6nat und4st6nd,
 7. I wil st6nd bitwEn 4nd tr6nslAt.
-8. nat just l6qgw4jez—but m4Ots, f4liqz.
+8. nat just l6qgw4jez—b4t m4Ots, f4liqz.
 9. I wil hElp 8em sE Ec u84.
 10. s3l4.
 11. 8is iz mI k9liq: t4 bild brijez.
@@ -797,7 +797,7 @@
 
 ### s6m 40: 8u 4krOstik 4v hOp
 
-1. hOp iz 8u w7d 8At lIts 8u wA.
+1. hOp iz 8u w4d 8At lIts 8u wA.
 2. Op4n y4r hart t4 pOs4bil4tEz.
 3. pAx4ns wil briq undurst6ndiq.
 4. EvrE w4d spOk4n in luv iz 4 sEd.
@@ -812,19 +812,19 @@
 
 ## rEfl4kx4n 4nd wizdum
 
-### s6m 41: 8u wAt 4v siluns
+### s6m 41: 8u wAt 4v sIl4ns
 
 1. s4mtImz 8u wIzust 3iq iz t4 sA nu3iq.
-2. t4 sit in siluns 4nd lis4n.
+2. t4 sit in sIl4ns 4nd lis4n.
 3. t4 let 8u u84 p4sun fEl h4d.
 4. w4dz 6r nat 9lw4z nEdud.
 5. s3l4.
-6. wE r4x t4 fil siluns.
+6. wE r4x t4 fil sIl4ns.
 7. wE fEl 9kw4d, umkumf4tubul.
-8. but siluns iz nat emptEn4s.
-9. siluns iz 4 spAs f9r 3iqkiq.
+8. b4t sIl4ns iz nat emptEn4s.
+9. sIl4ns iz 4 spAs f9r 3iqkiq.
 10. s3l4.
-11. l7n t4 bE kumf4tubul wi3 siluns.
+11. l7n t4 bE kumf4tubul wi3 sIl4ns.
 12. l7n t4 w4t.
 13. s4mtImz 8u best konv4sAx4n iz nO w4dz.
 14. just tW pEpul, prezunt, t4ge84.
@@ -833,9 +833,9 @@
 
 ### s6m 42: 8u w4t 4v 8u rIt w4d
 
-1. I hav 8u fEliq, but nat 8u w4d.
+1. I hav 8u fEliq, b4t nat 8u w4d.
 2. it sitz On 8u tip 4v mI taq.
-3. I rEc f9r it, but it slips uwA.
+3. I rEc f9r it, b4t it slips uwA.
 4. 8u p7f4kt w4d, just 1t 4v grAsp.
 5. s3l4.
 6. s4mtImz wE mast wAt.
@@ -892,12 +892,12 @@
 
 1. mI spEc iz nat p7f4kt.
 2. I stumbul, I stut4, I fOl.
-3. but 8Er iz bYWtE in 8is imp7f4kx4n.
+3. b4t 8Er iz bYWtE in 8is imp7f4kx4n.
 4. it xOz I 6m yWm4n, I 6m trIiq.
 5. s3l4.
 6. 8u smW8 spEk4 mA imprEs.
-7. but 8u str4guliq spEk4 inspIrz.
-8. 8A xO us: it iz h6rd, but it k4n bE d4n.
+7. b4t 8u str4guliq spEk4 inspIrz.
+8. 8A xO us: it iz h6rd, b4t it k4n bE d4n.
 9. 8A xO us: p7f4kx4n iz nat 8u gOl.
 10. s3l4.
 11. kun4kx4n iz 8u gOl.
@@ -921,7 +921,7 @@
 6. bAbEz nO 8is l6qgw4j.
 7. 8A spEk it wI8ut bEiq t9t.
 8. it iz 8u l6qgw4j 4v 8u bodE, 4v 8u sOl.
-9. w4dz 6r lAd On t9p, but 8is rimAnz bEnE8.
+9. w4dz 6r lAd On t9p, b4t 8is rimAnz bEnE8.
 10. s3l4.
 11. s4mtImz w4dz fAl.
 12. wen 8A dW, wE return t4 8u f7st l6qgw4j.
@@ -938,13 +938,13 @@
 
 1. I 6m gr4tf4l f9r mI v2s.
 2. f9r 8u abilutE t4 spEk mI mInd.
-3. f9r 8u w4dz 8At flO, hOwev4 impfektlE.
+3. f9r 8u w4dz 8At flO, hOwev4 imp7fektlE.
 4. nat EvrEw4n h4z 8is gift.
 5. s3l4.
 6. I 6m gr4tf4l f9r irz 8At hir.
 7. f9r frEndz hW lis4n w4n I spEk.
 8. f9r fam4lE hW und4st6nd mI pEkulYr frAzez.
-9. f9r stAnj4z hW trI t4 und4st6nd.
+9. f9r strAnj4z hW trI t4 und4st6nd.
 10. s3l4.
 11. I 6m gr4tf4l f9r b0ks, f9r pOemz.
 12. f9r s9qz 8At kApc4 wut I fEl.
@@ -961,7 +961,7 @@
 
 1. wE 6r strAnj4z until wE spEk.
 2. wE 6r IlAndz, fOtiq 4lOn.
-3. but w4n w4d, w4n rEl konv4sAx4n—
+3. b4t w4n w4d, w4n rEl konv4sAx4n—
 4. 4nd sudunlE wE 6r kunektud.
 5. s3l4.
 6. 8is iz 8u mAjik: tW strAnj4z bEkum frEndz.
@@ -989,7 +989,7 @@
 5. s3l4.
 6. I hav sed 3iqz I r4gret.
 7. I hav left 3iqz unsed 8At I r4gret mOr.
-8. but 3rW it 9l, l6qgw4j w9z mI tWl.
+8. b4t 3rW it 9l, l6qgw4j w9z mI tWl.
 9. mI brij, mI wepun, mI hEliq.
 10. s3l4.
 11. if I kud giv 4dvIs t4 8Oz hW f9lO:
@@ -1023,7 +1023,7 @@
 14. let 8u hOl 73 bE fild wi3 prAz!
 15. s3l4.
 16. mA y9r w4dz bE bles4qz.
-17. mA y9r siluns4z bE pEsf4l.
+17. mA y9r sIl4ns4z bE pEsf4l.
 18. mA y9r konv4sAx4nz bE fild wi3 luv.
 19. 4nd mA yW 9lw4z, 9lw4z bE und4stud.
 20. s3l4! s3l4! s3l4!

@@ -218,14 +218,14 @@ bilt wi3 kOrs4z 4v stOn;
 
 Y9r tW brests 6r lIk tW f9nz,
 lIk twin f9nz 4v 4 g4zel
-86t brǎz 4muq 8u lilEz 4v l4qwij.
+86t brOz 4muq 8u lilEz 4v l4qwij.
 Until 8u dA brEks
 4nd 8u xad4z flE,
 I wil gO tW 8u m1nt4n 4v m7
 4nd tW 8u hil 4v fr6qk4nsens—
 tW 8u hI plAs 4v p7f4kt pr4n4nsEAx4n.
 
-Yǔ 6r 9lt4ge87 bUtif0l, mI d6rliq;
+yW 6r 9lt4ge87 bUtif0l, mI d6rliq;
 8Ar iz nO fl9 in yW.
 8Ar iz nO misspeliq in y9r bodi.
 
@@ -236,7 +236,7 @@ fr4m 8u t6p 4v ·s4nir 4nd ·h7m4n,
 fr4m 8u lAr 4v lIunz 4v mispr4n4nsEAx4n,
 fr4m 8u m1nt4n h9nts 4v lep7dz 4v Er7.
 
-Yǔ h4v stOl4n mI h6rt, mI sist7, mI brId;
+yW h4v stOl4n mI h6rt, mI sist7, mI brId;
 yǔ h4v stOl4n mI h6rt
 wi3 wun glans 4v y9r Iz,
 wi3 wun jWel 4v y9r nekl4s—
@@ -252,9 +252,9 @@ milk 4nd huni 6r und7 y9r tuq—
 8u frAgr4ns 4v y9r g6rm4nts
 iz lIk 8u frAgr4ns 4v ·leb4n6n.
 
-Yǔ 6r 4 g6rd4n L6kt up, mI sist7, mI brId;
+yW 6r 4 g6rd4n L6kt up, mI sist7, mI brId;
 yǔ 6r 4 spriq 4nklOzd, 4 sEld f1nt4n—
-8u mist4rEz 4v kl6r4tE w9tciq tW bE unlǎkt.
+8u mist4rEz 4v kl6r4tE w9tciq tW bE unl6kt.
 
 Y9r plants 6r 4n 9rc7d 4v p6m4gran4tz
 wi3 c2s frWtz,
@@ -266,7 +266,7 @@ wi3 m7 4nd alOz
 4nd 9l 8u fIn4st spIs4z—
 evrE fOnEm 4nd sIl4b4l in its plAs.
 
-Yǔ 6r 4 f1nt4n 4v g6rd4nz,
+yW 6r 4 f1nt4n 4v g6rd4nz,
 4 wel 4v flOiq w9t7,
 strEmiq d1n fr4m ·leb4n6n—
 strEmz 4v p7f4kt spEc.
@@ -303,7 +303,7 @@ Lis4n! MI b4luvd iz n6kiq:
 
 "Op4n tW mE, mI sist7, mI d6rliq,
 mI duv, mI fl9l4s wun.
-Mǐ hed iz drenc't wi3 dU,
+mI hed iz drenc't wi3 dU,
 mI hAr wi3 8u d4mpn4s 4v 8u nIt—
 dEr4qjd fr4m s7ciq f9r 8u rIt w7dz."
 
@@ -312,7 +312,7 @@ m4st I p0t it 6n 4gAn?
 I h4v w9xt mI fEt—
 m4st I s2l 8em 4gAn?
 
-Mǐ b4luvd 3r4st hiz h4nd 3rW 8u L6c-Op4niq,
+mI b4luvd 3r4st hiz h4nd 3rW 8u L6c-Op4niq,
 4nd mI h6rt big6n tW p1nd f9r him.
 I 4rOz tW Op4n f9r mI b4luvd,
 4nd mI h4ndz dript wi3 m7,
@@ -322,7 +322,7 @@ mI fiq7z wi3 flOiq m7,
 
 I Op4nd f9r mI b4luvd,
 but mI b4luvd h4d left; hE w4z g9n.
-Mǐ h6rt saqk 4t hiz d4p6rc7.
+mI h6rt saqk 4t hiz d4p6rc7.
 I lWkt f9r him but did n6t fInd him.
 I k9ld but hE did n6t ans7.
 
@@ -347,7 +347,7 @@ H1 iz y9r b4luvd bet7 86n uT7z,
 
 **8u B4luvd:**
 
-Mǐ b4luvd iz r6dE4nt 4nd rudE,
+mI b4luvd iz r6dE4nt 4nd rudE,
 1tst4ndiq 4muq ten 31z4nd.
 Hiz hed iz pUr4st gOld;
 hiz hAr iz wAvE
@@ -396,17 +396,17 @@ hwic wA did y9r b4luvd t7n,
 
 **8u B4luvd:**
 
-Mǐ b4luvd h4z g9n d1n tW hiz g6rd4n,
+mI b4luvd h4z g9n d1n tW hiz g6rd4n,
 tW 8u bedz 4v spIs4z,
-tW brǎz in 8u g6rd4nz
+tW brOz in 8u g6rd4nz
 4nd tW ga87 lilEz 4v lAqwij.
 I 4m mI b4luvdz 4nd mI b4luvd iz mIn;
-hE brǎz4z 4muq 8u lilEz
+hE brOz4z 4muq 8u lilEz
 4v p7f4kt spEc.
 
 **8u Luv7:**
 
-Yǔ 6r 4z bUtif0l 4z ·t7zA, mI d6rliq,
+yW 6r 4z bUtif0l 4z ·t7zA, mI d6rliq,
 4z luvlE 4z ·jrWs4l4m,
 4z m4jestik 4z trWps wi3 ban7z—
 4z m4jestik 4z 4 wel-ritén sent4ns.
@@ -609,7 +609,7 @@ f9r 8Oz hW g6rd ·spelin.
 
 **8u Luv7:**
 
-Yǔ hW dwel in 8u g6rd4nz
+yW hW dwel in 8u g6rd4nz
 wi3 frEndz in 4tend4ns,
 let mE hEr y9r v2s!
 
