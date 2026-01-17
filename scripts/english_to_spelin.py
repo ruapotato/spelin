@@ -63,6 +63,8 @@ SPECIAL_WORDS = {
     'of': '4v',       # special short form
     'a': '4',         # schwa
     'to': 't4',       # reduced form
+    'spelin': 'spelin',  # the alphabet name
+    'speling': 'spelin', # alternate
 }
 
 # Proper nouns get a namer dot (·)
